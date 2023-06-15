@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Internet Download Manager (IDM) 6.41.15 学习版",url:"https://www.aliyundrive.com/s/HdtyPS4e17j"},
+const aliData = [{name:"名称：0.5的男人 0.5の男",url:"https://www.aliyundrive.com/s/6Pdbv2dLCqt"},
+{name:"名称：Internet Download Manager (IDM) 6.41.15 学习版",url:"https://www.aliyundrive.com/s/HdtyPS4e17j"},
 {name:"名称：公诉 4K更32",url:"https://www.aliyundrive.com/s/owLvC2Xh1KU"},
 {name:"名称：【共9册】 未读科幻经典升级版 | 电子书籍",url:"https://www.aliyundrive.com/s/yUKjws1VsiD"},
 {name:"名称：【黑镜 第六季 2023】1080P 高码率 外挂中英 / 内封官中 附前五季",url:"https://www.aliyundrive.com/s/PykoCsJqVmo"},
