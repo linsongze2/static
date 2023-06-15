@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：AI未来进行式",url:"https://www.aliyundrive.com/s/ngUjdiaUaLC"},
+const aliData = [{name:"名称：玩转算法系列--图论精讲（Java版）",url:"https://www.aliyundrive.com/s/SZEjSKhSNnh"},
+{name:"名称：AI未来进行式",url:"https://www.aliyundrive.com/s/ngUjdiaUaLC"},
 {name:"名称：考虫雅思课程 2023年 寒假班",url:"https://www.aliyundrive.com/s/yt71sgnxLX1"},
 {name:"名称：黑镜 Black Mirror S06 2160p HDR 内封简英 &amp; 繁英双语 附1-5 1080p 外挂",url:"https://www.aliyundrive.com/s/CNhwEf6nC6C"},
 {name:"名称：报告合集",url:"https://www.aliyundrive.com/s/2mQyLE4NRdn"},
