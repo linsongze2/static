@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：异星灾变 两季全✨【1080p.SDR】【WEB-DL】",url:"https://www.aliyundrive.com/s/ikEYYjihDYp"},
+const aliData = [{name:"名称：UI设计师--全链路实战班11期",url:"https://www.aliyundrive.com/s/6EZE4ngF1b3"},
+{name:"名称：异星灾变 两季全✨【1080p.SDR】【WEB-DL】",url:"https://www.aliyundrive.com/s/ikEYYjihDYp"},
 {name:"名称：不灭神王 更新10集",url:"https://www.aliyundrive.com/s/TobgjUSCcxG"},
 {name:"名称：铳墓 (2003) 1080P 日英双音轨，默认英语&nbsp; 中字外挂字幕",url:"https://www.aliyundrive.com/s/LywD4FQ55fA"},
 {name:"名称：美国派（American Pie）系列",url:"https://www.aliyundrive.com/s/XqH8p7V1KTg"},
