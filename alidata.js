@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【岂牛学堂】保险实战训练营",url:"https://www.aliyundrive.com/s/hdzq9BohgcH"},
+const aliData = [{name:"名称：【马士兵教育】AI人工智能工程师第1期",url:"https://www.aliyundrive.com/s/Ugk9TA2AcSJ"},
+{name:"名称：【岂牛学堂】保险实战训练营",url:"https://www.aliyundrive.com/s/hdzq9BohgcH"},
 {name:"名称：汪汪队立大功 国语 1-9季 新增某酷4K 第9季",url:"https://www.aliyundrive.com/s/BBLqimoFJyv"},
 {name:"名称：惊天营救2(2023) 4K HDR 中字内嵌字幕",url:"https://www.aliyundrive.com/s/Di9Fpd85HsZ"},
 {name:"名称：【唐奇财税】金珊老师：《老板财税必修课》",url:"https://www.aliyundrive.com/s/pDGYmA4Gjmu"},
