@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：最后生还者重制版 豪华中文纯净版 v1.1.0+全DLC+单独学习补丁+全解锁存档+修改器+赠品 支持手柄 解压即玩",url:"https://www.aliyundrive.com/s/P2yKzBS3NJt"},
+const aliData = [{name:"名称：【深蓝学院】激光SLAM理论与实践",url:"https://www.aliyundrive.com/s/QpoGKWmynvN"},
+{name:"名称：收获日2 豪华中文 v1.139.193",url:"https://www.aliyundrive.com/s/zLT67jgjfR3"},
+{name:"名称：双点医院 豪华中文收藏版 v1.29.52-国语配音",url:"https://www.aliyundrive.com/s/vdRdbWNaryT"},
+{name:"名称：最后生还者重制版 豪华中文纯净版 v1.1.0+全DLC+单独学习补丁+全解锁存档+修改器+赠品 支持手柄 解压即玩",url:"https://www.aliyundrive.com/s/P2yKzBS3NJt"},
 {name:"名称：《泰坦陨落2》收藏版 全DLC+通关存档+修改器 支持手柄 解压即玩",url:"https://www.aliyundrive.com/s/ZscRAvVunZV"},
 {name:"名称：九龙秘藏 (2023) 4K",url:"https://www.aliyundrive.com/s/p4wwSyL4uFW"},
 {name:"名称：夏日奇妙书 (2023) 1080/4K 更10",url:"https://www.aliyundrive.com/s/uqBmZnQj49P"},
