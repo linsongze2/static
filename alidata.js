@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：完美世界 4K SDR 更115",url:"https://www.aliyundrive.com/s/AXf6GZ6BZHA"},
+const aliData = [{name:"名称：阿里云盘小白羊@odomu 版本【免解压直装】",url:"https://www.aliyundrive.com/s/H5Dyger2ddL"},
+{name:"名称：完美世界 4K SDR 更115",url:"https://www.aliyundrive.com/s/AXf6GZ6BZHA"},
 {name:"名称：沪江德语 走遍德国 (36G)",url:"https://www.aliyundrive.com/s/suAs37cagBJ"},
 {name:"名称：洗发魔法二合一 (2023) 土耳其喜剧片 1080p 中文字幕",url:"https://www.aliyundrive.com/s/2VMGbhiJQTC"},
 {name:"名称：石纪元 第三季 Dr.STONE NEW WORLD (2023) 更11",url:"https://www.aliyundrive.com/s/R6ph8q86kt1"},
