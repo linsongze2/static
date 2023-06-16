@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：石纪元 第三季 Dr.STONE NEW WORLD (2023) 更11",url:"https://www.aliyundrive.com/s/R6ph8q86kt1"},
+const aliData = [{name:"名称：洗发魔法二合一 (2023) 土耳其喜剧片 1080p 中文字幕",url:"https://www.aliyundrive.com/s/2VMGbhiJQTC"},
+{name:"名称：石纪元 第三季 Dr.STONE NEW WORLD (2023) 更11",url:"https://www.aliyundrive.com/s/R6ph8q86kt1"},
 {name:"名称：【共5册】 张克群建筑杂话系列 | 电子书籍",url:"https://www.aliyundrive.com/s/gXzUYPKnJ7i"},
 {name:"名称：2023年新书-刘润《胜算：用概率思维提高胜算》",url:"https://www.aliyundrive.com/s/BVYcmiZaXu9"},
 {name:"名称：《阿里云盘小白羊》【双版本】【6.14最新版】",url:"https://www.aliyundrive.com/s/cUV1xBdQdfN"},
