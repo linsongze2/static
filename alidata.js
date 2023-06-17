@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：玻璃先生(2019)REMUX 4K",url:"https://www.aliyundrive.com/s/yb2TAU1cdLd"},
+const aliData = [{name:"名称：AI绘画大师班 Midjourney入门到精通",url:"https://www.aliyundrive.com/s/zC596wadkYx"},
+{name:"名称：玻璃先生(2019)REMUX 4K",url:"https://www.aliyundrive.com/s/yb2TAU1cdLd"},
 {name:"名称：奔跑吧 第七季 4k 更新第9期",url:"https://www.aliyundrive.com/s/VT8zSENWVkG"},
 {name:"名称：风雨哈佛路 (2003)",url:"https://www.aliyundrive.com/s/AS9W3rfxh4C"},
 {name:"名称：2023 NBA 总决赛 4K 50fps /1080P 60fps",url:"https://www.aliyundrive.com/s/sjMxEh5ix7B"},
