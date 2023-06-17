@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：全民一起玩Python 基础篇+提高篇",url:"https://www.aliyundrive.com/s/24QQ1g8SbxK"},
+const aliData = [{name:"名称：向往的生活 第七季 (2023) 更0616",url:"https://www.aliyundrive.com/s/B72vG1hBeKu"},
+{name:"名称：行尸走肉：死亡之城 (2023) 1080p 高码率 内封简英 &amp; 繁英双语 更EP01",url:"https://www.aliyundrive.com/s/XBsfz8fz64G"},
+{name:"名称：全民一起玩Python 基础篇+提高篇",url:"https://www.aliyundrive.com/s/24QQ1g8SbxK"},
 {name:"名称：肖生克的救赎",url:"https://www.aliyundrive.com/s/ASYWnzKS9Wo"},
 {name:"名称：怪奇物语 Stranger Things系列 1~4季",url:"https://www.aliyundrive.com/s/mRUyYm8SPrs"},
 {name:"名称：坎大哈陷落 (2023) 2160p HDR DDP5.1 外挂双语 [最新惊悚动作片]",url:"https://www.aliyundrive.com/s/i22N4tPDvp8"},
