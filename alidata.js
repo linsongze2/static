@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：《斗罗大陆》更新至264集（95分钟结局）",url:"https://www.aliyundrive.com/s/gR8NGnq7TR6"},
+const aliData = [{name:"名称：7个经典应用诠释Java算法精髓",url:"https://www.aliyundrive.com/s/TiR5FV4KzdQ"},
+{name:"名称：《斗罗大陆》更新至264集（95分钟结局）",url:"https://www.aliyundrive.com/s/gR8NGnq7TR6"},
 {name:"名称：照亮你 (2023) 1080/4K 全35集超前点映 陈伟霆 章若楠",url:"https://www.aliyundrive.com/s/8qDfxvLKF5W"},
 {name:"名称：火凤燎原 （更新至第9集）",url:"https://www.aliyundrive.com/s/HVrBzjJobVC"},
 {name:"名称：王朝 第一季 (2018) 高分纪录片 1080p 国语中字",url:"https://www.aliyundrive.com/s/gLXc8yqfdhV"},
