@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：向往的生活 第七季 (2023) 更0616",url:"https://www.aliyundrive.com/s/B72vG1hBeKu"},
+const aliData = [{name:"名称：斗罗大陆 更新264（90分钟大结局）",url:"https://www.aliyundrive.com/s/7e6txtX2pQH"},
+{name:"名称：人类的本质 | 电子书籍",url:"https://www.aliyundrive.com/s/y6JXRB2JswW"},
+{name:"名称：向往的生活 第七季 (2023) 更0616",url:"https://www.aliyundrive.com/s/B72vG1hBeKu"},
 {name:"名称：行尸走肉：死亡之城 (2023) 1080p 高码率 内封简英 &amp; 繁英双语 更EP01",url:"https://www.aliyundrive.com/s/XBsfz8fz64G"},
 {name:"名称：全民一起玩Python 基础篇+提高篇",url:"https://www.aliyundrive.com/s/24QQ1g8SbxK"},
 {name:"名称：肖生克的救赎",url:"https://www.aliyundrive.com/s/ASYWnzKS9Wo"},
