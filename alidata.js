@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【共2册】 普莱希特哲学史 | 电子书籍",url:"https://www.aliyundrive.com/s/uZfukTh8Fsi"},
+const aliData = [{name:"名称：弥留之国的爱丽丝中文版漫画",url:"https://www.aliyundrive.com/s/zTyRuFfXqDD"},
+{name:"名称：【共2册】 普莱希特哲学史 | 电子书籍",url:"https://www.aliyundrive.com/s/uZfukTh8Fsi"},
 {name:"名称：7个经典应用诠释Java算法精髓",url:"https://www.aliyundrive.com/s/TiR5FV4KzdQ"},
 {name:"名称：《斗罗大陆》更新至264集（95分钟结局）",url:"https://www.aliyundrive.com/s/gR8NGnq7TR6"},
 {name:"名称：照亮你 (2023) 1080/4K 全35集超前点映 陈伟霆 章若楠",url:"https://www.aliyundrive.com/s/8qDfxvLKF5W"},
