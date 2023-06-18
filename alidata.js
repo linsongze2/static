@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：欢迎来到王之国 (2023) 林允儿-韩剧 首更E01",url:"https://www.aliyundrive.com/s/RCaGpVzibvK"},
+const aliData = [{name:"名称：Python前后端分离开发Vue+Django REST framework实战",url:"https://www.aliyundrive.com/s/oSkiX18ZosR"},
+{name:"名称：欢迎来到王之国 (2023) 林允儿-韩剧 首更E01",url:"https://www.aliyundrive.com/s/RCaGpVzibvK"},
 {name:"名称：风再起时 (2023) 1080p 高码 国粤双音轨 - - 梁朝伟 / 郭富城 最新犯罪动作片",url:"https://www.aliyundrive.com/s/MKVYFKTFzud"},
 {name:"名称：层层恐惧3 豪华中文 v1.2.1.rb95268 支持手柄 解压即玩",url:"https://www.aliyundrive.com/s/bnYoniBx4QK"},
 {name:"名称：镜之边缘：催化剂 豪华中文收藏版 v1.0.3.47248 支持手柄 解压即玩",url:"https://www.aliyundrive.com/s/2a56YSiowTS"},
