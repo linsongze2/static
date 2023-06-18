@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：最美公路 (2018) 纪录片 1080p",url:"https://www.aliyundrive.com/s/2uTsfDhRFyd"},
+const aliData = [{name:"名称：清华大学2023年AIGC发展研究报告1.0版",url:"https://www.aliyundrive.com/s/Kejkg3ERNe5"},
+{name:"名称：体系课-Java工程师 2020版",url:"https://www.aliyundrive.com/s/MqGTBUwzgeU"},
+{name:"名称：最美公路 (2018) 纪录片 1080p",url:"https://www.aliyundrive.com/s/2uTsfDhRFyd"},
 {name:"名称：闪耀的她 [2023]",url:"https://www.aliyundrive.com/s/AJHoWZE8wAk"},
 {name:"名称：公诉 4K更36",url:"https://www.aliyundrive.com/s/owLvC2Xh1KU"},
 {name:"名称：公诉 (2023) 1080/4K HDR 更36 迪丽热巴 佟大为",url:"https://www.aliyundrive.com/s/mhcE73W89tF"},
