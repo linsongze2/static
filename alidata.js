@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：名侦探柯南/名探偵コナン 更至1087集即1145",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
+const aliData = [{name:"名称：生死决 蓝光原盘REMUX [港版 官方画质修复] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/hBkpvDtgSQf"},
+{name:"名称：名侦探柯南/名探偵コナン 更至1087集即1145",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
 {name:"名称：恶魔之地 (2020) 4K HDR &amp; dv 中英外挂字幕",url:"https://www.aliyundrive.com/s/WPk3nBnezmL"},
 {name:"名称：恶魔人：哭泣之子 (2018) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/Xh6zaTNpc6L"},
 {name:"名称：计算机网络通关29讲",url:"https://www.aliyundrive.com/s/pzLU5Fvy1cH"},
