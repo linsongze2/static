@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：恶魔之地 (2020) 4K HDR &amp; dv 中英外挂字幕",url:"https://www.aliyundrive.com/s/WPk3nBnezmL"},
+const aliData = [{name:"名称：名侦探柯南/名探偵コナン 更至1087集即1145",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
+{name:"名称：恶魔之地 (2020) 4K HDR &amp; dv 中英外挂字幕",url:"https://www.aliyundrive.com/s/WPk3nBnezmL"},
 {name:"名称：恶魔人：哭泣之子 (2018) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/Xh6zaTNpc6L"},
 {name:"名称：计算机网络通关29讲",url:"https://www.aliyundrive.com/s/pzLU5Fvy1cH"},
 {name:"名称：中国大学专业排名报告",url:"https://www.aliyundrive.com/s/VyGusoBAPFp"},
