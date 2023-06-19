@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/KGMw8mZyHPb"},
+const aliData = [{name:"名称：偶像漩涡 The Idol (2023) 更3 美剧",url:"https://www.aliyundrive.com/s/Y3S5G7WA6Xr"},
+{name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/KGMw8mZyHPb"},
 {name:"名称：我的恐怖妻子（豆瓣：9.1）",url:"https://www.aliyundrive.com/s/Pp35oej83Xp"},
 {name:"名称：狗咬狗",url:"https://www.aliyundrive.com/s/pT7a8SDEWDz"},
 {name:"名称：星辰变 第五季 更新17",url:"https://www.aliyundrive.com/s/jh3cdMg5JAC"},
