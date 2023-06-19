@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：鬼灭之刃 锻刀村篇 全11集",url:"https://www.aliyundrive.com/s/CFRg5CMr12p"},
+const aliData = [{name:"名称：鬼灭之刃 锻刀村篇(2023) 1080p+4K 11集完结",url:"https://www.aliyundrive.com/s/fErj1fz72sR"},
+{name:"名称：鬼灭之刃 锻刀村篇 全11集",url:"https://www.aliyundrive.com/s/CFRg5CMr12p"},
 {name:"名称：鬼灭之刃 锻刀村篇 (2023）更新11",url:"https://www.aliyundrive.com/s/9jnwg2Hc3AN"},
 {name:"名称：惊奇的传闻(2020) 内封中字",url:"https://www.aliyundrive.com/s/DSSY8MSRZxe"},
 {name:"名称：【达内教育】Python + 人工智能培训营 - AIDTN2110",url:"https://www.aliyundrive.com/s/VdWcMPGFTwL"},
