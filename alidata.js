@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：百年骗局 (皮诺·阿拉基)",url:"https://www.aliyundrive.com/s/8HUej7vYsNz"},
+const aliData = [{name:"名称：鬼灭之刃 Demon Slayer - Kimetsu no Yaiba (2019) 四季 全刮削",url:"https://www.aliyundrive.com/s/FdHasSoZwTq"},
+{name:"名称：我的世界：传奇 动作战略游戏",url:"https://www.aliyundrive.com/s/GURRREpvfNE"},
+{name:"名称：Python爬虫+Excel/VBA办公自动化",url:"https://www.aliyundrive.com/s/MRH1RfuKr23"},
+{name:"名称：百年骗局 (皮诺·阿拉基)",url:"https://www.aliyundrive.com/s/8HUej7vYsNz"},
 {name:"名称：去依附[温铁军, 董筱丹]",url:"https://www.aliyundrive.com/s/VKcEsocPPC9"},
 {name:"名称：2023年6月教育元宇宙发展研究报告",url:"https://www.aliyundrive.com/s/VdiwjaWqdMa"},
 {name:"名称：搞定Java大厂项目面试 轻松打动面试官",url:"https://www.aliyundrive.com/s/ZQMHc9Rz7e1"},
