@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：香农传The Bit Player",url:"https://www.aliyundrive.com/s/SMMQKo3B1r1"},
+const aliData = [{name:"名称：AIMP (音频播放器) v5.11.2432 官方版+皮肤",url:"https://www.aliyundrive.com/s/S87qnrQ4xL6"},
+{name:"名称：香农传The Bit Player",url:"https://www.aliyundrive.com/s/SMMQKo3B1r1"},
 {name:"名称：沉默的真相 S1(2021) 4K",url:"https://www.aliyundrive.com/s/Fg2xXr8PSM1"},
 {name:"名称：信号（豆瓣：9.2）",url:"https://www.aliyundrive.com/s/5xg8GiEFEzj"},
 {name:"名称：重版出来（豆瓣：9.2）",url:"https://www.aliyundrive.com/s/ZrT9EBrZY5K"},
