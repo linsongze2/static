@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：长风渡[2023] 更新8集",url:"https://www.aliyundrive.com/s/3ptUcxYFBWw"},
+const aliData = [{name:"名称：照亮你 (2023) 1080/4K HDR 全36集 陈伟霆 章若楠",url:"https://www.aliyundrive.com/s/hzaGXNdJi3w"},
+{name:"名称：长风渡[2023] 更新8集",url:"https://www.aliyundrive.com/s/3ptUcxYFBWw"},
 {name:"名称：敦刻尔克 Dunkirk （刮削 原盘）",url:"https://www.aliyundrive.com/s/MnCsvXZqVpZ"},
 {name:"名称：亚瑟王：斗兽争霸 4K原盘REMUX [HDR] [国英双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/LQpb5KQWz7z"},
 {name:"名称：长风渡 (2023) 1080/4K 更8 白敬亭 宋轶",url:"https://www.aliyundrive.com/s/AjP5ujhDyN1"},
