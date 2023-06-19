@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：勋哥：抖音短视频快速起号、投放运营课",url:"https://www.aliyundrive.com/s/SSv8SakwXgR"},
+const aliData = [{name:"名称：这是罪 It's A Sin",url:"https://www.aliyundrive.com/s/q5W9mQg8hnT"},
+{name:"名称：今生也请多指教 이번 생도 잘 부탁해 (2023) 更2",url:"https://www.aliyundrive.com/s/fQxprnpqN8w"},
+{name:"名称：勋哥：抖音短视频快速起号、投放运营课",url:"https://www.aliyundrive.com/s/SSv8SakwXgR"},
 {name:"名称：早间新闻 The Morning Show (2019)",url:"https://www.aliyundrive.com/s/sQUDQrCfRNf"},
 {name:"名称：Java开发企业级权限管理系统",url:"https://www.aliyundrive.com/s/zMNoqM6TzNz"},
 {name:"名称：名侦探柯南 名探偵コナン (1996) 更1145",url:"https://www.aliyundrive.com/s/MkvgiiwKG8b"},
