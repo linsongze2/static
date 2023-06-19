@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我不好惹2：贝琪之怒 (2023) ",url:"https://www.aliyundrive.com/s/cmhCJpcbgvq"},
+const aliData = [{name:"名称：重版出来（豆瓣：9.2）",url:"https://www.aliyundrive.com/s/ZrT9EBrZY5K"},
+{name:"名称：我不好惹2：贝琪之怒 (2023) ",url:"https://www.aliyundrive.com/s/cmhCJpcbgvq"},
 {name:"名称：鬼灭之刃 锻刀村篇(2023) 1080p+4K 11集完结",url:"https://www.aliyundrive.com/s/fErj1fz72sR"},
 {name:"名称：鬼灭之刃 锻刀村篇 全11集",url:"https://www.aliyundrive.com/s/CFRg5CMr12p"},
 {name:"名称：鬼灭之刃 锻刀村篇 (2023）更新11",url:"https://www.aliyundrive.com/s/9jnwg2Hc3AN"},
