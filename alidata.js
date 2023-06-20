@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：公牛历险记 4K原盘REMUX [HDR] [国粤英三语] [内封简英双字]",url:"https://www.aliyundrive.com/s/r5DGWT9qxPT"},
+const aliData = [{name:"名称：剧集更新 20230620-1",url:"https://www.aliyundrive.com/s/kDS3tiK5SA4"},
+{name:"名称：公牛历险记 4K原盘REMUX [HDR] [国粤英三语] [内封简英双字]",url:"https://www.aliyundrive.com/s/r5DGWT9qxPT"},
 {name:"名称：萨利机长 4K原盘REMUX [HDR] [国英双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/qYwubKW7aYp"},
 {name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/XCCrFjYdEJk"},
 {name:"名称：海底世界(2009) 1080P 中英外挂字幕",url:"https://www.aliyundrive.com/s/kgdqZ6QFkb4"},
