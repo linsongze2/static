@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：河神 全两季✨【1080p.SDR】【2160p.SDR】【原轨】",url:"https://www.aliyundrive.com/s/ZxfiDPmUDDR"},
+const aliData = [{name:"名称：I''s Pure (2005)",url:"https://www.aliyundrive.com/s/dkCW1puWZtQ"},
+{name:"名称：河神 全两季✨【1080p.SDR】【2160p.SDR】【原轨】",url:"https://www.aliyundrive.com/s/ZxfiDPmUDDR"},
 {name:"名称：深入Node.js技术栈",url:"https://www.aliyundrive.com/s/e331YUqEi27"},
 {name:"名称：曼谷风云 4k",url:"https://www.aliyundrive.com/s/H4yrmnCcwMc"},
 {name:"名称：来活了兄弟 (2023) 更0620 陈楚生/苏醒/王栎鑫",url:"https://www.aliyundrive.com/s/4Rr2N4rnjty"},
