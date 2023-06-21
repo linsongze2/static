@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：全球化与国家竞争：新兴七国比较研究温铁军",url:"https://www.aliyundrive.com/s/Mx1wCDDf4eC"},
+const aliData = [{name:"名称：清潭国际高中 청담제국고등학교 (2023) 更8",url:"https://www.aliyundrive.com/s/MurtPmvToJD"},
+{name:"名称：全球化与国家竞争：新兴七国比较研究温铁军",url:"https://www.aliyundrive.com/s/Mx1wCDDf4eC"},
 {name:"名称：哈尔的移动城堡（豆瓣9.1）",url:"https://www.aliyundrive.com/s/pVqNMm7PHTN"},
 {name:"名称：文化伟人代表作图释书系（套装全19册）",url:"https://www.aliyundrive.com/s/bZBx3zUxHDs"},
 {name:"名称：怪兽公司：4k（豆瓣：8.8）",url:"https://www.aliyundrive.com/s/fLgEp62jx5L"},
