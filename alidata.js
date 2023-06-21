@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：怪兽大学（豆瓣评分：8.3）",url:"https://www.aliyundrive.com/s/jShu88wTntJ"},
+const aliData = [{name:"名称：全栈网络安全进阶精品班",url:"https://www.aliyundrive.com/s/SRqvkD8nbEz"},
+{name:"名称：怪兽大学（豆瓣评分：8.3）",url:"https://www.aliyundrive.com/s/jShu88wTntJ"},
 {name:"名称：有益的欺诈 이로운 사기 (2023) 更8",url:"https://www.aliyundrive.com/s/p9ZNnEiEY7H"},
 {name:"名称：蚂蚁八手王：图形平设",url:"https://www.aliyundrive.com/s/eyEEMeNdmtd"},
 {name:"名称：大话西游之大圣娶亲（豆瓣：9.2）",url:"https://www.aliyundrive.com/s/51HFM7MM1Cf"},
