@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：坏蛋联盟 (2022) 4K SDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/YCDAozgJrAM"},
+const aliData = [{name:"名称：经济师专业技术职称考试资料合集",url:"https://www.aliyundrive.com/s/QAY8VFoGkh6"},
+{name:"名称：坏蛋联盟 (2022) 4K SDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/YCDAozgJrAM"},
 {name:"名称：茶啊二中（1到4季）",url:"https://www.aliyundrive.com/s/PM8goqThpjs"},
 {name:"名称：Python工程师面试宝典 一线大厂资深面试官亲授",url:"https://www.aliyundrive.com/s/e4MBesYibzo"},
 {name:"名称：遮天 (2023) 4K 更10 国漫",url:"https://www.aliyundrive.com/s/fDQqDg9JSV1"},
