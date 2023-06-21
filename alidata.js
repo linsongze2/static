@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：文化伟人代表作图释书系（套装全19册）",url:"https://www.aliyundrive.com/s/bZBx3zUxHDs"},
+const aliData = [{name:"名称：全球化与国家竞争：新兴七国比较研究温铁军",url:"https://www.aliyundrive.com/s/Mx1wCDDf4eC"},
+{name:"名称：哈尔的移动城堡（豆瓣9.1）",url:"https://www.aliyundrive.com/s/pVqNMm7PHTN"},
+{name:"名称：文化伟人代表作图释书系（套装全19册）",url:"https://www.aliyundrive.com/s/bZBx3zUxHDs"},
 {name:"名称：怪兽公司：4k（豆瓣：8.8）",url:"https://www.aliyundrive.com/s/fLgEp62jx5L"},
 {name:"名称：全栈网络安全进阶精品班",url:"https://www.aliyundrive.com/s/SRqvkD8nbEz"},
 {name:"名称：怪兽大学（豆瓣评分：8.3）",url:"https://www.aliyundrive.com/s/jShu88wTntJ"},
