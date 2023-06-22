@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：《新猪猪侠大电影·超级赛车》2023",url:"https://www.aliyundrive.com/s/yGXQnPYtSqL"},
+const aliData = [{name:"名称：七宗罪（豆瓣：8.8）",url:"https://www.aliyundrive.com/s/vVLxRQSExdN"},
+{name:"名称：《新猪猪侠大电影·超级赛车》2023",url:"https://www.aliyundrive.com/s/yGXQnPYtSqL"},
 {name:"名称：《小兵张嘎》全20集（2004）",url:"https://www.aliyundrive.com/s/H7dguQ5kzYQ"},
 {name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/PuzVpmt4g5B"},
 {name:"名称：名侦探柯南剧场版合集",url:"https://www.aliyundrive.com/s/NEvBYzza7fK"},
