@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：了不起的夜晚 (2023) 喜剧片",url:"https://www.aliyundrive.com/s/7VPXhM45BTm"},
+const aliData = [{name:"名称：JavaScript 核心原理精讲",url:"https://www.aliyundrive.com/s/hsaMEGdYE8F"},
+{name:"名称：了不起的夜晚 (2023) 喜剧片",url:"https://www.aliyundrive.com/s/7VPXhM45BTm"},
 {name:"名称：女子推理社 (2023) 10集下 戚薇/张雨绮",url:"https://www.aliyundrive.com/s/yTKVgKaWSdm"},
 {name:"名称：音视频小白系统入门课 音视频基础+ffmpeg原理",url:"https://www.aliyundrive.com/s/hb7DhDxX14U"},
 {name:"名称：美丽中国 (2008) 高分纪录片 1080p [国粤英三音轨 内封特效]",url:"https://www.aliyundrive.com/s/EqbgUst8Jxu"},
