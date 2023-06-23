@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：骷髅岛(2023)",url:"https://www.aliyundrive.com/s/8DRYPHrnYZm"},
+const aliData = [{name:"名称：枪王（豆瓣：8.2）",url:"https://www.aliyundrive.com/s/xLm8aQnPVRu"},
+{name:"名称：骷髅岛(2023)",url:"https://www.aliyundrive.com/s/8DRYPHrnYZm"},
 {name:"名称：命运之夜——天之杯1-3",url:"https://www.aliyundrive.com/s/sc4ZvMBJirm"},
 {name:"名称：淘宝基础销量实战",url:"https://www.aliyundrive.com/s/xovETDmn9Me"},
 {name:"名称：密室大逃脱 第五季 (2023) 更0622",url:"https://www.aliyundrive.com/s/13wpUyW5Eim"},
