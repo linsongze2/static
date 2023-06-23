@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：上帝之城（豆瓣：9.0）",url:"https://www.aliyundrive.com/s/LhExB4pLEgf"},
+const aliData = [{name:"名称：不良执念清除师 不良執念清除師 (2023)",url:"https://www.aliyundrive.com/s/HYSVvLADTXM"},
+{name:"名称：上帝之城（豆瓣：9.0）",url:"https://www.aliyundrive.com/s/LhExB4pLEgf"},
 {name:"名称：杀人回忆（豆瓣：8.9）",url:"https://www.aliyundrive.com/s/ZFYo4ni3UmX"},
 {name:"名称：完美世界 4K SDR 更116",url:"https://www.aliyundrive.com/s/AQSsiwJhFDN"},
 {name:"名称：枪王2:枪王之王",url:"https://www.aliyundrive.com/s/8ommitLVfvz"},
