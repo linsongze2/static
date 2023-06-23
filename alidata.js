@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：猪猪侠系列新增超级赛车 4k60fps",url:"https://www.aliyundrive.com/s/ahV2ZyBmui3"},
+const aliData = [{name:"名称：生死狙击(4k)（豆瓣：7.8）",url:"https://www.aliyundrive.com/s/whfEPCkYpfv"},
+{name:"名称：猪猪侠系列新增超级赛车 4k60fps",url:"https://www.aliyundrive.com/s/ahV2ZyBmui3"},
 {name:"名称：不良执念清除师 不良執念清除師 (2023)",url:"https://www.aliyundrive.com/s/HYSVvLADTXM"},
 {name:"名称：上帝之城（豆瓣：9.0）",url:"https://www.aliyundrive.com/s/LhExB4pLEgf"},
 {name:"名称：杀人回忆（豆瓣：8.9）",url:"https://www.aliyundrive.com/s/ZFYo4ni3UmX"},
