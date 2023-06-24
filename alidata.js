@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：大数据工程师集训营",url:"https://www.aliyundrive.com/s/74SskSETMyh"},
+const aliData = [{name:"名称：萌探探探案 第三季 (2023) 更0624",url:"https://www.aliyundrive.com/s/PZJpf3ambQB"},
+{name:"名称：大数据工程师集训营",url:"https://www.aliyundrive.com/s/74SskSETMyh"},
 {name:"名称：偷偷藏不住 4K60FPS更新10",url:"https://www.aliyundrive.com/s/JEscHW7aKwk"},
 {name:"名称：了不起的夜晚 ✨【2160p.SDR】【原轨.高码率】",url:"https://www.aliyundrive.com/s/sKeV7RbTojj"},
 {name:"名称：高级Redis进阶课 解决Redis实际问题+掌握Redis6.x特性",url:"https://www.aliyundrive.com/s/DqXP972AJnk"},
