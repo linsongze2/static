@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：莫斯科不相信眼泪（豆瓣：8.5）",url:"https://www.aliyundrive.com/s/6EwAVqt8WbK"},
+const aliData = [{name:"名称：中国传媒大学播音主持教程",url:"https://www.aliyundrive.com/s/mRArEf3TTbD"},
+{name:"名称：莫斯科不相信眼泪（豆瓣：8.5）",url:"https://www.aliyundrive.com/s/6EwAVqt8WbK"},
 {name:"名称：美丽人生（豆瓣：9.6）",url:"https://www.aliyundrive.com/s/NPomuT9kFbz"},
 {name:"名称：七个世界，一个星球 (2019) 高分纪录片 1080p 双语字幕 + 电子书",url:"https://www.aliyundrive.com/s/9YrTLnGCzNh"},
 {name:"名称：2023年新书推荐：《孩子不想听，你要如何说》",url:"https://www.aliyundrive.com/s/kYYVjLERmon"},
