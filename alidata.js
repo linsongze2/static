@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：赌博默示录2(2011)",url:"https://www.aliyundrive.com/s/fQeTKQBi1Dy"},
+const aliData = [{name:"名称：2023年新书推荐：《孩子不想听，你要如何说》",url:"https://www.aliyundrive.com/s/kYYVjLERmon"},
+{name:"名称：赌博默示录2(2011)",url:"https://www.aliyundrive.com/s/fQeTKQBi1Dy"},
 {name:"名称：赌博默示录3(2020)",url:"https://www.aliyundrive.com/s/6fiyHZA3VQM"},
 {name:"名称：阿波罗13号(1995)PROPER 4K REMUX",url:"https://www.aliyundrive.com/s/meBZiw7wAyh"},
 {name:"名称：数据思维：让大脑更清醒（共4册）",url:"https://www.aliyundrive.com/s/7G9DF1UcpiM"},
