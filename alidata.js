@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Hello！树先生（豆瓣：8.3）",url:"https://www.aliyundrive.com/s/ZpFNfKqKjkv"},
+const aliData = [{name:"名称：逃学威龙（豆瓣：8.1）",url:"https://www.aliyundrive.com/s/EpLN14WnEEn"},
+{name:"名称：Hello！树先生（豆瓣：8.3）",url:"https://www.aliyundrive.com/s/ZpFNfKqKjkv"},
 {name:"名称：HTTP协议原理+实践 完整案例解析主流技术",url:"https://www.aliyundrive.com/s/uo2pBjc3Wh6"},
 {name:"名称：向往的生活 第七季 (2023) 更0623",url:"https://www.aliyundrive.com/s/uncYmxsktTp"},
 {name:"名称：斗罗大陆2 更新2集",url:"https://www.aliyundrive.com/s/3aQ64SmMYfs"},
