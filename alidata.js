@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：天赐的声音 第四季 (2023) 持续更新",url:"https://www.aliyundrive.com/s/Et9MRMyFY8g"},
+const aliData = [{name:"名称：高级Redis进阶课 解决Redis实际问题+掌握Redis6.x特性",url:"https://www.aliyundrive.com/s/DqXP972AJnk"},
+{name:"名称：天赐的声音 第四季 (2023) 持续更新",url:"https://www.aliyundrive.com/s/Et9MRMyFY8g"},
 {name:"名称：逃学威龙3（豆瓣：7.6）",url:"https://www.aliyundrive.com/s/u9snW46HsyL"},
 {name:"名称：【全8册】 天涯双探 | 电子书籍",url:"https://www.aliyundrive.com/s/gwHx4btLaic"},
 {name:"名称：逃学威龙2（豆瓣：7.9）",url:"https://www.aliyundrive.com/s/HEz2rTK8wPR"},
