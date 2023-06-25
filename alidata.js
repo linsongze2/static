@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：长风渡 (2023) 1080/4K HDR 更20 白敬亭 宋轶",url:"https://www.aliyundrive.com/s/mbomGcTT3SU"},
+const aliData = [{name:"名称：长风渡(2023)古装 白敬亭 更新20集 资源和谐的很快 看到速存~",url:"https://www.aliyundrive.com/s/EHk5ni6fZUj"},
+{name:"名称：长风渡 (2023) 1080/4K HDR 更20 白敬亭 宋轶",url:"https://www.aliyundrive.com/s/mbomGcTT3SU"},
 {name:"名称：闪耀的她 (2023) 1080/4K HDR 更18 秦岚",url:"https://www.aliyundrive.com/s/336uZFAW2hJ"},
 {name:"名称：电击少女 The Power (2023) 12集完结 美剧 科幻 / 犯罪",url:"https://www.aliyundrive.com/s/1CK7Cy2nTZC"},
 {name:"名称：微雨燕双飞 (2023) 4k更新32",url:"https://www.aliyundrive.com/s/Lf4s5bxj8zi"},
