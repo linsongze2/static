@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：心慌方2：超立方体(2002)",url:"https://www.aliyundrive.com/s/h5abg1LFNCX"},
+const aliData = [{name:"名称：斗破苍穹年番 4K 更50",url:"https://www.aliyundrive.com/s/Np6dNpvg5h9"},
+{name:"名称：心慌方2：超立方体(2002)",url:"https://www.aliyundrive.com/s/h5abg1LFNCX"},
 {name:"名称：心慌方·零(2004)外挂中字",url:"https://www.aliyundrive.com/s/gob3T9cs7C8"},
 {name:"名称：黑鸟(2019)REMUX",url:"https://www.aliyundrive.com/s/NQXL9yxc6fw"},
 {name:"名称：意外空间(2014)",url:"https://www.aliyundrive.com/s/cdH7fE1CKjk"},
