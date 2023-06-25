@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：费城故事（豆瓣：8.7）",url:"https://www.aliyundrive.com/s/nc9G5MGWHaP"},
+const aliData = [{name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/Yzmk1RahkSY"},
+{name:"名称：费城故事（豆瓣：8.7）",url:"https://www.aliyundrive.com/s/nc9G5MGWHaP"},
 {name:"名称：ZooKeeper 实战与源码剖析",url:"https://www.aliyundrive.com/s/2HYGaEPuZQR"},
 {name:"名称：海贼王 更1066",url:"https://www.aliyundrive.com/s/z82amAtxAfR"},
 {name:"名称：消失的爱人（2014）8.7高分惊悚悬疑电影",url:"https://www.aliyundrive.com/s/VNRXjWAQLo1"},
