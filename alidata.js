@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：龙珠超：超级人造人 4K原盘REMUX [杜比视界] [国日双语] [内封简日双字]",url:"https://www.aliyundrive.com/s/1Xg2MRWmwbt"},
+const aliData = [{name:"名称：航海王：红发歌姬 4K原盘REMUX [杜比视界] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/CYUWri46J6Z"},
+{name:"名称：龙珠超：超级人造人 4K原盘REMUX [杜比视界] [国日双语] [内封简日双字]",url:"https://www.aliyundrive.com/s/1Xg2MRWmwbt"},
 {name:"名称：欢迎来到王之国 (2023) 林允儿-韩剧 更E03",url:"https://www.aliyundrive.com/s/RCaGpVzibvK"},
 {name:"名称：繁华似锦 4k60fps 首发2集",url:"https://www.aliyundrive.com/s/TdMwzHFf2nq"},
 {name:"名称：名称：费城故事（豆瓣：8.7）",url:"https://www.aliyundrive.com/s/WRsky1QULnn"},
