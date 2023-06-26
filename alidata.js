@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【三节课】运营新人启航计划",url:"https://www.aliyundrive.com/s/NFhSji35PTF"},
+const aliData = [{name:"名称：奇诺之旅 电子书",url:"https://www.aliyundrive.com/s/xxuiUdtLcvF"},
+{name:"名称：【三节课】运营新人启航计划",url:"https://www.aliyundrive.com/s/NFhSji35PTF"},
 {name:"名称：旅行到宇宙边缘 (2008) 高分纪录片 1080p 外挂双语",url:"https://www.aliyundrive.com/s/drkiXNAieAt"},
 {name:"名称：地狱尖兵（2022）俄罗斯超猛战争片 自压特效字幕",url:"https://www.aliyundrive.com/s/9jomV9jZVg4"},
 {name:"名称：爸爸当家 第二季 (2023) 更0626",url:"https://www.aliyundrive.com/s/gSR4XpAstRv"},
