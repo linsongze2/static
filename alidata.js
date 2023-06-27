@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：秦淮八艳（全8本pdf）",url:"https://www.aliyundrive.com/s/9fT5XTFe5j1"},
+const aliData = [{name:"名称：Android 酷我音乐 v10.5.2.2 去广告解锁会员修复下载版",url:"https://www.aliyundrive.com/s/seo5obBSMJD"},
+{name:"名称：秦淮八艳（全8本pdf）",url:"https://www.aliyundrive.com/s/9fT5XTFe5j1"},
 {name:"名称：Android 工程师进阶 34 讲",url:"https://www.aliyundrive.com/s/PLNWUrQmU7v"},
 {name:"名称：uni-app实战仿微信app开发",url:"https://www.aliyundrive.com/s/F7hrdyTgWSH"},
 {name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/PAPnUgagbfo"},
