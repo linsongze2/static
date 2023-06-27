@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：有益的欺诈 (2023) 韩剧 中文字幕 更E09",url:"https://www.aliyundrive.com/s/33YPeSK8KRx"},
+const aliData = [{name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/PAPnUgagbfo"},
+{name:"名称：有益的欺诈 (2023) 韩剧 中文字幕 更E09",url:"https://www.aliyundrive.com/s/33YPeSK8KRx"},
 {name:"名称：【高码第14部】惊天救援[高码版][国语配音/中文字幕]",url:"https://www.aliyundrive.com/s/JjPsBG73GT4"},
 {name:"名称：【高码第15部】蜡笔小新：好别致的影分身[高码版][中文字幕]",url:"https://www.aliyundrive.com/s/ZbeTpDvryVZ"},
 {name:"名称：【高码第16部】了不起的夜晚[高码版][国语配音/中文字幕]",url:"https://www.aliyundrive.com/s/7noNZs9vjUe"},
