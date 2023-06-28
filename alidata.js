@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：劫机七小时 Hijack (2023) 更2",url:"https://www.aliyundrive.com/s/N6WKGWj3G7t"},
+const aliData = [{name:"名称：手机版《死亡笔记》？丨网飞惊悚新剧《永久删除》全8集",url:"https://www.aliyundrive.com/s/FNvQVWtcPYE"},
+{name:"名称：劫机七小时 Hijack (2023) 更2",url:"https://www.aliyundrive.com/s/N6WKGWj3G7t"},
 {name:"名称：女子推理社 (2023) 11集下 戚薇/张雨绮",url:"https://www.aliyundrive.com/s/yTKVgKaWSdm"},
 {name:"名称：怦然心动20岁 第三季 (2023) 更0628",url:"https://www.aliyundrive.com/s/K7Vxx5iUNVP"},
 {name:"名称：南茅北马 4K",url:"https://www.aliyundrive.com/s/E2myPZJhLrJ"},
