@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我推的孩子 【推しの子】 (2023) 11集完结",url:"https://www.aliyundrive.com/s/cUGuKbnT9er"},
+const aliData = [{name:"名称：【高码第26部】西游记之七十二变[高码版][国语配音/中文字幕]",url:"https://www.aliyundrive.com/s/PRyrHAgwESW"},
+{name:"名称：我推的孩子 【推しの子】 (2023) 11集完结",url:"https://www.aliyundrive.com/s/cUGuKbnT9er"},
 {name:"名称：百万英镑（豆瓣：8.3）",url:"https://www.aliyundrive.com/s/UbepY3ccQfL"},
 {name:"名称：神印王座 4K 更61",url:"https://www.aliyundrive.com/s/s29zkDYm5LY"},
 {name:"名称：统计学关我什么事：生活中的极简统计学",url:"https://www.aliyundrive.com/s/q4njCxigtRr"},
