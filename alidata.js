@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：鬼灭之刃 锻刀村 4k 高码率 中日双字幕",url:"https://www.aliyundrive.com/s/9EksGwmUJno"},
+const aliData = [{name:"名称：圣斗士星矢 真人版(2023) 外挂中字",url:"https://www.aliyundrive.com/s/ZrBq59cD78B"},
+{name:"名称：鬼灭之刃 锻刀村 4k 高码率 中日双字幕",url:"https://www.aliyundrive.com/s/9EksGwmUJno"},
 {name:"名称：了不起的中国画 | 电子书籍",url:"https://www.aliyundrive.com/s/VtDXENXEB2g"},
 {name:"名称：密室大逃脱 第五季 (2023) 更0628",url:"https://www.aliyundrive.com/s/BKRTRrpy9KS"},
 {name:"名称：码头风云（豆瓣：7.9）",url:"https://www.aliyundrive.com/s/PyZyC7PiK5f"},
