@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【高码第27部】宇宙护卫队：风暴力量[高码版][国语配音/中文字幕]",url:"https://www.aliyundrive.com/s/A4iWSyT8zwP"},
+const aliData = [{name:"名称：【共12册】 你来人间一趟，你要看看太阳：致孤独的路人 | 电子书籍",url:"https://www.aliyundrive.com/s/CeR5GTDXGKH"},
+{name:"名称：【高码第27部】宇宙护卫队：风暴力量[高码版][国语配音/中文字幕]",url:"https://www.aliyundrive.com/s/A4iWSyT8zwP"},
 {name:"名称：【高码第28部】宇宙探索编辑部[高码版][国语配音/中文字幕]",url:"https://www.aliyundrive.com/s/MQjQQWLLc6A"},
 {name:"名称：【高码第26部】西游记之七十二变[高码版][国语配音/中文字幕]",url:"https://www.aliyundrive.com/s/PRyrHAgwESW"},
 {name:"名称：我推的孩子 【推しの子】 (2023) 11集完结",url:"https://www.aliyundrive.com/s/cUGuKbnT9er"},
