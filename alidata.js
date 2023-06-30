@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：萌探探探案 第三季 (2023) 更0630",url:"https://www.aliyundrive.com/s/PZJpf3ambQB"},
+const aliData = [{name:"名称：Go语言从入门到实战",url:"https://www.aliyundrive.com/s/4qmXQk7zymo"},
+{name:"名称：萌探探探案 第三季 (2023) 更0630",url:"https://www.aliyundrive.com/s/PZJpf3ambQB"},
 {name:"名称：樊登读书会 2023年更新至0624 心学的诞生",url:"https://www.aliyundrive.com/s/N1UuSV2k18V"},
 {name:"名称：怪物少女妮莫娜 (2023) 1080p 中文字幕",url:"https://www.aliyundrive.com/s/qwQwZwWhsoa"},
 {name:"名称：猎魔人 S03 Part1 1080p NF 高码率 DDP5.1 Atmos 内封简英 &amp; 繁英双语 附前两季高码内封多国语",url:"https://www.aliyundrive.com/s/xs8NSaEFq5i"},
