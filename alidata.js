@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：行尸走肉：死亡之城 ✨【1080p.SDR】【原轨.高码率】单集3G 更E03/06",url:"https://www.aliyundrive.com/s/U7gqC4Lmz4q"},
+const aliData = [{name:"名称：战士 第三季（2023）",url:"https://www.aliyundrive.com/s/VEz5VmjmXUx"},
+{name:"名称：行尸走肉：死亡之城 ✨【1080p.SDR】【原轨.高码率】单集3G 更E03/06",url:"https://www.aliyundrive.com/s/U7gqC4Lmz4q"},
 {name:"名称：高中理化生必备实验图表（必修 选修）",url:"https://www.aliyundrive.com/s/EhJqCJuinbE"},
 {name:"名称：动画新剧《大奥》 (2023) 全10集 官方中字",url:"https://www.aliyundrive.com/s/MQLgPSnDJ1Y"},
 {name:"名称：《害怕看不见的人》外挂中字",url:"https://www.aliyundrive.com/s/cgz64B7wntW"},
