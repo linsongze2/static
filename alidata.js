@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：失踪宝贝(2007)",url:"https://www.aliyundrive.com/s/tjqykEqNcMG"},
+const aliData = [{name:"名称：粉红杀人夜(1984)REMUX",url:"https://www.aliyundrive.com/s/iWpzor4ZMDR"},
+{name:"名称：遗传厄运(2018)4K REMUX",url:"https://www.aliyundrive.com/s/hBUCxQdi2xm"},
+{name:"名称：失踪宝贝(2007)",url:"https://www.aliyundrive.com/s/tjqykEqNcMG"},
 {name:"名称：神探夏洛克：可恶的新娘(2016)REMUX",url:"https://www.aliyundrive.com/s/MTEpsTLgSXN"},
 {name:"名称：生吃(2016)REMUX",url:"https://www.aliyundrive.com/s/Hei4dXDRowa"},
 {name:"名称：战士 第三季（2023）",url:"https://www.aliyundrive.com/s/VEz5VmjmXUx"},
