@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：亚马逊逆向工作法：可复制的工作方法和管理规则",url:"https://www.aliyundrive.com/s/oRnUgQPmtEY"},
+const aliData = [{name:"名称：N号房追踪记",url:"https://www.aliyundrive.com/s/Nb3zShfAc7j"},
+{name:"名称：2023点金手·新人零基础手播带货孵化营",url:"https://www.aliyundrive.com/s/pUnvbeR2WJ4"},
+{name:"名称：亚马逊逆向工作法：可复制的工作方法和管理规则",url:"https://www.aliyundrive.com/s/oRnUgQPmtEY"},
 {name:"名称：2023小红书电商运营从入门到精通",url:"https://www.aliyundrive.com/s/njB89gV63vn"},
 {name:"名称：长空之王 (2023) 4K 高码率 杜比5.1声道 &amp; 1080p 高码 【和谐补档】",url:"https://www.aliyundrive.com/s/SiaKf7GqXNd"},
 {name:"名称：隐门 (2023)/十八年后的终极告白3.0 25集完结 港剧 国语粤语",url:"https://www.aliyundrive.com/s/1QSp7RGFJxb"},
