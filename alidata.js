@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：20小时快速掌握英语核心秘诀",url:"https://www.aliyundrive.com/s/CCdU5cWBopz"},
+const aliData = [{name:"名称：奇妙的海洋 4K原盘REMUX [HDR] [内封简英双字]",url:"https://www.aliyundrive.com/s/Pahvcz7SKVd"},
+{name:"名称：天龙八部之乔峰传 4K原盘REMUX [HDR+] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/o8R2Rf5ticW"},
+{name:"名称：20小时快速掌握英语核心秘诀",url:"https://www.aliyundrive.com/s/CCdU5cWBopz"},
 {name:"名称：人生路不熟 (2023) 2160p 60FPS 高帧高码 DDP5.1 [易河蟹] [已刮削]",url:"https://www.aliyundrive.com/s/TikxUfuTPJF"},
 {name:"名称：中国说唱巅峰对决2023 (2023) 更0701",url:"https://www.aliyundrive.com/s/LzftESYUHnX"},
 {name:"名称：长风渡 (2023) 1080/4K 更26 白敬亭 宋轶",url:"https://www.aliyundrive.com/s/iB1uwvK75oi"},
