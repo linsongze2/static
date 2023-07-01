@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：高级Java工程师体系课2.0",url:"https://www.aliyundrive.com/s/TdcEYSgQUWU"},
+const aliData = [{name:"名称：餐饮人必看-如何成为外卖超神",url:"https://www.aliyundrive.com/s/w5W18YNuaqC"},
+{name:"名称：高级Java工程师体系课2.0",url:"https://www.aliyundrive.com/s/TdcEYSgQUWU"},
 {name:"名称：【路飞学城】爬虫开发+APP逆向超级大神班-02期",url:"https://www.aliyundrive.com/s/zvexQ6PKmWz"},
 {name:"名称：绝世网红 셀러브리티 (2023) S01 1080p NF 高码 DDP5.1 内封多国语 [已刮削]",url:"https://www.aliyundrive.com/s/kmA96Mxx5GC"},
 {name:"名称：【共3册】 高清一战全史 | 电子书籍",url:"https://www.aliyundrive.com/s/s2ZpyhbXt3m"},
