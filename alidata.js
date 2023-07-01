@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：绝世网红 2023 全集 官方中字",url:"https://www.aliyundrive.com/s/dVwEeKJQHvC"},
+const aliData = [{name:"名称：向往的生活 第七季 (2023) 更0630",url:"https://www.aliyundrive.com/s/NxotdMsFed7"},
+{name:"名称：绝世网红 2023 全集 官方中字",url:"https://www.aliyundrive.com/s/dVwEeKJQHvC"},
 {name:"名称：豆瓣9.3,最伟大的教育片之一,一切源于纯粹的爱 《放牛班的春天》",url:"https://www.aliyundrive.com/s/ncg7PzbwRMs"},
 {name:"名称：魔法奇缘2：解除魔法 2022年11月份最新奇幻冒险电影",url:"https://www.aliyundrive.com/s/ZYijZustAUR"},
 {name:"名称：羊毛战记 Silo (2023) 2160p HDR + 4K 杜比视界 + 1080p 高码 + 内封双语版本(4K HDR / 1080p) 【S01完结】",url:"https://www.aliyundrive.com/s/n71kWdHPHxU"},
