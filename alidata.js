@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：2023手淘搜索实操课+体系化课程，起店起单品实操视频课程",url:"https://www.aliyundrive.com/s/GNVFmG7TeEi"},
+const aliData = [{name:"名称：你好，星期六/你好星期六 持续更新",url:"https://www.aliyundrive.com/s/a38b9NyoigK"},
+{name:"名称：2023手淘搜索实操课+体系化课程，起店起单品实操视频课程",url:"https://www.aliyundrive.com/s/GNVFmG7TeEi"},
 {name:"名称：海贼王 更1067",url:"https://www.aliyundrive.com/s/z82amAtxAfR"},
 {name:"名称：圣斗士星矢 真人版 (2023) 2160p HDR 外挂双语",url:"https://www.aliyundrive.com/s/CRV2MTubuCg"},
 {name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/gE2qzxuJvxf"},
