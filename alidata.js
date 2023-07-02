@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：铃芽之旅/铃芽的门锁/铃芽户缔 (2023) 正式版 中字",url:"https://www.aliyundrive.com/s/BuzWsgFF2dj"},
+const aliData = [{name:"名称：软件测试之python高级软件测试开发第07期【柠檬班VIP】",url:"https://www.aliyundrive.com/s/wV3bj8iwxMg"},
+{name:"名称：铃芽之旅/铃芽的门锁/铃芽户缔 (2023) 正式版 中字",url:"https://www.aliyundrive.com/s/BuzWsgFF2dj"},
 {name:"名称：无职转生～到了异世界就拿出真本事～ 第二季",url:"https://www.aliyundrive.com/s/pSSfmswR4KA"},
 {name:"名称：铃芽之旅 (2023) 正式版",url:"https://www.aliyundrive.com/s/dVWpzici7X8"},
 {name:"名称：我们为什么会受骗",url:"https://www.aliyundrive.com/s/jbEtow8cb6Z"},
