@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：今生也请多指教 이번 생도 잘 부탁해 (2023) 更6",url:"https://www.aliyundrive.com/s/fQxprnpqN8w"},
+const aliData = [{name:"名称：【共7册】 日本·军鉴系列 (001-007) 电子书籍",url:"https://www.aliyundrive.com/s/mdSaWRymHFR"},
+{name:"名称：今生也请多指教 이번 생도 잘 부탁해 (2023) 更6",url:"https://www.aliyundrive.com/s/fQxprnpqN8w"},
 {name:"名称：零基础玩转Linux+Ubuntu实战视频课程",url:"https://www.aliyundrive.com/s/dMx94LCSK4x"},
 {name:"名称：欢迎来到王之国 킹더랜드 (2023) 更6 李俊昊/林允儿",url:"https://www.aliyundrive.com/s/ZGtWBgdwEVj"},
 {name:"名称：Java零基础后端工程师【马士兵教育】",url:"https://www.aliyundrive.com/s/bdduHTxhjX7"},
