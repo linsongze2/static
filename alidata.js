@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【共7册】 医生们的“人类学观察笔记“ | 电子书籍",url:"https://www.aliyundrive.com/s/Lu1LX5fiU9P"},
+const aliData = [{name:"名称：图灵程序设计丛书：Python 高手进阶之路（套装全10册）",url:"https://www.aliyundrive.com/s/RfNYzsDiMqB"},
+{name:"名称：【共7册】 医生们的“人类学观察笔记“ | 电子书籍",url:"https://www.aliyundrive.com/s/Lu1LX5fiU9P"},
 {name:"名称：异教峰(2019) 高分德剧 两季全",url:"https://www.aliyundrive.com/s/En5tj9aXeGM"},
 {name:"名称：【推易电商】零基础美工新手教程",url:"https://www.aliyundrive.com/s/xysLDAoD1Ms"},
 {name:"名称：喜欢的人忘记戴眼镜了",url:"https://www.aliyundrive.com/s/PyZWjSdHGHH"},
