@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：24考研郭伟数学强化班",url:"https://www.aliyundrive.com/s/L8gDTHp55CT"},
+const aliData = [{name:"名称：虫师·续章",url:"https://www.aliyundrive.com/s/oV639qwauG8"},
+{name:"名称：虫师",url:"https://www.aliyundrive.com/s/noaf1uBFeHz"},
+{name:"名称：枪神再起2023 4k多版本",url:"https://www.aliyundrive.com/s/DqAecfkMnFH"},
+{name:"名称：24考研郭伟数学强化班",url:"https://www.aliyundrive.com/s/L8gDTHp55CT"},
 {name:"名称：算法面试通关 40 讲",url:"https://www.aliyundrive.com/s/AJQJXQwthBS"},
 {name:"名称：Linux 实战技能 100 讲",url:"https://www.aliyundrive.com/s/Cr6vqh2QmQg"},
 {name:"名称：心跳 가슴이뛴다 (2023) 韩剧 更E04",url:"https://www.aliyundrive.com/s/YzhU4bG3os7"},
