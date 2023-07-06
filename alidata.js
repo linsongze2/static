@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：算法面试通关 40 讲",url:"https://www.aliyundrive.com/s/AJQJXQwthBS"},
+const aliData = [{name:"名称：24考研郭伟数学强化班",url:"https://www.aliyundrive.com/s/L8gDTHp55CT"},
+{name:"名称：算法面试通关 40 讲",url:"https://www.aliyundrive.com/s/AJQJXQwthBS"},
 {name:"名称：Linux 实战技能 100 讲",url:"https://www.aliyundrive.com/s/Cr6vqh2QmQg"},
 {name:"名称：心跳 가슴이뛴다 (2023) 韩剧 更E04",url:"https://www.aliyundrive.com/s/YzhU4bG3os7"},
 {name:"名称：全新Java进阶课【每特教育】",url:"https://www.aliyundrive.com/s/gaH6sbeFdzL"},
