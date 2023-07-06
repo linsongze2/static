@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【数据技术课堂】机器学习实战三期",url:"https://www.aliyundrive.com/s/2JHWNVYZh5M"},
+const aliData = [{name:"名称：全新Java进阶课【每特教育】",url:"https://www.aliyundrive.com/s/gaH6sbeFdzL"},
+{name:"名称：【数据技术课堂】机器学习实战三期",url:"https://www.aliyundrive.com/s/2JHWNVYZh5M"},
 {name:"名称：犯罪都市3 (2023) ✨【1080p.SDR】【原轨.高码率】6G",url:"https://www.aliyundrive.com/s/uNJ7KHpfXhx"},
 {name:"名称：【全7册】 索恩·第三帝国的兴衰史 | 电子书籍",url:"https://www.aliyundrive.com/s/uk3EjBSpRee"},
 {name:"名称：微服务架构实战 160 讲",url:"https://www.aliyundrive.com/s/c5vfrGEw6Cn"},
