@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【拥挤的房间 2023】4K HDR + 1080P高码率 外挂中英/内封官中 更至第七集",url:"https://www.aliyundrive.com/s/zGCLystJfSY"},
+const aliData = [{name:"名称：Pandas 数据分析实战",url:"https://www.aliyundrive.com/s/EzqkV9GwTGT"},
+{name:"名称：【拥挤的房间 2023】4K HDR + 1080P高码率 外挂中英/内封官中 更至第七集",url:"https://www.aliyundrive.com/s/zGCLystJfSY"},
 {name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/RNSwjoyNELb"},
 {name:"名称：长风渡 4k更新32",url:"https://www.aliyundrive.com/s/k3RJS7X8Bxq"},
 {name:"名称：uni-app实战视频点播app小程序",url:"https://www.aliyundrive.com/s/8UrApQu38qF"},
