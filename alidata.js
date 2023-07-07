@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：从多元智能到综合思维 | 电子书籍",url:"https://www.aliyundrive.com/s/ZLWvg1njBnN"},
+const aliData = [{name:"名称：uni-app实战视频点播app小程序",url:"https://www.aliyundrive.com/s/8UrApQu38qF"},
+{name:"名称：从多元智能到综合思维 | 电子书籍",url:"https://www.aliyundrive.com/s/ZLWvg1njBnN"},
 {name:"名称：Nginx 核心知识 150 讲",url:"https://www.aliyundrive.com/s/pT64ptRKngu"},
 {name:"名称：暴风2023 4K 多版本",url:"https://www.aliyundrive.com/s/kgsHKXcBNEP"},
 {name:"名称：这个杀手不太冷",url:"https://www.aliyundrive.com/s/4Ygi9o9nubC"},
