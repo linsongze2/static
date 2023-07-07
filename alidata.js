@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Pandas 数据分析实战",url:"https://www.aliyundrive.com/s/EzqkV9GwTGT"},
+const aliData = [{name:"名称：南洋女儿情 [2023][40集完结] 1080/4k",url:"https://www.aliyundrive.com/s/gNaY4SkSA8c"},
+{name:"名称：Pandas 数据分析实战",url:"https://www.aliyundrive.com/s/EzqkV9GwTGT"},
 {name:"名称：【拥挤的房间 2023】4K HDR + 1080P高码率 外挂中英/内封官中 更至第七集",url:"https://www.aliyundrive.com/s/zGCLystJfSY"},
 {name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/RNSwjoyNELb"},
 {name:"名称：长风渡 4k更新32",url:"https://www.aliyundrive.com/s/k3RJS7X8Bxq"},
