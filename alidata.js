@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：好朋友们 좋은 친구들 (2014)",url:"https://www.aliyundrive.com/s/PfV7NXL3neo"},
+const aliData = [{name:"名称：【共4册】 行为心理学：从入门到精通 | 电子书籍",url:"https://www.aliyundrive.com/s/kgdsJBatgwD"},
+{name:"名称：好朋友们 좋은 친구들 (2014)",url:"https://www.aliyundrive.com/s/PfV7NXL3neo"},
 {name:"名称：超市夜未眠 Cashback (2006)",url:"https://www.aliyundrive.com/s/bU98M9wZHqu"},
 {name:"名称：速度与爱情 เร็วโหด..เหมือนโกรธเธอ (2022)",url:"https://www.aliyundrive.com/s/uoY97k6t55X"},
 {name:"名称：长风渡 4k更新34",url:"https://www.aliyundrive.com/s/746kLrkhNrR"},
