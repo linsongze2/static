@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Netty 源码剖析与实战",url:"https://www.aliyundrive.com/s/2s2is6WYxRz"},
+const aliData = [{name:"名称：2023.7 七月新番合集（持续更新！）",url:"https://www.aliyundrive.com/s/hFugHpXv4aH"},
+{name:"名称：Netty 源码剖析与实战",url:"https://www.aliyundrive.com/s/2s2is6WYxRz"},
 {name:"名称：明代的宦官和宫廷",url:"https://www.aliyundrive.com/s/C9MjczqV7Fu"},
 {name:"名称：千与千寻",url:"https://www.aliyundrive.com/s/JmCoAjBnXL1"},
 {name:"名称：外研社百科通识文库 (世界万象大套装共114本) 电子书籍",url:"https://www.aliyundrive.com/s/zGpfsCao1jb"},
