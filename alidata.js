@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：死神 千年血战篇 第二季 诀别谭 (2023) 1080p 高码率 内封简繁英 更EP01 (S02E14)",url:"https://www.aliyundrive.com/s/72FpwYLxtTh"},
+const aliData = [{name:"名称：枪神再起 (2023) 2160p 高码",url:"https://www.aliyundrive.com/s/sLrc81X5ML4"},
+{name:"名称：死神 千年血战篇 第二季 诀别谭 (2023) 1080p 高码率 内封简繁英 更EP01 (S02E14)",url:"https://www.aliyundrive.com/s/72FpwYLxtTh"},
 {name:"名称：僵尸百分百（2023）/7月新番动漫",url:"https://www.aliyundrive.com/s/BZtFqhZ5PBX"},
 {name:"名称：醉拳1➕2（豆瓣：7.7、8.0）",url:"https://www.aliyundrive.com/s/Gr6YJ2hyQKz"},
 {name:"名称：目中无人",url:"https://www.aliyundrive.com/s/S8PbwCi7vjv"},
