@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：零基础学 Java",url:"https://www.aliyundrive.com/s/WqRX2Jm5nYA"},
+const aliData = [{name:"名称：灵戏逼人 (2023) 张振朗 / 龚嘉欣 国粤双版本 更E05【香港恐怖奇幻新剧】",url:"https://www.aliyundrive.com/s/RMCUQV7mfai"},
+{name:"名称：名侦探柯南/名探偵コナン 更至1089集即1147",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
+{name:"名称：零基础学 Java",url:"https://www.aliyundrive.com/s/WqRX2Jm5nYA"},
 {name:"名称：死神千年血战篇第二季（2023）/附系列合集",url:"https://www.aliyundrive.com/s/FNnuupHoZHn"},
 {name:"名称：境界 新篇章 诀别谭篇 4K",url:"https://www.aliyundrive.com/s/SEjMqtWRUmk"},
 {name:"名称：图说世界经济史",url:"https://www.aliyundrive.com/s/DtKH49hcZkR"},
