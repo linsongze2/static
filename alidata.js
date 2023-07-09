@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：灵戏逼人 (2023) 张振朗 / 龚嘉欣 国粤双版本 更E05【香港恐怖奇幻新剧】",url:"https://www.aliyundrive.com/s/RMCUQV7mfai"},
+const aliData = [{name:"名称：【共5册】 考古系列 : 叩问厚土，仰望星辰 | 电子书籍",url:"https://www.aliyundrive.com/s/kmEdYzRDqWu"},
+{name:"名称：灵戏逼人 (2023) 张振朗 / 龚嘉欣 国粤双版本 更E05【香港恐怖奇幻新剧】",url:"https://www.aliyundrive.com/s/RMCUQV7mfai"},
 {name:"名称：名侦探柯南/名探偵コナン 更至1089集即1147",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
 {name:"名称：零基础学 Java",url:"https://www.aliyundrive.com/s/WqRX2Jm5nYA"},
 {name:"名称：死神千年血战篇第二季（2023）/附系列合集",url:"https://www.aliyundrive.com/s/FNnuupHoZHn"},
