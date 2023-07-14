@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【路飞学城】爬虫开发+APP逆向超级大神班-04期",url:"https://www.aliyundrive.com/s/Cbuiy1QhQSV"},
+const aliData = [{name:"名称：邓紫棋 《Revelación》2023.7.10新专辑 FLAC",url:"https://www.aliyundrive.com/s/zepvz2EojL3"},
+{name:"名称：【路飞学城】爬虫开发+APP逆向超级大神班-04期",url:"https://www.aliyundrive.com/s/Cbuiy1QhQSV"},
 {name:"名称：机器人们 Robots (2023)",url:"https://www.aliyundrive.com/s/bsLpUrvGLVR"},
 {name:"名称：基地第二季（2023）/附第一季官中",url:"https://www.aliyundrive.com/s/yDYk5xxteXj"},
 {name:"名称：【黑马程序员】PHP高级工程师（基础班+就业班）",url:"https://www.aliyundrive.com/s/jMEwHJ8WoKu"},
