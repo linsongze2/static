@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【中艺网校】零基础学摄影+航拍",url:"https://www.aliyundrive.com/s/inXMAcFJiVZ"},
+const aliData = [{name:"名称：【黄家私塾】个人商业实战营",url:"https://www.aliyundrive.com/s/uH5P7kwzCeK"},
+{name:"名称：【中艺网校】零基础学摄影+航拍",url:"https://www.aliyundrive.com/s/inXMAcFJiVZ"},
 {name:"名称：环环相扣（2023）美剧/英语官中",url:"https://www.aliyundrive.com/s/eqopHVsNE2Y"},
 {name:"名称：变形金刚：超能勇士崛起 (2023)✨【2160p.HDR】【原轨.高画质】13.4G 【失效补档】",url:"https://www.aliyundrive.com/s/LYWE9uGoikJ"},
 {name:"名称：OpenCV图像分割实战视频教程",url:"https://www.aliyundrive.com/s/BhjHfJGfesH"},
