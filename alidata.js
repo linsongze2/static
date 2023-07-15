@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：OpenCV 特征提取与检测实战视频课程",url:"https://www.aliyundrive.com/s/A55mt7eyyrU"},
+const aliData = [{name:"名称：【虎课网】布林·零基础商业插画实战班",url:"https://www.aliyundrive.com/s/ftEnyFx519b"},
+{name:"名称：OpenCV 特征提取与检测实战视频课程",url:"https://www.aliyundrive.com/s/A55mt7eyyrU"},
 {name:"名称：消失的十一层（2023）4K高码版更新16集 适配高端电视",url:"https://www.aliyundrive.com/s/ujDCSkPcimB"},
 {name:"名称：图灵程序设计丛书：图解与入门系列",url:"https://www.aliyundrive.com/s/HxKLkN7tFz5"},
 {name:"名称：战士 第三季 Warrior Season 3 (2023)",url:"https://www.aliyundrive.com/s/g8XP7A3itdG"},
