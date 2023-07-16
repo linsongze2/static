@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：欢迎来到王之国 (2023) 林允儿-韩剧 更E10",url:"https://www.aliyundrive.com/s/RCaGpVzibvK"},
+const aliData = [{name:"名称：照顾酱·电商人修炼手册",url:"https://www.aliyundrive.com/s/kX3xQqrL3dY"},
+{name:"名称：欢迎来到王之国 (2023) 林允儿-韩剧 更E10",url:"https://www.aliyundrive.com/s/RCaGpVzibvK"},
 {name:"名称：租借女友 第三季",url:"https://www.aliyundrive.com/s/qRZC5EHSTrm"},
 {name:"名称：庙不可言 1080P高码率版本 简中内嵌（更新至第二集）",url:"https://www.aliyundrive.com/s/PzGXJSSRTVw"},
 {name:"名称：无职转生 ~到了异世界就拿出真本事~S2 4K简中内嵌（更新至第二集）",url:"https://www.aliyundrive.com/s/DmGyobnjaav"},
