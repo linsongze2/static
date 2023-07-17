@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：海贼王/One Piece 更至1069集",url:"https://www.aliyundrive.com/s/XDBCqsEBQRc"},
+const aliData = [{name:"名称：薛之谦 《念》 2023 7.17发行单曲 FLAC",url:"https://www.aliyundrive.com/s/oPXwFXegxtm"},
+{name:"名称：星辰变 第五季 (2022) 4K 同步更新中",url:"https://www.aliyundrive.com/s/sj4awhQAHjG"},
+{name:"名称：海贼王/One Piece 更至1069集",url:"https://www.aliyundrive.com/s/XDBCqsEBQRc"},
 {name:"名称：长风渡 (2023) 4K 40集完整版",url:"https://www.aliyundrive.com/s/GADbvaAT9rB"},
 {name:"名称：一个叫欧维的男人决定去死(2015) 4K 内封硬字幕",url:"https://www.aliyundrive.com/s/hXRetVgpReg"},
 {name:"名称：英国病人(1996) 内封中字",url:"https://www.aliyundrive.com/s/ratFA3ok484"},
