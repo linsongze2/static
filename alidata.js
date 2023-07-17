@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：武神赵子龙2023 4K-HDR-DOLBY",url:"https://www.aliyundrive.com/s/1eY7UVKjNMQ"},
+const aliData = [{name:"名称：亲切第一张蕾Kindness人像精修 - 36期",url:"https://www.aliyundrive.com/s/uWghkiotBJw"},
+{name:"名称：武神赵子龙2023 4K-HDR-DOLBY",url:"https://www.aliyundrive.com/s/1eY7UVKjNMQ"},
 {name:"名称：主播打光布光培训课",url:"https://www.aliyundrive.com/s/HzzKQ6eCH8H"},
 {name:"名称：【开课吧】短视频带货爆单实战营",url:"https://www.aliyundrive.com/s/MxJR5T8uCmE"},
 {name:"名称：【黑马程序员】JavaEE就业课 V12.5",url:"https://www.aliyundrive.com/s/tPS2G1SqtTs"},
