@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【黑马程序员】JavaEE就业课 V12.5",url:"https://www.aliyundrive.com/s/tPS2G1SqtTs"},
+const aliData = [{name:"名称：【开课吧】短视频带货爆单实战营",url:"https://www.aliyundrive.com/s/MxJR5T8uCmE"},
+{name:"名称：【黑马程序员】JavaEE就业课 V12.5",url:"https://www.aliyundrive.com/s/tPS2G1SqtTs"},
 {name:"名称：闪电侠流媒体正式版（2023）/官方中字",url:"https://www.aliyundrive.com/s/rW7Cc3WjHyK"},
 {name:"名称：活着（VIVANT）2023/日语中字熟肉",url:"https://www.aliyundrive.com/s/ms2jKdS4E4i"},
 {name:"名称：我是谁：没有绝对安全的系统(2014) 4K 内封中字",url:"https://www.aliyundrive.com/s/s8Ph6Hp26BV"},
