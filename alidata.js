@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【牛气学堂】老陶拼多多领跑2022线上陪跑 - 1~10期",url:"https://www.aliyundrive.com/s/Lxzk2mdAV8n"},
+const aliData = [{name:"名称：做自己的光（2023）/刘涛 刘宇宁/40集更新中",url:"https://www.aliyundrive.com/s/t1tLzfUMkc3"},
+{name:"名称：【牛气学堂】老陶拼多多领跑2022线上陪跑 - 1~10期",url:"https://www.aliyundrive.com/s/Lxzk2mdAV8n"},
 {name:"名称：亲切第一张蕾Kindness人像精修 - 36期",url:"https://www.aliyundrive.com/s/uWghkiotBJw"},
 {name:"名称：武神赵子龙2023 4K-HDR-DOLBY",url:"https://www.aliyundrive.com/s/1eY7UVKjNMQ"},
 {name:"名称：主播打光布光培训课",url:"https://www.aliyundrive.com/s/HzzKQ6eCH8H"},
