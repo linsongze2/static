@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：玉骨遥 (2023) 1080/4K HDR 40集完结 超前点映",url:"https://www.aliyundrive.com/s/RLRmLLDguSQ"},
+const aliData = [{name:"名称：FinalCut核心技术课，FCP基础剪辑调色影视视频制作专业入门",url:"https://www.aliyundrive.com/s/zdyqzMfTNda"},
+{name:"名称：PR入门到精通，108节速成课程",url:"https://www.aliyundrive.com/s/XAMxk8mG985"},
+{name:"名称：玉骨遥 (2023) 1080/4K HDR 40集完结 超前点映",url:"https://www.aliyundrive.com/s/RLRmLLDguSQ"},
 {name:"名称：灵戏逼人 (2023) 张振朗 / 龚嘉欣 国粤双版本 更E11【香港恐怖奇幻新剧】",url:"https://www.aliyundrive.com/s/RMCUQV7mfai"},
 {name:"名称：椋鸟女孩 (2023) 2160p 外挂双语 (暂为机翻)",url:"https://www.aliyundrive.com/s/wC9ZSSJue9N"},
 {name:"名称：政宗君的复仇 S2 1080P 高码率 简中内嵌（更新至第三集）",url:"https://www.aliyundrive.com/s/vnY1bVhEDtb"},
