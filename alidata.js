@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：FinalCut核心技术课，FCP基础剪辑调色影视视频制作专业入门",url:"https://www.aliyundrive.com/s/zdyqzMfTNda"},
+const aliData = [{name:"名称：【品牌医生】操盘手系列课程：小红书品牌营销专项大课，操盘手进阶",url:"https://www.aliyundrive.com/s/GLjWqQYaxUa"},
+{name:"名称：FinalCut核心技术课，FCP基础剪辑调色影视视频制作专业入门",url:"https://www.aliyundrive.com/s/zdyqzMfTNda"},
 {name:"名称：PR入门到精通，108节速成课程",url:"https://www.aliyundrive.com/s/XAMxk8mG985"},
 {name:"名称：玉骨遥 (2023) 1080/4K HDR 40集完结 超前点映",url:"https://www.aliyundrive.com/s/RLRmLLDguSQ"},
 {name:"名称：灵戏逼人 (2023) 张振朗 / 龚嘉欣 国粤双版本 更E11【香港恐怖奇幻新剧】",url:"https://www.aliyundrive.com/s/RMCUQV7mfai"},
