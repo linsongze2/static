@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：抖音短视频情感变现项目：手把手教您做一个可落地的情感账号",url:"https://www.aliyundrive.com/s/LRvnwAYgzxu"},
+const aliData = [{name:"名称：【站酷学习】创意视觉设计师培养计划",url:"https://www.aliyundrive.com/s/adgBrGJXMyy"},
+{name:"名称：抖音短视频情感变现项目：手把手教您做一个可落地的情感账号",url:"https://www.aliyundrive.com/s/LRvnwAYgzxu"},
 {name:"名称：暮色心约 (2023) 1080/4K HDR 40集完结 杨颖 任嘉伦",url:"https://www.aliyundrive.com/s/aTtFduTmz9C"},
 {name:"名称：有益的欺诈 (2023) 韩剧 中文字幕 更E15",url:"https://www.aliyundrive.com/s/33YPeSK8KRx"},
 {name:"名称：【品牌医生】操盘手系列课程：小红书品牌营销专项大课，操盘手进阶",url:"https://www.aliyundrive.com/s/GLjWqQYaxUa"},
