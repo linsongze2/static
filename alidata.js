@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：人类清除计划3：大选之年(2016) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/4XFhEUxewfB"},
+const aliData = [{name:"名称：有益的欺诈 이로운 사기 (2023) 16集完结",url:"https://www.aliyundrive.com/s/p9ZNnEiEY7H"},
+{name:"名称：人类清除计划3：大选之年(2016) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/4XFhEUxewfB"},
 {name:"名称：人类清除计划4(2018) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/kpB28k3NFzd"},
 {name:"名称：人类清除计划5(2021) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/BzyZoQ8puAF"},
 {name:"名称：【深度之眼】Python基础+数据科学入门",url:"https://www.aliyundrive.com/s/EADDtj6gez7"},
