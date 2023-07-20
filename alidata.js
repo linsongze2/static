@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：第一序列(2023) 更新至第二集 B站水印",url:"https://www.aliyundrive.com/s/nAQyVfunjdw"},
+const aliData = [{name:"名称：《机动战士高达：水星的魔女》序章+24集全 1080p",url:"https://www.aliyundrive.com/s/PUW81kUifmj"},
+{name:"名称：第一序列(2023) 更新至第二集 B站水印",url:"https://www.aliyundrive.com/s/nAQyVfunjdw"},
 {name:"名称：only up 只有向上",url:"https://www.aliyundrive.com/s/34hCzRQKXfK"},
 {name:"名称：【开课吧】算法训练营17期",url:"https://www.aliyundrive.com/s/35s1Cvc5Cor"},
 {name:"名称：叶问外传：张天志 蓝光原盘REMUX [高码美版] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/kmpQ1gAZpF3"},
