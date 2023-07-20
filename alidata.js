@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：灵戏逼人 (2023) 张振朗 / 龚嘉欣 国粤双版本 更E14【香港恐怖奇幻新剧】",url:"https://www.aliyundrive.com/s/RMCUQV7mfai"},
+const aliData = [{name:"名称：陈知道-直播赋能入门课",url:"https://www.aliyundrive.com/s/V9tB2jn4v4M"},
+{name:"名称：灵戏逼人 (2023) 张振朗 / 龚嘉欣 国粤双版本 更E14【香港恐怖奇幻新剧】",url:"https://www.aliyundrive.com/s/RMCUQV7mfai"},
 {name:"名称：2023抖店·起店新玩法，店铺基础搭建，选类目和单品的方法，单品打造模式",url:"https://www.aliyundrive.com/s/xufffsGzFw9"},
 {name:"名称：金爆行动 Operation Fortune: Rue de guerre (2023) 杰森·斯坦森",url:"https://www.aliyundrive.com/s/DmN6omZcw3F"},
 {name:"名称：郎君不如意/吴宣仪 陈哲远/奇幻 喜剧",url:"https://www.aliyundrive.com/s/2XKaznctZpE"},
