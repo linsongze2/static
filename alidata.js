@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：生化危机：死亡岛 (2023) 2160p HDR TrueHD7.1 内封简繁英 【已刮削】",url:"https://www.aliyundrive.com/s/a3ps8wWMJvr"},
+const aliData = [{name:"名称：风骚女子第二季（2023）/附第一季中英双语",url:"https://www.aliyundrive.com/s/k6bDYprBbNR"},
+{name:"名称：生化危机：死亡岛 (2023) 2160p HDR TrueHD7.1 内封简繁英 【已刮削】",url:"https://www.aliyundrive.com/s/a3ps8wWMJvr"},
 {name:"名称：灵魂战车 Ghost Rider (2007) 第一部 美国 超然动作奇幻片 中文字幕",url:"https://www.aliyundrive.com/s/kHrjvfNqQik"},
 {name:"名称：沉默的羔羊（15G高清+5G AV1高压重编码（字幕烧录））",url:"https://www.aliyundrive.com/s/NZR6vPKzgJv"},
 {name:"名称：肖申克的救赎(20G高清+10G高压（字幕烧录）)",url:"https://www.aliyundrive.com/s/oKnrX3rWFt9"},
