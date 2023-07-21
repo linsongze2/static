@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：透透糖账号登顶预备营，高手账号打造密码，普通人学会做抖音的必学课程",url:"https://www.aliyundrive.com/s/FMEV7wVDN1y"},
+const aliData = [{name:"名称：视频号批量搬运实战操作运营赚钱教程，傻瓜式批量制作高质量内容",url:"https://www.aliyundrive.com/s/YN877PoHMTq"},
+{name:"名称：透透糖账号登顶预备营，高手账号打造密码，普通人学会做抖音的必学课程",url:"https://www.aliyundrive.com/s/FMEV7wVDN1y"},
 {name:"名称：新·假面骑士 シン・仮面ライダー（2023）",url:"https://www.aliyundrive.com/s/FfTADLiZpt5"},
 {name:"名称：咒术回战第二季",url:"https://www.aliyundrive.com/s/f1LZXGghb7z"},
 {name:"名称：新·假面骑士（2023）/内嵌官中",url:"https://www.aliyundrive.com/s/X68DKDc3q9C"},
