@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：咒术回战第二季",url:"https://www.aliyundrive.com/s/f1LZXGghb7z"},
+const aliData = [{name:"名称：新·假面骑士 シン・仮面ライダー（2023）",url:"https://www.aliyundrive.com/s/FfTADLiZpt5"},
+{name:"名称：咒术回战第二季",url:"https://www.aliyundrive.com/s/f1LZXGghb7z"},
 {name:"名称：新·假面骑士（2023）/内嵌官中",url:"https://www.aliyundrive.com/s/X68DKDc3q9C"},
 {name:"名称：陈知道-直播赋能入门课",url:"https://www.aliyundrive.com/s/V9tB2jn4v4M"},
 {name:"名称：灵戏逼人 (2023) 张振朗 / 龚嘉欣 国粤双版本 更E14【香港恐怖奇幻新剧】",url:"https://www.aliyundrive.com/s/RMCUQV7mfai"},
