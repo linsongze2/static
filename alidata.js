@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：生化危机: 死亡岛",url:"https://www.aliyundrive.com/s/6fV9agfkybA"},
+const aliData = [{name:"名称：C++ 设计模式理论与实战大全",url:"https://www.aliyundrive.com/s/XJvy2JhFpPD"},
+{name:"名称：生化危机: 死亡岛",url:"https://www.aliyundrive.com/s/6fV9agfkybA"},
 {name:"名称：母婴行业短视频运营：教你写个吸引人的标题，45节课+45个方法",url:"https://www.aliyundrive.com/s/ggRdvhuJfER"},
 {name:"名称：【浪客剑心 明治剑客浪漫谭 2023】1080P 高码率 内封简繁 更至第三集",url:"https://www.aliyundrive.com/s/aoC8UEg3HJk"},
 {name:"名称：我的人间烟火 1-40集全 超前点播完结 1080P",url:"https://www.aliyundrive.com/s/tKor2EpmrgQ"},
