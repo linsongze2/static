@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【尚硅谷】IDE中配置Maven&amp;Git",url:"https://www.aliyundrive.com/s/NkkKE6qqqBo"},
+const aliData = [{name:"名称：僵尸百分百～变成僵尸之前想做的100件事～ 1080P/4K 简中内嵌",url:"https://www.aliyundrive.com/s/md6BWxiiDxm"},
+{name:"名称：【尚硅谷】IDE中配置Maven&amp;Git",url:"https://www.aliyundrive.com/s/NkkKE6qqqBo"},
 {name:"名称：（新升级）RN入门到进阶，打造高质量上线App",url:"https://www.aliyundrive.com/s/UgRj2BjLFKg"},
 {name:"名称：玫瑰之战 (2022)",url:"https://www.aliyundrive.com/s/W716TYNztka"},
 {name:"名称：2023 Arknights Ambience 明日方舟音律联觉专场演出-愚夜密函 2023",url:"https://www.aliyundrive.com/s/NcnXhRbY2WK"},
