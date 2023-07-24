@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：L1魔王与废柴勇者 4J简中内嵌（更新至第四集）",url:"https://www.aliyundrive.com/s/hJUwkyBFrTv"},
+const aliData = [{name:"名称：政宗君的复仇 S2 1080P 高码率 简中内嵌（更新至第四集）",url:"https://www.aliyundrive.com/s/vnY1bVhEDtb"},
+{name:"名称：L1魔王与废柴勇者 4J简中内嵌（更新至第四集）",url:"https://www.aliyundrive.com/s/hJUwkyBFrTv"},
 {name:"名称：灵戏逼人 (2023) 张振朗 / 龚嘉欣 国粤双版本 更E16【香港恐怖奇幻新剧】",url:"https://www.aliyundrive.com/s/RMCUQV7mfai"},
 {name:"名称：风月变 (2023) 完结",url:"https://www.aliyundrive.com/s/cmsRUY14vSQ"},
 {name:"名称：尼尔：自动人形/尼尔：机械纪元 (2023) 12集完结",url:"https://www.aliyundrive.com/s/SucE44JTShM"},
