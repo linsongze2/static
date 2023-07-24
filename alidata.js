@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：RickandMorty（S01-S06 av1高压重编码+字幕烧录）",url:"https://www.aliyundrive.com/s/iVb9r9FUR9F"},
+const aliData = [{name:"名称：尼尔：自动人形/尼尔：机械纪元 (2023) 12集完结",url:"https://www.aliyundrive.com/s/SucE44JTShM"},
+{name:"名称：RickandMorty（S01-S06 av1高压重编码+字幕烧录）",url:"https://www.aliyundrive.com/s/iVb9r9FUR9F"},
 {name:"名称：抖名星商学院：直播带货操盘手特训班",url:"https://www.aliyundrive.com/s/xnF7Lrr5BLN"},
 {name:"名称：数据哥《抖音运营综合实操课》短视频本地生活、个人IP、带货、知识付费",url:"https://www.aliyundrive.com/s/VYkMm2GkSeN"},
 {name:"名称：AE+PR+C4D教程1000集，B站最全面最用心AE+PR+C4教程",url:"https://www.aliyundrive.com/s/FWK7ZJB1N2j"},
