@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：服装行业流量爆发营，从0-1抖音快速起号解决实体流量问题！",url:"https://www.aliyundrive.com/s/JerKEvyEQ7N"},
+const aliData = [{name:"名称：亚伦哥的短视频运营课",url:"https://www.aliyundrive.com/s/1qdKM8m3d1G"},
+{name:"名称：服装行业流量爆发营，从0-1抖音快速起号解决实体流量问题！",url:"https://www.aliyundrive.com/s/JerKEvyEQ7N"},
 {name:"名称：八尺门的辩护人 (2023) 1080p 高码率 全8集 【台湾高分悬疑新剧】",url:"https://www.aliyundrive.com/s/tZbDNsbpqnb"},
 {name:"名称：401个儿童睡前有声 成语故事 高清音质",url:"https://www.aliyundrive.com/s/g62uvmdwWh5"},
 {name:"名称：天祥电商·《0基础抖音小店运营实战课》新手开店设置全流程，截流选品玩法技术",url:"https://www.aliyundrive.com/s/wbbcxALHiUY"},
