@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：铁血精英(2011) REMUX 外挂中字",url:"https://www.aliyundrive.com/s/bte2WBNCrTo"},
+const aliData = [{name:"名称：好兆头第二季全集官中/附第一季",url:"https://www.aliyundrive.com/s/hir6S85Sa4Q"},
+{name:"名称：铁血精英(2011) REMUX 外挂中字",url:"https://www.aliyundrive.com/s/bte2WBNCrTo"},
 {name:"名称：神秘拼图(1999) REMUX 外挂中字",url:"https://www.aliyundrive.com/s/gC9hjH4Gnyw"},
 {name:"名称：忌日快乐(2017) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/Hfu2fJC1vJM"},
 {name:"名称：忌日快乐2(2019) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/jXfppNJ9bB9"},
