@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：活着 VIVANT (2023) 日剧 1080p 日语中字 更E02",url:"https://www.aliyundrive.com/s/ayitpsaDrjc"},
+const aliData = [{name:"名称：嗝姐小乔·23年系列课多多运营从0到1",url:"https://www.aliyundrive.com/s/Day9Mz3NEbd"},
+{name:"名称：活着 VIVANT (2023) 日剧 1080p 日语中字 更E02",url:"https://www.aliyundrive.com/s/ayitpsaDrjc"},
 {name:"名称：【路飞学城】爬虫开发+APP逆向超级大神班-05期",url:"https://www.aliyundrive.com/s/M8Ck4iuTxWj"},
 {name:"名称：灵戏逼人 (2023) 张振朗 / 龚嘉欣 国粤双版本 更E19【香港恐怖奇幻新剧】",url:"https://www.aliyundrive.com/s/RMCUQV7mfai"},
 {name:"名称：不完美受害人 (2023) 1080/4K 更22 周迅",url:"https://www.aliyundrive.com/s/s8HoW7z8oRc"},
