@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：成都2023大运会开幕式 4K HDR",url:"https://www.aliyundrive.com/s/nf3FjTCfv2G"},
+const aliData = [{name:"名称：中国好声音2023 (2023)",url:"https://www.aliyundrive.com/s/FSpNUtKrFv5"},
+{name:"名称：成都2023大运会开幕式 4K HDR",url:"https://www.aliyundrive.com/s/nf3FjTCfv2G"},
 {name:"名称：老友记（第9-10季）",url:"https://www.aliyundrive.com/s/AphRg3Atg42"},
 {name:"名称：异形魔怪系列",url:"https://www.aliyundrive.com/s/yUrwzfiqQuf"},
 {name:"名称：抖音同城生活素人成长特训营，0-1实战落地，方法技巧、实战应用、案例解析",url:"https://www.aliyundrive.com/s/sqRQvJhGWDg"},
