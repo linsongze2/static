@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：灵戏逼人 (2023) 张振朗 / 龚嘉欣 国粤双版本 全20集完结【香港恐怖奇幻新剧】",url:"https://www.aliyundrive.com/s/RMCUQV7mfai"},
+const aliData = [{name:"名称：【得到】高效学习训练营",url:"https://www.aliyundrive.com/s/EhTFar2MQu8"},
+{name:"名称：灵戏逼人 (2023) 张振朗 / 龚嘉欣 国粤双版本 全20集完结【香港恐怖奇幻新剧】",url:"https://www.aliyundrive.com/s/RMCUQV7mfai"},
 {name:"名称：凡人修仙传：星海飞驰篇",url:"https://www.aliyundrive.com/s/ucXvHeU4cic"},
 {name:"名称：我爱你！ (2023) 2160p HDR 高码率 杜比5.1环绕 / 1080p DDP5.1 倪大红 / 惠英红 / 梁家辉",url:"https://www.aliyundrive.com/s/gQ8cFerAqmQ"},
 {name:"名称：行尸走肉：死亡之城 (2023) 1080p 高码率 DDP5.1 内封简英 &amp; 繁英双语 【完结篇 已刮削】",url:"https://www.aliyundrive.com/s/YFNS5WF6D9j"},
