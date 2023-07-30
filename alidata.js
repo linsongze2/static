@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：斗破苍穹 年番 (2022) 4K 更新55集",url:"https://www.aliyundrive.com/s/MWZjyj8vJTk"},
+const aliData = [{name:"名称：铃芽之旅",url:"https://www.aliyundrive.com/s/6HT7WhhD6j6"},
+{name:"名称：斗破苍穹 年番 (2022) 4K 更新55集",url:"https://www.aliyundrive.com/s/MWZjyj8vJTk"},
 {name:"名称：火凤燎原(2023) 4K B站水印 更新至15集",url:"https://www.aliyundrive.com/s/2UKp7xh6XLH"},
 {name:"名称：灵戏逼人 靈戲逼人 (2023) 20集完结",url:"https://www.aliyundrive.com/s/Hvm5cWRrwNK"},
 {name:"名称：欢迎来到王之国 (2023) 林允儿-韩剧 更E13",url:"https://www.aliyundrive.com/s/RCaGpVzibvK"},
