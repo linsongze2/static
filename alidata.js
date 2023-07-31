@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Python从入门到实践",url:"https://www.aliyundrive.com/s/8S2h1HusUS8"},
+const aliData = [{name:"名称：微信小程序全栈开发实战",url:"https://www.aliyundrive.com/s/vJXpmwGYtyL"},
+{name:"名称：Python从入门到实践",url:"https://www.aliyundrive.com/s/8S2h1HusUS8"},
 {name:"名称：L1魔王与废柴勇者 4J简中内嵌（更新至第五集）",url:"https://www.aliyundrive.com/s/hJUwkyBFrTv"},
 {name:"名称：《抖音商业模型解决·方案培训》个人·零售商·服务商·生产商·农商",url:"https://www.aliyundrive.com/s/nrfGoJ6c6LU"},
 {name:"名称：星辰变 第五季 完结 超前点播",url:"https://www.aliyundrive.com/s/wAyzg4RHR7f"},
