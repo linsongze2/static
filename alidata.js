@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：《抖音商业模型解决·方案培训》个人·零售商·服务商·生产商·农商",url:"https://www.aliyundrive.com/s/nrfGoJ6c6LU"},
+const aliData = [{name:"名称：L1魔王与废柴勇者 4J简中内嵌（更新至第五集）",url:"https://www.aliyundrive.com/s/hJUwkyBFrTv"},
+{name:"名称：《抖音商业模型解决·方案培训》个人·零售商·服务商·生产商·农商",url:"https://www.aliyundrive.com/s/nrfGoJ6c6LU"},
 {name:"名称：星辰变 第五季 完结 超前点播",url:"https://www.aliyundrive.com/s/wAyzg4RHR7f"},
 {name:"名称：死神 千年血战篇 第二季 诀别谭 (2023) 1080p 高码率 内封简繁英 更EP04 (S02E17)",url:"https://www.aliyundrive.com/s/571j7Y8j5tB"},
 {name:"名称：海贼王",url:"https://www.aliyundrive.com/s/urFRxBijdmW"},
