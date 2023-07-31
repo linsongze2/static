@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：海贼王",url:"https://www.aliyundrive.com/s/urFRxBijdmW"},
+const aliData = [{name:"名称：死神 千年血战篇 第二季 诀别谭 (2023) 1080p 高码率 内封简繁英 更EP04 (S02E17)",url:"https://www.aliyundrive.com/s/571j7Y8j5tB"},
+{name:"名称：海贼王",url:"https://www.aliyundrive.com/s/urFRxBijdmW"},
 {name:"名称：同情恶魔 Sympathy for the Devil (2023)",url:"https://www.aliyundrive.com/s/hXTXEyBBBeg"},
 {name:"名称：狂怒沙暴 Hidden Strike (2023) 成龙 约翰·塞纳",url:"https://www.aliyundrive.com/s/ztmroAEgtRa"},
 {name:"名称：摇曳露营△ 剧场版 4K原盘REMUX [杜比视界] [内封简日双字]",url:"https://www.aliyundrive.com/s/HU9LLov98qP"},
