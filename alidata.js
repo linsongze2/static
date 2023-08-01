@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：老友记 8-10季 AV1高压硬英文字幕",url:"https://www.aliyundrive.com/s/GQdE5XZbimB"},
+const aliData = [{name:"名称：流浪地球2 (2023) IMAX 2.1:1完整画幅版本 4K HDR10",url:"https://www.aliyundrive.com/s/8iXvUawNgft"},
+{name:"名称：老友记 8-10季 AV1高压硬英文字幕",url:"https://www.aliyundrive.com/s/GQdE5XZbimB"},
 {name:"名称：阿里技术书籍",url:"https://www.aliyundrive.com/s/FxTQm6S27H8"},
 {name:"名称：放学后失眠的你 君は放課後インソムニア (2023) 13集完结",url:"https://www.aliyundrive.com/s/css8fBCQs89"},
 {name:"名称：家庭机顶盒 K歌软件 掌上K歌.APK",url:"https://www.aliyundrive.com/s/NBRZXG9bFLw"},
