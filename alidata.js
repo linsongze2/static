@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：天空之城 高码率+AV1高压、字幕烧录",url:"https://www.aliyundrive.com/s/y65hwns4w1Y"},
+const aliData = [{name:"名称：TypeScript 开发实战",url:"https://www.aliyundrive.com/s/NwvBk8DWZo8"},
+{name:"名称：天空之城 高码率+AV1高压、字幕烧录",url:"https://www.aliyundrive.com/s/y65hwns4w1Y"},
 {name:"名称：不完美受害人",url:"https://www.aliyundrive.com/s/txnM2TBE1nh"},
 {name:"名称：潜伏5：红门 (2023) 2160p HDR &amp; DV DDP5.1 外挂双语【悬疑新片】【刮削】",url:"https://www.aliyundrive.com/s/qfyrbqeKhXY"},
 {name:"名称：苍狼之绝命行动 4K60FPS+4KTV版",url:"https://www.aliyundrive.com/s/WDCwTLvB7Sv"},
