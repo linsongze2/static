@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：疯狂动物城",url:"https://www.aliyundrive.com/s/EkRAZcDDyZ2"},
+const aliData = [{name:"名称：疯狂动物城+番外",url:"https://www.aliyundrive.com/s/teAoYEpdFiF"},
+{name:"名称：疯狂动物城",url:"https://www.aliyundrive.com/s/EkRAZcDDyZ2"},
 {name:"名称：微信小程序全栈开发实战",url:"https://www.aliyundrive.com/s/vJXpmwGYtyL"},
 {name:"名称：Python从入门到实践",url:"https://www.aliyundrive.com/s/8S2h1HusUS8"},
 {name:"名称：L1魔王与废柴勇者 4J简中内嵌（更新至第五集）",url:"https://www.aliyundrive.com/s/hJUwkyBFrTv"},
