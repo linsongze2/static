@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：疯狂动物城+番外",url:"https://www.aliyundrive.com/s/teAoYEpdFiF"},
+const aliData = [{name:"名称：星辰变 第五季 (2022) 超前点播 录播高清版28集完结",url:"https://www.aliyundrive.com/s/bboc8XrsQcc"},
+{name:"名称：疯狂动物城+番外",url:"https://www.aliyundrive.com/s/teAoYEpdFiF"},
 {name:"名称：疯狂动物城",url:"https://www.aliyundrive.com/s/EkRAZcDDyZ2"},
 {name:"名称：微信小程序全栈开发实战",url:"https://www.aliyundrive.com/s/vJXpmwGYtyL"},
 {name:"名称：Python从入门到实践",url:"https://www.aliyundrive.com/s/8S2h1HusUS8"},
