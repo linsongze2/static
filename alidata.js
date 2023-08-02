@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：夺魂密令 [内封简繁中字幕]",url:"https://www.aliyundrive.com/s/VUTGbaF6V7U"},
+const aliData = [{name:"名称：22 讲通关 Go 语言",url:"https://www.aliyundrive.com/s/bGfP3MTvAHD"},
+{name:"名称：夺魂密令 [内封简繁中字幕]",url:"https://www.aliyundrive.com/s/VUTGbaF6V7U"},
 {name:"名称：Python数据科学-技术详解与商业实践（八大案例，配套书籍）",url:"https://www.aliyundrive.com/s/MDY94gy2yrs"},
 {name:"名称：电话 / The Call / 声命线索",url:"https://www.aliyundrive.com/s/sG9jBRQanKz"},
 {name:"名称：微光城市 2008年美国电影 灾难导致人类搬进地下生活200年的奇特精彩故事",url:"https://www.aliyundrive.com/s/7uK4Cjg1Tuw"},
