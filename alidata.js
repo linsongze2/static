@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：电话 / The Call / 声命线索",url:"https://www.aliyundrive.com/s/sG9jBRQanKz"},
+const aliData = [{name:"名称：Python数据科学-技术详解与商业实践（八大案例，配套书籍）",url:"https://www.aliyundrive.com/s/MDY94gy2yrs"},
+{name:"名称：电话 / The Call / 声命线索",url:"https://www.aliyundrive.com/s/sG9jBRQanKz"},
 {name:"名称：微光城市 2008年美国电影 灾难导致人类搬进地下生活200年的奇特精彩故事",url:"https://www.aliyundrive.com/s/7uK4Cjg1Tuw"},
 {name:"名称：龙游三部曲（共包含龙游天下，龙行天下和龙巡天下三部）",url:"https://www.aliyundrive.com/s/BMUKWF1oBM8"},
 {name:"名称：劫机七小时 Hijack (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】季终完结",url:"https://www.aliyundrive.com/s/McH8WTbXcwd"},
