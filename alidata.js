@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：金刚不坏(2007) REMUX 外挂中字",url:"https://www.aliyundrive.com/s/LFYB6gs5Thj"},
+const aliData = [{name:"名称：咒术回战S2 4K简中（更新至第五集）",url:"https://www.aliyundrive.com/s/tCsp1JNmPkh"},
+{name:"名称：金刚不坏(2007) REMUX 外挂中字",url:"https://www.aliyundrive.com/s/LFYB6gs5Thj"},
 {name:"名称：邻家大贱谍(2016) 4K PROPER REMUX 外挂中字",url:"https://www.aliyundrive.com/s/wcik3CjURzz"},
 {name:"名称：鬼遮眼(2013) 内封中字",url:"https://www.aliyundrive.com/s/qk4F2jKYHRW"},
 {name:"名称：刺客(2023) 内封中字",url:"https://www.aliyundrive.com/s/j8vo774k2aY"},
