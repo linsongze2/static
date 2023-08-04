@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：淘宝爆款打造十步法解决爆款难题",url:"https://www.aliyundrive.com/s/fgK9zueYgB9"},
+const aliData = [{name:"名称：手把手教你玩转闲鱼专题课程",url:"https://www.aliyundrive.com/s/qtnF8D1N9xT"},
+{name:"名称：淘宝爆款打造十步法解决爆款难题",url:"https://www.aliyundrive.com/s/fgK9zueYgB9"},
 {name:"名称：Service Mesh 实战",url:"https://www.aliyundrive.com/s/wJu9zjPPfna"},
 {name:"名称：【咒术回战 第二季 2023】4K 高码 + 1080P 高码 内封简繁 更至第五集",url:"https://www.aliyundrive.com/s/vw7ozLc3Ckw"},
 {name:"名称：莲花楼 4K HDR",url:"https://www.aliyundrive.com/s/QUXyiUWsdLt"},
