@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：凡人修仙传",url:"https://www.aliyundrive.com/s/cLGQwWWa2rb"},
+const aliData = [{name:"名称：永生之十年之约 [更新至18集]",url:"https://www.aliyundrive.com/s/G28gwrnuEzM"},
+{name:"名称：凡人修仙传",url:"https://www.aliyundrive.com/s/cLGQwWWa2rb"},
 {name:"名称：航海王One Piece",url:"https://www.aliyundrive.com/s/gu99XaVwYmP"},
 {name:"名称：ZooKeeper 实战与源码剖析",url:"https://www.aliyundrive.com/s/2HYGaEPuZQR"},
 {name:"名称：海贼王 更1071",url:"https://www.aliyundrive.com/s/z82amAtxAfR"},
