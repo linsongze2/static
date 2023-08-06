@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：海贼王 路飞五档",url:"https://www.aliyundrive.com/s/urFRxBijdmW"},
+const aliData = [{name:"名称：【乐字节】Java高薪进阶班",url:"https://www.aliyundrive.com/s/4byChbqpeBw"},
+{name:"名称：海贼王 路飞五档",url:"https://www.aliyundrive.com/s/urFRxBijdmW"},
 {name:"名称：安乐传 (2023) 39集完结 迪丽热巴",url:"https://www.aliyundrive.com/s/zoxBbMx4dp8"},
 {name:"名称：我和我爸的十七岁 (2023) 24集完结",url:"https://www.aliyundrive.com/s/R2tr15HNK6Y"},
 {name:"名称：舞台2023 (2023) 王嘉尔/ 周深",url:"https://www.aliyundrive.com/s/dqJdXzgXr86"},
