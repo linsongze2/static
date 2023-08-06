@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：微专业-职场人必学的Python技能课",url:"https://www.aliyundrive.com/s/itFicjPVFDy"},
+const aliData = [{name:"名称：月光光心慌慌6：迈克梅尔的诅咒(1995) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/qYK9crHhjaa"},
+{name:"名称：微专业-职场人必学的Python技能课",url:"https://www.aliyundrive.com/s/itFicjPVFDy"},
 {name:"名称：《中国文化的深层结构》",url:"https://www.aliyundrive.com/s/pzAp89ZY7pm"},
 {name:"名称：无间之战 4K [60帧高码率版][国粤双语]",url:"https://www.aliyundrive.com/s/fSqzCYHM5zw"},
 {name:"名称：永生之十年之约 [更新至18集]",url:"https://www.aliyundrive.com/s/G28gwrnuEzM"},
