@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：僵尸百分百～变成僵尸之前想做的100件事～ ゾン100～ゾンビになるまでにしたい100のこと～（2023）",url:"https://www.aliyundrive.com/s/yoCYhSxjosk"},
+const aliData = [{name:"名称：.NET Core 开发实战",url:"https://www.aliyundrive.com/s/tDzQrVUyts1"},
+{name:"名称：僵尸百分百～变成僵尸之前想做的100件事～ ゾン100～ゾンビになるまでにしたい100のこと～（2023）",url:"https://www.aliyundrive.com/s/yoCYhSxjosk"},
 {name:"名称：集体追杀 The Collective（2023）",url:"https://www.aliyundrive.com/s/Cb3iHgSV9bJ"},
 {name:"名称：驱魔警察 蓝光原盘REMUX [高码英版 官方画质修复] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/G2HhjfbyuqH"},
 {name:"名称：请别相信她 4K高码率 [60帧率版]",url:"https://www.aliyundrive.com/s/PvYeQRb1tYo"},
