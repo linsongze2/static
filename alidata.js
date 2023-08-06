@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：视频号电商带货实训营2.0课程",url:"https://www.aliyundrive.com/s/g7pT6vRLVji"},
+const aliData = [{name:"名称：电商企业玩转抖音直播电商系统实战课，4大体系 解决电商企业直播流量转化盈利关键",url:"https://www.aliyundrive.com/s/aSHbg64x9vp"},
+{name:"名称：视频号电商带货实训营2.0课程",url:"https://www.aliyundrive.com/s/g7pT6vRLVji"},
 {name:"名称：从 0 开发一款 iOS App",url:"https://www.aliyundrive.com/s/jAoj7hrMK1L"},
 {name:"名称：未麻的部屋",url:"https://www.aliyundrive.com/s/mu2Tw2jZ5Qa"},
 {name:"名称：五十公里桃花坞3 (2023) 更0806",url:"https://www.aliyundrive.com/s/3e6jjgsFVJq"},
