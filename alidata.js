@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：月光光心慌慌6：迈克梅尔的诅咒(1995) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/qYK9crHhjaa"},
+const aliData = [{name:"名称：月光光心慌慌7：20年之后(1998) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/MJmJVTFnUPk"},
+{name:"名称：月光光心慌慌8：复活(2002) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/S8nCobjMvtM"},
+{name:"名称：月光光心慌慌(2018) 4K PROPER REMUX 外挂中字",url:"https://www.aliyundrive.com/s/4rhYGYiKb6T"},
+{name:"名称：月光光心慌慌6：迈克梅尔的诅咒(1995) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/qYK9crHhjaa"},
 {name:"名称：微专业-职场人必学的Python技能课",url:"https://www.aliyundrive.com/s/itFicjPVFDy"},
 {name:"名称：《中国文化的深层结构》",url:"https://www.aliyundrive.com/s/pzAp89ZY7pm"},
 {name:"名称：无间之战 4K [60帧高码率版][国粤双语]",url:"https://www.aliyundrive.com/s/fSqzCYHM5zw"},
