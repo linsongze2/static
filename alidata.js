@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：名侦探柯南/名探偵コナン 更至1093集即1151",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
+const aliData = [{name:"名称：《尸变图鉴》豆瓣9.2 自然环境下尸体的变化",url:"https://www.aliyundrive.com/s/ptNCvYXsU6y"},
+{name:"名称：名侦探柯南/名探偵コナン 更至1093集即1151",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
 {name:"名称：名不虚传 명불허전 (2017)",url:"https://www.aliyundrive.com/s/1NabDThYrKm"},
 {name:"名称：玩转 Spring 全家桶",url:"https://www.aliyundrive.com/s/ftk4XXHrPwN"},
 {name:"名称：【百战程序员】大数据架构师 1905期",url:"https://www.aliyundrive.com/s/s4H8CwxHgEt"},
