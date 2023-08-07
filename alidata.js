@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【黑马程序员】HTML&amp;JS+前端 V8.0",url:"https://www.aliyundrive.com/s/ZfeJhnCHWF2"},
+const aliData = [{name:"名称：鬼子来了",url:"https://www.aliyundrive.com/s/GPudPUVfLFK"},
+{name:"名称：【黑马程序员】HTML&amp;JS+前端 V8.0",url:"https://www.aliyundrive.com/s/ZfeJhnCHWF2"},
 {name:"名称：He-580 Pro 科学计算器 - 转换器 - 图形 - 数学、物理和化学公式",url:"https://www.aliyundrive.com/s/bp9toibEvkp"},
 {name:"名称：狂怒沙暴 Hidden Strike (2023) 成龙 约翰·塞纳",url:"https://www.aliyundrive.com/s/pkrqes6XYLY"},
 {name:"名称：TFBOYS十年之约演唱会 (2023)",url:"https://www.aliyundrive.com/s/ziSvpmdqn4i"},
