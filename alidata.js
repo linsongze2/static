@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我们仍未知道那天所看见的花的名字 蓝光原盘REMUX [内封简日双字]",url:"https://www.aliyundrive.com/s/YLdrfwsfx5V"},
+const aliData = [{name:"名称：Paprika [红辣椒]",url:"https://www.aliyundrive.com/s/3342imVfLiH"},
+{name:"名称：我们仍未知道那天所看见的花的名字 蓝光原盘REMUX [内封简日双字]",url:"https://www.aliyundrive.com/s/YLdrfwsfx5V"},
 {name:"名称：【后厂理工学院】百度飞桨联合设计双证资深AI实战工程师（CV方向）",url:"https://www.aliyundrive.com/s/N9YeTENUxA8"},
 {name:"名称：莲花楼 4KHDR 更新30",url:"https://www.aliyundrive.com/s/4YNxw4WfVgW"},
 {name:"名称：低俗小说 豆瓣 8.9 IMDB 8.9",url:"https://www.aliyundrive.com/s/WZiAqsJEf8X"},
