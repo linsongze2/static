@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：麻辣教师 GTO（1998）",url:"https://www.aliyundrive.com/s/kwENLiskA1R"},
+const aliData = [{name:"名称：麻辣教师电影版 GTO（1999）",url:"https://www.aliyundrive.com/s/EkMEhsQXvzh"},
+{name:"名称：麻辣教师 GTO（1998）",url:"https://www.aliyundrive.com/s/kwENLiskA1R"},
 {name:"名称：城市猎人 Nicky Larson et le parfum de Cupidon（2019）",url:"https://www.aliyundrive.com/s/SUcwqZyd7o9"},
 {name:"名称：蜘蛛侠：纵横宇宙 4K 官方中字",url:"https://www.aliyundrive.com/s/aEMUJJg6oSA"},
 {name:"名称：I Am Groot S01",url:"https://www.aliyundrive.com/s/htC7Hm4hjbm"},
