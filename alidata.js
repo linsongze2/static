@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：突击莉莉",url:"https://www.aliyundrive.com/s/QA5aA8i7E81"},
+const aliData = [{name:"名称：仙王的日常生活（全季）",url:"https://www.aliyundrive.com/s/zGarzGqQ2VF"},
+{name:"名称：突击莉莉",url:"https://www.aliyundrive.com/s/QA5aA8i7E81"},
 {name:"名称：战争之王 (2005)",url:"https://www.aliyundrive.com/s/34ZQibjSTqb"},
 {name:"名称：【龙果学院】从无到有构建大型电商微服务亿级架构（第1阶段）",url:"https://www.aliyundrive.com/s/EnDBeXFcS8x"},
 {name:"名称：白狐·情缘4KHDR_dolby_高码",url:"https://www.aliyundrive.com/s/DDvhWThLg3V"},
