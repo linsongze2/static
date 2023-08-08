@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：安乐传 4k p39",url:"https://www.aliyundrive.com/s/LosDYB226sj"},
+const aliData = [{name:"名称：前端进阶训练营 - 01期",url:"https://www.aliyundrive.com/s/StegT3HkJfZ"},
+{name:"名称：安乐传 4k p39",url:"https://www.aliyundrive.com/s/LosDYB226sj"},
 {name:"名称：PS商业修图人像精修课程",url:"https://www.aliyundrive.com/s/Kw6o4j53E47"},
 {name:"名称：Web 协议详解与抓包实战",url:"https://www.aliyundrive.com/s/xrPMcrWr223"},
 {name:"名称：燃情岁月(1994)REMUX",url:"https://www.aliyundrive.com/s/duoViY8EYYo"},
