@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Swift 核心技术与实战",url:"https://www.aliyundrive.com/s/DAWwuKMTFp3"},
+const aliData = [{name:"名称：小马哥Java分布式架构训练营：第一期Java分布式架构 - 服务治理",url:"https://www.aliyundrive.com/s/aoU5D7hWDxs"},
+{name:"名称：Swift 核心技术与实战",url:"https://www.aliyundrive.com/s/DAWwuKMTFp3"},
 {name:"名称：有盼头4K p7",url:"https://www.aliyundrive.com/s/BhfQGEMARMm"},
 {name:"名称：莲花楼 p32",url:"https://www.aliyundrive.com/s/GP5wLMLp5os"},
 {name:"名称：潜行者",url:"https://www.aliyundrive.com/s/ENu1RaKfATJ"},
