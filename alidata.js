@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：有盼头4K p7",url:"https://www.aliyundrive.com/s/BhfQGEMARMm"},
+const aliData = [{name:"名称：Swift 核心技术与实战",url:"https://www.aliyundrive.com/s/DAWwuKMTFp3"},
+{name:"名称：有盼头4K p7",url:"https://www.aliyundrive.com/s/BhfQGEMARMm"},
 {name:"名称：莲花楼 p32",url:"https://www.aliyundrive.com/s/GP5wLMLp5os"},
 {name:"名称：潜行者",url:"https://www.aliyundrive.com/s/ENu1RaKfATJ"},
 {name:"名称：大宋少年志2 (2023) p14",url:"https://www.aliyundrive.com/s/Xwg4LbA4Pn5"},
