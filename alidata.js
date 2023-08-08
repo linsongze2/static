@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：哔哩哔哩 第三方TV+Pad版 BBLL 支持8K+杜比视界以及弹幕播放",url:"https://www.aliyundrive.com/s/afUrTPBmUxx"},
+const aliData = [{name:"名称：【汽车学堂】新能源汽车BMS开发工程师",url:"https://www.aliyundrive.com/s/nHU6sgn7d9o"},
+{name:"名称：哔哩哔哩 第三方TV+Pad版 BBLL 支持8K+杜比视界以及弹幕播放",url:"https://www.aliyundrive.com/s/afUrTPBmUxx"},
 {name:"名称：前端进阶训练营 - 01期",url:"https://www.aliyundrive.com/s/StegT3HkJfZ"},
 {name:"名称：安乐传 4k p39",url:"https://www.aliyundrive.com/s/LosDYB226sj"},
 {name:"名称：PS商业修图人像精修课程",url:"https://www.aliyundrive.com/s/Kw6o4j53E47"},
