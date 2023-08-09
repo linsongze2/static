@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：1399/年的 思维导图/流程图软件-mindmanager（内附注册机）",url:"https://www.aliyundrive.com/s/cLzXzfpoHoS"},
+const aliData = [{name:"名称：西行纪年番 (2023)",url:"https://www.aliyundrive.com/s/jrWioBowNQm"},
+{name:"名称：1399/年的 思维导图/流程图软件-mindmanager（内附注册机）",url:"https://www.aliyundrive.com/s/cLzXzfpoHoS"},
 {name:"名称：小马哥Java分布式架构训练营：第一期Java分布式架构 - 服务治理",url:"https://www.aliyundrive.com/s/aoU5D7hWDxs"},
 {name:"名称：Swift 核心技术与实战",url:"https://www.aliyundrive.com/s/DAWwuKMTFp3"},
 {name:"名称：有盼头4K p7",url:"https://www.aliyundrive.com/s/BhfQGEMARMm"},
