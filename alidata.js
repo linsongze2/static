@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：【龙果学院】从无到有构建大型电商微服务亿级架构（第3阶段）",url:"https://www.aliyundrive.com/s/UPeiaBw3dp3"},
+const aliData = [{name:"名称：消失的十一层（24集完结）新增4K60帧",url:"https://www.aliyundrive.com/s/tHjULxuGEnf"},
+{name:"名称：【炼数成金】GPU并行计算与CUDA编程（第三期）",url:"https://www.aliyundrive.com/s/sxWCS76QeHh"},
+{name:"名称：【龙果学院】从无到有构建大型电商微服务亿级架构（第3阶段）",url:"https://www.aliyundrive.com/s/UPeiaBw3dp3"},
 {name:"名称：扫毒3 HDR4K 60帧 国粤双语",url:"https://www.aliyundrive.com/s/JqQHTJYx7vV"},
 {name:"名称：开源免费_全新跨平台的矢量图形设计软件_完美替代PS_AI_CDR工具",url:"https://www.aliyundrive.com/s/ahvma4VrfbQ"},
 {name:"名称：神印王座 4K 更67",url:"https://www.aliyundrive.com/s/TSv9XuCgtPc"},
