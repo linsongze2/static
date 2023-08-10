@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：关于我和鬼变成家人的那件事 (2023)",url:"https://www.aliyundrive.com/s/jG5WsTGTcNW"},
+const aliData = [{name:"名称：关于我和鬼变成家人那件事 (2023) 正式版 1080p",url:"https://www.aliyundrive.com/s/FaLTJdKmW2Z"},
+{name:"名称：关于我和鬼变成家人的那件事 (2023)",url:"https://www.aliyundrive.com/s/jG5WsTGTcNW"},
 {name:"名称：晴空 The Clearing (2023) 8集完结 悬疑 / 惊悚",url:"https://www.aliyundrive.com/s/DU7zkUjMHqK"},
 {name:"名称：超异能族 무빙 (2023) 1080p 高码率 内封多国语 更E07【热播韩剧】",url:"https://www.aliyundrive.com/s/KdK7a5JHrbJ"},
 {name:"名称：Vue3+TS打造SSR网站应用，0到1实现服务端渲染",url:"https://www.aliyundrive.com/s/fRbchxdXhBb"},
