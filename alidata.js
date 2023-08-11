@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：兴安岭猎人传说2轮回森林 4K60FPS",url:"https://www.aliyundrive.com/s/855Prbza9Hr"},
+const aliData = [{name:"名称：【大讲台】大数据运维尖刀班 - 2期",url:"https://www.aliyundrive.com/s/P2D7W6p54nU"},
+{name:"名称：兴安岭猎人传说2轮回森林 4K60FPS",url:"https://www.aliyundrive.com/s/855Prbza9Hr"},
 {name:"名称：五等分的新娘(第一季+第二季)",url:"https://www.aliyundrive.com/s/M6SQqY9fSB2"},
 {name:"名称：不要见怪 / 珍爱硬起来 (2023) 2160p HDR &amp; DV DDP5.1 内封简英 &amp; 繁英特效双语 【大尺度 易河蟹】",url:"https://www.aliyundrive.com/s/iJRXC698TGd"},
 {name:"名称：金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～",url:"https://www.aliyundrive.com/s/duwQWDt8eow"},
