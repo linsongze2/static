@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：电影通史",url:"https://www.aliyundrive.com/s/KyWun6YFq6x"},
+const aliData = [{name:"名称：活着 VIVANT (2023) 1080p 日语中字 更E04【近期热播日剧】",url:"https://www.aliyundrive.com/s/ayitpsaDrjc"},
+{name:"名称：电影通史",url:"https://www.aliyundrive.com/s/KyWun6YFq6x"},
 {name:"名称：钻石荆途 Diamonds✨【1080p.SDR】【原轨.高码率】2G/集",url:"https://www.aliyundrive.com/s/HbCrVALNqtk"},
 {name:"名称：【圣思园】精通SpringBoot Cloud",url:"https://www.aliyundrive.com/s/U5FwgyLkj2Y"},
 {name:"名称：【斯尔教育】会计上岗特训营",url:"https://www.aliyundrive.com/s/Me6r9gziPA3"},
