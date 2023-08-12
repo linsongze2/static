@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：教父",url:"https://www.aliyundrive.com/s/N1hr6aVjnQZ"},
+const aliData = [{name:"名称：国民死刑投票 국민사형투표&nbsp;(2023) 1080p 高码率 内封多国语 更E01 【林智妍新剧】",url:"https://www.aliyundrive.com/s/R7nkrgaBDsn"},
+{name:"名称：教父",url:"https://www.aliyundrive.com/s/N1hr6aVjnQZ"},
 {name:"名称：碟中谍6：全面瓦解",url:"https://www.aliyundrive.com/s/bRjaERaLZUs"},
 {name:"名称：飞虎神鹰",url:"https://www.aliyundrive.com/s/8vfTyEPyCbD"},
 {name:"名称：八月迷情 August Rush（2007）",url:"https://www.aliyundrive.com/s/cyf1vJJ3hTK"},
