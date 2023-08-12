@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：斗罗大陆第二部",url:"https://www.aliyundrive.com/s/EnwnntCtArv"},
+const aliData = [{name:"名称：Excel实战特训班 玩转Excel函数与公式 - 2期",url:"https://www.aliyundrive.com/s/SWEgBkYvqfU"},
+{name:"名称：斗罗大陆第二部",url:"https://www.aliyundrive.com/s/EnwnntCtArv"},
 {name:"名称：2023年中国实习生招聘研究报告",url:"https://www.aliyundrive.com/s/Z5A1JZ1uH4w"},
 {name:"名称：活着 VIVANT (2023) 1080p 日语中字 更E04【近期热播日剧】",url:"https://www.aliyundrive.com/s/ayitpsaDrjc"},
 {name:"名称：电影通史",url:"https://www.aliyundrive.com/s/KyWun6YFq6x"},
