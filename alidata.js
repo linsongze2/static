@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：僵尸百分百～变成僵尸之前想做的100件事～ 1080P/4K 简中内嵌（更新至第五集）",url:"https://www.aliyundrive.com/s/md6BWxiiDxm"},
+const aliData = [{name:"名称：L1魔王与废柴勇者 4J简中内嵌（更新至第六集）",url:"https://www.aliyundrive.com/s/hJUwkyBFrTv"},
+{name:"名称：莱莎的炼金工房 ～常暗女王与秘密藏身处 4K 简中内嵌（更新至第七）",url:"https://www.aliyundrive.com/s/mt9siK7o6Hw"},
+{name:"名称：僵尸百分百～变成僵尸之前想做的100件事～ 1080P/4K 简中内嵌（更新至第五集）",url:"https://www.aliyundrive.com/s/md6BWxiiDxm"},
 {name:"名称：【动力节点】多线程下载器项目实战",url:"https://www.aliyundrive.com/s/nUFXc4Arkr3"},
 {name:"名称：Netflix无授权客户端",url:"https://www.aliyundrive.com/s/QgCyab1YAo8"},
 {name:"名称：死神 千年血战篇 更新到19 Emby",url:"https://www.aliyundrive.com/s/eGfdmN69EaJ"},
