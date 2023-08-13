@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：L1魔王与废柴勇者 4J简中内嵌（更新至第六集）",url:"https://www.aliyundrive.com/s/hJUwkyBFrTv"},
+const aliData = [{name:"名称：政宗君的复仇 S2 1080P 高码率 简中内嵌（更新至第六集）",url:"https://www.aliyundrive.com/s/vnY1bVhEDtb"},
+{name:"名称：庙不可言 1080P高码率版本 简中内嵌（更新至第六集）",url:"https://www.aliyundrive.com/s/PzGXJSSRTVw"},
+{name:"名称：甜点转生 1080P高码率及4K 简中内嵌（更新至第七集）",url:"https://www.aliyundrive.com/s/7DagNTKmhNZ"},
+{name:"名称：L1魔王与废柴勇者 4J简中内嵌（更新至第六集）",url:"https://www.aliyundrive.com/s/hJUwkyBFrTv"},
 {name:"名称：莱莎的炼金工房 ～常暗女王与秘密藏身处 4K 简中内嵌（更新至第七）",url:"https://www.aliyundrive.com/s/mt9siK7o6Hw"},
 {name:"名称：僵尸百分百～变成僵尸之前想做的100件事～ 1080P/4K 简中内嵌（更新至第五集）",url:"https://www.aliyundrive.com/s/md6BWxiiDxm"},
 {name:"名称：【动力节点】多线程下载器项目实战",url:"https://www.aliyundrive.com/s/nUFXc4Arkr3"},
