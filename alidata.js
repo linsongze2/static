@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：政宗君的复仇 S2 1080P 高码率 简中内嵌（更新至第六集）",url:"https://www.aliyundrive.com/s/vnY1bVhEDtb"},
+const aliData = [{name:"名称：文豪野犬第五季 1080P高码率（更新至第五集）",url:"https://www.aliyundrive.com/s/eY9nEBfd3gW"},
+{name:"名称：堀与宫村-S2 1080P高码率（更新至第七集）",url:"https://www.aliyundrive.com/s/468dh6xr9Sc"},
+{name:"名称：BanG Dream! It's MyGO!!!!! 1080P高码率（更新至第九集）",url:"https://www.aliyundrive.com/s/t8zTdU1EJ3s"},
+{name:"名称：政宗君的复仇 S2 1080P 高码率 简中内嵌（更新至第六集）",url:"https://www.aliyundrive.com/s/vnY1bVhEDtb"},
 {name:"名称：庙不可言 1080P高码率版本 简中内嵌（更新至第六集）",url:"https://www.aliyundrive.com/s/PzGXJSSRTVw"},
 {name:"名称：甜点转生 1080P高码率及4K 简中内嵌（更新至第七集）",url:"https://www.aliyundrive.com/s/7DagNTKmhNZ"},
 {name:"名称：L1魔王与废柴勇者 4J简中内嵌（更新至第六集）",url:"https://www.aliyundrive.com/s/hJUwkyBFrTv"},
