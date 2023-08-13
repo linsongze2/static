@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：文豪野犬第五季 1080P高码率（更新至第五集）",url:"https://www.aliyundrive.com/s/eY9nEBfd3gW"},
+const aliData = [{name:"名称：谎言游戏 1080P高码率（更新至第七集）",url:"https://www.aliyundrive.com/s/s6SMgbb182d"},
+{name:"名称：扫毒3：人在天涯 扫毒3人在天涯 (2023) 国语粤语",url:"https://www.aliyundrive.com/s/PTF44E7NW9e"},
+{name:"名称：奇异贤伴 黑色天使 1080P高码率（更新至第七集）",url:"https://www.aliyundrive.com/s/VdtAMxa6a15"},
+{name:"名称：文豪野犬第五季 1080P高码率（更新至第五集）",url:"https://www.aliyundrive.com/s/eY9nEBfd3gW"},
 {name:"名称：堀与宫村-S2 1080P高码率（更新至第七集）",url:"https://www.aliyundrive.com/s/468dh6xr9Sc"},
 {name:"名称：BanG Dream! It's MyGO!!!!! 1080P高码率（更新至第九集）",url:"https://www.aliyundrive.com/s/t8zTdU1EJ3s"},
 {name:"名称：政宗君的复仇 S2 1080P 高码率 简中内嵌（更新至第六集）",url:"https://www.aliyundrive.com/s/vnY1bVhEDtb"},
