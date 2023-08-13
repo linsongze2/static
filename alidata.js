@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：不死少女～杀人笑剧 1080P高码率（更新至第六集）",url:"https://www.aliyundrive.com/s/AShguBoCGjx"},
+const aliData = [{name:"名称：欢迎来到王之国 킹더랜드 (2023) 16集完结 李俊昊/林允儿",url:"https://www.aliyundrive.com/s/ZGtWBgdwEVj"},
+{name:"名称：不死少女～杀人笑剧 1080P高码率（更新至第六集）",url:"https://www.aliyundrive.com/s/AShguBoCGjx"},
 {name:"名称：浪客剑心 －明治剑客浪漫谭－ 1080P高码率（更新至第六）",url:"https://www.aliyundrive.com/s/TbKgT5cdVqb"},
 {name:"名称：我的幸福婚约 1080P高码率（更新至第五集）",url:"https://www.aliyundrive.com/s/nKKGzLhWYiU"},
 {name:"名称：谎言游戏 1080P高码率（更新至第七集）",url:"https://www.aliyundrive.com/s/s6SMgbb182d"},
