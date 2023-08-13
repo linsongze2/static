@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【动力节点】多线程下载器项目实战",url:"https://www.aliyundrive.com/s/nUFXc4Arkr3"},
+const aliData = [{name:"名称：僵尸百分百～变成僵尸之前想做的100件事～ 1080P/4K 简中内嵌（更新至第五集）",url:"https://www.aliyundrive.com/s/md6BWxiiDxm"},
+{name:"名称：【动力节点】多线程下载器项目实战",url:"https://www.aliyundrive.com/s/nUFXc4Arkr3"},
 {name:"名称：Netflix无授权客户端",url:"https://www.aliyundrive.com/s/QgCyab1YAo8"},
 {name:"名称：死神 千年血战篇 更新到19 Emby",url:"https://www.aliyundrive.com/s/eGfdmN69EaJ"},
 {name:"名称：72节课：跟李锐学Excel，从入门到精通",url:"https://www.aliyundrive.com/s/3oyF2z6ypyD"},
