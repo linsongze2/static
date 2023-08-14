@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：不完美受害人 (2023)✨【2160p.HDR】【原轨.高码率】 3.9G/集",url:"https://www.aliyundrive.com/s/pvtuVbMMdZ8"},
+const aliData = [{name:"名称：咒中人 คน มนตร์ เวท (2023) 4集完结 泰剧",url:"https://www.aliyundrive.com/s/xLZ5AUAw8uk"},
+{name:"名称：不完美受害人 (2023)✨【2160p.HDR】【原轨.高码率】 3.9G/集",url:"https://www.aliyundrive.com/s/pvtuVbMMdZ8"},
 {name:"名称：海贼王",url:"https://www.aliyundrive.com/s/urFRxBijdmW"},
 {name:"名称：惊天侠盗团 4K60FPS",url:"https://www.aliyundrive.com/s/Y65LwvRCpAa"},
 {name:"名称：因为你如此耀眼 因為你如此耀眼 (2023) 更20",url:"https://www.aliyundrive.com/s/i1yqhQpRTSP"},
