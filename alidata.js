@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：金蝉脱壳(2013) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/5v9EnS9sbKm"},
+const aliData = [{name:"名称：名侦探柯南/名探偵コナン 更至1094集即1152",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
+{name:"名称：金蝉脱壳(2013) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/5v9EnS9sbKm"},
 {name:"名称：鹰眼(2008) REMUX 内封中字",url:"https://www.aliyundrive.com/s/vzRnJYZDXvD"},
 {name:"名称：霹雳娇娃(2000) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/DDwqXdB4nm9"},
 {name:"名称：套装(2022) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/FELvMdjYb5q"},
