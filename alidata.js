@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：L1魔王与废柴勇者 4J简中内嵌（更新至第七集）",url:"https://www.aliyundrive.com/s/hJUwkyBFrTv"},
+const aliData = [{name:"名称：疯狂元素城 Elemental（2023）",url:"https://www.aliyundrive.com/s/LpjtYBeeq77"},
+{name:"名称：L1魔王与废柴勇者 4J简中内嵌（更新至第七集）",url:"https://www.aliyundrive.com/s/hJUwkyBFrTv"},
 {name:"名称：政宗君的复仇 S2 1080P 高码率 简中内嵌（更新至第七集",url:"https://www.aliyundrive.com/s/vnY1bVhEDtb"},
 {name:"名称：长相思 (2023) 1080/4K HDR 39集完结 超前点映",url:"https://www.aliyundrive.com/s/K811QR2dqhV"},
 {name:"名称：金牌保镖/非常保镖 (2023) 4K",url:"https://www.aliyundrive.com/s/6V817kNCWbe"},
