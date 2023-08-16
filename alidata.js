@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：第一序列 4K [更新至05集]",url:"https://www.aliyundrive.com/s/ZbWgtUyukow"},
+const aliData = [{name:"名称：死神 千年血战篇 第二季 诀别谭 (2023) 1080p 高码率 内封简繁英 更EP05、06 (S02E18、19)",url:"https://www.aliyundrive.com/s/MVvzd645uZd"},
+{name:"名称：第一序列 4K [更新至05集]",url:"https://www.aliyundrive.com/s/ZbWgtUyukow"},
 {name:"名称：疫起 / 煞尘爆 (2023) 1080p NF 高码 内封多国语 【台湾新片】【刮削】",url:"https://www.aliyundrive.com/s/Xoprwn74zpM"},
 {name:"名称：小角色 4K",url:"https://www.aliyundrive.com/s/aBYdP7pyrU1"},
 {name:"名称：雾山五行 4K [更新至07集]",url:"https://www.aliyundrive.com/s/Fhhzo2VqtRx"},
