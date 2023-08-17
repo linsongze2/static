@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：神印王座 4K 更68",url:"https://www.aliyundrive.com/s/TSv9XuCgtPc"},
+const aliData = [{name:"名称：陶喆《活该》2023.8.16新单曲[flac/mp3]",url:"https://www.aliyundrive.com/s/57QqcnPnQXK"},
+{name:"名称：神印王座 4K 更68",url:"https://www.aliyundrive.com/s/TSv9XuCgtPc"},
 {name:"名称：镖人 (2023) 4K 15集完结",url:"https://www.aliyundrive.com/s/cgREhkMCJqc"},
 {name:"名称：第一序列(2023) 4K 更新至第6集 B站水印",url:"https://www.aliyundrive.com/s/eWtmdtmrWbf"},
 {name:"名称：雾山五行之犀川幻紫林篇 (2023)",url:"https://www.aliyundrive.com/s/WJ5Gp4YXhez"},
