@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：灌篮高手 电影版(2023)",url:"https://www.aliyundrive.com/s/6rC1BEpdEes"},
+const aliData = [{name:"名称：【蝉妈妈电商学苑】抖音电商新手起号训练营",url:"https://www.aliyundrive.com/s/Gu4LbfgGDvk"},
+{name:"名称：灌篮高手 电影版(2023)",url:"https://www.aliyundrive.com/s/6rC1BEpdEes"},
 {name:"名称：分布式事务实践，从原理到实例，解决数据一致性",url:"https://www.aliyundrive.com/s/jbJG974vHvh"},
 {name:"名称：陶喆《活该》2023.8.16新单曲[flac/mp3]",url:"https://www.aliyundrive.com/s/57QqcnPnQXK"},
 {name:"名称：神印王座 4K 更68",url:"https://www.aliyundrive.com/s/TSv9XuCgtPc"},
