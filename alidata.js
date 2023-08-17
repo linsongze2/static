@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【炼气十万年1080P】更新至55",url:"https://www.aliyundrive.com/s/grJ8gjKeRkH"},
+const aliData = [{name:"名称：聊斋先生",url:"https://www.aliyundrive.com/s/YeK7To3a1jS"},
+{name:"名称：【炼气十万年1080P】更新至55",url:"https://www.aliyundrive.com/s/grJ8gjKeRkH"},
 {name:"名称：三个火枪手：达达尼昂 4K原盘REMUX [杜比视界] [内封简英双字]",url:"https://www.aliyundrive.com/s/jVGptBE2Fb9"},
 {name:"名称：扫毒3：人在天涯 掃毒3：人在天涯 (2023) 4K60FPS+4KHDR+4KHDR60FPS",url:"https://www.aliyundrive.com/s/3dN9gDYctpg"},
 {name:"名称：死神 千年血战篇 第二季 诀别谭 (2023) 1080p 高码率 内封简繁英 更EP05、06 (S02E18、19)",url:"https://www.aliyundrive.com/s/MVvzd645uZd"},
