@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：消失的痕迹 (2023) 32集完结",url:"https://www.aliyundrive.com/s/Pfqe25JCX6x"},
+const aliData = [{name:"名称：一起撸串吧(2023) S01E06 4K",url:"https://www.aliyundrive.com/s/sXwYxNCnu3G"},
+{name:"名称：消失的痕迹 (2023) 32集完结",url:"https://www.aliyundrive.com/s/Pfqe25JCX6x"},
 {name:"名称：25小时恋爱(2023) S01E01~E14 4K",url:"https://www.aliyundrive.com/s/YGXLLQYFRd1"},
 {name:"名称：心动的信号(2018) S06E22(第4期陪看：“恋综四傻”憋笑挑战失败) 4K 建议配合媒体库使用",url:"https://www.aliyundrive.com/s/S1fdPKvvS3R"},
 {name:"名称：她的城(2023) S01E01~E08 4K",url:"https://www.aliyundrive.com/s/AYxucbmDWpw"},
