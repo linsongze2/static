@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：七时吉祥 S01E01~E22 4K",url:"https://www.aliyundrive.com/s/aBKNPQkcxpj"},
+const aliData = [{name:"名称：追光的日子 (2023) 1080/4K 30集完结 王源 郭京飞",url:"https://www.aliyundrive.com/s/dnjsv8X4Kat"},
+{name:"名称：七时吉祥 S01E01~E22 4K",url:"https://www.aliyundrive.com/s/aBKNPQkcxpj"},
 {name:"名称：25小时恋爱(2023) S01E01~E16 4K",url:"https://www.aliyundrive.com/s/X9igt1M3MEp"},
 {name:"名称：她的城(2023) S01E01~E10 4K",url:"https://www.aliyundrive.com/s/intpjykJ8yf"},
 {name:"名称：她的城 4KHDR60FPS 更新10集",url:"https://www.aliyundrive.com/s/vyfDXfBefRx"},
