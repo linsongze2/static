@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：斗罗大陆2：绝世唐门 (2023) 更10",url:"https://www.aliyundrive.com/s/NquATYiW8J4"},
+const aliData = [{name:"名称：棋魂(2020) S01 4K",url:"https://www.aliyundrive.com/s/LPp9ZCwgH4b"},
+{name:"名称：斗罗大陆2：绝世唐门 (2023) 更10",url:"https://www.aliyundrive.com/s/NquATYiW8J4"},
 {name:"名称：镖人 (2023)【Emby】",url:"https://www.aliyundrive.com/s/cgQTncMJ2p8"},
 {name:"名称：国民死刑投票 국민사형투표&nbsp;(2023) 1080p 高码率 内封多国语 更E02 【林智妍新剧】",url:"https://www.aliyundrive.com/s/R7nkrgaBDsn"},
 {name:"名称：【开课吧】数据分析高薪培养计划-就业班35期",url:"https://www.aliyundrive.com/s/UB83bcxkLsi"},
