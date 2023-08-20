@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Excel Power Pivot建模分析_基础",url:"https://www.aliyundrive.com/s/MjcexpyRAja"},
+const aliData = [{name:"名称：死神 千年血战篇 第二季 诀别谭 (2023) 1080p 高码率 内封简繁英 更EP05、06 、07(S02E18、19、20)",url:"https://www.aliyundrive.com/s/GR6UioC7eYJ"},
+{name:"名称：Excel Power Pivot建模分析_基础",url:"https://www.aliyundrive.com/s/MjcexpyRAja"},
 {name:"名称：阴阳先生 4K",url:"https://www.aliyundrive.com/s/aqzcdf7mbji"},
 {name:"名称：现在就出发(2023) S01E03(第二期上) 4K",url:"https://www.aliyundrive.com/s/cU9rNEAYnEQ"},
 {name:"名称：【浪客剑心 明治剑客浪漫谭 2023】1080P 高码率 内封简繁 更至第七集",url:"https://www.aliyundrive.com/s/aoC8UEg3HJk"},
