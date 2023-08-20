@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：一兆游戏 S01 (2023) 日剧 1080p 内封简繁 更E06",url:"https://www.aliyundrive.com/s/zR6GTYX4EBw"},
+const aliData = [{name:"名称：文豪野犬 全系列",url:"https://www.aliyundrive.com/s/jbyMzwaLNFP"},
+{name:"名称：一兆游戏 S01 (2023) 日剧 1080p 内封简繁 更E06",url:"https://www.aliyundrive.com/s/zR6GTYX4EBw"},
 {name:"名称：寄宿学校的朱丽叶",url:"https://www.aliyundrive.com/s/3FiZ9c5kcp5"},
 {name:"名称：继母的拖油瓶是我的前女友",url:"https://www.aliyundrive.com/s/XqUgHWjvirq"},
 {name:"名称：滨虎1-2季",url:"https://www.aliyundrive.com/s/48DjMd7Sbsq"},
