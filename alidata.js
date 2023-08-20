@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：中餐厅 第七季 (2023)",url:"https://www.aliyundrive.com/s/DM7mGViATVd"},
+const aliData = [{name:"名称：【浪客剑心 明治剑客浪漫谭 2023】1080P 高码率 内封简繁 更至第七集",url:"https://www.aliyundrive.com/s/aoC8UEg3HJk"},
+{name:"名称：中餐厅 第七季 (2023)",url:"https://www.aliyundrive.com/s/DM7mGViATVd"},
 {name:"名称：她的城(2023) S01E01~E12 4K",url:"https://www.aliyundrive.com/s/S2JrZfmzkkp"},
 {name:"名称：灼灼风流(2023) S01E01~E08 4K",url:"https://www.aliyundrive.com/s/EfE6m5xfn7v"},
 {name:"名称：理想禁区",url:"https://www.aliyundrive.com/s/Lswgj7RSn1f"},
