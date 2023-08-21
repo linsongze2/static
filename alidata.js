@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：偏见的本质（豆瓣8.2）",url:"https://www.aliyundrive.com/s/cTLaWnFD47P"},
+const aliData = [{name:"名称：这才是心理学-看穿伪心理学的本质",url:"https://www.aliyundrive.com/s/HRLCWesNs8z"},
+{name:"名称：偏见的本质（豆瓣8.2）",url:"https://www.aliyundrive.com/s/cTLaWnFD47P"},
 {name:"名称：100万个约定 一百万个约定 (2023) 丁禹兮 / 杨超越",url:"https://www.aliyundrive.com/s/2AFFeMEvJVe"},
 {name:"名称：武神主宰",url:"https://www.aliyundrive.com/s/9e75UXsdJmw"},
 {name:"名称：【大咖课堂】蝉妈妈×尹晨俱乐部：千川从0到1爆量投放模型",url:"https://www.aliyundrive.com/s/BiyPJbv4Gw7"},
