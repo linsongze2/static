@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：树上有个好地方2:美术老师的放羊班",url:"https://www.aliyundrive.com/s/SAzuw1z7NQh"},
+const aliData = [{name:"名称：Python 网络爬虫数据采集 【优品课堂】",url:"https://www.aliyundrive.com/s/nmwy9TYsnXF"},
+{name:"名称：【TK增长会】TikTok外贸工厂陪跑训练营",url:"https://www.aliyundrive.com/s/34DojRVWAmu"},
+{name:"名称：树上有个好地方2:美术老师的放羊班",url:"https://www.aliyundrive.com/s/SAzuw1z7NQh"},
 {name:"名称：【黑马程序员】解密JVM虚拟机底层原理",url:"https://www.aliyundrive.com/s/tsqudrXTtVb"},
 {name:"名称：这才是心理学-看穿伪心理学的本质",url:"https://www.aliyundrive.com/s/HRLCWesNs8z"},
 {name:"名称：偏见的本质（豆瓣8.2）",url:"https://www.aliyundrive.com/s/cTLaWnFD47P"},
