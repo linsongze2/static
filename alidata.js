@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我的波塞冬(2019) S01 1080P",url:"https://www.aliyundrive.com/s/DoYh8kw3m62"},
+const aliData = [{name:"名称：飙速宅男 [1-5季+剧场版+OVA]",url:"https://www.aliyundrive.com/s/Q5zjJSX8YHE"},
+{name:"名称：我的波塞冬(2019) S01 1080P",url:"https://www.aliyundrive.com/s/DoYh8kw3m62"},
 {name:"名称：交个朋友电商学苑 - 教你从0-1，做出优秀的电商短视频",url:"https://www.aliyundrive.com/s/aHR566n4mTo"},
 {name:"名称：双生灵探",url:"https://www.aliyundrive.com/s/HKH2jm8E92d"},
 {name:"名称：乐队的夏天 第三季 (2023)",url:"https://www.aliyundrive.com/s/CkRtAsWoAY4"},
