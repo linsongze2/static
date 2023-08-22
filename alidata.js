@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：消失的十一层 [4K完结]",url:"https://www.aliyundrive.com/s/39yWXEvsfja"},
+const aliData = [{name:"名称：抖音电商训练营：从入门到精通，从账号定位到流量变现，抖店运营实操",url:"https://www.aliyundrive.com/s/mabrqEpoLny"},
+{name:"名称：消失的十一层 [4K完结]",url:"https://www.aliyundrive.com/s/39yWXEvsfja"},
 {name:"名称：哆啦A梦:大雄与天空的理想乡",url:"https://www.aliyundrive.com/s/D1UEgK3YQUo"},
 {name:"名称：余生那些年 4KHDR60FPS_DOLBY国日双语",url:"https://www.aliyundrive.com/s/gUKWuZRiEGu"},
 {name:"名称：天龙特攻队 The A-Team (2010) 中英双语字幕 蓝光",url:"https://www.aliyundrive.com/s/yUUajuNaX3T"},
