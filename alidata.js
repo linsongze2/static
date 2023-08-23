@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：快速掌握前端必会的 7 种设计模式",url:"https://www.aliyundrive.com/s/d7DU28VkPDm"},
+const aliData = [{name:"名称：【开课吧】人工智能核心能力培养计划 007期",url:"https://www.aliyundrive.com/s/v5SEUYCDTiF"},
+{name:"名称：快速掌握前端必会的 7 种设计模式",url:"https://www.aliyundrive.com/s/d7DU28VkPDm"},
 {name:"名称：活着(2023) S01E01-E06 1080P 内封简繁",url:"https://www.aliyundrive.com/s/ZsuWKjrp8p4"},
 {name:"名称：密室大逃脱 第五季 (2023) 更0823",url:"https://www.aliyundrive.com/s/PTrAKDQquSr"},
 {name:"名称：戴洛克小镇 (2023) 第一季 4K HDR",url:"https://www.aliyundrive.com/s/VAfMGrTP5Dx"},
