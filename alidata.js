@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：鹊刀门传奇【4K】更新18",url:"https://www.aliyundrive.com/s/KpBzd54rh3W"},
+const aliData = [{name:"名称：鹊刀门传奇 S01E01~E18 4K",url:"https://www.aliyundrive.com/s/KpBzd54rh3W"},
+{name:"名称：鹊刀门传奇【4K】更新18",url:"https://www.aliyundrive.com/s/KpBzd54rh3W"},
 {name:"名称：花束般的恋爱(2021) 4K 内封中字",url:"https://www.aliyundrive.com/s/Fj1gfMuKjBg"},
 {name:"名称：灵异空间(2017) 4K HDR 外挂中字",url:"https://www.aliyundrive.com/s/fALjxkMfHEi"},
 {name:"名称：决胜21点(2008) REMUX 内封中字",url:"https://www.aliyundrive.com/s/38rgRt6jV28"},
