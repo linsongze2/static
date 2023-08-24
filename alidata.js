@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：余生那些年(2022) 1080p B站水印",url:"https://www.aliyundrive.com/s/bCEWPohBpdQ"},
+const aliData = [{name:"名称：戴洛奇小镇 第一季 Deadloch Season 1 (2023)",url:"https://www.aliyundrive.com/s/zE2cWEkbosg"},
+{name:"名称：余生那些年(2022) 1080p B站水印",url:"https://www.aliyundrive.com/s/bCEWPohBpdQ"},
 {name:"名称：【百战程序员】Python全栈工程师",url:"https://www.aliyundrive.com/s/B5c5Q1dDKyN"},
 {name:"名称：【河蟹补】消失的痕迹 (2023) 2160p DDP2.0 全32集完结【热播犯罪悬疑新剧】",url:"https://www.aliyundrive.com/s/xPJXPiMufZt"},
 {name:"名称：Java工程师高薪训练营-2021",url:"https://www.aliyundrive.com/s/KUaEAzqrANC"},
