@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：极简英语 - 英语能力系统提升班",url:"https://www.aliyundrive.com/s/vtdkUoH3N8t"},
+const aliData = [{name:"名称：魔法使的新娘",url:"https://www.aliyundrive.com/s/RTArC1nrLqP"},
+{name:"名称：极简英语 - 英语能力系统提升班",url:"https://www.aliyundrive.com/s/vtdkUoH3N8t"},
 {name:"名称：鹊刀门传奇 S01E01~E20 4K",url:"https://www.aliyundrive.com/s/NXLQ4iADvSg"},
 {name:"名称：剑风传奇 黄金时代篇2：多尔多雷攻略(2012) 1080P原盘 内封简中",url:"https://www.aliyundrive.com/s/r7kvXNnoYN1"},
 {name:"名称：剑风传奇 黄金时代篇3：降临(2013) 1080P原盘 内封简中",url:"https://www.aliyundrive.com/s/4PhpfdBfm67"},
