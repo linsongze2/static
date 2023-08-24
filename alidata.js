@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：月亮女孩与恶魔恐龙 Marvel’s Moon Girl and Devil Dinosaur (2023)",url:"https://www.aliyundrive.com/s/GHpAabnL4vD"},
+const aliData = [{name:"名称：诸神的黄昏 S01~S03 Ragnarok (2023)",url:"https://www.aliyundrive.com/s/7fuZ6u1QE57"},
+{name:"名称：月亮女孩与恶魔恐龙 Marvel’s Moon Girl and Devil Dinosaur (2023)",url:"https://www.aliyundrive.com/s/GHpAabnL4vD"},
 {name:"名称：百变艾琳 Who Is Erin Carter (2023)",url:"https://www.aliyundrive.com/s/dRgLgd2cEjW"},
 {name:"名称：破毒强人 破毒強人 (2023) 1080/4K HDR 30集完结",url:"https://www.aliyundrive.com/s/GtUU5kbKekE"},
 {name:"名称：破毒强人 4K60FPS 国粤双语 30集完结",url:"https://www.aliyundrive.com/s/skQBgLNVv7s"},
