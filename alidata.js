@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Q版三国之刘关张(2003) S01 1080p",url:"https://www.aliyundrive.com/s/knWpXpNWT3d"},
+const aliData = [{name:"名称：陌生人(2023) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/q1JCP8EBB65"},
+{name:"名称：Q版三国之刘关张(2003) S01 1080p",url:"https://www.aliyundrive.com/s/knWpXpNWT3d"},
 {name:"名称：魔法使的新娘",url:"https://www.aliyundrive.com/s/RTArC1nrLqP"},
 {name:"名称：极简英语 - 英语能力系统提升班",url:"https://www.aliyundrive.com/s/vtdkUoH3N8t"},
 {name:"名称：鹊刀门传奇 S01E01~E20 4K",url:"https://www.aliyundrive.com/s/NXLQ4iADvSg"},
