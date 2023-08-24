@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：诺思星 - 抖音影视混剪变现课",url:"https://www.aliyundrive.com/s/kc52CrqSjZ5"},
+const aliData = [{name:"名称：【马士兵教育】安全运维架构师全栈课程",url:"https://www.aliyundrive.com/s/aoueGZVucVg"},
+{name:"名称：诺思星 - 抖音影视混剪变现课",url:"https://www.aliyundrive.com/s/kc52CrqSjZ5"},
 {name:"名称：疯狂元素城",url:"https://www.aliyundrive.com/s/5Q4cR17WW11"},
 {name:"名称：长相思(2023) S01 4K",url:"https://www.aliyundrive.com/s/nTY5MuaB62a"},
 {name:"名称：长相思4k",url:"https://www.aliyundrive.com/s/6cdivZA2t8o"},
