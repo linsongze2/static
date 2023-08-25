@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：雪王驾到 (2023) 更3",url:"https://www.aliyundrive.com/s/rQLnAvUj8Yc"},
+const aliData = [{name:"名称：度假伙伴 2 Vacation Friends 2（2023）",url:"https://www.aliyundrive.com/s/u83dQYERKSb"},
+{name:"名称：【开课吧】算法工程师-高级深度学习",url:"https://www.aliyundrive.com/s/gquSgE5ASs9"},
+{name:"名称：雪王驾到 (2023) 更3",url:"https://www.aliyundrive.com/s/rQLnAvUj8Yc"},
 {name:"名称：完美世界 4K 更125",url:"https://www.aliyundrive.com/s/zRRbtxGy5jL"},
 {name:"名称：【大鹏教育】BI(商务智能)工具课",url:"https://www.aliyundrive.com/s/iMVtsW5ud6j"},
 {name:"名称：巨齿鲨2：深渊【4K HDR】",url:"https://www.aliyundrive.com/s/MczYVmuqHVA"},
