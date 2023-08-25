@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：巨齿鲨2：深渊 (2023) 2160p HDR &amp; DV + 1080p 高码率 DDP5.1 外挂双语 (暂为机翻，内封版本等人工字幕)",url:"https://www.aliyundrive.com/s/96YfowBk1CC"},
+const aliData = [{name:"名称：国民死刑投票 국민사형투표&nbsp;(2023) 1080p 高码率 内封多国语 更E03 【林智妍新剧】",url:"https://www.aliyundrive.com/s/R7nkrgaBDsn"},
+{name:"名称：巨齿鲨2：深渊 (2023) 2160p HDR &amp; DV + 1080p 高码率 DDP5.1 外挂双语 (暂为机翻，内封版本等人工字幕)",url:"https://www.aliyundrive.com/s/96YfowBk1CC"},
 {name:"名称：消失的她(2023) 4K 正式版",url:"https://www.aliyundrive.com/s/jaRBtxtmf65"},
 {name:"名称：度假伙伴 2 Vacation Friends 2（2023）",url:"https://www.aliyundrive.com/s/u83dQYERKSb"},
 {name:"名称：【开课吧】算法工程师-高级深度学习",url:"https://www.aliyundrive.com/s/gquSgE5ASs9"},
