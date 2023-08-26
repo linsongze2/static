@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：惊奇的传闻2：反击 (2023) 1080p 中文字幕 更E08【悬疑韩剧｜附第一季】",url:"https://www.aliyundrive.com/s/jj7caiPyntR"},
+const aliData = [{name:"名称：超级马力欧兄弟大电影 (2023) 2160p BluRay REMUX (4K 原盘) 杜比视界 外挂双语【刮削】",url:"https://www.aliyundrive.com/s/LgAQ1evufuB"},
+{name:"名称：杀人读书会(2023) 1080P 内封简繁",url:"https://www.aliyundrive.com/s/8gG3n43KnVb"},
+{name:"名称：惊奇的传闻2：反击 (2023) 1080p 中文字幕 更E08【悬疑韩剧｜附第一季】",url:"https://www.aliyundrive.com/s/jj7caiPyntR"},
 {name:"名称：生化危机：死亡岛 (2023) 2160p BluRay REMUX (4K 原盘) 内封特效双语 【刮削】",url:"https://www.aliyundrive.com/s/bGzvwVJSiqY"},
 {name:"名称：速度与激情10 (2023) 2160p BluRay REMUX (4K 原盘) 杜比视界 外挂双语【刮削】",url:"https://www.aliyundrive.com/s/MaCSKnYPiPt"},
 {name:"名称：消失的她(2023) 4K 高码 60帧",url:"https://www.aliyundrive.com/s/jaRBtxtmf65"},
