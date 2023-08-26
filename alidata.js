@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：镇魂街 第三季 (2023) 4K 更6",url:"https://www.aliyundrive.com/s/TRJ4j37rbZB"},
+const aliData = [{name:"名称：惊奇的传闻2：反击 (2023) 1080p 中文字幕 更E09【悬疑韩剧｜附第一季】",url:"https://www.aliyundrive.com/s/jj7caiPyntR"},
+{name:"名称：镇魂街 第三季 (2023) 4K 更6",url:"https://www.aliyundrive.com/s/TRJ4j37rbZB"},
 {name:"名称：地球脉动 S1(2006) 1080P 国粤英台四音轨，默认英语 中字外字幕",url:"https://www.aliyundrive.com/s/17R8sDARyDU"},
 {name:"名称：东北警察故事2 (2023) 2160p 高码 DDP5.1 Atmos【补档 - 易和谐】【刮削】",url:"https://www.aliyundrive.com/s/VzRhRieKTPB"},
 {name:"名称：西虹市首富 (2018) - 沈腾 1080p BluRay REMUX DTS-HD MA5.1 外挂简中 【刮削】",url:"https://www.aliyundrive.com/s/m5eq82txBuz"},
