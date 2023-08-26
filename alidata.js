@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：告别昨日(1979) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/bQTCyHW8PLb"},
+const aliData = [{name:"名称：度假伙伴(2021) 4K HDR 内封简繁",url:"https://www.aliyundrive.com/s/aLR5i8M2Ahy"},
+{name:"名称：Go 语言从入门到实战",url:"https://www.aliyundrive.com/s/YDGijuSitMF"},
+{name:"名称：告别昨日(1979) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/bQTCyHW8PLb"},
 {name:"名称：超级马力欧兄弟大电影 (2023) 2160p BluRay REMUX (4K 原盘) 杜比视界 外挂双语【刮削】",url:"https://www.aliyundrive.com/s/LgAQ1evufuB"},
 {name:"名称：杀人读书会(2023) 1080P 内封简繁",url:"https://www.aliyundrive.com/s/8gG3n43KnVb"},
 {name:"名称：惊奇的传闻2：反击 (2023) 1080p 中文字幕 更E08【悬疑韩剧｜附第一季】",url:"https://www.aliyundrive.com/s/jj7caiPyntR"},
