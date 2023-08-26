@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：境界 新篇章 诀别谭篇 4K 国内流媒体 更新第8集 日语简中",url:"https://www.aliyundrive.com/s/1uUZNryBg3F"},
+const aliData = [{name:"名称：AI辅助设计训练营：基础入门与初步应用课程+深入实战课程",url:"https://www.aliyundrive.com/s/YoaPY5NVXnq"},
+{name:"名称：境界 新篇章 诀别谭篇 4K 国内流媒体 更新第8集 日语简中",url:"https://www.aliyundrive.com/s/1uUZNryBg3F"},
 {name:"名称：米杰-小红书电商项目：从小白到精英实战训练营",url:"https://www.aliyundrive.com/s/oKAXYcnd1wo"},
 {name:"名称：惊奇的传闻2：反击 (2023) 1080p 中文字幕 更E09【悬疑韩剧｜附第一季】",url:"https://www.aliyundrive.com/s/jj7caiPyntR"},
 {name:"名称：镇魂街 第三季 (2023) 4K 更6",url:"https://www.aliyundrive.com/s/TRJ4j37rbZB"},
