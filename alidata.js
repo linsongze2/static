@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：父辈的荣耀 4K 首发3集",url:"https://www.aliyundrive.com/s/GXKdFEPTPFN"},
+const aliData = [{name:"名称：死神 千年血战篇 第二季 千年血戦篇-訣別譚- (2023)",url:"https://www.aliyundrive.com/s/u5omLGF1RRo"},
+{name:"名称：父辈的荣耀 4K 首发3集",url:"https://www.aliyundrive.com/s/GXKdFEPTPFN"},
 {name:"名称：基地S02 4K [更新至06集][内嵌简英特效字幕][内附S01全季]",url:"https://www.aliyundrive.com/s/SjaQiWFAYf1"},
 {name:"名称：父辈的荣耀 4K [更新至03集]",url:"https://www.aliyundrive.com/s/o99h77g4Gn4"},
 {name:"名称：因为你如此耀眼 因為你如此耀眼 (2023) 1080/4K 更23",url:"https://www.aliyundrive.com/s/K6YLRaJJFwP"},
