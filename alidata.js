@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：父辈的荣耀 4K [更新至03集]",url:"https://www.aliyundrive.com/s/o99h77g4Gn4"},
+const aliData = [{name:"名称：父辈的荣耀 4K 首发3集",url:"https://www.aliyundrive.com/s/GXKdFEPTPFN"},
+{name:"名称：基地S02 4K [更新至06集][内嵌简英特效字幕][内附S01全季]",url:"https://www.aliyundrive.com/s/SjaQiWFAYf1"},
+{name:"名称：父辈的荣耀 4K [更新至03集]",url:"https://www.aliyundrive.com/s/o99h77g4Gn4"},
 {name:"名称：因为你如此耀眼 因為你如此耀眼 (2023) 1080/4K 更23",url:"https://www.aliyundrive.com/s/K6YLRaJJFwP"},
 {name:"名称：七时吉祥4KHDR60FPS 她的城 4KHDR60FPS 更新",url:"https://www.aliyundrive.com/s/F8AvY6KF9aJ"},
 {name:"名称：父辈的荣耀(2023) S01E01-E03 4K",url:"https://www.aliyundrive.com/s/uAWZ8oXLkhq"},
