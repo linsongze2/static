@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【天善智能】数据分析师八大能力培养",url:"https://www.aliyundrive.com/s/x8rc4tMFFA9"},
+const aliData = [{name:"名称：斗破苍穹 年番更新至59",url:"https://www.aliyundrive.com/s/1BxjvVA43FW"},
+{name:"名称：【天善智能】数据分析师八大能力培养",url:"https://www.aliyundrive.com/s/x8rc4tMFFA9"},
 {name:"名称：死神 千年血战篇 【Emby】",url:"https://www.aliyundrive.com/s/3D3Q1SeJWrr"},
 {name:"名称：凛冬王 The Winter King（2023）",url:"https://www.aliyundrive.com/s/pz2UuXXDzg4"},
 {name:"名称：查理和巧克力工厂 (2005) 1080P 中英外挂字幕",url:"https://www.aliyundrive.com/s/o4CvWZ5boph"},
