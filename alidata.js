@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：惊声尖叫(1996) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/YadtnvfNKmQ"},
+const aliData = [{name:"名称：李江南 - 从零玩转Web全栈大神班",url:"https://www.aliyundrive.com/s/rHBiiZt6wCa"},
+{name:"名称：惊声尖叫(1996) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/YadtnvfNKmQ"},
 {name:"名称：细细的红线 (1998) CC版 原盘REMUX 简繁双语字幕",url:"https://www.aliyundrive.com/s/5mxn1uYFoMV"},
 {name:"名称：惊声尖叫5(2022) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/413aarCB2Mx"},
 {name:"名称：鹊刀门传奇 S01E01~E28 4K",url:"https://www.aliyundrive.com/s/QHTVukQmA85"},
