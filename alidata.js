@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【大鹏教育】Excel数据分析与可视化课",url:"https://www.aliyundrive.com/s/B1FpJDjX9A1"},
+const aliData = [{name:"名称：零基础学习WPS 2019 软件.虎课网",url:"https://www.aliyundrive.com/s/pryX29sUBjo"},
+{name:"名称：【大鹏教育】Excel数据分析与可视化课",url:"https://www.aliyundrive.com/s/B1FpJDjX9A1"},
 {name:"名称：五亿探长雷洛传",url:"https://www.aliyundrive.com/s/9Qud98wf3ym"},
 {name:"名称：五亿探长雷洛传Ⅱ父子情仇",url:"https://www.aliyundrive.com/s/6kmpH18rMeE"},
 {name:"名称：向山海出发（浙江卫视，郑恺,孟鹤堂,伯远）",url:"https://www.aliyundrive.com/s/ALirhhC3fY9"},
