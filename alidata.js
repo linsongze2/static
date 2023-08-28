@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：21天逆袭人生 | 电子书籍",url:"https://www.aliyundrive.com/s/kadMJUzafFs"},
+const aliData = [{name:"名称：Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲",url:"https://www.aliyundrive.com/s/CbUdhmcBjXk"},
+{name:"名称：21天逆袭人生 | 电子书籍",url:"https://www.aliyundrive.com/s/kadMJUzafFs"},
 {name:"名称：无与伦比的美丽 (2023) 首更2 陈晓 / 古力娜扎 / 柳岩",url:"https://www.aliyundrive.com/s/pWKysUXtmmd"},
 {name:"名称：Java数据结构和算法",url:"https://www.aliyundrive.com/s/4aq2Z9NSgYC"},
 {name:"名称：蜂巢 4KHDR60FPS 宋轶新剧 影视剧飙升版爆火上no。1赶快来看吧!",url:"https://www.aliyundrive.com/s/VrmYKyKvBwb"},
