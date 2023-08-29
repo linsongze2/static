@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：夺宝奇兵5：命运转盘 (2023) 2160p HDR&amp;DV + 1080p 高码 DDP5.1 内封简英特效 &amp; 繁英特效双语【和谐不补】",url:"https://www.aliyundrive.com/s/ZmUEdso5okq"},
+const aliData = [{name:"名称：【大鹏教育】数据库MySQL课",url:"https://www.aliyundrive.com/s/igvB2Rf7kFW"},
+{name:"名称：一本书读懂ChatGPT、AIGC和元宇宙 | 电子书籍",url:"https://www.aliyundrive.com/s/VGVtTWmxi5R"},
+{name:"名称：夺宝奇兵5：命运转盘 (2023) 2160p HDR&amp;DV + 1080p 高码 DDP5.1 内封简英特效 &amp; 繁英特效双语【和谐不补】",url:"https://www.aliyundrive.com/s/ZmUEdso5okq"},
 {name:"名称：未来漫游指南 (2022) 纪录片 2160p 高码率 国语中字",url:"https://www.aliyundrive.com/s/rpjGmqhewN4"},
 {name:"名称：全局视角系统学习《推荐系统》，实战中提升竞争力",url:"https://www.aliyundrive.com/s/AGwJQM1R5vd"},
 {name:"名称：蜂巢4KHDR60FPS 更新9集 一路朝阳4K60FPS 更新31集",url:"https://www.aliyundrive.com/s/9QEfj1RhSJ6"},
