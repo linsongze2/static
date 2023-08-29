@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【马士兵VIP课程】Java高级互联网架构师【马士兵教育】精英三班",url:"https://www.aliyundrive.com/s/xYtuyUApnbC"},
+const aliData = [{name:"名称：逆商：我们该如何应对坏事件",url:"https://www.aliyundrive.com/s/muiz2Cajfpv"},
+{name:"名称：【马士兵VIP课程】Java高级互联网架构师【马士兵教育】精英三班",url:"https://www.aliyundrive.com/s/xYtuyUApnbC"},
 {name:"名称：欢颜 (2023) 1080/4K HDR 18集完结 张译 佟丽娅",url:"https://www.aliyundrive.com/s/YHsnoiuMLfw"},
 {name:"名称：【尚硅谷】大数据大神班V9 - 2022",url:"https://www.aliyundrive.com/s/nKzpmRpvT1Y"},
 {name:"名称：社交破冰沟通指南 | 电子书",url:"https://www.aliyundrive.com/s/t4YixFkg8ir"},
