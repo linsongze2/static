@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：灼灼风流(2023) S01E01~E24 4K",url:"https://www.aliyundrive.com/s/Aj2NKFtHLpL"},
+const aliData = [{name:"名称：最灿烂的我们 4K [更新至05集]",url:"https://www.aliyundrive.com/s/innWZZVNknn"},
+{name:"名称：灼灼风流(2023) S01E01~E24 4K",url:"https://www.aliyundrive.com/s/Aj2NKFtHLpL"},
 {name:"名称：七时吉祥 S01完结 4K",url:"https://www.aliyundrive.com/s/Cby1LsieSrF"},
 {name:"名称：她的城(2023) S01完结 4K",url:"https://www.aliyundrive.com/s/5fgwxxbwPKT"},
 {name:"名称：女囚风暴1995_4KHDR60fps",url:"https://www.aliyundrive.com/s/zjH7RPRXLTa"},
