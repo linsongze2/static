@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：鹊刀门传奇(1-40已完结)",url:"https://www.aliyundrive.com/s/Szf3WbR49Bq"},
+const aliData = [{name:"名称：【每特教育】每特教育第十期VIP课",url:"https://www.aliyundrive.com/s/Gs7BGsrounZ"},
+{name:"名称：战神：软件项目管理深度实战",url:"https://www.aliyundrive.com/s/PRovDXrhRaC"},
+{name:"名称：鹊刀门传奇(1-40已完结)",url:"https://www.aliyundrive.com/s/Szf3WbR49Bq"},
 {name:"名称：蜂巢 4KHDR60FPS 更新10集 一路朝阳4k60fps 更新33集 无与伦比的美丽 [2023]芒臻 更新6集",url:"https://www.aliyundrive.com/s/dq9mnukkuhq"},
 {name:"名称：没用的谎言 (2023) 热播韩剧 1080p 内封简繁 更E10【金所泫 / 黄旼炫】",url:"https://www.aliyundrive.com/s/u6BwSzGhzA3"},
 {name:"名称：微淼 - 财务自由工具操作技能课",url:"https://www.aliyundrive.com/s/axbBYCdEUJs"},
