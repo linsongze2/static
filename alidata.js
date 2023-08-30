@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Typora (Markdown 编辑器) v1.6.7 支持版本更新",url:"https://www.aliyundrive.com/s/6i5uANyY8r6"},
+const aliData = [{name:"名称：【共40册】 中华古典文库典藏 | 电子书籍",url:"https://www.aliyundrive.com/s/Dakn56SCrpe"},
+{name:"名称：Typora (Markdown 编辑器) v1.6.7 支持版本更新",url:"https://www.aliyundrive.com/s/6i5uANyY8r6"},
 {name:"名称：【大鹏教育】数据库MySQL课",url:"https://www.aliyundrive.com/s/igvB2Rf7kFW"},
 {name:"名称：一本书读懂ChatGPT、AIGC和元宇宙 | 电子书籍",url:"https://www.aliyundrive.com/s/VGVtTWmxi5R"},
 {name:"名称：夺宝奇兵5：命运转盘 (2023) 2160p HDR&amp;DV + 1080p 高码 DDP5.1 内封简英特效 &amp; 繁英特效双语【和谐不补】",url:"https://www.aliyundrive.com/s/ZmUEdso5okq"},
