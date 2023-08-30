@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：《分析与思考：黄奇帆的复旦经济课》",url:"https://www.aliyundrive.com/s/edHHG83LPC7"},
+const aliData = [{name:"名称：7点档剧集新2023.8.30",url:"https://www.aliyundrive.com/s/EWorP5LwgMm"},
+{name:"名称：《分析与思考：黄奇帆的复旦经济课》",url:"https://www.aliyundrive.com/s/edHHG83LPC7"},
 {name:"名称：最灿烂的我们 4K [更新至05集]",url:"https://www.aliyundrive.com/s/innWZZVNknn"},
 {name:"名称：灼灼风流(2023) S01E01~E24 4K",url:"https://www.aliyundrive.com/s/Aj2NKFtHLpL"},
 {name:"名称：七时吉祥 S01完结 4K",url:"https://www.aliyundrive.com/s/Cby1LsieSrF"},
