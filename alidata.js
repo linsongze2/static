@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：超异能族 1080p [更新至13集]",url:"https://www.aliyundrive.com/s/tUh3gw3dfmf"},
+const aliData = [{name:"名称：荒野间谍 S02(2020) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/MUKtMaRD1gq"},
+{name:"名称：超异能族 1080p [更新至13集]",url:"https://www.aliyundrive.com/s/tUh3gw3dfmf"},
 {name:"名称：超异能族 1080p [更新至13集]",url:"https://www.aliyundrive.com/s/ZeratCqvMfh"},
 {name:"名称：英语思维：快速建立语法体系",url:"https://www.aliyundrive.com/s/txUKQgPAh3d"},
 {name:"名称：夺宝奇兵：法柜奇兵(1981) 4K REMUX 国英音轨 特效字幕",url:"https://www.aliyundrive.com/s/EvkyUbhj6tu"},
