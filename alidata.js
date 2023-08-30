@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：夺宝奇兵：法柜奇兵(1981) 4K REMUX 国英音轨 特效字幕",url:"https://www.aliyundrive.com/s/EvkyUbhj6tu"},
+const aliData = [{name:"名称：超异能族 1080p [更新至13集]",url:"https://www.aliyundrive.com/s/ZeratCqvMfh"},
+{name:"名称：英语思维：快速建立语法体系",url:"https://www.aliyundrive.com/s/txUKQgPAh3d"},
+{name:"名称：夺宝奇兵：法柜奇兵(1981) 4K REMUX 国英音轨 特效字幕",url:"https://www.aliyundrive.com/s/EvkyUbhj6tu"},
 {name:"名称：奥本海默 Oppenheimer (2023) 1080P 英语中字 豆瓣: 8.6",url:"https://www.aliyundrive.com/s/WiDgXMVnhv1"},
 {name:"名称：荒野间谍 S01(2017) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/y42pTehSS1t"},
 {name:"名称：无与伦比的美丽 [2023]芒臻[40集持续更新中] 更新4集",url:"https://www.aliyundrive.com/s/NvsmUVSFLRU"},
