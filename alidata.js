@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：阿索卡(2023) S01E01-E03 4K HDR 外挂简英",url:"https://www.aliyundrive.com/s/t4wn4oLb6cM"},
+const aliData = [{name:"名称：冰雪尖刀连 (2023) 4K【高码版】每集6.4G左右",url:"https://www.aliyundrive.com/s/h7aQUjZ5xP1"},
+{name:"名称：阿索卡(2023) S01E01-E03 4K HDR 外挂简英",url:"https://www.aliyundrive.com/s/t4wn4oLb6cM"},
 {name:"名称：零号追杀",url:"https://www.aliyundrive.com/s/V1Q6H5Lf8wX"},
 {name:"名称：西行纪年番 (2023) 持续更新",url:"https://www.aliyundrive.com/s/YcGzEnYPHGj"},
 {name:"名称：遮天 (2023) 4K 更19 国漫",url:"https://www.aliyundrive.com/s/kNGMUuEoNJ7"},
