@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：超异能族 1080p [更新至13集]",url:"https://www.aliyundrive.com/s/ZeratCqvMfh"},
+const aliData = [{name:"名称：超异能族 1080p [更新至13集]",url:"https://www.aliyundrive.com/s/tUh3gw3dfmf"},
+{name:"名称：超异能族 1080p [更新至13集]",url:"https://www.aliyundrive.com/s/ZeratCqvMfh"},
 {name:"名称：英语思维：快速建立语法体系",url:"https://www.aliyundrive.com/s/txUKQgPAh3d"},
 {name:"名称：夺宝奇兵：法柜奇兵(1981) 4K REMUX 国英音轨 特效字幕",url:"https://www.aliyundrive.com/s/EvkyUbhj6tu"},
 {name:"名称：奥本海默 Oppenheimer (2023) 1080P 英语中字 豆瓣: 8.6",url:"https://www.aliyundrive.com/s/WiDgXMVnhv1"},
