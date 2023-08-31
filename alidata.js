@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：少女闯江湖4KHDR60FPS 首发12集 附10点档剧集更新",url:"https://www.aliyundrive.com/s/WSeqPYAKXD7"},
+const aliData = [{name:"名称：90天Java进阶训练营三期",url:"https://www.aliyundrive.com/s/6zVRwFFQJLK"},
+{name:"名称：少女闯江湖4KHDR60FPS 首发12集 附10点档剧集更新",url:"https://www.aliyundrive.com/s/WSeqPYAKXD7"},
 {name:"名称：博很恐惧 / Disappointment Blvd.(2023)",url:"https://www.aliyundrive.com/s/RY6TbquNCZx"},
 {name:"名称：国民死刑投票 국민사형투표 (2023) 更4",url:"https://www.aliyundrive.com/s/gExefqKP3Bz"},
 {name:"名称：装强启时录 [2023]芒臻[14集持续更新中] 更新9",url:"https://www.aliyundrive.com/s/SNQcvm5tRxC"},
