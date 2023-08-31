@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：神印王座 4K 持续更新",url:"https://www.aliyundrive.com/s/TSv9XuCgtPc"},
+const aliData = [{name:"名称：因为你如此耀眼 因為你如此耀眼 (2023) 1080/4K 24集完结",url:"https://www.aliyundrive.com/s/K6YLRaJJFwP"},
+{name:"名称：神印王座 4K 持续更新",url:"https://www.aliyundrive.com/s/TSv9XuCgtPc"},
 {name:"名称：得墨忒耳号的最后航程 (2023) 1080p 高码 机翻双语【恐怖惊悚片】",url:"https://www.aliyundrive.com/s/E3JcJr5y2Wu"},
 {name:"名称：谋杀 (2011) 全4季 1080P 简繁字幕",url:"https://www.aliyundrive.com/s/yKgNYP7hcBz"},
 {name:"名称：那个夏天：剧场版",url:"https://www.aliyundrive.com/s/vvspsGtQtp9"},
