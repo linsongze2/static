@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：邢不行—Python股票量化投资课程",url:"https://www.aliyundrive.com/s/1EkZrDu7VZq"},
+const aliData = [{name:"名称：海贼王 真人版【1080P】全8集",url:"https://www.aliyundrive.com/s/ZguMeMfRg4h"},
+{name:"名称：邢不行—Python股票量化投资课程",url:"https://www.aliyundrive.com/s/1EkZrDu7VZq"},
 {name:"名称：罗布泊幽陵 (2023) 4K 最新电影",url:"https://www.aliyundrive.com/s/rPaTSsMSino"},
 {name:"名称：海贼王 真人版 霸王龙压制组",url:"https://www.aliyundrive.com/s/RTuixCGhVnN"},
 {name:"名称：海贼王 S01 1080P HDR 英日音轨 简繁字幕",url:"https://www.aliyundrive.com/s/vkDuckQxREz"},
