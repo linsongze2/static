@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：大主宰年番 4K高码率版 [更新至12集]",url:"https://www.aliyundrive.com/s/cJd7JztuJE9"},
+const aliData = [{name:"名称：Python3数据分析与挖掘建模实战，快速胜任数据分析师",url:"https://www.aliyundrive.com/s/Zo39aiF1UKZ"},
+{name:"名称：大主宰年番 4K高码率版 [更新至12集]",url:"https://www.aliyundrive.com/s/cJd7JztuJE9"},
 {name:"名称：最强思维导图训练营",url:"https://www.aliyundrive.com/s/vdNHmhPgXHf"},
 {name:"名称：蓝色星球 S2 (2017) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/DBVfezLXWmE"},
 {name:"名称：蓝色星球 S1(2001) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/7c2M7PzzptJ"},
