@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：蓝色星球 S2 (2017) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/DBVfezLXWmE"},
+const aliData = [{name:"名称：最强思维导图训练营",url:"https://www.aliyundrive.com/s/vdNHmhPgXHf"},
+{name:"名称：蓝色星球 S2 (2017) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/DBVfezLXWmE"},
 {name:"名称：蓝色星球 S1(2001) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/7c2M7PzzptJ"},
 {name:"名称：微专业 - Java基础入门",url:"https://www.aliyundrive.com/s/PzaS6KHvPqJ"},
 {name:"名称：一路朝阳 (2023) 1080/4K HDR 36集完结",url:"https://www.aliyundrive.com/s/qPVMB6d9df9"},
