@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：疯狂元素城 Elemental (2023) 1080/4K 中字",url:"https://www.aliyundrive.com/s/Gbo6MpLYH4a"},
+const aliData = [{name:"名称：父辈的荣耀 (2023) 4K 更新12集",url:"https://www.aliyundrive.com/s/FK81JCjqJDj"},
+{name:"名称：疯狂元素城 Elemental (2023) 1080/4K 中字",url:"https://www.aliyundrive.com/s/Gbo6MpLYH4a"},
 {name:"名称：骄阳伴我 (2023) 4K 肖战 百白何",url:"https://www.aliyundrive.com/s/ZSGuxMprZxU"},
 {name:"名称：装腔启示录 (2023) 1080/4K HDR 更10",url:"https://www.aliyundrive.com/s/NmwYRpNkt1y"},
 {name:"名称：骄阳伴我(2023) S01E01-E05 4K",url:"https://www.aliyundrive.com/s/7H1P3TqeXey"},
