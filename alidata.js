@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：最强思维导图训练营",url:"https://www.aliyundrive.com/s/vdNHmhPgXHf"},
+const aliData = [{name:"名称：大主宰年番 4K高码率版 [更新至12集]",url:"https://www.aliyundrive.com/s/cJd7JztuJE9"},
+{name:"名称：最强思维导图训练营",url:"https://www.aliyundrive.com/s/vdNHmhPgXHf"},
 {name:"名称：蓝色星球 S2 (2017) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/DBVfezLXWmE"},
 {name:"名称：蓝色星球 S1(2001) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/7c2M7PzzptJ"},
 {name:"名称：微专业 - Java基础入门",url:"https://www.aliyundrive.com/s/PzaS6KHvPqJ"},
