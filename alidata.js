@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：温柔的背叛(2009) S01 4K",url:"https://www.aliyundrive.com/s/5fcfiRPKVwS"},
+const aliData = [{name:"名称：科学思维的八堂课 | 电子书籍",url:"https://www.aliyundrive.com/s/jbkwzkPpL5F"},
+{name:"名称：温柔的背叛(2009) S01 4K",url:"https://www.aliyundrive.com/s/5fcfiRPKVwS"},
 {name:"名称：活着 VIVANT (2023) 1080p 内封简 / 繁 / 日 更EP07 【热播日剧 IMDb 7.7】",url:"https://www.aliyundrive.com/s/rpqy2MJS67G"},
 {name:"名称：《完美世界》更新至126集",url:"https://www.aliyundrive.com/s/V6cY5deMmAS"},
 {name:"名称：【CDA数据分析师】CDA数据分析就业班 - 0329期",url:"https://www.aliyundrive.com/s/oXQBMJkbNGu"},
