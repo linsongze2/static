@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：斗罗大陆2：绝世唐门 (2023) 4K",url:"https://www.aliyundrive.com/s/TLKJbSkwPBh"},
+const aliData = [{name:"名称：2023新书推荐！《刘星辰重案笔记 》",url:"https://www.aliyundrive.com/s/DqZx8o8eGns"},
+{name:"名称：斗罗大陆2：绝世唐门 (2023) 4K",url:"https://www.aliyundrive.com/s/TLKJbSkwPBh"},
 {name:"名称：【微信读书2022年榜单】艺术榜",url:"https://www.aliyundrive.com/s/tGN13zQmuLt"},
 {name:"名称：超凡动物奇观 (2022) 2160p 高码率 DDP5.1 内封多国语【高分纪录片】",url:"https://www.aliyundrive.com/s/HgAJUsxZuqQ"},
 {name:"名称：时光之轮 第二季 (2023) 1080p 高码率 DDP5.1 内封多国语 首更E03【附第一季】",url:"https://www.aliyundrive.com/s/AsHbd1TTVjy"},
