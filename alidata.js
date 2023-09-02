@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：帝企鹅宝宝的生命轮回之旅 (2015) 高分纪录片 1080p 外挂双语",url:"https://www.aliyundrive.com/s/BdijHajECwZ"},
+const aliData = [{name:"名称：【共7册】 别丧啦，有份鼓励请查收：成人治愈漫画故事集 | 电子书籍",url:"https://www.aliyundrive.com/s/3CwjyNrakjk"},
+{name:"名称：帝企鹅宝宝的生命轮回之旅 (2015) 高分纪录片 1080p 外挂双语",url:"https://www.aliyundrive.com/s/BdijHajECwZ"},
 {name:"名称：装腔启示录 (2023) 4K 芒果tv独播",url:"https://www.aliyundrive.com/s/eNZrYNRbifQ"},
 {name:"名称：咒术回战 第二季 呪術廻戦 2 (2023) 1080p &amp; 2160p 高码版 内封简繁英 更EP06 【含S01&amp;剧场版】",url:"https://www.aliyundrive.com/s/b5rwb67cyZa"},
 {name:"名称：《斗罗大陆2：绝世唐门》更新至12集",url:"https://www.aliyundrive.com/s/3YzVRPCpTDR"},
