@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：芭比 Barbie (2023) 韩版中字",url:"https://www.aliyundrive.com/s/GxL7BKjDxgo"},
+const aliData = [{name:"名称：父辈的荣耀 (2023) 4K 【杜比视界版本】",url:"https://www.aliyundrive.com/s/B6odkAveTZq"},
+{name:"名称：怪兽电力公司[AV1高压、原盘字幕烧录]",url:"https://www.aliyundrive.com/s/jnt4xzHg6K3"},
+{name:"名称：芭比 Barbie (2023) 韩版中字",url:"https://www.aliyundrive.com/s/GxL7BKjDxgo"},
 {name:"名称：惊奇的传闻2：反击 / 驱魔面馆 (2023) S02 1080p NF 高码率 DDP2.0 内封简繁英 更EP11【附S01】【热播韩剧】",url:"https://www.aliyundrive.com/s/pZbdbmvfKuV"},
 {name:"名称：高山下的花环 蓝光原盘REMUX [高码国版 官方画质修复] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/boXTvmvDW8s"},
 {name:"名称：蜘蛛侠：纵横宇宙 4K原盘REMUX [杜比视界] [国粤英三语] [内封简英双字]",url:"https://www.aliyundrive.com/s/pUe4K5wvsit"},
