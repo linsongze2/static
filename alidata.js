@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：芭比(2023) 韩文硬字幕 1080P",url:"https://www.aliyundrive.com/s/hjAVww3uawz"},
+const aliData = [{name:"名称：风灵玉秀 第二季 (2023) 持续更新",url:"https://www.aliyundrive.com/s/SYrH9YMtZPZ"},
+{name:"名称：芭比(2023) 韩文硬字幕 1080P",url:"https://www.aliyundrive.com/s/hjAVww3uawz"},
 {name:"名称：不想一个人(2021) 1080P 内嵌繁英",url:"https://www.aliyundrive.com/s/TKWXjL5vXdz"},
 {name:"名称：伦敦战场(2018) 1080p原盘REMUX 外挂简英",url:"https://www.aliyundrive.com/s/qfMgkzuHjR3"},
 {name:"名称：斗破苍穹年番 4K 更60",url:"https://www.aliyundrive.com/s/541uYQx85TA"},
