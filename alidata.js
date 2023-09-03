@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：思维突破：如何获得好想法 | 电子书籍",url:"https://www.aliyundrive.com/s/ZMTgskiJAzK"},
+const aliData = [{name:"名称：海贼王 更1074",url:"https://www.aliyundrive.com/s/z82amAtxAfR"},
+{name:"名称：忍者神龟：变种大乱斗 (2023) 2160p HDR DDP5.1 外挂OCR简中 (内封特效双语请等精校字幕) 【刮削】【易和谐】",url:"https://www.aliyundrive.com/s/TQeZs3SfDaE"},
+{name:"名称：思维突破：如何获得好想法 | 电子书籍",url:"https://www.aliyundrive.com/s/ZMTgskiJAzK"},
 {name:"名称：航海王One Piece",url:"https://www.aliyundrive.com/s/gu99XaVwYmP"},
 {name:"名称：北京地铁(2019) S01 1080P",url:"https://www.aliyundrive.com/s/U1KtCXmhUiN"},
 {name:"名称：风灵玉秀 第二季 (2023) 持续更新",url:"https://www.aliyundrive.com/s/SYrH9YMtZPZ"},
