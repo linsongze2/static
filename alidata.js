@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：航海王One Piece",url:"https://www.aliyundrive.com/s/gu99XaVwYmP"},
+const aliData = [{name:"名称：思维突破：如何获得好想法 | 电子书籍",url:"https://www.aliyundrive.com/s/ZMTgskiJAzK"},
+{name:"名称：航海王One Piece",url:"https://www.aliyundrive.com/s/gu99XaVwYmP"},
 {name:"名称：北京地铁(2019) S01 1080P",url:"https://www.aliyundrive.com/s/U1KtCXmhUiN"},
 {name:"名称：风灵玉秀 第二季 (2023) 持续更新",url:"https://www.aliyundrive.com/s/SYrH9YMtZPZ"},
 {name:"名称：芭比(2023) 韩文硬字幕 1080P",url:"https://www.aliyundrive.com/s/hjAVww3uawz"},
