@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：半小时漫画 - 红楼梦 | 电子书籍",url:"https://www.aliyundrive.com/s/kELssZT7s1o"},
+const aliData = [{name:"名称：【咕泡学院】Java架构师04期-2020",url:"https://www.aliyundrive.com/s/HXTQfv2D11s"},
+{name:"名称：半小时漫画 - 红楼梦 | 电子书籍",url:"https://www.aliyundrive.com/s/kELssZT7s1o"},
 {name:"名称：我推的孩子 S1(2023) 4K 中字硬字幕",url:"https://www.aliyundrive.com/s/WdHFrNNpNyx"},
 {name:"名称：城门几丈高 S01(2019) 4K 中字硬字幕",url:"https://www.aliyundrive.com/s/bXXsup5EJu8"},
 {name:"名称：光环 S1(2022) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/gvMgFpKb2fM"},
