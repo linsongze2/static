@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【小象学院】Python数据分析 升级版 第二期",url:"https://www.aliyundrive.com/s/Zd2QPjCgovp"},
+const aliData = [{name:"名称：AE教程超级合辑【600集系统课】",url:"https://www.aliyundrive.com/s/UGLdKN7d5v7"},
+{name:"名称：【小象学院】Python数据分析 升级版 第二期",url:"https://www.aliyundrive.com/s/Zd2QPjCgovp"},
 {name:"名称：龙门飞甲 3D蓝光原盘REMUX [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/fPPJLozFY44"},
 {name:"名称：黑社会2：以和为贵 蓝光原盘REMUX [高码澳版 官方画质修复] [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/xWqDJuxXtXL"},
 {name:"名称：新书：推理群星闪耀时（推理、侦探、悬疑、惊悚、犯罪、斗智精选！）",url:"https://www.aliyundrive.com/s/3msugKyz1Yg"},
