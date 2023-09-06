@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：父辈的荣耀 (2023) 4K 更新20集",url:"https://www.aliyundrive.com/s/hyZGF95aefy"},
+const aliData = [{name:"名称：我有一个朋友 (2023) 首更6",url:"https://www.aliyundrive.com/s/5MTv7WMZk7R"},
+{name:"名称：父辈的荣耀 (2023) 4K 更新20集",url:"https://www.aliyundrive.com/s/hyZGF95aefy"},
 {name:"名称：绝命毒师5季全",url:"https://www.aliyundrive.com/s/oMiXdLQDyRB"},
 {name:"名称：手术两百年 (2019) 高分纪录片 1080p 国语中字",url:"https://www.aliyundrive.com/s/5353HthdBUu"},
 {name:"名称：无耻之徒1－11季",url:"https://www.aliyundrive.com/s/7SNb4KuCvbX"},
