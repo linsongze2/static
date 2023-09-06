@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：江湖丛谈（豆瓣评分8.9）",url:"https://www.aliyundrive.com/s/UazH1FGa75Y"},
+const aliData = [{name:"名称：无与伦比的美丽 [2023]芒臻 更新22",url:"https://www.aliyundrive.com/s/6W2bF1S29Uy"},
+{name:"名称：江湖丛谈（豆瓣评分8.9）",url:"https://www.aliyundrive.com/s/UazH1FGa75Y"},
 {name:"名称：别班 / 活着 VIVANT (2023) 1080p 内封简 / 繁 / 日 更EP08 【热播日剧】",url:"https://www.aliyundrive.com/s/rpqy2MJS67G"},
 {name:"名称：阿索卡 Ahsoka (2023) 1080/4K 更4",url:"https://www.aliyundrive.com/s/RtdNKFMR6LL"},
 {name:"名称：消失的她 (2023)【Emby】",url:"https://www.aliyundrive.com/s/BKYx2q4rEjC"},
