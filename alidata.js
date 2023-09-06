@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：新书推荐： 向上的奇迹 500强高管枕边的人生答案之书",url:"https://www.aliyundrive.com/s/Ajq8p2YGAXJ"},
+const aliData = [{name:"名称：《不完美决策：完成比完美更重要》",url:"https://www.aliyundrive.com/s/D98GXwH7kRx"},
+{name:"名称：新书推荐： 向上的奇迹 500强高管枕边的人生答案之书",url:"https://www.aliyundrive.com/s/Ajq8p2YGAXJ"},
 {name:"名称：AE教程超级合辑【600集系统课】",url:"https://www.aliyundrive.com/s/UGLdKN7d5v7"},
 {name:"名称：【小象学院】Python数据分析 升级版 第二期",url:"https://www.aliyundrive.com/s/Zd2QPjCgovp"},
 {name:"名称：龙门飞甲 3D蓝光原盘REMUX [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/fPPJLozFY44"},
