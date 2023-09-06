@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：别班 / 活着 VIVANT (2023) 1080p 日语中字 更E08【近期热播日剧】",url:"https://www.aliyundrive.com/s/ayitpsaDrjc"},
+const aliData = [{name:"名称：我有一个朋友【芒臻】 首发6集",url:"https://www.aliyundrive.com/s/WAVNjHsxgVv"},
+{name:"名称：别班 / 活着 VIVANT (2023) 1080p 日语中字 更E08【近期热播日剧】",url:"https://www.aliyundrive.com/s/ayitpsaDrjc"},
 {name:"名称：余兴派对(2022) 2季全 4K HDR 内封简繁",url:"https://www.aliyundrive.com/s/V9twyNTeD21"},
 {name:"名称：断头谷 4K原盘REMUX [杜比视界] [内封简英双字]",url:"https://www.aliyundrive.com/s/33R7aCcxwsm"},
 {name:"名称：荆轲刺秦王(1998) 国/日音轨 简/日字幕 1080p",url:"https://www.aliyundrive.com/s/tP5VrB35dCY"},
