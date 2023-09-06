@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：对决无声 4K",url:"https://www.aliyundrive.com/s/RfjVYVY4tNk"},
+const aliData = [{name:"名称：如何学习《隐蔽催眠的艺术》",url:"https://www.aliyundrive.com/s/37iWpGSM5ky"},
+{name:"名称：对决无声 4K",url:"https://www.aliyundrive.com/s/RfjVYVY4tNk"},
 {name:"名称：特别行动：母狮 S1(2023) 4K 中字外挂字幕",url:"https://www.aliyundrive.com/s/a9Hz73bwb5m"},
 {name:"名称：入侵 第二季 Invasion Season 2 (2023) 1080/4K HDR 更3",url:"https://www.aliyundrive.com/s/rRp7Zv2Q7o2"},
 {name:"名称：单干：成为超级个体的49个关键动作 | 电子书籍",url:"https://www.aliyundrive.com/s/qyNHHteTso6"},
