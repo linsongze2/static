@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：【尚硅谷】Spring注解驱动开发",url:"https://www.aliyundrive.com/s/tKAfMgjs8YC"},
+const aliData = [{name:"名称：八角笼中",url:"https://www.aliyundrive.com/s/X8wxnuTsCot"},
+{name:"名称：名侦探柯南 灰原哀物语～黑铁的神秘列车～",url:"https://www.aliyundrive.com/s/mjk6LUz9SdG"},
+{name:"名称：【尚硅谷】Spring注解驱动开发",url:"https://www.aliyundrive.com/s/tKAfMgjs8YC"},
 {name:"名称：八角笼中 (2023) 正式版",url:"https://www.aliyundrive.com/s/9boifFeSD43"},
 {name:"名称：算法训练营2021版第0期",url:"https://www.aliyundrive.com/s/yJ83BS9KbTw"},
 {name:"名称：酉阳杂俎（豆瓣评分：9.2）",url:"https://www.aliyundrive.com/s/b7W26xTjgDq"},
