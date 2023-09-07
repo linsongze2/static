@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：海尔兄弟 (1985) 1080P",url:"https://www.aliyundrive.com/s/NLFT9Ry9tMG"},
+const aliData = [{name:"名称：Go进阶训练营 - 3期",url:"https://www.aliyundrive.com/s/4tbAmxrL3rQ"},
+{name:"名称：海尔兄弟 (1985) 1080P",url:"https://www.aliyundrive.com/s/NLFT9Ry9tMG"},
 {name:"名称：大怪兽加美拉：重生 GAMERA -Rebirth- (2023) 6集完结",url:"https://www.aliyundrive.com/s/g69f7Zx5FCc"},
 {name:"名称：大宅门 全季",url:"https://www.aliyundrive.com/s/VNj2bqS3WgH"},
 {name:"名称：情深深雨濛濛",url:"https://www.aliyundrive.com/s/PvBnwE8rAE8"},
