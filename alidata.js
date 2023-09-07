@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：八角笼中 (2023) 正式版",url:"https://www.aliyundrive.com/s/9boifFeSD43"},
+const aliData = [{name:"名称：【尚硅谷】Spring注解驱动开发",url:"https://www.aliyundrive.com/s/tKAfMgjs8YC"},
+{name:"名称：八角笼中 (2023) 正式版",url:"https://www.aliyundrive.com/s/9boifFeSD43"},
 {name:"名称：算法训练营2021版第0期",url:"https://www.aliyundrive.com/s/yJ83BS9KbTw"},
 {name:"名称：酉阳杂俎（豆瓣评分：9.2）",url:"https://www.aliyundrive.com/s/b7W26xTjgDq"},
 {name:"名称：西出玉门共5册（豆瓣评分：8.7）",url:"https://www.aliyundrive.com/s/cvwKoYLQ1c7"},
