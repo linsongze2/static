@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：西出玉门共5册（豆瓣评分：8.7）",url:"https://www.aliyundrive.com/s/cvwKoYLQ1c7"},
+const aliData = [{name:"名称：酉阳杂俎（豆瓣评分：9.2）",url:"https://www.aliyundrive.com/s/b7W26xTjgDq"},
+{name:"名称：西出玉门共5册（豆瓣评分：8.7）",url:"https://www.aliyundrive.com/s/cvwKoYLQ1c7"},
 {name:"名称：再见爱人 第三季 (2023) 真人秀 持续更新 补",url:"https://www.aliyundrive.com/s/Wf5aDcdp7sU"},
 {name:"名称：异人之下 (2023) 2160p &amp; 1080p 更E08【彭昱畅/侯明昊/王影璐】",url:"https://www.aliyundrive.com/s/GtRnrzPH7f7"},
 {name:"名称：灼灼风流 (2023) 4K HDR 更34 景甜/ 王丽坤",url:"https://www.aliyundrive.com/s/zi8LuaXhiTL"},
