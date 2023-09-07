@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：涂重点 小学语文1-6年级（上册）",url:"https://www.aliyundrive.com/s/tyxYvVnw87h"},
+const aliData = [{name:"名称：百妖谱 [1-3季]",url:"https://www.aliyundrive.com/s/wAWrMZiXeQd"},
+{name:"名称：涂重点 小学语文1-6年级（上册）",url:"https://www.aliyundrive.com/s/tyxYvVnw87h"},
 {name:"名称：《零基础趣学Linux》学Linux入门必备",url:"https://www.aliyundrive.com/s/8QsG6UxKV5j"},
 {name:"名称：微专业 - Android开发工程师",url:"https://www.aliyundrive.com/s/3EkWTSdJuiS"},
 {name:"名称：流浪狗 Strays (2023) 1080p 高码 DDP5.1 外挂双语",url:"https://www.aliyundrive.com/s/dtxna6mk4ww"},
