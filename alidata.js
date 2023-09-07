@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：猛鬼食人胎(1998) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/fCYieSnkXCv"},
+const aliData = [{name:"名称：69两头勾 เรื่องตลก 69 เดอะซีรีส์ (2023) 6集完结 泰剧",url:"https://www.aliyundrive.com/s/7TGz2RjbueV"},
+{name:"名称：猛鬼食人胎(1998) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/fCYieSnkXCv"},
 {name:"名称：对决无声 (2023)",url:"https://www.aliyundrive.com/s/gj1qkLP4oEq"},
 {name:"名称：他乡的童年 (2019) 4K",url:"https://www.aliyundrive.com/s/DQPujxwirY7"},
 {name:"名称：微专业 - C++开发工程师",url:"https://www.aliyundrive.com/s/yxaHnbmKjPM"},
