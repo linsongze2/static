@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：父辈的荣耀 (2023) 4K 准点同步更新中",url:"https://www.aliyundrive.com/s/m7phFTuPe7w"},
+const aliData = [{name:"名称：【咒术回战 第二季 2023】4K 高码 + 1080P 高码 内封简繁 更至第七集",url:"https://www.aliyundrive.com/s/vw7ozLc3Ckw"},
+{name:"名称：父辈的荣耀 (2023) 4K 准点同步更新中",url:"https://www.aliyundrive.com/s/m7phFTuPe7w"},
 {name:"名称：女人不再沉默",url:"https://www.aliyundrive.com/s/F1kd8ng62FY"},
 {name:"名称：骄阳伴我 (2023) 4K HDR 更15 肖战/白百何",url:"https://www.aliyundrive.com/s/B6nTC862Fgr"},
 {name:"名称：云之羽 4KHDR60FPS 更新10集",url:"https://www.aliyundrive.com/s/vos8tJm44hk"},
