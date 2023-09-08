@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：包青天 (1993) 1080P",url:"https://www.aliyundrive.com/s/kHZ9yVohjuK"},
+const aliData = [{name:"名称：我有一个朋友【芒臻】更新8集 优秀爆笑剧集",url:"https://www.aliyundrive.com/s/xGw5CFXGJr8"},
+{name:"名称：包青天 (1993) 1080P",url:"https://www.aliyundrive.com/s/kHZ9yVohjuK"},
 {name:"名称：求职面试 - 500强HR带你完美面试【全套版】",url:"https://www.aliyundrive.com/s/Gr1Kft5iB1d"},
 {name:"名称：地球脉动 (2006) S01 高分纪录片 1080p 国语音轨 双语字幕",url:"https://www.aliyundrive.com/s/kLaJXUhY1ma"},
 {name:"名称：披荆斩棘 第三季（2023）芒臻版本 更新第3期",url:"https://www.aliyundrive.com/s/uwAgAcPi5hR"},
