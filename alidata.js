@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：乐队的夏天 第三季 (2023) 持续更新 补",url:"https://www.aliyundrive.com/s/KDBn3xurX43"},
+const aliData = [{name:"名称：西出玉门 (2023) 1080/4K 更10 倪妮 / 白宇",url:"https://www.aliyundrive.com/s/Fy1ZShZRdsA"},
+{name:"名称：乐队的夏天 第三季 (2023) 持续更新 补",url:"https://www.aliyundrive.com/s/KDBn3xurX43"},
 {name:"名称：骄阳伴我(2023) S01E01-E19 4K",url:"https://www.aliyundrive.com/s/zRWWRhrDTQk"},
 {name:"名称：确定性的终结-时间,混沌与新自然法则",url:"https://www.aliyundrive.com/s/LXbEz95QbmG"},
 {name:"名称：异人之下 真人版 一人之下 (2023) 1080/4K 更11",url:"https://www.aliyundrive.com/s/X7PhThyD31t"},
