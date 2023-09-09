@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：芭比 Barbie (2023) 1080p 高码率 DD5.1 内封简英特效&amp;繁英特效双语 (人工翻译精校带注解)【刮削】",url:"https://www.aliyundrive.com/s/Z5YeP5GbFc7"},
+const aliData = [{name:"名称：西出玉门(2023) S01E01-E10 4K",url:"https://www.aliyundrive.com/s/8KdeKmDhaHY"},
+{name:"名称：芭比 Barbie (2023) 1080p 高码率 DD5.1 内封简英特效&amp;繁英特效双语 (人工翻译精校带注解)【刮削】",url:"https://www.aliyundrive.com/s/Z5YeP5GbFc7"},
 {name:"名称：一路朝阳 (2023) 1080/4K HDR 36集完结",url:"https://www.aliyundrive.com/s/q8WeXfDMu1E"},
 {name:"名称：八角笼中 (2023) 4K 简体中字【高码版】",url:"https://www.aliyundrive.com/s/wwy98He77oz"},
 {name:"名称：基地 第二季 Foundation Season 2 (2023) 1080/4K 更9",url:"https://www.aliyundrive.com/s/QwwQ3T94cjv"},
