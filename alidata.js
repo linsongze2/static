@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：别害怕冲突 | 电子书籍",url:"https://www.aliyundrive.com/s/jJyY4rkhjGa"},
+const aliData = [{name:"名称：向《华尔街日报》学图表（第2季）",url:"https://www.aliyundrive.com/s/qwyzEq7UYKj"},
+{name:"名称：别害怕冲突 | 电子书籍",url:"https://www.aliyundrive.com/s/jJyY4rkhjGa"},
 {name:"名称：你好，星期六 (2023) 综艺",url:"https://www.aliyundrive.com/s/hwnR2zqbN7M"},
 {name:"名称：2023年好书推荐：《庆祝我们的失败》",url:"https://www.aliyundrive.com/s/zcQcHmiDJFk"},
 {name:"名称：异人之下 (2023) 2160p &amp; 1080p 更E11【彭昱畅/侯明昊/王影璐】",url:"https://www.aliyundrive.com/s/GtRnrzPH7f7"},
