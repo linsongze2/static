@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：国民死刑投票 (2023) 1080p AMZN 高码率 DDP2.0 韩剧漫改ip 更EP05【刮削】",url:"https://www.aliyundrive.com/s/42HJQKV3ibK"},
+const aliData = [{name:"名称：少儿情商教育系列动画(58部)",url:"https://www.aliyundrive.com/s/2EDyfCWbCtp"},
+{name:"名称：国民死刑投票 (2023) 1080p AMZN 高码率 DDP2.0 韩剧漫改ip 更EP05【刮削】",url:"https://www.aliyundrive.com/s/42HJQKV3ibK"},
 {name:"名称：爱恨焚身(2023) S01 1080p HDR 内封简繁",url:"https://www.aliyundrive.com/s/6Jfv6PgYmuw"},
 {name:"名称：老友记 Friends S01-S01 1080p BluRay REMUX (原盘) 外挂双语【刮削】",url:"https://www.aliyundrive.com/s/uCqcq6npUTG"},
 {name:"名称：有诈：5000年来的谎言、伪造与谣传 | 电子书",url:"https://www.aliyundrive.com/s/NDX2BcjSmbM"},
