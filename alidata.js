@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：香江恩仇 (2023) 1080/4K",url:"https://www.aliyundrive.com/s/Y7LWFqxfNVy"},
+const aliData = [{name:"名称：生化危机：死亡岛 (2023) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/DtMP9wSTBf4"},
+{name:"名称：香江恩仇 (2023) 1080/4K",url:"https://www.aliyundrive.com/s/Y7LWFqxfNVy"},
 {name:"名称：向往的生活 (2017) 第七季",url:"https://www.aliyundrive.com/s/FWT7piNR9iw"},
 {name:"名称：奔跑吧！兄弟 (2014) 第十一季",url:"https://www.aliyundrive.com/s/oJL1b7Kkhqp"},
 {name:"名称：非官方行动 비공식작전 (2023)",url:"https://www.aliyundrive.com/s/i87PiZsaNo5"},
