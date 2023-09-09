@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：管理哲学必修课(套装共6册)",url:"https://www.aliyundrive.com/s/X6NP1v2ZtPn"},
+const aliData = [{name:"名称：交易高手的“致胜”投资秘籍（套装10册）",url:"https://www.aliyundrive.com/s/bYqHe1bfeDC"},
+{name:"名称：管理哲学必修课(套装共6册)",url:"https://www.aliyundrive.com/s/X6NP1v2ZtPn"},
 {name:"名称：长安十二时辰 (2019) 4K",url:"https://www.aliyundrive.com/s/5oLDJxvfSaD"},
 {name:"名称：宝莲灯前传 (2009) 4K",url:"https://www.aliyundrive.com/s/MSH1iCV9jbt"},
 {name:"名称：GEO、TCGA、Oncomine数据挖掘教程",url:"https://www.aliyundrive.com/s/bTWwNC6BwQZ"},
