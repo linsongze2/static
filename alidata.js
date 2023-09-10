@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Java工程师高薪训练营第5期",url:"https://www.aliyundrive.com/s/fcZVL5sWkUH"},
+const aliData = [{name:"名称：高效决策法系列（套装共5册）",url:"https://www.aliyundrive.com/s/W7ym2YChJGb"},
+{name:"名称：Java工程师高薪训练营第5期",url:"https://www.aliyundrive.com/s/fcZVL5sWkUH"},
 {name:"名称：一兆游戏 S01 (2023) 日剧 1080p 内封简繁 更E09",url:"https://www.aliyundrive.com/s/zR6GTYX4EBw"},
 {name:"名称：流浪者之歌(1988)库斯图里卡 142分钟1080p原盘影版特效字幕+270分钟DVD加长版",url:"https://www.aliyundrive.com/s/HVW6run96mG"},
 {name:"名称：地下 1995/没有天空的都市/地下社会 1080p Bluray 来自电影大师埃米尔·库斯图里卡 影版170分钟+导演剪辑TV版320分钟",url:"https://www.aliyundrive.com/s/pJPDWLQC2D9"},
