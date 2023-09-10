@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：作恶者 Perpetrator (2023)",url:"https://www.aliyundrive.com/s/WYLyE3AYYGB"},
+const aliData = [{name:"名称：好兆头 (2023) S02 1080p 高码 内封多国语【附S01】",url:"https://www.aliyundrive.com/s/MzQLXYYhshS"},
+{name:"名称：作恶者 Perpetrator (2023)",url:"https://www.aliyundrive.com/s/WYLyE3AYYGB"},
 {name:"名称：八角笼中 (2023) 4K 简体中字【高码版】【补档】",url:"https://www.aliyundrive.com/s/wz39za1QTgR"},
 {name:"名称：【百战程序员】Java互联网架构师",url:"https://www.aliyundrive.com/s/QY2kut6bYwy"},
 {name:"名称：心灵猎人(2017) 2季全 4K HDR&amp;DV 内封简繁",url:"https://www.aliyundrive.com/s/i8MdLh4T2yg"},
