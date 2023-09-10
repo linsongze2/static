@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【老男孩教育】网络安全工程师-线下脱产班12期",url:"https://www.aliyundrive.com/s/cAUwXFgaz8B"},
+const aliData = [{name:"名称：《零浪费生活 》",url:"https://www.aliyundrive.com/s/99aQc5vAzKB"},
+{name:"名称：【老男孩教育】网络安全工程师-线下脱产班12期",url:"https://www.aliyundrive.com/s/cAUwXFgaz8B"},
 {name:"名称：豪斯医生数据挖掘之WGCNA详解",url:"https://www.aliyundrive.com/s/icU9X1zpRo3"},
 {name:"名称：消失的古国之伊犁河畔 (2015) 纪录片 1080p 国语中字",url:"https://www.aliyundrive.com/s/zjccFJZQxPE"},
 {name:"名称：人类星球 (2011) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/uaKZfQRFz5M"},
