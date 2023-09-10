@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：赏金姐妹花(2020) 4K HDR&amp;DV 内封中字",url:"https://www.aliyundrive.com/s/UuP8hiB5fWp"},
+const aliData = [{name:"名称：斗破苍穹年番【4K】更至61集",url:"https://www.aliyundrive.com/s/5BgcoLPkDJ3"},
+{name:"名称：名侦探柯南/名探偵コナン 更至1096集即1154",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
+{name:"名称：星期三(2022) 4K HDR&amp;DV 内封简繁",url:"https://www.aliyundrive.com/s/WQcXa4D5o5A"},
+{name:"名称：赏金姐妹花(2020) 4K HDR&amp;DV 内封中字",url:"https://www.aliyundrive.com/s/UuP8hiB5fWp"},
 {name:"名称：一路朝阳 (2023) 全36集 4K 【60帧率版本】",url:"https://www.aliyundrive.com/s/7bmdB2vgsgQ"},
 {name:"名称：斗破苍穹年番 4K 更61",url:"https://www.aliyundrive.com/s/cbiKnwhLDwX"},
 {name:"名称：超感猎杀(2015) 1080p+ 2160p 内封中字",url:"https://www.aliyundrive.com/s/VGWAqX8VPGm"},
