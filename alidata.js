@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：自由职业者生存手册 | 电子书籍",url:"https://www.aliyundrive.com/s/FJT37qqDtKq"},
+const aliData = [{name:"名称：戒魔人",url:"https://www.aliyundrive.com/s/bmM4vgWTMLE"},
+{name:"名称：自由职业者生存手册 | 电子书籍",url:"https://www.aliyundrive.com/s/FJT37qqDtKq"},
 {name:"名称：忍者神龟：变种大乱斗 (2023) 4K HDR 简英双字",url:"https://www.aliyundrive.com/s/TMo5fg7gsGj"},
 {name:"名称：无与伦比的美丽 (2023) 更28 陈晓/古力娜扎/柳岩",url:"https://www.aliyundrive.com/s/pWKysUXtmmd"},
 {name:"名称：前夜 (2023) 1080/4K HDR 更27",url:"https://www.aliyundrive.com/s/Jmha8tDXnuw"},
