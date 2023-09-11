@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：亲爱的隐居先生4K 更新15",url:"https://www.aliyundrive.com/s/s5YFjmSrH5J"},
+const aliData = [{name:"名称：鸟瞰地球 (2011) 1080P 中英外挂字幕",url:"https://www.aliyundrive.com/s/RBywqFaiShs"},
+{name:"名称：亲爱的隐居先生4K 更新15",url:"https://www.aliyundrive.com/s/s5YFjmSrH5J"},
 {name:"名称：披荆斩棘的哥哥(2021) 第三季 更新中",url:"https://www.aliyundrive.com/s/RhpuJzigbWx"},
 {name:"名称：亲爱的隐居先生【4K/1080P】更至15集",url:"https://www.aliyundrive.com/s/b6xVuhZVhsX"},
 {name:"名称：漂亮的战斗(2023)",url:"https://www.aliyundrive.com/s/CoZU8FsopAz"},
