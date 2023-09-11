@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：八角笼中 (2023) 4K 简体中字【高码版】X2",url:"https://www.aliyundrive.com/s/vXqh9W6QCHe"},
+const aliData = [{name:"名称：靠谱：成为人群中的前5% | 电子书籍",url:"https://www.aliyundrive.com/s/rfaC3ixNmBr"},
+{name:"名称：八角笼中 (2023) 4K 简体中字【高码版】X2",url:"https://www.aliyundrive.com/s/vXqh9W6QCHe"},
 {name:"名称：灼灼风流 (2023) 【40集全】4K 【杜比视界版本】【补档】X2",url:"https://www.aliyundrive.com/s/bYcyugGtD4D"},
 {name:"名称：张大千画作高清合集(可打印TIF格式)",url:"https://www.aliyundrive.com/s/23TD2jFRumt"},
 {name:"名称：地球之盐 (2014) 高分纪录片 1080p BluRay REMUX (原盘) 外挂中字",url:"https://www.aliyundrive.com/s/KnQx31DvYUM"},
