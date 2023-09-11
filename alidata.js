@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：芭比 (2023) 1080P 简繁双语字幕 【高码版】",url:"https://www.aliyundrive.com/s/uponHcxmnnL"},
+const aliData = [{name:"名称：《出身：不平等的选拔与精英的自我复制 》",url:"https://www.aliyundrive.com/s/paLm7C8Zfcx"},
+{name:"名称：欢颜 (2023) 4K HDR",url:"https://www.aliyundrive.com/s/C6aMyZGLGtA"},
+{name:"名称：芭比 (2023) 1080P 简繁双语字幕 【高码版】",url:"https://www.aliyundrive.com/s/uponHcxmnnL"},
 {name:"名称：Gin+Vue+微服务打造秒杀商城-Go",url:"https://www.aliyundrive.com/s/7nJikyXDLKR"},
 {name:"名称：大猫 Big Cata (2018) 高分纪录片 1080p 双语字幕",url:"https://www.aliyundrive.com/s/fG9yFJQZKmP"},
 {name:"名称：张晓燕 风险管理课（完结）",url:"https://www.aliyundrive.com/s/mXXZ5cAm6ti"},
