@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：骄阳伴我 (2023) 4K 准点同步更新中",url:"https://www.aliyundrive.com/s/FR96bSaqwS1"},
+const aliData = [{name:"名称：行尸走肉：达里尔·迪克森 (2023) 第一季E01 简繁双语字幕 【持续更新】",url:"https://www.aliyundrive.com/s/Zmnkq6SsHHg"},
+{name:"名称：骄阳伴我 (2023) 4K 准点同步更新中",url:"https://www.aliyundrive.com/s/FR96bSaqwS1"},
 {name:"名称：【河蟹补】 豆瓣2022评分最高英美新剧【Top10】",url:"https://www.aliyundrive.com/s/igvqu93sFyE"},
 {name:"名称：杀手之王 King of Killers (2023) 1080p 高码 DDP5.1 惊悚 / 动作 【刮削】",url:"https://www.aliyundrive.com/s/rjd1LQrK9dx"},
 {name:"名称：花轿喜事 4K 更20集",url:"https://www.aliyundrive.com/s/Z2rYRmx3nf5"},
