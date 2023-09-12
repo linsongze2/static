@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：南风知我意 (2023) 首更5 成毅/张予曦/付辛博",url:"https://www.aliyundrive.com/s/ABAtebbXwAG"},
+const aliData = [{name:"名称：我有一个朋友 (2023) 1080 HDR 更13",url:"https://www.aliyundrive.com/s/CvEh9ze5oRB"},
+{name:"名称：南风知我意 (2023) 首更5 成毅/张予曦/付辛博",url:"https://www.aliyundrive.com/s/ABAtebbXwAG"},
 {name:"名称：异人之下 4K60FPS 更新15",url:"https://www.aliyundrive.com/s/aWmt97BsTdZ"},
 {name:"名称：戴洛克小镇 / 戴洛奇小镇 (2023) S01 2160p HDR 内封多国语【高分犯罪】【刮削】",url:"https://www.aliyundrive.com/s/5ucMAwyrLjq"},
 {name:"名称：花轿喜事 (2023) 1080/4K HDR 更21",url:"https://www.aliyundrive.com/s/mYTHZr586We"},
