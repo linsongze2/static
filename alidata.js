@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：异人之下(2023) S01E01-E15 4K",url:"https://www.aliyundrive.com/s/bzbi5FG3nXU"},
+const aliData = [{name:"名称：新书推荐：自由职业者生存手册（从零开始开启自由职业之路）",url:"https://www.aliyundrive.com/s/GfML1AaCEej"},
+{name:"名称：中高级开发晋升利器 MySQL面试指南",url:"https://www.aliyundrive.com/s/i4wXQ5satcE"},
+{name:"名称：异人之下(2023) S01E01-E15 4K",url:"https://www.aliyundrive.com/s/bzbi5FG3nXU"},
 {name:"名称：没用的谎言 소용없어 거짓말 (2023) 更14",url:"https://www.aliyundrive.com/s/AqsDEKc3KDz"},
 {name:"名称：野生动物图鉴 | 电子书籍",url:"https://www.aliyundrive.com/s/CAndP5LJykB"},
 {name:"名称：蜂巢 4KHDR60FPS 更新35",url:"https://www.aliyundrive.com/s/QNE2oTTi53r"},
