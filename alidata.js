@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：芭比【4K HDR】(美版.2023)",url:"https://www.aliyundrive.com/s/LVTSAWwr7fi"},
+const aliData = [{name:"名称：炼气十万年 (2023) 动漫 同步更新中",url:"https://www.aliyundrive.com/s/kJ7syB8GX1h"},
+{name:"名称：芭比【4K HDR】(美版.2023)",url:"https://www.aliyundrive.com/s/LVTSAWwr7fi"},
 {name:"名称：浴血黑帮 1-6季全 蓝光画质 中英字幕 网盘资源避难所压制",url:"https://www.aliyundrive.com/s/Li6St3CXruD"},
 {name:"名称：镇魂街 第三季 (2023) 4K 更8",url:"https://www.aliyundrive.com/s/De8tuEef3ed"},
 {name:"名称：大周期：不确定时代的确定性生存法则 | 电子书籍",url:"https://www.aliyundrive.com/s/taKN6RcTrrA"},
