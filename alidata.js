@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：女囚尼基塔(1990) REMUX 内封中字",url:"https://www.aliyundrive.com/s/pJ8EczHWhYS"},
+const aliData = [{name:"名称：父辈的荣耀 (2023) 1080/4K HDR 更28",url:"https://www.aliyundrive.com/s/aeN5tRGCzEj"},
+{name:"名称：女囚尼基塔(1990) REMUX 内封中字",url:"https://www.aliyundrive.com/s/pJ8EczHWhYS"},
 {name:"名称：雨人(1988) 4K Remux 外挂中字",url:"https://www.aliyundrive.com/s/xwKQEAAbk8R"},
 {name:"名称：前夜 (2023) 1080/4K HDR 更31",url:"https://www.aliyundrive.com/s/F1kfWJo4epP"},
 {name:"名称：沧元图 持续更新中 至11集",url:"https://www.aliyundrive.com/s/S4Xa7SCfJ2g"},
