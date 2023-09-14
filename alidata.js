@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：暗杀风暴 (2023) 4K 高码版 国粤 双杜比5.1环绕音轨【易和谐】【刮削】",url:"https://www.aliyundrive.com/s/34DXALFfWeu"},
+const aliData = [{name:"名称：【蚂蚁摄影课堂】22级风光后期精英班",url:"https://www.aliyundrive.com/s/cW76hRcEZHm"},
+{name:"名称：暗杀风暴 (2023) 4K 高码版 国粤 双杜比5.1环绕音轨【易和谐】【刮削】",url:"https://www.aliyundrive.com/s/34DXALFfWeu"},
 {name:"名称：芭比 Barbie (2023) 2160p HDR 内封多国语【河蟹补】",url:"https://www.aliyundrive.com/s/bpPAuBoi9J5"},
 {name:"名称：前夜 (2023) 2160p DDP2.0 悬疑新剧 32集完结",url:"https://www.aliyundrive.com/s/RE2LSSrAb7R"},
 {name:"名称：大明王朝1566 (2007) 1080p高清版 内置简繁字幕",url:"https://www.aliyundrive.com/s/zPxY6Mx4bTG"},
