@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：异度空间 蓝光原盘REMUX [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/xM6ydd2UDo2"},
+const aliData = [{name:"名称：继承之战 Succession S01-S04 2160p HDR &amp; 1080p 高码 内封 / 外挂双语【刮削】",url:"https://www.aliyundrive.com/s/AAU6U4HvWt9"},
+{name:"名称：异度空间 蓝光原盘REMUX [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/xM6ydd2UDo2"},
 {name:"名称：荞麦疯长(2020) 4K高码",url:"https://www.aliyundrive.com/s/GyCWiY5w84A"},
 {name:"名称：P2【商业级MMORPG大型网游】Unity全栈开发",url:"https://www.aliyundrive.com/s/adi49y7yywn"},
 {name:"名称：追踪海洋巨兽 (2021) 高分纪录片 1080p 双语字幕",url:"https://www.aliyundrive.com/s/h7VgdbBR4zz"},
