@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：查泰莱夫人的情人 (1981) 原盘REMUX 简繁双语字幕 【易和谐 保存后尽快下载或转移】",url:"https://www.aliyundrive.com/s/x3RQRhK7LvE"},
+const aliData = [{name:"名称：恋恋洗衣店2 みなと商事コインランドリー2 (2023)",url:"https://www.aliyundrive.com/s/j6SPoJPfAgz"},
+{name:"名称：查泰莱夫人的情人 (1981) 原盘REMUX 简繁双语字幕 【易和谐 保存后尽快下载或转移】",url:"https://www.aliyundrive.com/s/x3RQRhK7LvE"},
 {name:"名称：好书推荐：《为自己背书：成功说服他人的7个步骤》",url:"https://www.aliyundrive.com/s/A2xDziZiiTH"},
 {name:"名称：第十一届矛盾文学奖(2023) 获奖作品合集",url:"https://www.aliyundrive.com/s/drEjrL7GqCz"},
 {name:"名称：恋爱不可抗力 이 연애는 불가항력&nbsp;(2023) 1080p 中文字幕 更E07",url:"https://www.aliyundrive.com/s/tCk2dtQkFvd"},
