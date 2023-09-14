@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：恋恋洗衣店2 みなと商事コインランドリー2 (2023)",url:"https://www.aliyundrive.com/s/j6SPoJPfAgz"},
+const aliData = [{name:"名称：湘西诡案 (2023) 2160p 高码 国语中字【悬疑惊悚片】",url:"https://www.aliyundrive.com/s/HcBxZkmWkoQ"},
+{name:"名称：神印王座 4K 更76 持续更新",url:"https://www.aliyundrive.com/s/t7G12a7XWeA"},
+{name:"名称：鹅毛笔(2000) 1080p 内封字幕",url:"https://www.aliyundrive.com/s/tp8cRFV4zK9"},
+{name:"名称：恋恋洗衣店2 みなと商事コインランドリー2 (2023)",url:"https://www.aliyundrive.com/s/j6SPoJPfAgz"},
 {name:"名称：查泰莱夫人的情人 (1981) 原盘REMUX 简繁双语字幕 【易和谐 保存后尽快下载或转移】",url:"https://www.aliyundrive.com/s/x3RQRhK7LvE"},
 {name:"名称：好书推荐：《为自己背书：成功说服他人的7个步骤》",url:"https://www.aliyundrive.com/s/A2xDziZiiTH"},
 {name:"名称：第十一届矛盾文学奖(2023) 获奖作品合集",url:"https://www.aliyundrive.com/s/drEjrL7GqCz"},
