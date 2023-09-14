@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：暗杀风暴4K60FPS&amp;4KHDR60FPS&amp;TV高码 只活不到1个小时（链接维护）",url:"https://www.aliyundrive.com/s/5Ppimsfg1zD"},
+const aliData = [{name:"名称：西出玉门 (2023) 1080/4K HDR 更16 倪妮 / 白宇",url:"https://www.aliyundrive.com/s/z6dvtvMx8Ko"},
+{name:"名称：暗杀风暴4K60FPS&amp;4KHDR60FPS&amp;TV高码 只活不到1个小时（链接维护）",url:"https://www.aliyundrive.com/s/5Ppimsfg1zD"},
 {name:"名称：暗杀风暴 (2023) 1080/4K HDR 60帧 国语粤语",url:"https://www.aliyundrive.com/s/Thui7p92kEy"},
 {name:"名称：灼灼风流 (2023) 【40集全】4K 【杜比视界版本】【补档4】",url:"https://www.aliyundrive.com/s/53ksrSwEoNe"},
 {name:"名称：异人之下 4K60FPS 更新17集",url:"https://www.aliyundrive.com/s/RWXBiGaPjkX"},
