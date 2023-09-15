@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：暗杀风暴 (2023) 4K 简体中字 【高码版】",url:"https://www.aliyundrive.com/s/FMPybRzo2EY"},
+const aliData = [{name:"名称：国民死刑投票 국민사형투표&nbsp;(2023) 1080p 高码率 内封多国语 更E06【林智妍新剧】",url:"https://www.aliyundrive.com/s/R7nkrgaBDsn"},
+{name:"名称：暗杀风暴 (2023) 4K 简体中字 【高码版】",url:"https://www.aliyundrive.com/s/FMPybRzo2EY"},
 {name:"名称：我有一个朋友 (2023) 1080 HDR 更15",url:"https://www.aliyundrive.com/s/HCiSpCAu7ZW"},
 {name:"名称：【2024考研英语】新东方全程班",url:"https://www.aliyundrive.com/s/gVT3zfZTQ1i"},
 {name:"名称：四千金的情人(1992) 1080p 内封中字",url:"https://www.aliyundrive.com/s/gH6h5vKW67U"},
