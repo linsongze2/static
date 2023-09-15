@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：小米创业思考 | 电子书籍",url:"https://www.aliyundrive.com/s/iGexvvwxtoc"},
+const aliData = [{name:"名称：咒术回战 第二季 呪術廻戦 2 (2023) 1080/4K 更8 中字",url:"https://www.aliyundrive.com/s/DzdAUe1GaK5"},
+{name:"名称：小米创业思考 | 电子书籍",url:"https://www.aliyundrive.com/s/iGexvvwxtoc"},
 {name:"名称：查泰莱夫人的情人 (1981) 原盘REMUX 简繁双语字幕 【补档】",url:"https://www.aliyundrive.com/s/hKZ62119NLz"},
 {name:"名称：遮天 4K [更新至22集]",url:"https://www.aliyundrive.com/s/HmgJUsY4XyA"},
 {name:"名称：花容月貌 (2013) 原盘REMUX 简繁字幕【易和谐 保存后尽快下载或转移】",url:"https://www.aliyundrive.com/s/G7Z25qUs7CS"},
