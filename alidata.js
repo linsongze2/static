@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：战争陷阱 War Trap (2022) 中字",url:"https://www.aliyundrive.com/s/FB8TAWZwMzN"},
+const aliData = [{name:"名称：西出玉门 (2023) 4K 同步更新中",url:"https://www.aliyundrive.com/s/BrqrQHdHBK8"},
+{name:"名称：战争陷阱 War Trap (2022) 中字",url:"https://www.aliyundrive.com/s/FB8TAWZwMzN"},
 {name:"名称：夺宝奇兵5：命运转盘 (2023) 4K HDR 双语字幕 【补档6】",url:"https://www.aliyundrive.com/s/rUBZGFQ6ygj"},
 {name:"名称：芭比 (2023) 4K HDR 简繁双语字幕 【补档3】",url:"https://www.aliyundrive.com/s/gTn3H5A4QGn"},
 {name:"名称：许老师《管理七剑》",url:"https://www.aliyundrive.com/s/uxKrmXpFCQq"},
