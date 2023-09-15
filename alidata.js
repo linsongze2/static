@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：喋血边境 (2023) 4K 60FPS",url:"https://www.aliyundrive.com/s/ur4SmeQNoHm"},
+const aliData = [{name:"名称：妖幻三重奏 あやかしトライアングル (2023)",url:"https://www.aliyundrive.com/s/TusxE7z9f5R"},
+{name:"名称：喋血边境 (2023) 4K 60FPS",url:"https://www.aliyundrive.com/s/ur4SmeQNoHm"},
 {name:"名称：无与伦比的美丽 (2023) 更36 陈晓/古力娜扎/柳岩",url:"https://www.aliyundrive.com/s/7vrxbm1H7PB"},
 {name:"名称：时光之轮 S01~S02 4K [更新至05集]",url:"https://www.aliyundrive.com/s/zhUG73rRFpx"},
 {name:"名称：【全8册】 摄影家是怎样炼成的 | 电子书籍",url:"https://www.aliyundrive.com/s/2ARFY3AkNNR"},
