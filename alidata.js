@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：许老师《管理七剑》",url:"https://www.aliyundrive.com/s/uxKrmXpFCQq"},
+const aliData = [{name:"名称：夺宝奇兵5：命运转盘 (2023) 4K HDR 双语字幕 【补档6】",url:"https://www.aliyundrive.com/s/rUBZGFQ6ygj"},
+{name:"名称：芭比 (2023) 4K HDR 简繁双语字幕 【补档3】",url:"https://www.aliyundrive.com/s/gTn3H5A4QGn"},
+{name:"名称：许老师《管理七剑》",url:"https://www.aliyundrive.com/s/uxKrmXpFCQq"},
 {name:"名称：欲盖弥彰(2023) S01E01~E07 4K HDR",url:"https://www.aliyundrive.com/s/6AkVBY8ehf4"},
 {name:"名称：1刑的乌鸦 电影版 (2023) 中字",url:"https://www.aliyundrive.com/s/poiAz8SWq5u"},
 {name:"名称：《奥本海默传》2023-08出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/d1qwZ3nnGi2"},
