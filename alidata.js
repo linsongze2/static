@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：灼灼风流 (2023) 【40集全】4K 【杜比视界版本】【补档5】",url:"https://www.aliyundrive.com/s/pJVDQXWQBmB"},
+const aliData = [{name:"名称：父辈的荣耀 (2023) 4K 30集全",url:"https://www.aliyundrive.com/s/9qUUUd3vwi2"},
+{name:"名称：灼灼风流 (2023) 【40集全】4K 【杜比视界版本】【补档5】",url:"https://www.aliyundrive.com/s/pJVDQXWQBmB"},
 {name:"名称：基地 第二季 Foundation Season 2 (2023) 1080/4K 更10",url:"https://www.aliyundrive.com/s/QwwQ3T94cjv"},
 {name:"名称：西出玉门 (2023) 4K 同步更新中",url:"https://www.aliyundrive.com/s/BrqrQHdHBK8"},
 {name:"名称：战争陷阱 War Trap (2022) 中字",url:"https://www.aliyundrive.com/s/FB8TAWZwMzN"},
