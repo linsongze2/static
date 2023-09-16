@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：宿命之敌 (2023) 共计40集",url:"https://www.aliyundrive.com/s/DYDfzkSKyae"},
+const aliData = [{name:"名称：另一个黑人女孩 The Other Black Girl (2023) 10集完结",url:"https://www.aliyundrive.com/s/CuurXYnWaUf"},
+{name:"名称：宿命之敌 (2023) 共计40集",url:"https://www.aliyundrive.com/s/DYDfzkSKyae"},
 {name:"名称：叫我郑先生",url:"https://www.aliyundrive.com/s/fWEg7P1ngSF"},
 {name:"名称：西出玉门 [2023] 4K&amp;4K臻彩&amp;4K杜比 更新20",url:"https://www.aliyundrive.com/s/E3cHhACNZuF"},
 {name:"名称：西出玉门 (2023) 1080/4K HDR 更20 倪妮 / 白宇",url:"https://www.aliyundrive.com/s/PVptiqXFvuA"},
