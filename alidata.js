@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：伊伦嘉：诱惑的艺术 Ehrengard: The Art of Seduction (2023)",url:"https://www.aliyundrive.com/s/KmFBSU75tAV"},
+const aliData = [{name:"名称：《3分钟哲学：一本关于伟大想法的小书》2023-04出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/SXR3xYUZA45"},
+{name:"名称：伊伦嘉：诱惑的艺术 Ehrengard: The Art of Seduction (2023)",url:"https://www.aliyundrive.com/s/KmFBSU75tAV"},
 {name:"名称：东京爱情动作故事 東京愛情動作故事 (2023) 4K 更10",url:"https://www.aliyundrive.com/s/XPkTVxAf5UC"},
 {name:"名称：异人之下 / 一人之下真人版 (2023) 4K 普码 + 4K 高码率 更EP18",url:"https://www.aliyundrive.com/s/J6eYz5VVpAZ"},
 {name:"名称：盾之勇者成名录[1-2季]",url:"https://www.aliyundrive.com/s/KTeAsuiUuWN"},
