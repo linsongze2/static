@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：一百万英里之外/逐梦九天 A Million Miles Away (2023)",url:"https://www.aliyundrive.com/s/XixQuQtafJo"},
+const aliData = [{name:"名称：【共十册】 高手的思维模式 | 电子书籍",url:"https://www.aliyundrive.com/s/q2noLik7bdy"},
+{name:"名称：一百万英里之外/逐梦九天 A Million Miles Away (2023)",url:"https://www.aliyundrive.com/s/XixQuQtafJo"},
 {name:"名称：狱卒 (2023) 4K 简体中字",url:"https://www.aliyundrive.com/s/uNfRarMuA5Z"},
 {name:"名称：刘墉教你做聪明家长，养出高情商有教养孩子",url:"https://www.aliyundrive.com/s/pW9bm8ejyNA"},
 {name:"名称：云之羽 (2023) 4K + 1080p 全24集完结【易河蟹】",url:"https://www.aliyundrive.com/s/W1ZLSxVdguY"},
