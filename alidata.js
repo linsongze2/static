@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：给我讲个恐怖故事 Tell Me a Creepy Story (2023) 中字",url:"https://www.aliyundrive.com/s/BMR1PoiRoBB"},
+const aliData = [{name:"名称：好书推荐：《认知操纵：宣传如何影响我们的思想和行为》",url:"https://www.aliyundrive.com/s/NKzDwzQEsXe"},
+{name:"名称：给我讲个恐怖故事 Tell Me a Creepy Story (2023) 中字",url:"https://www.aliyundrive.com/s/BMR1PoiRoBB"},
 {name:"名称：简明逻辑学二十讲 | 电子书籍",url:"https://www.aliyundrive.com/s/CN5iEmaK2io"},
 {name:"名称：流水落花 (2022) 1080p BluRay 高码 TureHD7.1 国粤双音轨 内封简繁英【近期热门电影】【刮削】",url:"https://www.aliyundrive.com/s/3HHcZ192DxH"},
 {name:"名称：时光音乐会·老友记 (2023) 综艺",url:"https://www.aliyundrive.com/s/N1HjqxSQBg8"},
