@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：巫蛊之术 Brujería (2023) 中字",url:"https://www.aliyundrive.com/s/5vNoUkzTGgm"},
+const aliData = [{name:"名称：未来的太阳 A Brighter Tomorrow (2023)",url:"https://www.aliyundrive.com/s/5AhcsfzF1AE"},
+{name:"名称：巫蛊之术 Brujería (2023) 中字",url:"https://www.aliyundrive.com/s/5vNoUkzTGgm"},
 {name:"名称：介子鬼城 (2023) 4K 悬疑 动作 冒险电影",url:"https://www.aliyundrive.com/s/tTEAxd9Ww1i"},
 {name:"名称：大道薪火4K60FPS 首发2集",url:"https://www.aliyundrive.com/s/1z1ainGFRqr"},
 {name:"名称：彼方之歌 彼方のうた (2023)",url:"https://www.aliyundrive.com/s/pRVfdSh7VkV"},
