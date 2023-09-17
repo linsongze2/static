@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：镇魂街.重制版 4K [S01~S03 ][更新至09集]",url:"https://www.aliyundrive.com/s/2eu1FoCPptB"},
+const aliData = [{name:"名称：一兆游戏 トリリオンゲーム (2023) 10集完结",url:"https://www.aliyundrive.com/s/89s5UCszCkM"},
+{name:"名称：镇魂街.重制版 4K [S01~S03 ][更新至09集]",url:"https://www.aliyundrive.com/s/2eu1FoCPptB"},
 {name:"名称：异人之下 4K高码率 [60帧率版][更新至19集]",url:"https://www.aliyundrive.com/s/wywnPDS7oYT"},
 {name:"名称：介子鬼城 4K高码率 [60帧率版]",url:"https://www.aliyundrive.com/s/FguXhhDNCjL"},
 {name:"名称：小灯塔 儿童教学 视频 合集",url:"https://www.aliyundrive.com/s/tAPrNYUH44x"},
