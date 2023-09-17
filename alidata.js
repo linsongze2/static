@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：介子鬼城 4K高码率 [60帧率版]",url:"https://www.aliyundrive.com/s/FguXhhDNCjL"},
+const aliData = [{name:"名称：镇魂街.重制版 4K [S01~S03 ][更新至09集]",url:"https://www.aliyundrive.com/s/2eu1FoCPptB"},
+{name:"名称：异人之下 4K高码率 [60帧率版][更新至19集]",url:"https://www.aliyundrive.com/s/wywnPDS7oYT"},
+{name:"名称：介子鬼城 4K高码率 [60帧率版]",url:"https://www.aliyundrive.com/s/FguXhhDNCjL"},
 {name:"名称：小灯塔 儿童教学 视频 合集",url:"https://www.aliyundrive.com/s/tAPrNYUH44x"},
 {name:"名称：疾速营救 4K [SDR][内封简英字幕]",url:"https://www.aliyundrive.com/s/Zag5yvf6rCD"},
 {name:"名称：基地 Foundation Season 2&nbsp;(2023) S02 2160p HDR10+ 内封多国语 全十集【附S01】",url:"https://www.aliyundrive.com/s/RuYhNKpx73e"},
