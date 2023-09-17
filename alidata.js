@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：《大模型时代：ChatGPT开启通用人工智能浪潮》2023-05出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/NGKikawxp11"},
+const aliData = [{name:"名称：绝美的世界各地美景之旅 4K/2160P",url:"https://www.aliyundrive.com/s/anZP7o5LyJo"},
+{name:"名称：《大模型时代：ChatGPT开启通用人工智能浪潮》2023-05出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/NGKikawxp11"},
 {name:"名称：名侦探柯南 名探偵コナン (1996) 更1155",url:"https://www.aliyundrive.com/s/MkvgiiwKG8b"},
 {name:"名称：科学大师书系 世界顶级思想家和科学家写给大家的科普读物 （宇宙的起源 + 基因之河 + 人类的起源 + 宇宙的最后三分钟）",url:"https://www.aliyundrive.com/s/sGSNSxt4aoi"},
 {name:"名称：烈日阳光 Солнцепёк (2021) 俄乌导火索，真实顿巴斯战场",url:"https://www.aliyundrive.com/s/nSng6CxTm2n"},
