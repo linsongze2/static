@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：共助 (2017) 韩版高码原盘REMUX 简繁字幕",url:"https://www.aliyundrive.com/s/iJBZna9yf77"},
+const aliData = [{name:"名称：共助2：国际 (2022) 1080p WEB 简繁字幕",url:"https://www.aliyundrive.com/s/2Sa14uJ3y5o"},
+{name:"名称：共助 (2017) 韩版高码原盘REMUX 简繁字幕",url:"https://www.aliyundrive.com/s/iJBZna9yf77"},
 {name:"名称：斗破苍穹年番 4K 更62",url:"https://www.aliyundrive.com/s/AKZLUfhqrWE"},
 {name:"名称：斗破苍穹合集 年番 4K [更新至62集]",url:"https://www.aliyundrive.com/s/tS7JbkD9T9P"},
 {name:"名称：七人的逃脱 7인의 탈출 (2023) 1080p 中文字幕 更E02【悬疑韩剧】",url:"https://www.aliyundrive.com/s/3gTfhZSwAAg"},
