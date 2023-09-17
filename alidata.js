@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：七人的逃脱 / 7人的逃脱 (2023) 1080p 高码率 内封简繁英 更EP02 【热播悬疑韩剧】【刮削】",url:"https://www.aliyundrive.com/s/BMSJd5Jgs4d"},
+const aliData = [{name:"名称：金刚狼 蓝光原盘REMUX [国英双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/qk4fTydApNX"},
+{name:"名称：金刚狼2 蓝光原盘REMUX [高码加长版] [国英双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/ERgJxrT376E"},
+{name:"名称：金刚狼3：殊死一战 4K原盘REMUX [HDR] [国英双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/4qpURYQbvtb"},
+{name:"名称：七人的逃脱 / 7人的逃脱 (2023) 1080p 高码率 内封简繁英 更EP02 【热播悬疑韩剧】【刮削】",url:"https://www.aliyundrive.com/s/BMSJd5Jgs4d"},
 {name:"名称：异人之下 真人版 一人之下 (2023) 1080/4K HDR 更20",url:"https://www.aliyundrive.com/s/1RwXyem4zpG"},
 {name:"名称：九义人(2023) S01E01-E08 4K",url:"https://www.aliyundrive.com/s/eGUV8D3cQYa"},
 {name:"名称：亲爱的孟买 Bambai Meri Jaan (2023) 10集完结",url:"https://www.aliyundrive.com/s/4SirBZ49mEN"},
