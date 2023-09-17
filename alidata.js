@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：BBC自然探索系列（套装共7册）【EPUB | PDF 电子书】",url:"https://www.aliyundrive.com/s/UTgWee7ZXb8"},
+const aliData = [{name:"名称：AutoCAD 2020 零基础入门精讲(126节课)",url:"https://www.aliyundrive.com/s/f4MyJWPHuMw"},
+{name:"名称：BBC自然探索系列（套装共7册）【EPUB | PDF 电子书】",url:"https://www.aliyundrive.com/s/UTgWee7ZXb8"},
 {name:"名称：死神 千年血战篇 第二季 (2023) 更10",url:"https://www.aliyundrive.com/s/hpRM53JwWyr"},
 {name:"名称：摸心第六感 힙하게 (2023) 1080p NF 高码率 内封多国语 更E11【热播韩剧】",url:"https://www.aliyundrive.com/s/YB56gv3Xqxg"},
 {name:"名称：杀手之王 King of Killers (2023)",url:"https://www.aliyundrive.com/s/dAeUyBoi4zn"},
