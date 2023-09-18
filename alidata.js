@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：亲爱的隐居先生 (2023) 1080/4K HDR 更21",url:"https://www.aliyundrive.com/s/heZJ9PncSsn"},
+const aliData = [{name:"名称：蓝甲虫 Blue Beetle (2023) 2160p HDR&amp;DV PT原版 机翻双语 (内封特效双语请等人工精校字幕)【已刮削】【易和谐】",url:"https://www.aliyundrive.com/s/28X1SNvJGcN"},
+{name:"名称：亲爱的隐居先生 (2023) 1080/4K HDR 更21",url:"https://www.aliyundrive.com/s/heZJ9PncSsn"},
 {name:"名称：给孩子的极简诗人传 | 电子书籍",url:"https://www.aliyundrive.com/s/XgtryFAhPR7"},
 {name:"名称：蓝甲虫(2023) 4K HDR&amp;DV 外挂机翻+不知道是不是机翻",url:"https://www.aliyundrive.com/s/37Hdu85g3vz"},
 {name:"名称：那些回不去的年少时光 (2023) 更7 赵今麦",url:"https://www.aliyundrive.com/s/6r3C8uWhs9o"},
