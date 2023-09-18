@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：哆啦A梦：大雄与天空的理想乡 蓝光原盘REMUX [内封简日双字]",url:"https://www.aliyundrive.com/s/D25Du94puFi"},
+const aliData = [{name:"名称：长空之王 蓝光原盘REMUX [内封简、繁中字]",url:"https://www.aliyundrive.com/s/smrL8q1f33Y"},
+{name:"名称：哆啦A梦：大雄与天空的理想乡 蓝光原盘REMUX [内封简日双字]",url:"https://www.aliyundrive.com/s/D25Du94puFi"},
 {name:"名称：大漠追云剑 (2023)",url:"https://www.aliyundrive.com/s/2LnmWNwWDgd"},
 {name:"名称：Python进阶训练营",url:"https://www.aliyundrive.com/s/8XiPuRkU3Wr"},
 {name:"名称：荒野迷案(2023)4KHDR60FPS",url:"https://www.aliyundrive.com/s/FSGfWMkZeJM"},
