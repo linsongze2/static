@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【3D视觉工坊】国内首个面向工业级实战的点云处理课程",url:"https://www.aliyundrive.com/s/WThNognfzma"},
+const aliData = [{name:"名称：从0到就业兼职的平面设计系统教学，理论基础+案例实操！",url:"https://www.aliyundrive.com/s/HQjaNKzZ4Mg"},
+{name:"名称：【3D视觉工坊】国内首个面向工业级实战的点云处理课程",url:"https://www.aliyundrive.com/s/WThNognfzma"},
 {name:"名称：BBC夜空探索系列（套装全8册）【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/qmdFikNDicV"},
 {name:"名称：罪恶围城 BAD CITY (2023) 日本 动作",url:"https://www.aliyundrive.com/s/GyfN1Dos2hC"},
 {name:"名称：超能一家人 [2023]喜剧 家庭 奇幻 新增4KHDR120FPS",url:"https://www.aliyundrive.com/s/kgcTwUctPFV"},
