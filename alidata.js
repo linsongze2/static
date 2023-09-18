@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：蓝甲虫(2023) 4K HDR&amp;DV 外挂机翻+不知道是不是机翻",url:"https://www.aliyundrive.com/s/37Hdu85g3vz"},
+const aliData = [{name:"名称：给孩子的极简诗人传 | 电子书籍",url:"https://www.aliyundrive.com/s/XgtryFAhPR7"},
+{name:"名称：蓝甲虫(2023) 4K HDR&amp;DV 外挂机翻+不知道是不是机翻",url:"https://www.aliyundrive.com/s/37Hdu85g3vz"},
 {name:"名称：那些回不去的年少时光 (2023) 更7 赵今麦",url:"https://www.aliyundrive.com/s/6r3C8uWhs9o"},
 {name:"名称：九义人 [2023]4K杜比视界 更新9集 10集还没有",url:"https://www.aliyundrive.com/s/fnymxfbjcMX"},
 {name:"名称：我有一个朋友 (2023) 1080 HDR 更17",url:"https://www.aliyundrive.com/s/7pwYkmuAegU"},
