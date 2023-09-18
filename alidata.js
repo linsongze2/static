@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：旁观者 旁觀者 (2023) 1080/4K HDR 更14 港剧 国语粤语",url:"https://www.aliyundrive.com/s/BMpcybUc6h2"},
+const aliData = [{name:"名称：我有一个朋友 (2023) 1080 HDR 更17",url:"https://www.aliyundrive.com/s/7pwYkmuAegU"},
+{name:"名称：旁观者 旁觀者 (2023) 1080/4K HDR 更14 港剧 国语粤语",url:"https://www.aliyundrive.com/s/BMpcybUc6h2"},
 {name:"名称：花溪记(2023) S01E01-E08",url:"https://www.aliyundrive.com/s/3VCcGyj3x1d"},
 {name:"名称：宇航员 L'Astronaute (2023) 中字",url:"https://www.aliyundrive.com/s/kBwck84dsip"},
 {name:"名称：九义人(2023) S01E01-E10 4K",url:"https://www.aliyundrive.com/s/MKd84thpqHn"},
