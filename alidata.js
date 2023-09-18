@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：蓝甲虫 (2023) 4K HDR &amp; Dv 中英外挂字幕",url:"https://www.aliyundrive.com/s/d8Rv8SQbQuU"},
+const aliData = [{name:"名称：清华理解科学丛书（套装共10册）【EPUB | MOBI | AZW3 电子书】",url:"https://www.aliyundrive.com/s/HyfjeftMuJ1"},
+{name:"名称：蓝甲虫 Blue Beetle (2023) 2160p HDR&amp;DV + 1080p 高码率 外挂机翻双语",url:"https://www.aliyundrive.com/s/J36LLh7YGsu"},
+{name:"名称：蓝甲虫 (2023) 4K HDR &amp; Dv 中英外挂字幕",url:"https://www.aliyundrive.com/s/d8Rv8SQbQuU"},
 {name:"名称：逃离夺命岛 Island Escape (2023) 中字",url:"https://www.aliyundrive.com/s/eE6M2AiyuYd"},
 {name:"名称：Python高级爬虫实战-系统掌握破解反爬技能 挑战高薪",url:"https://www.aliyundrive.com/s/p3u7hv4SXmk"},
 {name:"名称：从0到就业兼职的平面设计系统教学，理论基础+案例实操！",url:"https://www.aliyundrive.com/s/HQjaNKzZ4Mg"},
