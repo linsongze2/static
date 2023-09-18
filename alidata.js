@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：九义人(2023) S01E01-E10 4K",url:"https://www.aliyundrive.com/s/MKd84thpqHn"},
+const aliData = [{name:"名称：宇航员 L'Astronaute (2023) 中字",url:"https://www.aliyundrive.com/s/kBwck84dsip"},
+{name:"名称：九义人(2023) S01E01-E10 4K",url:"https://www.aliyundrive.com/s/MKd84thpqHn"},
 {name:"名称：国产凌凌漆 蓝光原盘REMUX [高码法版 官方画质修复] [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/bjjC2N7MSku"},
 {name:"名称：穷途末路的我们 なれの果ての僕ら (2023) 12集完结 内嵌中日字幕",url:"https://www.aliyundrive.com/s/jZzZg4UtYPs"},
 {name:"名称：长空之王 蓝光原盘REMUX [内封简、繁中字]",url:"https://www.aliyundrive.com/s/smrL8q1f33Y"},
