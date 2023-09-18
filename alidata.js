@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：荒野迷案(2023)4KHDR60FPS",url:"https://www.aliyundrive.com/s/FSGfWMkZeJM"},
+const aliData = [{name:"名称：Python进阶训练营",url:"https://www.aliyundrive.com/s/8XiPuRkU3Wr"},
+{name:"名称：荒野迷案(2023)4KHDR60FPS",url:"https://www.aliyundrive.com/s/FSGfWMkZeJM"},
 {name:"名称：森林中的餐厅 森の中のレストラン (2022)",url:"https://www.aliyundrive.com/s/TFLMbTC33jf"},
 {name:"名称：花溪记 (2023) 4K 【高码版】",url:"https://www.aliyundrive.com/s/vzMmCuT8Mfh"},
 {name:"名称：基地 S01~S02 4K [内嵌简英特效字幕]",url:"https://www.aliyundrive.com/s/SjaQiWFAYf1"},
