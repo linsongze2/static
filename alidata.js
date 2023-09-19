@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：超能一家人 (2023) 4K 简英双字【60帧+杜比视界双版本】",url:"https://www.aliyundrive.com/s/9Uox53XKTDf"},
+const aliData = [{name:"名称：好书推荐：《逆袭：16个法国家庭的案例》",url:"https://www.aliyundrive.com/s/qdfRAwwZnXS"},
+{name:"名称：超能一家人 (2023) 4K 简英双字【60帧+杜比视界双版本】",url:"https://www.aliyundrive.com/s/9Uox53XKTDf"},
 {name:"名称：黑暗荣耀 2季全 4K HDR 中字内嵌字幕",url:"https://www.aliyundrive.com/s/Mie8Eudbrnt"},
 {name:"名称：暗杀风暴 (2023) 4K 简体中字 【高码版】【补档】",url:"https://www.aliyundrive.com/s/upwihZh5UvT"},
 {name:"名称：上海滩之风云正道4khdr60fps",url:"https://www.aliyundrive.com/s/gbjM9u5R8hZ"},
