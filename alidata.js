@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：珍爱(2009) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/nSJG5FfZgoi"},
+const aliData = [{name:"名称：42天 EXCEL入门到精通",url:"https://www.aliyundrive.com/s/P2p9PtpbwJd"},
+{name:"名称：珍爱(2009) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/nSJG5FfZgoi"},
 {name:"名称：【圣思园】张龙-Spring精髓",url:"https://www.aliyundrive.com/s/MbdrKSvWqWf"},
 {name:"名称：异形大战铁血战士(2004)REMUX 内封中字",url:"https://www.aliyundrive.com/s/sToFcKNguwr"},
 {name:"名称：摸心第六感 힙하게 (2023) 1080p NF 高码率 内封多国语 更E12【热播韩剧】",url:"https://www.aliyundrive.com/s/YB56gv3Xqxg"},
