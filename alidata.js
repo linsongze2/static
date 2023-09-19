@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：42天 EXCEL入门到精通",url:"https://www.aliyundrive.com/s/P2p9PtpbwJd"},
+const aliData = [{name:"名称：特别会说话的人都这样说话2：高手篇 | 电子书籍",url:"https://www.aliyundrive.com/s/RVmo2CPRX8D"},
+{name:"名称：42天 EXCEL入门到精通",url:"https://www.aliyundrive.com/s/P2p9PtpbwJd"},
 {name:"名称：珍爱(2009) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/nSJG5FfZgoi"},
 {name:"名称：【圣思园】张龙-Spring精髓",url:"https://www.aliyundrive.com/s/MbdrKSvWqWf"},
 {name:"名称：异形大战铁血战士(2004)REMUX 内封中字",url:"https://www.aliyundrive.com/s/sToFcKNguwr"},
