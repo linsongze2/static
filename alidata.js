@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：服从(2012) 1080p Remux 外挂中字",url:"https://www.aliyundrive.com/s/UYzZoWPcDfK"},
+const aliData = [{name:"名称：千峰教育-Python爬虫从入门到高级实战【92集】",url:"https://www.aliyundrive.com/s/gRP4cypiUzq"},
+{name:"名称：服从(2012) 1080p Remux 外挂中字",url:"https://www.aliyundrive.com/s/UYzZoWPcDfK"},
 {name:"名称：亲爱的孟买(2023) S01 1080P 内封简繁",url:"https://www.aliyundrive.com/s/uidnBDuWo7L"},
 {name:"名称：索命咒(2020) 1080p Remux 外挂中字",url:"https://www.aliyundrive.com/s/jmCRC14WPBd"},
 {name:"名称：异形魔怪(1990) 4K PRoPER Remux 外挂中字",url:"https://www.aliyundrive.com/s/MkdNNYpexa2"},
