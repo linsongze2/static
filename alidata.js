@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：你以为你是谁？像哲学家一样思考 | 电子书籍",url:"https://www.aliyundrive.com/s/LGEbahwcYER"},
+const aliData = [{name:"名称：忌怪岛 忌怪島 (2023) 恐怖",url:"https://www.aliyundrive.com/s/pPTwa6Wxxcp"},
+{name:"名称：你以为你是谁？像哲学家一样思考 | 电子书籍",url:"https://www.aliyundrive.com/s/LGEbahwcYER"},
 {name:"名称：证人(2019) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/t13HT3xLURc"},
 {name:"名称：九州缥缈录 (2023) [动漫][全11集+前篇+总篇]",url:"https://www.aliyundrive.com/s/nNaqQ9ZtQGA"},
 {name:"名称：童梦奇缘(2005) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/td87yfkbf4u"},
