@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：亲爱的隐居先生 (2023) 1080/4K HDR 24集完结",url:"https://www.aliyundrive.com/s/qb14j1bU7Jp"},
+const aliData = [{name:"名称：九义人 (2023) 4K臻彩&amp;4K杜比 更新11集",url:"https://www.aliyundrive.com/s/TkW5VrUNadU"},
+{name:"名称：我有一个朋友 (2023) 1080 HDR 更18",url:"https://www.aliyundrive.com/s/uR1pbBanvcz"},
+{name:"名称：亲爱的隐居先生 (2023) 1080/4K HDR 24集完结",url:"https://www.aliyundrive.com/s/qb14j1bU7Jp"},
 {name:"名称：异人之下 真人版 一人之下 (2023) 1080/4K HDR 更22",url:"https://www.aliyundrive.com/s/xQ4nAWsTDYM"},
 {name:"名称：莲花楼 (2023) 完结 1080/4K HDR 40集完结+莲花楼 演唱会",url:"https://www.aliyundrive.com/s/LfoLmUWPT1u"},
 {name:"名称：西行纪年番 (2023) 更11",url:"https://www.aliyundrive.com/s/GtvdEdFF6HZ"},
