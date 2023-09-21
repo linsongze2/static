@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：为人民服务(2022) 补 务必马上下载到本地",url:"https://www.aliyundrive.com/s/idGXRJ6SF6D"},
+const aliData = [{name:"名称：新大学法语",url:"https://www.aliyundrive.com/s/Wesq88K85ky"},
+{name:"名称：为人民服务(2022) 补 务必马上下载到本地",url:"https://www.aliyundrive.com/s/idGXRJ6SF6D"},
 {name:"名称：坠落 4K原盘REMUX [HDR] [内封简英双字]",url:"https://www.aliyundrive.com/s/9EzCKsim1o5"},
 {name:"名称：异人之下 (2023) 2160p &amp; 1080p 更E23【彭昱畅/侯明昊/王影璐】",url:"https://www.aliyundrive.com/s/GtRnrzPH7f7"},
 {name:"名称：人生大事 (2022) 4K 60FPS",url:"https://www.aliyundrive.com/s/qYC81R7AggT"},
