@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：封神第一部：朝歌风云 (2023) 4K120FPS",url:"https://www.aliyundrive.com/s/g9Yd2foXTqi"},
+const aliData = [{name:"名称：拳愿阿修罗 第二季 ケンガンアシュラ シーズン2 (2023) 12集完结",url:"https://www.aliyundrive.com/s/gpym8gHT7Qd"},
+{name:"名称：封神第一部：朝歌风云 (2023) 4K120FPS",url:"https://www.aliyundrive.com/s/g9Yd2foXTqi"},
 {name:"名称：贝尔蒂·格雷戈里：与动物零距离 Animals Up Close with Bertie Gregory (2023) 1080/4K 6集完结",url:"https://www.aliyundrive.com/s/mSShWU5Y2Mk"},
 {name:"名称：扫毒3：人在天涯 扫毒3人在天涯 (2023) 国语粤语",url:"https://www.aliyundrive.com/s/B2qhfCZuQQG"},
 {name:"名称：我在仙界挣积分 4K [全40集]",url:"https://www.aliyundrive.com/s/DtDv3qvCSbd"},
