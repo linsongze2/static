@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：地下城与勇士：决斗 衍生格斗游戏",url:"https://www.aliyundrive.com/s/e9nCFhgJfzi"},
+const aliData = [{name:"名称：深入 Vue3+TypeScript 技术栈",url:"https://www.aliyundrive.com/s/nEyDTGCwE57"},
+{name:"名称：地下城与勇士：决斗 衍生格斗游戏",url:"https://www.aliyundrive.com/s/e9nCFhgJfzi"},
 {name:"名称：国民死刑投票 국민사형투표 (2023) 更新至07集",url:"https://www.aliyundrive.com/s/X6Qx1fuVkGf"},
 {name:"名称：诱拐之日/绑架之日 [更新至04集]",url:"https://www.aliyundrive.com/s/qxAsnzTZFkn"},
 {name:"名称：异人之下(2023) S01E01-E23 4K",url:"https://www.aliyundrive.com/s/bzbi5FG3nXU"},
