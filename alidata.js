@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：有言以对：成为沟通高手的六角沟通法 | 电子书籍",url:"https://www.aliyundrive.com/s/woB1neAAXKH"},
+const aliData = [{name:"名称：好书推荐：《杠杆式学习：终身学习者和专业人士的机遇》",url:"https://www.aliyundrive.com/s/SpRB2u7L9oh"},
+{name:"名称：有言以对：成为沟通高手的六角沟通法 | 电子书籍",url:"https://www.aliyundrive.com/s/woB1neAAXKH"},
 {name:"名称：忌怪岛 忌怪島 (2023) 恐怖",url:"https://www.aliyundrive.com/s/pPTwa6Wxxcp"},
 {name:"名称：你以为你是谁？像哲学家一样思考 | 电子书籍",url:"https://www.aliyundrive.com/s/LGEbahwcYER"},
 {name:"名称：证人(2019) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/t13HT3xLURc"},
