@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：神印王座 4K [更新至73集]",url:"https://www.aliyundrive.com/s/Cfhnq1z5D4T"},
+const aliData = [{name:"名称：没用的谎言(2023) S01 1080P 内封简繁",url:"https://www.aliyundrive.com/s/YaHjyitnkCX"},
+{name:"名称：神印王座 4K [更新至73集]",url:"https://www.aliyundrive.com/s/Cfhnq1z5D4T"},
 {name:"名称：神印王座 4K 更73 持续更新",url:"https://www.aliyundrive.com/s/5uCYjfzhSVY"},
 {name:"名称：二流警探 (2010) 4K 中字内嵌字幕",url:"https://www.aliyundrive.com/s/sUwuimUDJUQ"},
 {name:"名称：冰冻星球 1~2 4K 中英字幕",url:"https://www.aliyundrive.com/s/jMSxCe3BqpG"},
