@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：乐队的夏天(2019) S03E13-E14(第7期上下) 4K",url:"https://www.aliyundrive.com/s/VMboiRaimyZ"},
+const aliData = [{name:"名称：超模们 The Super Models (2023) 4集完结",url:"https://www.aliyundrive.com/s/GfRoPJUdEgo"},
+{name:"名称：乐队的夏天(2019) S03E13-E14(第7期上下) 4K",url:"https://www.aliyundrive.com/s/VMboiRaimyZ"},
 {name:"名称：惠子，凝视 (2022) 4K 中字硬字幕",url:"https://www.aliyundrive.com/s/GRU6QNPD8Xv"},
 {name:"名称：西出玉门(2023) S01E01-E24 4K",url:"https://www.aliyundrive.com/s/WaYWH8o1Dkt"},
 {name:"名称：一起撸串吧(2023) S01 4K",url:"https://www.aliyundrive.com/s/sXwYxNCnu3G"},
