@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：献王虫谷 EDR高码杜比音",url:"https://www.aliyundrive.com/s/XeRVSVxedEt"},
+const aliData = [{name:"名称：赛马娘 S02 4K [全13集]",url:"https://www.aliyundrive.com/s/5ZeC6zqdnU6"},
+{name:"名称：献王虫谷 EDR高码杜比音",url:"https://www.aliyundrive.com/s/XeRVSVxedEt"},
 {name:"名称：嫌疑人X的献身(2023) 1080P HDR 内封简繁",url:"https://www.aliyundrive.com/s/awwRp5mX1HE"},
 {name:"名称：咒术回战 第二季 呪術廻戦 2 (2023) 1080/4K 更9 中字",url:"https://www.aliyundrive.com/s/3GrGWaoi55h"},
 {name:"名称：国民死刑投票 (2023) 1080p AMZN 高码率 DDP2.0 内封多国语 热播韩剧漫改ip 更EP07【刮削】",url:"https://www.aliyundrive.com/s/42HJQKV3ibK"},
