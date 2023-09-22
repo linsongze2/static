@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：【咒术回战 第二季 2023】4K 高码 + 1080P 高码 内封简繁 更至第九集",url:"https://www.aliyundrive.com/s/vw7ozLc3Ckw"},
+const aliData = [{name:"名称：国民死刑投票 국민사형투표&nbsp;(2023) 1080p 高码率 内封多国语 更E07【林智妍新剧】",url:"https://www.aliyundrive.com/s/R7nkrgaBDsn"},
+{name:"名称：大陆酒店(2023) S01E01 4K HDR 内封简繁",url:"https://www.aliyundrive.com/s/zDCHJZrfC4U"},
+{name:"名称：【咒术回战 第二季 2023】4K 高码 + 1080P 高码 内封简繁 更至第九集",url:"https://www.aliyundrive.com/s/vw7ozLc3Ckw"},
 {name:"名称：《未来水世界》4KREMUX [杜比视界] [国英双语] [内封简英双字+双语特效字幕]",url:"https://www.aliyundrive.com/s/Un8XZ2XM6u5"},
 {name:"名称：盗贼之歌 도적 칼의 소리 (2023) 9集完结",url:"https://www.aliyundrive.com/s/EperfJETRVc"},
 {name:"名称：铃芽之旅 4K原盘REMUX [HDR] [内封简日双字]",url:"https://www.aliyundrive.com/s/vkwpdqAyAy2"},
