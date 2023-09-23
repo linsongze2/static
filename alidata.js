@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：美猴王 (2023) 1080P 中字内嵌字幕",url:"https://www.aliyundrive.com/s/2dMouBde5zf"},
+const aliData = [{name:"名称：长相思 (2023) 全39集 4K [简繁字幕]",url:"https://www.aliyundrive.com/s/p1XBGUVrnpJ"},
+{name:"名称：美猴王 (2023) 1080P 中字内嵌字幕",url:"https://www.aliyundrive.com/s/2dMouBde5zf"},
 {name:"名称：嫌疑犯X的献身 (2023) 1080p NF高码 DDP5.1 内封简繁英【印度悬疑新片】【刮削】",url:"https://www.aliyundrive.com/s/WjtyTPumYhd"},
 {name:"名称：水门桥 4KHDR120FPS",url:"https://www.aliyundrive.com/s/exHXnY4qhvR"},
 {name:"名称：闪闪的儿科医生 (2023) 1080P",url:"https://www.aliyundrive.com/s/1XLkKMvnjqK"},
