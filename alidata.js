@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：高效人生的自我管理书单(全10册)",url:"https://www.aliyundrive.com/s/pHpFjMijRiT"},
+const aliData = [{name:"名称：孤立无援(2023) 4K HDR 外挂简英",url:"https://www.aliyundrive.com/s/gHpFC3hRQJB"},
+{name:"名称：疾速追杀衍生剧 大陆酒店 (2023) 2160p HDR&amp;DV + 1080p 高码 内封简英特效 &amp; 繁英特效双语 更EP01",url:"https://www.aliyundrive.com/s/MWWBBpCE1Q4"},
+{name:"名称：高效人生的自我管理书单(全10册)",url:"https://www.aliyundrive.com/s/pHpFjMijRiT"},
 {name:"名称：中餐厅 第七季 (2023)",url:"https://www.aliyundrive.com/s/UmiZnYRV3wj"},
 {name:"名称：人类的本能 2023-7月出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/g2jUYByiueA"},
 {name:"名称：【大陆酒店 2023】4K HDR + 1080P 高码率 内封简英/繁英 更至第一集",url:"https://www.aliyundrive.com/s/VRnf9K67djw"},
