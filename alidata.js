@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：海雾 (2014) 韩版原盘REMUX [内封简繁字幕]",url:"https://www.aliyundrive.com/s/hQBQXL8aVHB"},
+const aliData = [{name:"名称：安乐传 (2023) 全39集 4K 【60帧率版本】",url:"https://www.aliyundrive.com/s/vHQYj5v2r1W"},
+{name:"名称：海雾 (2014) 韩版原盘REMUX [内封简繁字幕]",url:"https://www.aliyundrive.com/s/hQBQXL8aVHB"},
 {name:"名称：蓝甲虫 (2023) 2160p HDR &amp; DV 内封简英特效&amp;繁英特效双语 (人工翻译精校字幕) 【刮削】",url:"https://www.aliyundrive.com/s/chtb6UAwhsp"},
 {name:"名称：黄海 (2010) 韩版原盘REMUX [内封简繁字幕]",url:"https://www.aliyundrive.com/s/pgYSxnRfyx6"},
 {name:"名称：乐队的夏天 第三季 (2023)",url:"https://www.aliyundrive.com/s/LnXWaMDN6cP"},
