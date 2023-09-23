@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：人类的本能 2023-7月出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/g2jUYByiueA"},
+const aliData = [{name:"名称：高效人生的自我管理书单(全10册)",url:"https://www.aliyundrive.com/s/pHpFjMijRiT"},
+{name:"名称：中餐厅 第七季 (2023)",url:"https://www.aliyundrive.com/s/UmiZnYRV3wj"},
+{name:"名称：人类的本能 2023-7月出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/g2jUYByiueA"},
 {name:"名称：【大陆酒店 2023】4K HDR + 1080P 高码率 内封简英/繁英 更至第一集",url:"https://www.aliyundrive.com/s/VRnf9K67djw"},
 {name:"名称：骄阳伴我 4K高码率 [全36集] 易封资源，速存",url:"https://www.aliyundrive.com/s/XKDYpDPRRwx"},
 {name:"名称：他从火光中走来 (2023) 1080/4K HDR 更14",url:"https://www.aliyundrive.com/s/rkgSdPKNb8C"},
