@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：骄阳伴我 4K高码率 [全36集] 易封资源，速存",url:"https://www.aliyundrive.com/s/XKDYpDPRRwx"},
+const aliData = [{name:"名称：【大陆酒店 2023】4K HDR + 1080P 高码率 内封简英/繁英 更至第一集",url:"https://www.aliyundrive.com/s/VRnf9K67djw"},
+{name:"名称：骄阳伴我 4K高码率 [全36集] 易封资源，速存",url:"https://www.aliyundrive.com/s/XKDYpDPRRwx"},
 {name:"名称：他从火光中走来 (2023) 1080/4K HDR 更14",url:"https://www.aliyundrive.com/s/rkgSdPKNb8C"},
 {name:"名称：好事成双 (2023) 4K 更13 张小斐/黄晓明/张嘉倪",url:"https://www.aliyundrive.com/s/pPeLDVKonCg"},
 {name:"名称：天台爱情 (2013) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/AdSEP4nAuWR"},
