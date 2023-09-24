@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：异人之下 (2023) 全27集 4K 【高码版】",url:"https://www.aliyundrive.com/s/7oFmhUCaC4t"},
+const aliData = [{name:"名称：【深蓝学院】机器学习数学基础",url:"https://www.aliyundrive.com/s/AGbozELqBgG"},
+{name:"名称：异人之下 (2023) 全27集 4K 【高码版】",url:"https://www.aliyundrive.com/s/7oFmhUCaC4t"},
 {name:"名称：海贼王 更1077",url:"https://www.aliyundrive.com/s/z82amAtxAfR"},
 {name:"名称：李越：三观核武器-树立稳固三观",url:"https://www.aliyundrive.com/s/VzQEATyUU7K"},
 {name:"名称：憨豆特工2 (2011) 原盘REMUX [内封简繁双语字幕]",url:"https://www.aliyundrive.com/s/dwuBZF2Mc7V"},
