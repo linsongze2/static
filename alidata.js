@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：爱情呼叫转移Ⅱ：爱情左右(2008) 1080p 外挂简中",url:"https://www.aliyundrive.com/s/SrFSKqvtSdd"},
+const aliData = [{name:"名称：布莱泽奥特曼 4K高码率 [更新至12集][国日双语]",url:"https://www.aliyundrive.com/s/hVxRd4VcEBC"},
+{name:"名称：流光之下 (2023)1080/4K HDR 更7 张涵予 / 蓝盈莹",url:"https://www.aliyundrive.com/s/SjH5omWj8Ff"},
+{name:"名称：爱情呼叫转移Ⅱ：爱情左右(2008) 1080p 外挂简中",url:"https://www.aliyundrive.com/s/SrFSKqvtSdd"},
 {name:"名称：墓地邂逅(2011) 1080p 外挂简英",url:"https://www.aliyundrive.com/s/8Tj78j1nnUp"},
 {name:"名称：最灿烂的我们 (2023) 1080/4K HDR 43集完结 张天爱/郑伊健/关晓彤",url:"https://www.aliyundrive.com/s/ZxJWTNqssLv"},
 {name:"名称：九义人(2023) S01E01-E15 4K",url:"https://www.aliyundrive.com/s/oTeYCGfCPan"},
