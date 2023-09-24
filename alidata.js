@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：嫌疑犯X的献身 Jaane Jaan (2023) 1080p 高码 DDP5.1 内封中字【印度犯罪片】",url:"https://www.aliyundrive.com/s/YfTPbbga35G"},
+const aliData = [{name:"名称：【岂牛学堂】股票投资训练营",url:"https://www.aliyundrive.com/s/4N9zqkEfdJC"},
+{name:"名称：嫌疑犯X的献身 Jaane Jaan (2023) 1080p 高码 DDP5.1 内封中字【印度犯罪片】",url:"https://www.aliyundrive.com/s/YfTPbbga35G"},
 {name:"名称：国家地理频道：走进银河 (2010) 1080P 中英外挂字幕",url:"https://www.aliyundrive.com/s/Lrd3Wzv4zVA"},
 {name:"名称：复仇名册 The Black Book (2023) 中英双字",url:"https://www.aliyundrive.com/s/9ZyJsPTwZZU"},
 {name:"名称：法律人思维与写作 | 电子书籍",url:"https://www.aliyundrive.com/s/onFBDiaPv3C"},
