@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：绝地追击 (2023) 2160p HDR 高码率 DDP5.1 动作 / 犯罪 【刮削】",url:"https://www.aliyundrive.com/s/ucdHj8xMPqR"},
+const aliData = [{name:"名称：赌神2 蓝光原盘REMUX [高码法版 官方画质修复] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/VLk1JAZNhLT"},
+{name:"名称：【浪客剑心 明治剑客浪漫谭 2023】1080P 高码率 内封简繁 更至第十二集",url:"https://www.aliyundrive.com/s/aoC8UEg3HJk"},
+{name:"名称：绝地追击 (2023) 2160p HDR 高码率 DDP5.1 动作 / 犯罪 【刮削】",url:"https://www.aliyundrive.com/s/ucdHj8xMPqR"},
 {name:"名称：中国之谜 (2016) 4K REMUX (蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/nvaPAU2hGZg"},
 {name:"名称：摸心第六感 힙하게 (2023) 1080p NF 高码率 内封多国语 更E13【热播韩剧】",url:"https://www.aliyundrive.com/s/YB56gv3Xqxg"},
 {name:"名称：云之羽 (2023) 4K HDR 24集完结",url:"https://www.aliyundrive.com/s/3UELg6CQSzY"},
