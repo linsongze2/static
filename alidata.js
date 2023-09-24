@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：有生之年 (2023) 更6",url:"https://www.aliyundrive.com/s/WgJv2f24oE3"},
+const aliData = [{name:"名称：铃芽之旅 （蓝光UHD源压制）【AV1高压、中文字幕烧录】",url:"https://www.aliyundrive.com/s/gzBcSWrkUjK"},
+{name:"名称：有生之年 (2023) 更6",url:"https://www.aliyundrive.com/s/WgJv2f24oE3"},
 {name:"名称：有解：高效解决问题的关键7步 | 电子书籍",url:"https://www.aliyundrive.com/s/4WNp6UgcgP6"},
 {name:"名称：赌神2 蓝光原盘REMUX [高码法版 官方画质修复] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/VLk1JAZNhLT"},
 {name:"名称：【浪客剑心 明治剑客浪漫谭 2023】1080P 高码率 内封简繁 更至第十二集",url:"https://www.aliyundrive.com/s/aoC8UEg3HJk"},
