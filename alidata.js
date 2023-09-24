@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：【岂牛学堂】股票投资训练营",url:"https://www.aliyundrive.com/s/4N9zqkEfdJC"},
+const aliData = [{name:"名称：献王虫谷 EDR高码杜比音 新增HQ60FPS",url:"https://www.aliyundrive.com/s/PXPHXWmPzDK"},
+{name:"名称：海贼王",url:"https://www.aliyundrive.com/s/urFRxBijdmW"},
+{name:"名称：杭州亚运会开幕式_4K.FEED",url:"https://www.aliyundrive.com/s/fDSguLnihds"},
+{name:"名称：【岂牛学堂】股票投资训练营",url:"https://www.aliyundrive.com/s/4N9zqkEfdJC"},
 {name:"名称：嫌疑犯X的献身 Jaane Jaan (2023) 1080p 高码 DDP5.1 内封中字【印度犯罪片】",url:"https://www.aliyundrive.com/s/YfTPbbga35G"},
 {name:"名称：国家地理频道：走进银河 (2010) 1080P 中英外挂字幕",url:"https://www.aliyundrive.com/s/Lrd3Wzv4zVA"},
 {name:"名称：复仇名册 The Black Book (2023) 中英双字",url:"https://www.aliyundrive.com/s/9ZyJsPTwZZU"},
