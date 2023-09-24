@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：请以你的名字呼唤我 (2017) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/giztrbt47eE"},
+const aliData = [{name:"名称：异人之下 (2023)【Emby】",url:"https://www.aliyundrive.com/s/f3fGpFXgPKR"},
+{name:"名称：请以你的名字呼唤我 (2017) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/giztrbt47eE"},
 {name:"名称：花样年华 (2000) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/t539bsLFJbo"},
 {name:"名称：CCTV-4K超高清频道 杭州第19届亚运会开幕式 [ 4K | 高帧率| 高码率 | HLG]",url:"https://www.aliyundrive.com/s/fEgbJ1wtEnD"},
 {name:"名称：斗破苍穹年番 4K 更63",url:"https://www.aliyundrive.com/s/PDToNdsNTc2"},
