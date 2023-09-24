@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：异人之下 (2023)【Emby】",url:"https://www.aliyundrive.com/s/f3fGpFXgPKR"},
+const aliData = [{name:"名称：传播学原来很有趣 | 电子书籍",url:"https://www.aliyundrive.com/s/sS21S3YA3ue"},
+{name:"名称：异人之下 (2023)【Emby】",url:"https://www.aliyundrive.com/s/f3fGpFXgPKR"},
 {name:"名称：请以你的名字呼唤我 (2017) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/giztrbt47eE"},
 {name:"名称：花样年华 (2000) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/t539bsLFJbo"},
 {name:"名称：CCTV-4K超高清频道 杭州第19届亚运会开幕式 [ 4K | 高帧率| 高码率 | HLG]",url:"https://www.aliyundrive.com/s/fEgbJ1wtEnD"},
