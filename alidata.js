@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：狂野之美：国家公园探险 (2016) 4K REMUX (原盘 蓝光) 中字英外挂字幕",url:"https://www.aliyundrive.com/s/xAj1bBXLqsj"},
+const aliData = [{name:"名称：【岂牛学堂】基金投资训练营",url:"https://www.aliyundrive.com/s/bnZJBJJFWPS"},
+{name:"名称：狂野之美：国家公园探险 (2016) 4K REMUX (原盘 蓝光) 中字英外挂字幕",url:"https://www.aliyundrive.com/s/xAj1bBXLqsj"},
 {name:"名称：摸心第六感 힙하게 (2023) 更13",url:"https://www.aliyundrive.com/s/ziJf3C1AnWd"},
 {name:"名称：杭州亚运会开幕式",url:"https://www.aliyundrive.com/s/ycGAnJ2qoAS"},
 {name:"名称：斗破苍穹合集 年番 4K [更新至63集]",url:"https://www.aliyundrive.com/s/tS7JbkD9T9P"},
