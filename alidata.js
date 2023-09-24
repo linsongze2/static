@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：堀与宫村[1+2季]",url:"https://www.aliyundrive.com/s/pTiorfdfbcr"},
+const aliData = [{name:"名称：好书推荐：《科学思维的八堂课》",url:"https://www.aliyundrive.com/s/f7QUUyYQtbM"},
+{name:"名称：堀与宫村[1+2季]",url:"https://www.aliyundrive.com/s/pTiorfdfbcr"},
 {name:"名称：七人的逃脱 7인의 탈출 (2023) 1080p 中文字幕 更E04【悬疑韩剧】",url:"https://www.aliyundrive.com/s/3gTfhZSwAAg"},
 {name:"名称：【开课吧】数字化就业班 - Web企业项目实战",url:"https://www.aliyundrive.com/s/cHpgovTvXJH"},
 {name:"名称：微软飞行模拟 模拟飞行类游戏",url:"https://www.aliyundrive.com/s/kWir3zqxHX5"},
