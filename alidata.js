@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：胭脂扣 (1987) 1080 Remux 梅艳芳/张国荣 国英双语 豆瓣 8.5",url:"https://www.aliyundrive.com/s/WBH6WSDZ3mU"},
+const aliData = [{name:"名称：逆战 (2012) 1080P",url:"https://www.aliyundrive.com/s/Lfq24n28hEj"},
+{name:"名称：胭脂扣 (1987) 1080 Remux 梅艳芳/张国荣 国英双语 豆瓣 8.5",url:"https://www.aliyundrive.com/s/WBH6WSDZ3mU"},
 {name:"名称：传播学原来很有趣 | 电子书籍",url:"https://www.aliyundrive.com/s/sS21S3YA3ue"},
 {name:"名称：异人之下 (2023)【Emby】",url:"https://www.aliyundrive.com/s/f3fGpFXgPKR"},
 {name:"名称：请以你的名字呼唤我 (2017) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/giztrbt47eE"},
