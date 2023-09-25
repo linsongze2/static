@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：盗贼之歌 [全9集]",url:"https://www.aliyundrive.com/s/qxkzfPkXGaP"},
+const aliData = [{name:"名称：僵尸百分百 SRENIX 4K [更新至09集]",url:"https://www.aliyundrive.com/s/Jxe6FpSCzuh"},
+{name:"名称：盗贼之歌 [全9集]",url:"https://www.aliyundrive.com/s/qxkzfPkXGaP"},
 {name:"名称：阿基拉 (1988) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/FhfebULM8ju"},
 {name:"名称：生命不息 S1(2022) 1080P 中英硬字幕",url:"https://www.aliyundrive.com/s/usF8TykLH43"},
 {name:"名称：uni-app多端企业网盘全栈开发",url:"https://www.aliyundrive.com/s/8Jc4YEV35eN"},
