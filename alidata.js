@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：装甲娘战机 [全12集]",url:"https://www.aliyundrive.com/s/Kj76mRWr53j"},
+const aliData = [{name:"名称：我有一个朋友 (2023) 1080 HDR 更22",url:"https://www.aliyundrive.com/s/t3vBVsY1xsf"},
+{name:"名称：装甲娘战机 [全12集]",url:"https://www.aliyundrive.com/s/Kj76mRWr53j"},
 {name:"名称：西游记之孙悟空三打白骨精 (2016) 4KHQ60FPS",url:"https://www.aliyundrive.com/s/Viiiyh6pTxY"},
 {name:"名称：锦衣神匠 4K [首更03集]",url:"https://www.aliyundrive.com/s/CDX964ytG9y"},
 {name:"名称：九义人(2023) S01E01-E17 4K",url:"https://www.aliyundrive.com/s/zjdXv2r4mFs"},
