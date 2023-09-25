@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：7人的逃脱(2023) S01E01-E04 4K",url:"https://www.aliyundrive.com/s/tizJP3xLT1u"},
+const aliData = [{name:"名称：行尸走肉：达里尔·迪克森 The Walking Dead: Daryl Dixon (2023) 更3",url:"https://www.aliyundrive.com/s/NXNAHqUSGe2"},
+{name:"名称：7人的逃脱(2023) S01E01-E04 4K",url:"https://www.aliyundrive.com/s/tizJP3xLT1u"},
 {name:"名称：uni-app实战仿微信app开发",url:"https://www.aliyundrive.com/s/F7hrdyTgWSH"},
 {name:"名称：写作高手速成手册 | 电子书籍",url:"https://www.aliyundrive.com/s/sgkZEd24pK9"},
 {name:"名称：僵尸100 僵尸百分百～在成为僵尸前要做的100件事～ (2023) 持续更新",url:"https://www.aliyundrive.com/s/jCZSAM2Jy79"},
