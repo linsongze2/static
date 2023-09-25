@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：封神第一部：朝歌风云 (2023) 1080p + 4K + 4K HDR +4K 60FPS + 4K DV 杜比视界【多版本补档】【已刮削】",url:"https://www.aliyundrive.com/s/PdMVom74VbQ"},
+const aliData = [{name:"名称：父辈的荣耀 (2023) 1080/4K HDR 30集完结",url:"https://www.aliyundrive.com/s/iiPq4Epzn5h"},
+{name:"名称：泳往直前 4K高码率 [首更02集]",url:"https://www.aliyundrive.com/s/xWBZYN1nZKY"},
+{name:"名称：封神第一部：朝歌风云 (2023) 1080p + 4K + 4K HDR +4K 60FPS + 4K DV 杜比视界【多版本补档】【已刮削】",url:"https://www.aliyundrive.com/s/PdMVom74VbQ"},
 {name:"名称：uni-app实战视频点播app小程序",url:"https://www.aliyundrive.com/s/8UrApQu38qF"},
 {name:"名称：僵尸百分百 SRENIX 4K [更新至09集]",url:"https://www.aliyundrive.com/s/Jxe6FpSCzuh"},
 {name:"名称：盗贼之歌 [全9集]",url:"https://www.aliyundrive.com/s/qxkzfPkXGaP"},
