@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：憨豆先生的黄金周 (2007) 原盘REMUX [内封简繁双语字幕]",url:"https://www.aliyundrive.com/s/epyNy4ijGb7"},
+const aliData = [{name:"名称：蓝甲虫 (2023) 2160p 内封中文简体字幕 (人工翻译精校字幕) 个人自压版本",url:"https://www.aliyundrive.com/s/dbjVTZR1sL3"},
+{name:"名称：摆脱无效忙碌的目标达成法 | 电子书籍",url:"https://www.aliyundrive.com/s/iBishGtqss1"},
+{name:"名称：憨豆先生的黄金周 (2007) 原盘REMUX [内封简繁双语字幕]",url:"https://www.aliyundrive.com/s/epyNy4ijGb7"},
 {name:"名称：憨豆先生的大灾难 (1997) 原盘REMUX [内封简繁双语字幕]",url:"https://www.aliyundrive.com/s/2UFzSLTbsYo"},
 {name:"名称：法证先锋5(2022) 国粤音轨 S01 4K",url:"https://www.aliyundrive.com/s/vaHgBZySHtU"},
 {name:"名称：仙逆 (2023) 4K",url:"https://www.aliyundrive.com/s/mQ5o2rhPJc5"},
