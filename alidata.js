@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：赎罪(2007) 1080P REMUX 内封中字",url:"https://www.aliyundrive.com/s/p4cdnh6kwfv"},
+const aliData = [{name:"名称：无职转生：到了异世界就拿出真本事 2 (2023) 更12",url:"https://www.aliyundrive.com/s/vPUKcchoD8Q"},
+{name:"名称：赎罪(2007) 1080P REMUX 内封中字",url:"https://www.aliyundrive.com/s/p4cdnh6kwfv"},
 {name:"名称：再生侠(1997) 1080P 内封中字",url:"https://www.aliyundrive.com/s/RRhvctd3nkT"},
 {name:"名称：飓风营救2(2012) 1080P REMUX 内封中字",url:"https://www.aliyundrive.com/s/XtDqDx3jwqY"},
 {name:"名称：摸心第六感 [更新至14集][内封简繁英字幕]",url:"https://www.aliyundrive.com/s/5LEEGWfRw28"},
