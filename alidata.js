@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：美人记·昭君 (2023) 4K高码率 [60帧率版]",url:"https://www.aliyundrive.com/s/iAvXJwNqhQg"},
+const aliData = [{name:"名称：【咕泡学院】P6ElasticStack高级开发与架构（实战班）- 2期",url:"https://www.aliyundrive.com/s/hP4KneYdKVt"},
+{name:"名称：美人记·昭君 (2023) 4K高码率 [60帧率版]",url:"https://www.aliyundrive.com/s/iAvXJwNqhQg"},
 {name:"名称：人生大事 (2022)✨【2160p.SDR】19.6G",url:"https://www.aliyundrive.com/s/ptoknGcSkva"},
 {name:"名称：【岂牛学堂】保险实战训练营",url:"https://www.aliyundrive.com/s/hdzq9BohgcH"},
 {name:"名称：云原生微信小程序开发实战",url:"https://www.aliyundrive.com/s/RHDwinavw92"},
