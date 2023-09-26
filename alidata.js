@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我决定给自己一点时间 | 电子书籍",url:"https://www.aliyundrive.com/s/tJBGoQGBPit"},
+const aliData = [{name:"名称：GT赛车：极速狂飙(2023) 4K HDR&amp;DV 内封简繁",url:"https://www.aliyundrive.com/s/oWmVDBndnXt"},
+{name:"名称：我决定给自己一点时间 | 电子书籍",url:"https://www.aliyundrive.com/s/tJBGoQGBPit"},
 {name:"名称：GT赛车-极速狂飙 (2023）",url:"https://www.aliyundrive.com/s/twdSPpCwswS"},
 {name:"名称：108将淘系爆款陪跑营【第九期】",url:"https://www.aliyundrive.com/s/8HCFZ2xfj3U"},
 {name:"名称：行尸走肉：达里尔·迪克森 4K [更新至03集][内封简中字幕]",url:"https://www.aliyundrive.com/s/LJRkK7tbSci"},
