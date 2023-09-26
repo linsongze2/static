@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：GT赛车：极速狂飙 (2023) 2160p / 1080p 高码 内封多国语",url:"https://www.aliyundrive.com/s/V9Lq4ArMAkF"},
+const aliData = [{name:"名称：闪烁的西瓜 반짝이는 워터멜론 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/N3FLz8azoEM"},
+{name:"名称：GT赛车：极速狂飙 (2023) 2160p / 1080p 高码 内封多国语",url:"https://www.aliyundrive.com/s/V9Lq4ArMAkF"},
 {name:"名称：九义人 (2023) 1080/4K HDR 完结 超前点映",url:"https://www.aliyundrive.com/s/qahwz7v32Hu"},
 {name:"名称：行尸走肉：达里尔·迪克森 (2023) 2160p 高码 DDP5.1 外挂双语 更E03",url:"https://www.aliyundrive.com/s/hUELqRPBgXS"},
 {name:"名称：满江红 蓝光原盘REMUX [内封简、繁中字]",url:"https://www.aliyundrive.com/s/br5LtucmMUB"},
