@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：少年派(2019) 2季全 4K",url:"https://www.aliyundrive.com/s/BLtvtc7MF8R"},
+const aliData = [{name:"名称：非常主播 (2008) 原盘REMUX [内封简繁字幕]",url:"https://www.aliyundrive.com/s/e1TjjQU4zkt"},
+{name:"名称：少年派(2019) 2季全 4K",url:"https://www.aliyundrive.com/s/BLtvtc7MF8R"},
 {name:"名称：沙之下(2000) 1080p 外挂简中",url:"https://www.aliyundrive.com/s/45gevUead1x"},
 {name:"名称：生化危机(2002) 4K原盘REMUX 国英音轨 特效字幕",url:"https://www.aliyundrive.com/s/FiRkWeYkkfJ"},
 {name:"名称：闪烁的西瓜 반짝이는 워터멜론 (2023)[更新至01集]",url:"https://www.aliyundrive.com/s/N3FLz8azoEM"},
