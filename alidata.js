@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：GT赛车：极速狂飙 (2023) 4K HDR&amp;DV + 4K DV 外挂双语 【刮削】",url:"https://www.aliyundrive.com/s/reiBA7Qmz2k"},
+const aliData = [{name:"名称：新奥特曼 (2022) 1080P 国日双英轨，默认国语 中字内嵌字幕",url:"https://www.aliyundrive.com/s/FK2h9Xnh9hD"},
+{name:"名称：GT赛车：极速狂飙 (2023) 4K HDR&amp;DV + 4K DV 外挂双语 【刮削】",url:"https://www.aliyundrive.com/s/reiBA7Qmz2k"},
 {name:"名称：花溪记(2023) S01E01-E18",url:"https://www.aliyundrive.com/s/B4iMvuDrfLs"},
 {name:"名称：GT赛车：极速狂飙(2023) 4K HDR&amp;DV 洗版为MA",url:"https://www.aliyundrive.com/s/oWmVDBndnXt"},
 {name:"名称：信号 시그널 (2016)✨【2160p.SDR】【60fps】【原轨.高码率】2.4G/集",url:"https://www.aliyundrive.com/s/jf7G4ce1pwK"},
