@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：醉拳2 蓝光原盘REMUX [高码德版 官方画质修复] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/5fpuApy4bvd"},
+const aliData = [{name:"名称：我有一个朋友 (2023) 1080 HDR 更24",url:"https://www.aliyundrive.com/s/zPzfjv8bZCj"},
+{name:"名称：醉拳2 蓝光原盘REMUX [高码德版 官方画质修复] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/5fpuApy4bvd"},
 {name:"名称：大灌篮 (2008) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/P1Hhog6WWFn"},
 {name:"名称：汉江刑警 한강 (2023) 1080p 中文字幕 更E06【悬疑韩剧】",url:"https://www.aliyundrive.com/s/ZtvqmHGoFhp"},
 {name:"名称：银行家 (2020) 4K HDR 中字内嵌字幕",url:"https://www.aliyundrive.com/s/6BZzR1LaaRa"},
