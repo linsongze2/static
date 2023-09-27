@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：太阳系的奇迹 (2010) 高分纪录片 2160p 内嵌简中",url:"https://www.aliyundrive.com/s/5uCD8kMXasN"},
+const aliData = [{name:"名称：引爆者 (2017) 4K 60FPS 中字硬字幕",url:"https://www.aliyundrive.com/s/HpEzshDoAjA"},
+{name:"名称：太阳系的奇迹 (2010) 高分纪录片 2160p 内嵌简中",url:"https://www.aliyundrive.com/s/5uCD8kMXasN"},
 {name:"名称：绿色星球 (2022) 4K REMUX (蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/7Sh485JXn25"},
 {name:"名称：只狼",url:"https://www.aliyundrive.com/s/1twA3Zo4fHk"},
 {name:"名称：我有一个朋友 (2023) 1080 HDR 更24",url:"https://www.aliyundrive.com/s/zPzfjv8bZCj"},
