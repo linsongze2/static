@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：念念相忘 / 念念不忘 (2023) 2160p HDR 高码 DDP5.1 【刮削】",url:"https://www.aliyundrive.com/s/vkpA8nHsuqC"},
+const aliData = [{name:"名称：诱拐之日/绑架之日 [更新至05集]",url:"https://www.aliyundrive.com/s/qxAsnzTZFkn"},
+{name:"名称：念念相忘 / 念念不忘 (2023) 2160p HDR 高码 DDP5.1 【刮削】",url:"https://www.aliyundrive.com/s/vkpA8nHsuqC"},
 {name:"名称：恶中之恶 (2023) DSNP 1080p 高码率 DDP5.1 内封多国语 首更 3 集 【最新犯罪韩剧】【刮削】",url:"https://www.aliyundrive.com/s/NkiNb5jrdht"},
 {name:"名称：引爆者 (2017) 4K 60FPS 中字硬字幕",url:"https://www.aliyundrive.com/s/HpEzshDoAjA"},
 {name:"名称：太阳系的奇迹 (2010) 高分纪录片 2160p 内嵌简中",url:"https://www.aliyundrive.com/s/5uCD8kMXasN"},
