@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：好书推荐：《魔鬼沟通学 》",url:"https://www.aliyundrive.com/s/ryu9NJECZLY"},
+const aliData = [{name:"名称：GT赛车：极速狂飙 4K [内封简繁英字幕]",url:"https://www.aliyundrive.com/s/JSyYs7eBR2r"},
+{name:"名称：好书推荐：《魔鬼沟通学 》",url:"https://www.aliyundrive.com/s/ryu9NJECZLY"},
 {name:"名称：修罗武神 [更新至02集]",url:"https://www.aliyundrive.com/s/kGCAfa9nfTB"},
 {name:"名称：高能工作法 | 电子书籍",url:"https://www.aliyundrive.com/s/XQJRNrUdAKS"},
 {name:"名称：【博学谷】从Dokcer到爬虫技术架构+Python爬虫京东项目",url:"https://www.aliyundrive.com/s/MfK3CNY6hCv"},
