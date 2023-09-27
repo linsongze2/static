@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：高能工作法 | 电子书籍",url:"https://www.aliyundrive.com/s/XQJRNrUdAKS"},
+const aliData = [{name:"名称：修罗武神 [更新至02集]",url:"https://www.aliyundrive.com/s/kGCAfa9nfTB"},
+{name:"名称：高能工作法 | 电子书籍",url:"https://www.aliyundrive.com/s/XQJRNrUdAKS"},
 {name:"名称：【博学谷】从Dokcer到爬虫技术架构+Python爬虫京东项目",url:"https://www.aliyundrive.com/s/MfK3CNY6hCv"},
 {name:"名称：第一滴血 5部 4K HDR 中字外挂/内嵌字幕",url:"https://www.aliyundrive.com/s/FMhnLejvtM1"},
 {name:"名称：送我上青云(2019) 4K高码",url:"https://www.aliyundrive.com/s/5pZ8q53LHon"},
