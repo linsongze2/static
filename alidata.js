@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：走私 밀수 (2023) 中字",url:"https://www.aliyundrive.com/s/UWsrFumP8br"},
+const aliData = [{name:"名称：【橙啦】宝爷万词班 22000词汇速记营",url:"https://www.aliyundrive.com/s/vjrDFHYR71o"},
+{name:"名称：走私 밀수 (2023) 中字",url:"https://www.aliyundrive.com/s/UWsrFumP8br"},
 {name:"名称：焦虑自救手册 | 电子书籍",url:"https://www.aliyundrive.com/s/wH6TDbMRSQa"},
 {name:"名称：医院革命(2018) 1080p 5季全",url:"https://www.aliyundrive.com/s/skom3M4X7rg"},
 {name:"名称：嘿，老头！(2015) S01 4K",url:"https://www.aliyundrive.com/s/rTeTHmhp6jm"},
