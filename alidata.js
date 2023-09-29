@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：你和我的警察课堂(2022) S01 1080p 内封简繁",url:"https://www.aliyundrive.com/s/RcztKBSfNiL"},
+const aliData = [{name:"名称：我有一个朋友(2023) S01完结 1080p 内封简繁",url:"https://www.aliyundrive.com/s/4n8dtec5T52"},
+{name:"名称：你和我的警察课堂(2022) S01 1080p 内封简繁",url:"https://www.aliyundrive.com/s/RcztKBSfNiL"},
 {name:"名称：闪耀国度(2022) S01 4K HDR&amp;DV 内封简繁",url:"https://www.aliyundrive.com/s/Yn9veY5umMi"},
 {name:"名称：半之半(2020) S01 4K 内封简繁",url:"https://www.aliyundrive.com/s/SRdznqwqwyh"},
 {name:"名称：掠食城市(2018)4K REMUX",url:"https://www.aliyundrive.com/s/zAq92bFbaTR"},
