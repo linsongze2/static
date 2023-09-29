@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：PR入门到精通，108节速成课程",url:"https://www.aliyundrive.com/s/XAMxk8mG985"},
+const aliData = [{name:"名称：咒术回战 第二季 呪術廻戦 2 (2023) 1080/4K 更10 中字",url:"https://www.aliyundrive.com/s/ZDAJUjTPpzk"},
+{name:"名称：完美世界 4K 更130",url:"https://www.aliyundrive.com/s/4yxkMP3ocLc"},
+{name:"名称：PR入门到精通，108节速成课程",url:"https://www.aliyundrive.com/s/XAMxk8mG985"},
 {name:"名称：长安三万里 (2023)✨【2160p.SDR】【原轨.高码率】12G",url:"https://www.aliyundrive.com/s/iNnzQYS38w5"},
 {name:"名称：恶魔城：夜曲 (2023) 1080p NF 高码率 内封多国语 全8集",url:"https://www.aliyundrive.com/s/wFM47MqV3Kg"},
 {name:"名称：一人之下动漫版",url:"https://www.aliyundrive.com/s/zf1UgcuVuPz"},
