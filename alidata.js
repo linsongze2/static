@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【开课吧】门徒计划 - AI方向",url:"https://www.aliyundrive.com/s/MLaCvFW1bxN"},
+const aliData = [{name:"名称：【开课吧】门徒计划 - Java方向",url:"https://www.aliyundrive.com/s/QCABx4Jt42G"},
+{name:"名称：【开课吧】门徒计划 - AI方向",url:"https://www.aliyundrive.com/s/MLaCvFW1bxN"},
 {name:"名称：天涯论坛神贴",url:"https://www.aliyundrive.com/s/vRwAYCM7KdN"},
 {name:"名称：使命召唤6～12（安装包）",url:"https://www.aliyundrive.com/s/gdyLkGupP6v"},
 {name:"名称：诱拐之日 (2023) 韩剧 1080p 中文字幕 更E06",url:"https://www.aliyundrive.com/s/co3zUqP9Xu3"},
