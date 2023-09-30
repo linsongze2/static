@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：咒术回战 第二季 呪術廻戦 2 (2023) 1080p &amp; 2160p 高码版 内封简繁英 更EP10",url:"https://www.aliyundrive.com/s/b5rwb67cyZa"},
+const aliData = [{name:"名称：永生 永生之无尽仙途 永生之十年之约‎",url:"https://www.aliyundrive.com/s/tgLw8w3bedF"},
+{name:"名称：咒术回战 第二季 呪術廻戦 2 (2023) 1080p &amp; 2160p 高码版 内封简繁英 更EP10",url:"https://www.aliyundrive.com/s/b5rwb67cyZa"},
 {name:"名称：蓝甲虫 (2023) 2160p 内封中文简体字幕 (人工翻译精校字幕) 个人自压版本",url:"https://www.aliyundrive.com/s/mzqnR6x44fu"},
 {name:"名称：七人的逃脱 / 7人的逃脱 (2023) 1080p 高码率 内封简繁英 更EP05 【热播悬疑韩剧】【刮削】",url:"https://www.aliyundrive.com/s/BMSJd5Jgs4d"},
 {name:"名称：王者大师兄",url:"https://www.aliyundrive.com/s/UmogWr3mUmW"},
