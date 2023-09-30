@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：葬送的芙莉莲 1080P高码率 简中（更新至第四集）",url:"https://www.aliyundrive.com/s/PgcmmLJ8Hs6"},
+const aliData = [{name:"名称：V世代 GEN V (2023) 1080/4K HDR 更3",url:"https://www.aliyundrive.com/s/bo79jdotR1w"},
+{name:"名称：葬送的芙莉莲 1080P高码率 简中（更新至第四集）",url:"https://www.aliyundrive.com/s/PgcmmLJ8Hs6"},
 {name:"名称：榨书：主动成长的高回报读书法 | 电子书籍",url:"https://www.aliyundrive.com/s/nwK6gKt8F2a"},
 {name:"名称：七人的逃脱 7인의 탈출 (2023) [更新至05集]",url:"https://www.aliyundrive.com/s/jFZZihyASRR"},
 {name:"名称：破茧威龙(1989) 4K PROPER REMUX 外挂中字",url:"https://www.aliyundrive.com/s/1UwtddjSTSn"},
