@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：七人的逃脱 / 7人的逃脱 (2023) 1080p 高码率 内封简繁英 更EP05 【热播悬疑韩剧】【刮削】",url:"https://www.aliyundrive.com/s/BMSJd5Jgs4d"},
+const aliData = [{name:"名称：蓝甲虫 (2023) 2160p 内封中文简体字幕 (人工翻译精校字幕) 个人自压版本",url:"https://www.aliyundrive.com/s/mzqnR6x44fu"},
+{name:"名称：七人的逃脱 / 7人的逃脱 (2023) 1080p 高码率 内封简繁英 更EP05 【热播悬疑韩剧】【刮削】",url:"https://www.aliyundrive.com/s/BMSJd5Jgs4d"},
 {name:"名称：王者大师兄",url:"https://www.aliyundrive.com/s/UmogWr3mUmW"},
 {name:"名称：V世代 GEN V (2023) 1080/4K HDR 更3",url:"https://www.aliyundrive.com/s/bo79jdotR1w"},
 {name:"名称：葬送的芙莉莲 1080P高码率 简中（更新至第四集）",url:"https://www.aliyundrive.com/s/PgcmmLJ8Hs6"},
