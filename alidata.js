@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：拥抱未来的你 [2023]4K60FPS 更新6集",url:"https://www.aliyundrive.com/s/zUCgwrR7Nqu"},
+const aliData = [{name:"名称：死神 千年血战篇 第二季 (2023) 13集完结",url:"https://www.aliyundrive.com/s/HeoPTV1b259"},
+{name:"名称：洛基 第1季 4K原盘REMUX [HDR] [内封简英双字]",url:"https://www.aliyundrive.com/s/Xr95V73PEfv"},
+{name:"名称：拥抱未来的你 [2023]4K60FPS 更新6集",url:"https://www.aliyundrive.com/s/zUCgwrR7Nqu"},
 {name:"名称：好事成双 (2023) 4K 更29 张小斐/黄晓明/张嘉倪",url:"https://www.aliyundrive.com/s/QwNMim557cM"},
 {name:"名称：特工任务(2023) S01E01-E23 4K",url:"https://www.aliyundrive.com/s/JGbQpq7Cook"},
 {name:"名称：意外杀手2：杀手假期 (2022) 4K 中字外挂字幕",url:"https://www.aliyundrive.com/s/mwqx7Fo9KoP"},
