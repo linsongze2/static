@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：囚犯之女 (2022) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/bmMPE2GPQzX"},
+const aliData = [{name:"名称：意外杀手2：杀手假期 (2022) 4K 中字外挂字幕",url:"https://www.aliyundrive.com/s/mwqx7Fo9KoP"},
+{name:"名称：囚犯之女 (2022) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/bmMPE2GPQzX"},
 {name:"名称：门锁 (2021) 4K 60FPS 中字硬字幕",url:"https://www.aliyundrive.com/s/jGzQZBeBYgy"},
 {name:"名称：长安三万里 4K高码率 [60帧率版][秒封资源]",url:"https://www.aliyundrive.com/s/PYywu3UYR4P"},
 {name:"名称：【光影7号】AE特效包装直播培训（第一期）",url:"https://www.aliyundrive.com/s/FqpLAPnjBbz"},
