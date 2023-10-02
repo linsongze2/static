@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：惊奇的传闻 S01~S02 4K高码率 [内封简中字幕]",url:"https://www.aliyundrive.com/s/pdtnrAiGETV"},
+const aliData = [{name:"名称：陌生人 4K高码率 [全12集][内封简中字幕]",url:"https://www.aliyundrive.com/s/3XV9wRZoUpM"},
+{name:"名称：惊奇的传闻 S01~S02 4K高码率 [内封简中字幕]",url:"https://www.aliyundrive.com/s/pdtnrAiGETV"},
 {name:"名称：7人的逃脱(2023) S01E01-E06",url:"https://www.aliyundrive.com/s/tizJP3xLT1u"},
 {name:"名称：汉武大帝 (2005) 1080P",url:"https://www.aliyundrive.com/s/68PbwJKrCWg"},
 {name:"名称：布莱泽奥特曼 ウルトラマンブレーザー (2023) 更13 国语日语",url:"https://www.aliyundrive.com/s/UmFVTjV3chX"},
