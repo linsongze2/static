@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：汉武大帝 (2005) 1080P",url:"https://www.aliyundrive.com/s/68PbwJKrCWg"},
+const aliData = [{name:"名称：惊奇的传闻 S01~S02 4K高码率 [内封简中字幕]",url:"https://www.aliyundrive.com/s/pdtnrAiGETV"},
+{name:"名称：7人的逃脱(2023) S01E01-E06",url:"https://www.aliyundrive.com/s/tizJP3xLT1u"},
+{name:"名称：汉武大帝 (2005) 1080P",url:"https://www.aliyundrive.com/s/68PbwJKrCWg"},
 {name:"名称：布莱泽奥特曼 ウルトラマンブレーザー (2023) 更13 国语日语",url:"https://www.aliyundrive.com/s/UmFVTjV3chX"},
 {name:"名称：长时间等你 4K高码率 [全14集][内封简中字幕]",url:"https://www.aliyundrive.com/s/zLBuTux4MVG"},
 {name:"名称：猫和老鼠 (1965)✨【剧集版】",url:"https://www.aliyundrive.com/s/nPfd826Gj8X"},
