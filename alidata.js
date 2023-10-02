@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：海盗 2：鬼怪的旗帜(2022) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/YySzgF3VEVm"},
+const aliData = [{name:"名称：闪烁的西瓜 반짝이는 워터멜론 (2023)[更新至03集]",url:"https://www.aliyundrive.com/s/N3FLz8azoEM"},
+{name:"名称：海盗 2：鬼怪的旗帜(2022) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/YySzgF3VEVm"},
 {name:"名称：海盗(2014) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/VHGAJr5sdfz"},
 {name:"名称：世界 蓝光原盘REMUX [内封简英双字]",url:"https://www.aliyundrive.com/s/Qbz6YPCfioc"},
 {name:"名称：长安三万里 (2023) 洗版 4K HQ 60FPS 高帧高码版 DDP5.1 【刮削】",url:"https://www.aliyundrive.com/s/3ATaEmGxpxz"},
