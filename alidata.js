@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我有一个朋友 (2023) 1080p 国语中字 24集完结【近期热播古装剧】",url:"https://www.aliyundrive.com/s/WqfZ8gJUdNC"},
+const aliData = [{name:"名称：一个人生活也要热气腾腾 | 电子书籍",url:"https://www.aliyundrive.com/s/iErMLTAkuQW"},
+{name:"名称：我有一个朋友 (2023) 1080p 国语中字 24集完结【近期热播古装剧】",url:"https://www.aliyundrive.com/s/WqfZ8gJUdNC"},
 {name:"名称：伸冤人 (系列)✨【2160p.HDR】【原轨.高码率】",url:"https://www.aliyundrive.com/s/hCj9DuNUGwn"},
 {name:"名称：伸冤人3 杜比视界",url:"https://www.aliyundrive.com/s/9UrnwinrEtm"},
 {name:"名称：念念相忘 / 念念不忘 (2023) 2160p 高码",url:"https://www.aliyundrive.com/s/NypC6ASB1z9"},
