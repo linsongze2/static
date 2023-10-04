@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：修女2 (2023) 2160p HDR + 1080p 外挂双语【恐怖惊悚片 | 附第一部】",url:"https://www.aliyundrive.com/s/ottTHKqrckb"},
+const aliData = [{name:"名称：实尾岛 (2003) 德版原盘REMUX [内封简繁中字]",url:"https://www.aliyundrive.com/s/pBFnvctHug9"},
+{name:"名称：修女2 (2023) 2160p HDR + 1080p 外挂双语【恐怖惊悚片 | 附第一部】",url:"https://www.aliyundrive.com/s/ottTHKqrckb"},
 {name:"名称：自由之声 (2023) 1080p 双语字幕【犯罪片】",url:"https://www.aliyundrive.com/s/6rxtJ6Fed44"},
 {name:"名称：【福粒商学院】福粒短视频创作知识",url:"https://www.aliyundrive.com/s/8xDzP1HKWnP"},
 {name:"名称：圣女的魔力是万能的 第二季1080P",url:"https://www.aliyundrive.com/s/qAmueF61EHK"},
