@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：伸冤人3 (2023) 2160p HDR&amp;DV MA 内封简英特效+繁英特效+粤英双语 【附1-2 4K HDR &amp; 4K REMUX】【刮削】",url:"https://www.aliyundrive.com/s/1HKSc1n1x1s"},
+const aliData = [{name:"名称：穷兄富弟 (2023) 4KHQ60FPS",url:"https://www.aliyundrive.com/s/twKHacjp8JX"},
+{name:"名称：伸冤人3 (2023) 2160p HDR&amp;DV MA 内封简英特效+繁英特效+粤英双语 【附1-2 4K HDR &amp; 4K REMUX】【刮削】",url:"https://www.aliyundrive.com/s/1HKSc1n1x1s"},
 {name:"名称：恋爱不可抗力 이 연애는 불가항력 (2023)[更新至14集]",url:"https://www.aliyundrive.com/s/w4dVzrVbN43"},
 {name:"名称：诱拐之日/绑架之日 [更新至07集]",url:"https://www.aliyundrive.com/s/qxAsnzTZFkn"},
 {name:"名称：踏血寻梅 蓝光原盘REMUX [导演剪辑版] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/vgpdqjb9obR"},
