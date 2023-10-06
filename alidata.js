@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：绝对杀手 (2023) 2160p 高码率 内封多国语【恐怖片】",url:"https://www.aliyundrive.com/s/mUmDYmTGDah"},
+const aliData = [{name:"名称：浪客剑心 明治剑客浪漫谭 1080P更至14 总集24 (2023)",url:"https://www.aliyundrive.com/s/7tVBiRL9iqs"},
+{name:"名称：绝对杀手 (2023) 2160p 高码率 内封多国语【恐怖片】",url:"https://www.aliyundrive.com/s/mUmDYmTGDah"},
 {name:"名称：交易 거래 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/sxzbouXbfXx"},
 {name:"名称：特工任务4KHDR60FPS 更新33集",url:"https://www.aliyundrive.com/s/BGURyEepAvR"},
 {name:"名称：007：大破天幕杀机 (2012)",url:"https://www.aliyundrive.com/s/up3AVuz5UfY"},
