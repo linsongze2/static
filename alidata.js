@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：翼神传说 (2002) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/tBE1wHQw449"},
+const aliData = [{name:"名称：斯特莱克探案集(2017) 1080P 硬字幕 全5季",url:"https://www.aliyundrive.com/s/W1PZRjDkoJ1"},
+{name:"名称：翼神传说 (2002) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/tBE1wHQw449"},
 {name:"名称：吵架又没发挥好 | 电子书籍",url:"https://www.aliyundrive.com/s/jNyFWgJtw8D"},
 {name:"名称：时光之轮(2021) S02完结 4K HDR&amp;DV 内封中字",url:"https://www.aliyundrive.com/s/PwrJiBww6Mk"},
 {name:"名称：人吓鬼 (1984) 1080P REMUX (蓝光 原盘) 国粤双音轨，默认国语 中字外挂字幕",url:"https://www.aliyundrive.com/s/TztwiYJVo1D"},
