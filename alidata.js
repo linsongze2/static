@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：乐队的夏天 第三季 (2023)",url:"https://www.aliyundrive.com/s/BVQdGXd3QWq"},
+const aliData = [{name:"名称：棋魂 (2020) 4K 中字硬字幕",url:"https://www.aliyundrive.com/s/XjViFdhjSeQ"},
+{name:"名称：乐队的夏天 第三季 (2023)",url:"https://www.aliyundrive.com/s/BVQdGXd3QWq"},
 {name:"名称：恶中之恶 (2023) DSNP 1080p 高码率 DDP5.1 内封多国语 更EP05 【最新犯罪韩剧】【刮削】",url:"https://www.aliyundrive.com/s/NkiNb5jrdht"},
 {name:"名称：花溪记(2023) S01 4K 完结",url:"https://www.aliyundrive.com/s/B4iMvuDrfLs"},
 {name:"名称：他从火光中走来 (2023) 1080/4K 40集完结 超前点映",url:"https://www.aliyundrive.com/s/UXU5NSD3Dur"},
