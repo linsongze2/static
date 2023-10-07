@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：山海经奇 (2023) 1080P 中字硬字幕",url:"https://www.aliyundrive.com/s/YpUXaubxvaU"},
+const aliData = [{name:"名称：蓝色珍妮 Blue Jean (2023)✨【1080p.SDR】【原轨.高码率】7G",url:"https://www.aliyundrive.com/s/mNuMEgqG1fm"},
+{name:"名称：山海经奇 (2023) 1080P 中字硬字幕",url:"https://www.aliyundrive.com/s/YpUXaubxvaU"},
 {name:"名称：时光音乐会(2021) 更新S03E05(第三季第5期)",url:"https://www.aliyundrive.com/s/yxrFYdJf4Qi"},
 {name:"名称：我们如何看见，又如何思考 | 电子书籍",url:"https://www.aliyundrive.com/s/a87fh3jEf2r"},
 {name:"名称：潘丘·维拉：北方的半人马 (2023) 2160p HDR10 内封多国语",url:"https://www.aliyundrive.com/s/pZ3MbFkCW7b"},
