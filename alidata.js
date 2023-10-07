@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：《想要成为影之实力者！》第二季 持续更新 包含第一季",url:"https://www.aliyundrive.com/s/GE7AdXJMND5"},
+const aliData = [{name:"名称：轻音少女 2季全 1080P + 剧场 中字外挂字幕",url:"https://www.aliyundrive.com/s/e9vDT2xJTLs"},
+{name:"名称：猎魔人 3季全 4K 中字外挂/内嵌字幕",url:"https://www.aliyundrive.com/s/4eUsNakrnPe"},
+{name:"名称：《想要成为影之实力者！》第二季 持续更新 包含第一季",url:"https://www.aliyundrive.com/s/GE7AdXJMND5"},
 {name:"名称：《间谍过家家》第二季 持续更新 包含第一季多语言版",url:"https://www.aliyundrive.com/s/yzcHQrJHSuY"},
 {name:"名称：诱拐之日 (2023) 韩剧 1080p 中文字幕 更E07",url:"https://www.aliyundrive.com/s/co3zUqP9Xu3"},
 {name:"名称：超智能足球(2010) 2季全 1080p",url:"https://www.aliyundrive.com/s/bn3SpY4oyEV"},
