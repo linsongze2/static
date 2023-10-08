@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：飞机陷落 [4K60帧率版+简英特效字幕]",url:"https://www.aliyundrive.com/s/o65Xa8V6Mpd"},
+const aliData = [{name:"名称：偶滴神啊2 OMG 2 (2023) 1080p NF高码 内封简繁英 附1 【印度新片】【刮削】",url:"https://www.aliyundrive.com/s/gkhn1WuHmPG"},
+{name:"名称：飞机陷落 [4K60帧率版+简英特效字幕]",url:"https://www.aliyundrive.com/s/o65Xa8V6Mpd"},
 {name:"名称：极盗者 (2015) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/UyV3ab3tdeh"},
 {name:"名称：纯情拳击手 (2023) 1080p 内封简繁【韩剧】",url:"https://www.aliyundrive.com/s/FEiMwVas1jF"},
 {name:"名称：西出玉门 4K [全38集]",url:"https://www.aliyundrive.com/s/e9uxRRHJbue"},
