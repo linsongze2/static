@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：飞机陷落 (2023)✨【2160p.HDR】【兼容杜比视界】【原轨.高码率】18.5G",url:"https://www.aliyundrive.com/s/rRyhUeNUwCW"},
+const aliData = [{name:"名称：登陆日，诺曼底 (2014) 4K REMUX(蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/bkXEe8y1Y1j"},
+{name:"名称：大力女子姜南顺 힘쎈여자 강남순 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/4qskndakiYh"},
+{name:"名称：飞机陷落 (2023)✨【2160p.HDR】【兼容杜比视界】【原轨.高码率】18.5G",url:"https://www.aliyundrive.com/s/rRyhUeNUwCW"},
 {name:"名称：水深火热的星球 (2019) 1080P 中英外挂字幕",url:"https://www.aliyundrive.com/s/oymeEhyxEhZ"},
 {name:"名称：三贵情史 (2023) 4K HQ高码 DDP5.1 内嵌中英【刮削】",url:"https://www.aliyundrive.com/s/sU6cUHtbDGJ"},
 {name:"名称：【浪客剑心 明治剑客浪漫谭 2023】1080P 高码率 内封简繁 更至第十四集",url:"https://www.aliyundrive.com/s/Thbh4pSqFsA"},
