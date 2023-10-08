@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：魔法使的新娘 S2 1080P/4K 简中",url:"https://www.aliyundrive.com/s/V9N8yveGA4b"},
+const aliData = [{name:"名称：兰闺喜事 (2023) 4K 更20",url:"https://www.aliyundrive.com/s/cPs7dhq11kR"},
+{name:"名称：魔法使的新娘 S2 1080P/4K 简中",url:"https://www.aliyundrive.com/s/V9N8yveGA4b"},
 {name:"名称：哥布林杀手 S2 1080P高码率简中",url:"https://www.aliyundrive.com/s/HJCdDHcrQQh"},
 {name:"名称：【国产剧】问心[4K]共38集持续更新",url:"https://www.aliyundrive.com/s/v9D48hdFMoR"},
 {name:"名称：家里蹲吸血姬的郁闷 1080P简中",url:"https://www.aliyundrive.com/s/enzk1jBnyqJ"},
