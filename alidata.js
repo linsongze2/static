@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：有生之年 (2023) 更10",url:"https://www.aliyundrive.com/s/WgJv2f24oE3"},
+const aliData = [{name:"名称：LV1魔王与独居废勇者 4K [全12集]",url:"https://www.aliyundrive.com/s/scyVwkC1erF"},
+{name:"名称：有生之年 (2023) 更10",url:"https://www.aliyundrive.com/s/WgJv2f24oE3"},
 {name:"名称：伊藤润二惊选集 (2018) 1080P 中字内嵌字幕",url:"https://www.aliyundrive.com/s/LgMYmqaB1ki"},
 {name:"名称：拼命活在顺其自然的瞬间 | 电子书籍",url:"https://www.aliyundrive.com/s/PLQsYjYbBu3"},
 {name:"名称：爱在青山绿水间 (2023) 4K HDR 33集完结",url:"https://www.aliyundrive.com/s/8T8KzQstaK3"},
