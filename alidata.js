@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：西出玉门 (2023) 4K + 4K DV 杜比视界版本 DDP5.1 内封简繁英 【38集完结】【刮削】【和谐不补！！】",url:"https://www.aliyundrive.com/s/p2Ezob64HkH"},
+const aliData = [{name:"名称：金蝉脱壳 (2013) 4K HDR 中字外挂/内嵌字幕",url:"https://www.aliyundrive.com/s/QvUV6ZKABGY"},
+{name:"名称：西出玉门 (2023) 4K + 4K DV 杜比视界版本 DDP5.1 内封简繁英 【38集完结】【刮削】【和谐不补！！】",url:"https://www.aliyundrive.com/s/p2Ezob64HkH"},
 {name:"名称：中国 第三季 (2023) 1080P 更4",url:"https://www.aliyundrive.com/s/nLKimTW9bQF"},
 {name:"名称：雪之少女 (2006) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/qgfsTJQotcW"},
 {name:"名称：大力女子姜南顺 [更新至02集]",url:"https://www.aliyundrive.com/s/6Fm6YScV8ha"},
