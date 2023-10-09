@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：爆文写作：半糖梦呓高阶写作营",url:"https://www.aliyundrive.com/s/69wsqZzecC8"},
+const aliData = [{name:"名称：百炼飞升录",url:"https://www.aliyundrive.com/s/SafibvCpLG4"},
+{name:"名称：爆文写作：半糖梦呓高阶写作营",url:"https://www.aliyundrive.com/s/69wsqZzecC8"},
 {name:"名称：兰闺喜事 (2023) 4K 更21",url:"https://www.aliyundrive.com/s/cPs7dhq11kR"},
 {name:"名称：Lachel：智识训练营3.0 第六期",url:"https://www.aliyundrive.com/s/EJbfYQDHJGn"},
 {name:"名称：南太平洋之旅 (2013) 4K REMUX (蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/dE6jk881C2d"},
