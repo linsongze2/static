@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：黑色电话 The Black Phone (2021) 4K REMUX 原盘 杜比视界 外挂双语【刮削】",url:"https://www.aliyundrive.com/s/kWoBUeYskdZ"},
+const aliData = [{name:"名称：闪烁的西瓜 반짝이는 워터멜론 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/N3FLz8azoEM"},
+{name:"名称：黑色电话 The Black Phone (2021) 4K REMUX 原盘 杜比视界 外挂双语【刮削】",url:"https://www.aliyundrive.com/s/kWoBUeYskdZ"},
 {name:"名称：阿索卡 4K [更新至07集][曼达洛人衍生剧][简英特效字幕]",url:"https://www.aliyundrive.com/s/papxPZygZhJ"},
 {name:"名称：升级 Upgrade (2018) 4K REMUX 原盘 杜比视界 外挂双语 【刮削】",url:"https://www.aliyundrive.com/s/J1nxdHs2fEx"},
 {name:"名称：城南旧事 蓝光原盘REMUX [高码国版 官方画质修复] [内封简英双字]",url:"https://www.aliyundrive.com/s/RWKiN1fwsYx"},
