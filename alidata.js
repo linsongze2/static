@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：特工任务 4KHDR60FPS（38集完结",url:"https://www.aliyundrive.com/s/KtDhGk7VU7Y"},
+const aliData = [{name:"名称：大力女子姜南顺 [更新至02集]",url:"https://www.aliyundrive.com/s/6Fm6YScV8ha"},
+{name:"名称：特工任务 4KHDR60FPS（38集完结",url:"https://www.aliyundrive.com/s/KtDhGk7VU7Y"},
 {name:"名称：特工任务(2023) S01完结 4K",url:"https://www.aliyundrive.com/s/JGbQpq7Cook"},
 {name:"名称：真阳武神(2023) S01 4K 完结",url:"https://www.aliyundrive.com/s/pdgazwu5GgS"},
 {name:"名称：虎鹤妖师录(2023) S01E01-E16 4K",url:"https://www.aliyundrive.com/s/4A6UtH2fN4R"},
