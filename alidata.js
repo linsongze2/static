@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：大力女子姜南顺 [更新至02集]",url:"https://www.aliyundrive.com/s/6Fm6YScV8ha"},
+const aliData = [{name:"名称：雪之少女 (2006) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/qgfsTJQotcW"},
+{name:"名称：大力女子姜南顺 [更新至02集]",url:"https://www.aliyundrive.com/s/6Fm6YScV8ha"},
 {name:"名称：特工任务 4KHDR60FPS（38集完结",url:"https://www.aliyundrive.com/s/KtDhGk7VU7Y"},
 {name:"名称：特工任务(2023) S01完结 4K",url:"https://www.aliyundrive.com/s/JGbQpq7Cook"},
 {name:"名称：真阳武神(2023) S01 4K 完结",url:"https://www.aliyundrive.com/s/pdgazwu5GgS"},
