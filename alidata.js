@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：闪烁的西瓜 반짝이는 워터멜론 (2023)[更新至06集]",url:"https://www.aliyundrive.com/s/N3FLz8azoEM"},
+const aliData = [{name:"名称：架构实战营",url:"https://www.aliyundrive.com/s/zzv31MwMA2r"},
+{name:"名称：闪烁的西瓜 반짝이는 워터멜론 (2023)[更新至06集]",url:"https://www.aliyundrive.com/s/N3FLz8azoEM"},
 {name:"名称：再见爱人 第三季 (2023) 真人秀",url:"https://www.aliyundrive.com/s/br8ojDMAZpf"},
 {name:"名称：英雄(2006) 1080P原盘 4季全 外挂简英",url:"https://www.aliyundrive.com/s/vKUqGH16LNK"},
 {name:"名称：地球的力量 S1(2007) 1080P 国粤音轨三音轨，默认英语 中字外挂/内嵌字幕",url:"https://www.aliyundrive.com/s/fC4CFZNzbQp"},
