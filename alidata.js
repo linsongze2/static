@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：董十一短视频底层实操课",url:"https://www.aliyundrive.com/s/fa6zYU1FkKV"},
+const aliData = [{name:"名称：和君《股权设计班24讲（第三期）》",url:"https://www.aliyundrive.com/s/AC5bSgtX3RK"},
+{name:"名称：董十一短视频底层实操课",url:"https://www.aliyundrive.com/s/fa6zYU1FkKV"},
 {name:"名称：长安三万里 (2023) 1080p + 4K + 4K HQ 60FPS 和谐补 【刮削】",url:"https://www.aliyundrive.com/s/FtjJanTef6A"},
 {name:"名称：伊藤润二狂热：日本恐怖故事 (2023) 1080P 中字内嵌字幕",url:"https://www.aliyundrive.com/s/wg5V5rW4QT7"},
 {name:"名称：碟中谍7：致命清算 (2023) 4K HDR&amp;DV 海外版未删减 内封多国语 【附1-6系列 4K REMUX 原盘合集】【刮削】【上传不易 和谐不补！】",url:"https://www.aliyundrive.com/s/wZJmAoCPgwQ"},
