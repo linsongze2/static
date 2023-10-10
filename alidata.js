@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：英雄好汉 蓝光原盘REMUX [高码法版] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/sYVEWUzifvF"},
+const aliData = [{name:"名称：英雄(2006) 1080P原盘 4季全 外挂简英",url:"https://www.aliyundrive.com/s/vKUqGH16LNK"},
+{name:"名称：地球的力量 S1(2007) 1080P 国粤音轨三音轨，默认英语 中字外挂/内嵌字幕",url:"https://www.aliyundrive.com/s/fC4CFZNzbQp"},
+{name:"名称：英雄好汉 蓝光原盘REMUX [高码法版] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/sYVEWUzifvF"},
 {name:"名称：败家仔 蓝光原盘REMUX [高码美版 官方画质修复] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/GgBio4QXunb"},
 {name:"名称：绿皮书 (2018) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/ZzVUeCcghmy"},
 {name:"名称：岳麓书院 (2021) 1080P&nbsp; 中字硬字幕",url:"https://www.aliyundrive.com/s/iQqmFdMCUvn"},
