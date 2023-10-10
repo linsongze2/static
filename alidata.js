@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：绿皮书 (2018) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/ZzVUeCcghmy"},
+const aliData = [{name:"名称：英雄好汉 蓝光原盘REMUX [高码法版] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/sYVEWUzifvF"},
+{name:"名称：败家仔 蓝光原盘REMUX [高码美版 官方画质修复] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/GgBio4QXunb"},
+{name:"名称：绿皮书 (2018) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/ZzVUeCcghmy"},
 {name:"名称：岳麓书院 (2021) 1080P&nbsp; 中字硬字幕",url:"https://www.aliyundrive.com/s/iQqmFdMCUvn"},
 {name:"名称：猎鹿人 (1978) 4K Dv 中字外挂字幕",url:"https://www.aliyundrive.com/s/mj1dkX8wBAh"},
 {name:"名称：好事成双 (2023) 4K 36集完结 张小斐/黄晓明/张嘉倪",url:"https://www.aliyundrive.com/s/gUgzUweqe82"},
