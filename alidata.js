@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：畸形屋(2017) 4K 国英双语 硬字幕",url:"https://www.aliyundrive.com/s/1MrvY4bBdEd"},
+const aliData = [{name:"名称：硬核亨利(2015)REMUX",url:"https://www.aliyundrive.com/s/k1r2NHsrppg"},
+{name:"名称：哥斯拉(2014)4K PROPER REMUX",url:"https://www.aliyundrive.com/s/Veg6vLypoBs"},
+{name:"名称：畸形屋(2017) 4K 国英双语 硬字幕",url:"https://www.aliyundrive.com/s/1MrvY4bBdEd"},
 {name:"名称：天空上尉与明日世界(2004) 1080P 外挂中字",url:"https://www.aliyundrive.com/s/c5WWVV7JfUH"},
 {name:"名称：春光乍泄 (1997) 德版4K原盘REMUX [简繁双语字幕]",url:"https://www.aliyundrive.com/s/s7Yg1Q1VuGG"},
 {name:"名称：看见恶魔(2010) 1080P 外挂中字",url:"https://www.aliyundrive.com/s/YYnVTE5uFxX"},
