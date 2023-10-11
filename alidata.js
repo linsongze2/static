@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我在故宫修文物 (2016) 1080P 中字硬字幕",url:"https://www.aliyundrive.com/s/3ZrdcCbLCVF"},
+const aliData = [{name:"名称：极简学习法 | 电子书籍",url:"https://www.aliyundrive.com/s/9wk46J1Yczt"},
+{name:"名称：我在故宫修文物 (2016) 1080P 中字硬字幕",url:"https://www.aliyundrive.com/s/3ZrdcCbLCVF"},
 {name:"名称：神话 (2010) 1080P 中字硬字幕",url:"https://www.aliyundrive.com/s/fn5FYUXuLN8"},
 {name:"名称：长安三万里 (2023) 1080P/4K",url:"https://www.aliyundrive.com/s/cjYrBALGFMu"},
 {name:"名称：【国产剧】他从火光中走来[4k]超前点播已完结",url:"https://www.aliyundrive.com/s/2guzozUYhDi"},
