@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：德义跨境·shopee选品精品课",url:"https://www.aliyundrive.com/s/kerCqNYWanw"},
+const aliData = [{name:"名称：《圣剑学院的魔剑使》1080p 持续更新",url:"https://www.aliyundrive.com/s/pvLKuez7yCJ"},
+{name:"名称：德义跨境·shopee选品精品课",url:"https://www.aliyundrive.com/s/kerCqNYWanw"},
 {name:"名称：最深的呼吸(2023) 4K HDR&amp;DV 内封简繁",url:"https://www.aliyundrive.com/s/gDe8tQLFuGG"},
 {name:"名称：越狱(2005) 5季全 原盘+压制版 按需存",url:"https://www.aliyundrive.com/s/Jp8s25yj6jR"},
 {name:"名称：汤小小账号变现课第2期",url:"https://www.aliyundrive.com/s/32zHQetbwLY"},
