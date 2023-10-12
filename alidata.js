@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：兰闺喜事 (2023) 4K 更24",url:"https://www.aliyundrive.com/s/cPs7dhq11kR"},
+const aliData = [{name:"名称：【数据技术课堂】菊安酱 - 2021数据分析实战",url:"https://www.aliyundrive.com/s/XHfUF8RbDAs"},
+{name:"名称：亚瑟府的没落(2023) S01 1080P 内封简繁",url:"https://www.aliyundrive.com/s/WiPeHhmKqbc"},
+{name:"名称：兰闺喜事 (2023) 4K 更24",url:"https://www.aliyundrive.com/s/cPs7dhq11kR"},
 {name:"名称：今天也很可爱的狗 오늘도 사랑스럽개 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/n6rCTpWuibr"},
 {name:"名称：【数据技术课堂】深度学习实战训练营（5期）",url:"https://www.aliyundrive.com/s/hKEnvwGaRXF"},
 {name:"名称：风骚律师 6季全 4K 中字内嵌字幕",url:"https://www.aliyundrive.com/s/rQy15D7p5W5"},
