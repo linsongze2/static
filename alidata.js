@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：老男孩猛龙过江(2014) 4K高码",url:"https://www.aliyundrive.com/s/djuNBjwgNZ7"},
+const aliData = [{name:"名称：浪客剑心 最终章 人诛篇 蓝光原盘REMUX [内封简日双字]",url:"https://www.aliyundrive.com/s/GRfYY1max9a"},
+{name:"名称：我脑中的橡皮擦 4K原盘REMUX [HDR] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/HxMr45AZnb2"},
+{name:"名称：老男孩猛龙过江(2014) 4K高码",url:"https://www.aliyundrive.com/s/djuNBjwgNZ7"},
 {name:"名称：叠影狙击 疊影狙擊 (2023) 4KHQ60FPS 首发4集",url:"https://www.aliyundrive.com/s/QUvgsW4Tw1Z"},
 {name:"名称：虎鹤妖师录(2023) S01E01-E22 4K",url:"https://www.aliyundrive.com/s/7tUEus766tV"},
 {name:"名称：情枭的黎明 (1993) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/CVUVNQcuKdU"},
