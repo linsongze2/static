@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：电锯人 (2022) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/rmWoNQAVXNd"},
+const aliData = [{name:"名称：小学初中数学和奥数资料（群友800买的）",url:"https://www.aliyundrive.com/s/jBDptKAUuvF"},
+{name:"名称：电锯人 (2022) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/rmWoNQAVXNd"},
 {name:"名称：潘神的迷宫 (2006) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/stL9LaLmhf8"},
 {name:"名称：DolbyVision+HDR 杜比视界解码插件",url:"https://www.aliyundrive.com/s/4Xk7FQmcxL1"},
 {name:"名称：聚宝盆 (2003) 1080P",url:"https://www.aliyundrive.com/s/oaNrKKtc4Bc"},
