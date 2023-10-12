@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：风骚律师 6季全 4K 中字内嵌字幕",url:"https://www.aliyundrive.com/s/rQy15D7p5W5"},
+const aliData = [{name:"名称：【数据技术课堂】深度学习实战训练营（5期）",url:"https://www.aliyundrive.com/s/hKEnvwGaRXF"},
+{name:"名称：风骚律师 6季全 4K 中字内嵌字幕",url:"https://www.aliyundrive.com/s/rQy15D7p5W5"},
 {name:"名称：黄河守墓人 (2023) 1080p + 2160p 60FPS 高帧高码版【悬疑片】",url:"https://www.aliyundrive.com/s/1z1vitYihdR"},
 {name:"名称：把思考作为习惯 | 电子书籍",url:"https://www.aliyundrive.com/s/LtTNo6khp4z"},
 {name:"名称：小学初中数学和奥数资料（群友800买的）",url:"https://www.aliyundrive.com/s/jBDptKAUuvF"},
