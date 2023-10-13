@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：学爸 (2023) 正式版 1080p 高码率【黄渤/闫妮/张钧甯】",url:"https://www.aliyundrive.com/s/VTsQJZ8fQRS"},
+const aliData = [{name:"名称：学爸 4K TV高码 它来了！",url:"https://www.aliyundrive.com/s/joDryGvXFWo"},
+{name:"名称：敢死队4：最终章 (2023) 2160p HDR&amp;DV 机翻双语(不急的可以等人工字幕)【附1-3 4K REMUX】【刮削】",url:"https://www.aliyundrive.com/s/RrQpPtEd2td"},
+{name:"名称：学爸 (2023) 正式版 1080p 高码率【黄渤/闫妮/张钧甯】",url:"https://www.aliyundrive.com/s/VTsQJZ8fQRS"},
 {name:"名称：叠影狙击 4K高码率 [更新至04集][国粤双语]",url:"https://www.aliyundrive.com/s/j7ad5Moc7Uz"},
 {name:"名称：甜点转生 (2023) 1080P 中字硬字幕",url:"https://www.aliyundrive.com/s/c22gaGfPiC1"},
 {name:"名称：敢死队4(2023) 洗版 4K HDR&amp;DV 外挂机翻简英",url:"https://www.aliyundrive.com/s/zYjqy9zd8WS"},
