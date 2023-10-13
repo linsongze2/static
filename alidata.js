@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：乐队的夏天 第三季 (2023)",url:"https://www.aliyundrive.com/s/Wqyn5cptQXJ"},
+const aliData = [{name:"名称：【咒术回战 第二季 2023】4K 高码 + 1080P 高码 内封简繁 更至第十二集",url:"https://www.aliyundrive.com/s/vw7ozLc3Ckw"},
+{name:"名称：乐队的夏天 第三季 (2023)",url:"https://www.aliyundrive.com/s/Wqyn5cptQXJ"},
 {name:"名称：海底小纵队：火焰之环 (2021) 4K 60FPS 中字硬字幕",url:"https://www.aliyundrive.com/s/BLaekHsTaTt"},
 {name:"名称：学爸 (2023) 2160p 高码 DDP5.1 黄渤 / 闫妮 喜剧 【刮削】【易和谐】",url:"https://www.aliyundrive.com/s/DDtP7WzrgoK"},
 {name:"名称：繁城之下 [2023] 4K杜比",url:"https://www.aliyundrive.com/s/LrgaogaYSEp"},
