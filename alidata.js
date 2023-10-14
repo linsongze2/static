@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：龙珠(1986) 1080P 硬字幕",url:"https://www.aliyundrive.com/s/QnWbXj1Kgyp"},
+const aliData = [{name:"名称：龙珠Z(1989) 1080P 硬字幕",url:"https://www.aliyundrive.com/s/tJSANCMUrDE"},
+{name:"名称：龙珠(1986) 1080P 硬字幕",url:"https://www.aliyundrive.com/s/QnWbXj1Kgyp"},
 {name:"名称：十八岁的天空 (2002) 1080P",url:"https://www.aliyundrive.com/s/BxkJBvRuvrd"},
 {name:"名称：咒术回战 第二季 呪術廻戦 2 (2023) 1080p &amp; 2160p 高码版 内封简繁英 EP12",url:"https://www.aliyundrive.com/s/b5rwb67cyZa"},
 {name:"名称：黑袍纠察队 3季全 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/w3hasLMeR6t"},
