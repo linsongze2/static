@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：名侦探柯南/名探偵コナン 更至1100集即1158",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
+const aliData = [{name:"名称：斗破苍穹年番 4K 更66",url:"https://www.aliyundrive.com/s/PDToNdsNTc2"},
+{name:"名称：名侦探柯南/名探偵コナン 更至1100集即1158",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
 {name:"名称：龙王子（5季）",url:"https://www.aliyundrive.com/s/ZCduig8nNm1"},
 {name:"名称：中国石窟简史 | 电子书籍",url:"https://www.aliyundrive.com/s/Up6TRYkXajD"},
 {name:"名称：繁城之下(2023) S01E01-E04 4K",url:"https://www.aliyundrive.com/s/4BnbNSW5HEG"},
