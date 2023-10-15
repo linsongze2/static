@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：田耕纪 [2023] 4K高码 更新6集",url:"https://www.aliyundrive.com/s/bk499GSGDmi"},
+const aliData = [{name:"名称：芭比 4K原盘REMUX [HDR] [国英双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/vqm6Cf5WP2k"},
+{name:"名称：田耕纪 [2023] 4K高码 更新6集",url:"https://www.aliyundrive.com/s/bk499GSGDmi"},
 {name:"名称：猫和老鼠在纽约 (2021) 1080P 英文内嵌字幕",url:"https://www.aliyundrive.com/s/z3WeFdL8ok5"},
 {name:"名称：侠盗之簪花乱 (2023) 4K HDR 中字硬字幕",url:"https://www.aliyundrive.com/s/YDEzyq5rFrg"},
 {name:"名称：东邪西毒 (2008) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/7pUiwuyKc7o"},
