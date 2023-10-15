@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：毛雪汪(2021) 更新中",url:"https://www.aliyundrive.com/s/yDaAUL6mnXJ"},
+const aliData = [{name:"名称：霸王别姬 (1993) 1080P 国粤双音轨，默认国语 中字外挂/内嵌字幕",url:"https://www.aliyundrive.com/s/DVX8CqU26EL"},
+{name:"名称：毛雪汪(2021) 更新中",url:"https://www.aliyundrive.com/s/yDaAUL6mnXJ"},
 {name:"名称：现在就出发(2023) 更新中",url:"https://www.aliyundrive.com/s/f85pFPqchZQ"},
 {name:"名称：海贼王剧场版全 BDREMUX 已刮削",url:"https://www.aliyundrive.com/s/hBWY2UfD2D2"},
 {name:"名称：斗破苍穹年番 4K 更66",url:"https://www.aliyundrive.com/s/PDToNdsNTc2"},
