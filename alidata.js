@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我们恋爱吧 (2019) 第五季",url:"https://www.aliyundrive.com/s/Hyk3AmeoE3q"},
+const aliData = [{name:"名称：兰闺喜事 (2023) 4K DDP2.0 喜剧 / 古装 全24集 【刮削】",url:"https://www.aliyundrive.com/s/8dqJYKvqFdb"},
+{name:"名称：我们恋爱吧 (2019) 第五季",url:"https://www.aliyundrive.com/s/Hyk3AmeoE3q"},
 {name:"名称：古今大战秦俑情(1989) 4K高码",url:"https://www.aliyundrive.com/s/qPSqWmmM2N5"},
 {name:"名称：卧虎(2006) 4K高码",url:"https://www.aliyundrive.com/s/A5QYoEgbJBT"},
 {name:"名称：霸王别姬 (1993) 1080P 国粤双音轨，默认国语 中字外挂/内嵌字幕",url:"https://www.aliyundrive.com/s/DVX8CqU26EL"},
