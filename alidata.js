@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：乔乔的异想世界 (2019) 4K",url:"https://www.aliyundrive.com/s/Kx5oJvLs1sB"},
+const aliData = [{name:"名称：万神殿S02（机翻）",url:"https://www.aliyundrive.com/s/vv1ea9LdC3i"},
+{name:"名称：乔乔的异想世界 (2019) 4K",url:"https://www.aliyundrive.com/s/Kx5oJvLs1sB"},
 {name:"名称：云的彼端，约定的地方 (2004) 1080P 内封中字",url:"https://www.aliyundrive.com/s/nbvA27FgFvp"},
 {name:"名称：魔鬼的计谋 (2023) 1080p 中文字幕 12集全【韩国高分综艺】",url:"https://www.aliyundrive.com/s/y2oQLxuSEiJ"},
 {name:"名称：万物生灵(2020) S04E02 1080p 外挂简中",url:"https://www.aliyundrive.com/s/qXTrbJK9Y8F"},
