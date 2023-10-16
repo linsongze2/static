@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：虎鹤妖师录(2023) S01E01-E30 4K",url:"https://www.aliyundrive.com/s/L7eYcVA5nT8"},
+const aliData = [{name:"名称：我的助理不简单(2023) S01E01-E07 4K",url:"https://www.aliyundrive.com/s/YcwT5CfMjhU"},
+{name:"名称：有生之年(2023) S01 1080P 内封简繁",url:"https://www.aliyundrive.com/s/xGa7ArEHhKv"},
+{name:"名称：虎鹤妖师录(2023) S01E01-E30 4K",url:"https://www.aliyundrive.com/s/L7eYcVA5nT8"},
 {name:"名称：叠影狙击 4K高码60帧 国粤双语 更新10集",url:"https://www.aliyundrive.com/s/vStfG3DD1et"},
 {name:"名称：为有暗香来 (2023) 1080/4K HDR 更11 周也/王星越",url:"https://www.aliyundrive.com/s/EsZKg3y1JmV"},
 {name:"名称：为有暗香来 4KHQ60FPS 更新11集",url:"https://www.aliyundrive.com/s/t44t27Pz3K7"},
