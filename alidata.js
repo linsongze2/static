@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：圣血 1989 4K Remux 内封中字",url:"https://www.aliyundrive.com/s/soXBtHEQNRq"},
+const aliData = [{name:"名称：黑洞频率(2000) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/fQ85tEj3tJf"},
+{name:"名称：圣血 1989 4K Remux 内封中字",url:"https://www.aliyundrive.com/s/soXBtHEQNRq"},
 {name:"名称：海啸奇迹 (2012) 1080P 国英双音轨，默认英语 中字内嵌字幕",url:"https://www.aliyundrive.com/s/cEWvTweuYEM"},
 {name:"名称：芙洛拉与儿子 (2023) 4K HDR 中字内嵌字幕",url:"https://www.aliyundrive.com/s/Ld3vN8tkryg"},
 {name:"名称：魔鬼的计谋 데블스 플랜 (更新至12 完结)",url:"https://www.aliyundrive.com/s/jpf2RGwJrcC"},
