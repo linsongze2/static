@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：行尸走肉：死城 S1(2023) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/HJyijm1Q3ao"},
+const aliData = [{name:"名称：【豆瓣TOP250】005 这个杀手不太冷[多版本特效字幕]",url:"https://www.aliyundrive.com/s/1zQjp8CyMJB"},
+{name:"名称：行尸走肉：死城 S1(2023) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/HJyijm1Q3ao"},
 {name:"名称：航拍中国 S4(2022) 4K UHD",url:"https://www.aliyundrive.com/s/xGgyKMCbq9c"},
 {name:"名称：魔女风采依旧 (2022) 1080P 中字硬字幕",url:"https://www.aliyundrive.com/s/3r2ZSoyv3av"},
 {name:"名称：十二猴子 (1995) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/wVf41ei8uPD"},
