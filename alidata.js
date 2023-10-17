@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【电影】001 肖申克的救赎[多版本4K极致修复画质]",url:"https://www.aliyundrive.com/s/8zcSRnXmoum"},
+const aliData = [{name:"名称：【电影】002 霸王别姬[多版本极致4K]",url:"https://www.aliyundrive.com/s/Dz9LTu3PuLb"},
+{name:"名称：【电影】001 肖申克的救赎[多版本4K极致修复画质]",url:"https://www.aliyundrive.com/s/8zcSRnXmoum"},
 {name:"名称：【美剧】海贼王 真人版[英日双音轨]",url:"https://www.aliyundrive.com/s/LNcZsFkmE9e"},
 {name:"名称：电影史话(全15集)",url:"https://www.aliyundrive.com/s/wioNSVYiAdX"},
 {name:"名称：踮起脚尖靠近你 (2023) 4K 24集完结",url:"https://www.aliyundrive.com/s/QxyWd7aHmMH"},
