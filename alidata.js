@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【贪心科技】京东数据分析训练营",url:"https://www.aliyundrive.com/s/j9p6B58q8jc"},
+const aliData = [{name:"名称：孤山诡事 4K_TV高码",url:"https://www.aliyundrive.com/s/F6WfL9dhKDr"},
+{name:"名称：【贪心科技】京东数据分析训练营",url:"https://www.aliyundrive.com/s/j9p6B58q8jc"},
 {name:"名称：诱拐之日/绑架之日 [更新至10集]",url:"https://www.aliyundrive.com/s/qxAsnzTZFkn"},
 {name:"名称：入侵 第二季 Invasion Season 2‎ (2023) 1080p 高码率 DDP5.1 内封多国语 更E09【科幻美剧】",url:"https://www.aliyundrive.com/s/WS3vB3J59xj"},
 {name:"名称：梅花红桃 4Khdr60fps 更新14集",url:"https://www.aliyundrive.com/s/F3UBFZswWBc"},
