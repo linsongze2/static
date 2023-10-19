@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：夺宝奇兵5：命运转盘 (2023) 4K HDR &amp; DV 中字外挂字幕",url:"https://www.aliyundrive.com/s/zp4g4cCwj5T"},
+const aliData = [{name:"名称：国民死刑投票 국민사형투표 (2023) [更新至09集]",url:"https://www.aliyundrive.com/s/X6Qx1fuVkGf"},
+{name:"名称：夺宝奇兵5：命运转盘 (2023) 4K HDR &amp; DV 中字外挂字幕",url:"https://www.aliyundrive.com/s/zp4g4cCwj5T"},
 {name:"名称：繁城之下 [2023] 4K杜比 更新09集",url:"https://www.aliyundrive.com/s/ZWmcYq4fzED"},
 {name:"名称：大唐小吃货2 (2023) 4K 更40",url:"https://www.aliyundrive.com/s/1eovWdexB7s"},
 {name:"名称：我的助理不简单(2023) S01E01-E13 4K",url:"https://www.aliyundrive.com/s/YcwT5CfMjhU"},
