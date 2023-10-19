@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：功夫3D / Kung Fu Hustle",url:"https://www.aliyundrive.com/s/8K22AS6kNMc"},
+const aliData = [{name:"名称：头号玩家 2K 蓝光 国英双语",url:"https://www.aliyundrive.com/s/a5nh2bhq7Fn"},
+{name:"名称：功夫3D / Kung Fu Hustle",url:"https://www.aliyundrive.com/s/8K22AS6kNMc"},
 {name:"名称：诱拐之日/绑架之日 [更新至11集]",url:"https://www.aliyundrive.com/s/qxAsnzTZFkn"},
 {name:"名称：恶中之恶 (2023) DSNP 1080p 高码率 DDP5.1 内封多国语 更EP09 【最新犯罪韩剧】【刮削】",url:"https://www.aliyundrive.com/s/NkiNb5jrdht"},
 {name:"名称：行尸走肉：达里尔·迪克森 (2023) 2160p 高码 DDP5.1 外挂sup双语 【6集完结】 【刮削】",url:"https://www.aliyundrive.com/s/hUELqRPBgXS"},
