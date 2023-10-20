@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：猎魔人 The Witcher S01 ~ S03季 + 血源",url:"https://www.aliyundrive.com/s/hrYfrArTkGa"},
+const aliData = [{name:"名称：发现你的积极优势 | 电子书籍",url:"https://www.aliyundrive.com/s/eW6VcEfepEi"},
+{name:"名称：猎魔人 The Witcher S01 ~ S03季 + 血源",url:"https://www.aliyundrive.com/s/hrYfrArTkGa"},
 {name:"名称：V世代 (2023) 4K HDR 更新至6 中字内嵌字幕",url:"https://www.aliyundrive.com/s/Y9KrbHrGDFR"},
 {name:"名称：披荆斩棘的哥哥3 (2023) 更1020",url:"https://www.aliyundrive.com/s/ctUPXJS4jgm"},
 {name:"名称：扎职2：江湖陌路 (2023) 4K 高码 国粤双杜比5.1音轨 附第一部 1080p 蓝光高码 【刮削】",url:"https://www.aliyundrive.com/s/c8ViPKgjKWi"},
