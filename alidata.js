@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：梅花红桃 4KHDR60FPS 更新17集",url:"https://www.aliyundrive.com/s/i5gCi9Gbt7b"},
+const aliData = [{name:"名称：老友记 01 ~ 10季 + 老友记重聚特辑",url:"https://www.aliyundrive.com/s/34VPD6edEXn"},
+{name:"名称：梅花红桃 4KHDR60FPS 更新17集",url:"https://www.aliyundrive.com/s/i5gCi9Gbt7b"},
 {name:"名称：植物猎人的世界收藏 - 英国皇家植物园珍藏画作背后的发现之旅 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/mYdHTo7LR5D"},
 {name:"名称：危急迫降 (2023) 4K SDR 中英外挂字幕",url:"https://www.aliyundrive.com/s/XigTnAsbfk5"},
 {name:"名称：美丽星球 (2016) 4K REMUX (蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/g1vgchZT9eE"},
