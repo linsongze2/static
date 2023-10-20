@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我的女神室友斗娜（2023）/官方中字",url:"https://www.aliyundrive.com/s/idk9aGyCa3k"},
+const aliData = [{name:"名称：木偶惊魂 (2023) 4K 中字硬字幕",url:"https://www.aliyundrive.com/s/2sTxRVhwFsL"},
+{name:"名称：我的女神室友斗娜（2023）/官方中字",url:"https://www.aliyundrive.com/s/idk9aGyCa3k"},
 {name:"名称：天堂生存战(2023) S01 1080P 内封简繁",url:"https://www.aliyundrive.com/s/uiCG3RdtyTt"},
 {name:"名称：名校风暴(2018) 7季全 1080p 内封简繁",url:"https://www.aliyundrive.com/s/s33Q6roR5Lr"},
 {name:"名称：电锯惊魂10 saw X (2023) 2160p / 1080p 高码率 外挂双语【附1～9系列合集】",url:"https://www.aliyundrive.com/s/2wfByRouPVC"},
