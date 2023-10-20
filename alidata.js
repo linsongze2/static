@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：死神漫画全74卷.简体繁体日语三版本",url:"https://www.aliyundrive.com/s/8SRZHaKA7dU"},
+const aliData = [{name:"名称：【炼数成金】Python数据处理实战：基于真实场景的数据",url:"https://www.aliyundrive.com/s/2upN6YG5hCb"},
+{name:"名称：死神漫画全74卷.简体繁体日语三版本",url:"https://www.aliyundrive.com/s/8SRZHaKA7dU"},
 {name:"名称：【大讲台】基于大数据体系构建数据仓库",url:"https://www.aliyundrive.com/s/ar2A7AMtwy3"},
 {name:"名称：木偶惊魂 (2023) 4K 中字硬字幕",url:"https://www.aliyundrive.com/s/2sTxRVhwFsL"},
 {name:"名称：我的女神室友斗娜（2023）/官方中字",url:"https://www.aliyundrive.com/s/idk9aGyCa3k"},
