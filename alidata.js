@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：沉默的羔羊 (1991) 2160p HDR BluRay DTS 外挂双语【豆瓣Top250】【刮削】",url:"https://www.aliyundrive.com/s/8kwQkgCdAfg"},
+const aliData = [{name:"名称：仿生人间 4KHDR60FPS（12集完结）",url:"https://www.aliyundrive.com/s/iKXmSaiV2Uo"},
+{name:"名称：鸽子隧道 (2023) 2160p HDR&amp;DV 内封多国语 【纪录片】【刮削】",url:"https://www.aliyundrive.com/s/1oCi7x4aqD4"},
+{name:"名称：为有暗香来 4K高码率 [更新至17集]",url:"https://www.aliyundrive.com/s/B617VgKCSST"},
+{name:"名称：沉默的羔羊 (1991) 2160p HDR BluRay DTS 外挂双语【豆瓣Top250】【刮削】",url:"https://www.aliyundrive.com/s/8kwQkgCdAfg"},
 {name:"名称：扎职2 紮職2 (2023) 4K 60帧",url:"https://www.aliyundrive.com/s/EY6MavZkwer"},
 {name:"名称：田耕纪 [2023] 4KHDR60FPS 更新14集",url:"https://www.aliyundrive.com/s/eQUxaUomPHz"},
 {name:"名称：安德的游戏 (2013) 2160p BluRay DTS &amp; TrueHD7.1 外挂双语【刮削】",url:"https://www.aliyundrive.com/s/GjonA3E5Qrb"},
