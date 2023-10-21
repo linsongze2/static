@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：我的女神室友斗娜 / Doona! (2023) S01 1080 NF DDP5.1 内封多国语 【刮削】",url:"https://www.aliyundrive.com/s/MhA9wqSQyeC"},
+const aliData = [{name:"名称：别对我撒谎(2009) 三季全 1080p 内封简英",url:"https://www.aliyundrive.com/s/j1pyh3k91As"},
+{name:"名称：德里罪案 两季全 已刮削",url:"https://www.aliyundrive.com/s/eLTL3CTX64x"},
+{name:"名称：哲学的惊奇：从发问开始的哲学史 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/PDqCATdXUwQ"},
+{name:"名称：我的女神室友斗娜 / Doona! (2023) S01 1080 NF DDP5.1 内封多国语 【刮削】",url:"https://www.aliyundrive.com/s/MhA9wqSQyeC"},
 {name:"名称：斗罗大陆2：绝世唐门 (2023) 4K 更19",url:"https://www.aliyundrive.com/s/JQskSocSnob"},
 {name:"名称：王牌对王牌 第八季 (2023) 首更1",url:"https://www.aliyundrive.com/s/RrHeJH5PTEu"},
 {name:"名称：《文案爆炸：轻松写出打动人心的销售文案》",url:"https://www.aliyundrive.com/s/yrtPHe4RFBV"},
