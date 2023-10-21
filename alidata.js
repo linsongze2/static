@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：扎职2 (2023) 2160p 高码率 国语双音轨【附第一部】",url:"https://www.aliyundrive.com/s/M1RymZTmWrh"},
+const aliData = [{name:"名称：《文案爆炸：轻松写出打动人心的销售文案》",url:"https://www.aliyundrive.com/s/yrtPHe4RFBV"},
+{name:"名称：扎职2 (2023) 2160p 高码率 国语双音轨【附第一部】",url:"https://www.aliyundrive.com/s/M1RymZTmWrh"},
 {name:"名称：【郁金香】商业游戏辅助技术培训课程",url:"https://www.aliyundrive.com/s/Nk8GgjnbSmz"},
 {name:"名称：逃学威龙",url:"https://www.aliyundrive.com/s/SMW94QYoHkS"},
 {name:"名称：谭其骧中国历史地图集-全图片格式-2K分辨率",url:"https://www.aliyundrive.com/s/fmQ7MyaGwx3"},
