@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：仿生人间 4KHDR60FPS（12集完结）",url:"https://www.aliyundrive.com/s/iKXmSaiV2Uo"},
+const aliData = [{name:"名称：我的助理不简单(2023) S01E01-E15 4K",url:"https://www.aliyundrive.com/s/YcwT5CfMjhU"},
+{name:"名称：魔女2 (2022) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/eKTctfL6pCW"},
+{name:"名称：猫和老鼠：飙风天王 (2005) 720P 中字外挂字幕",url:"https://www.aliyundrive.com/s/ZFWcQDu1Vk9"},
+{name:"名称：仿生人间 4KHDR60FPS（12集完结）",url:"https://www.aliyundrive.com/s/iKXmSaiV2Uo"},
 {name:"名称：鸽子隧道 (2023) 2160p HDR&amp;DV 内封多国语 【纪录片】【刮削】",url:"https://www.aliyundrive.com/s/1oCi7x4aqD4"},
 {name:"名称：为有暗香来 4K高码率 [更新至17集]",url:"https://www.aliyundrive.com/s/B617VgKCSST"},
 {name:"名称：沉默的羔羊 (1991) 2160p HDR BluRay DTS 外挂双语【豆瓣Top250】【刮削】",url:"https://www.aliyundrive.com/s/8kwQkgCdAfg"},
