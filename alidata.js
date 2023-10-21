@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：问心 (2023) 1080/4K 更33 赵又廷/毛晓彤",url:"https://www.aliyundrive.com/s/EvgBNrYdkzj"},
+const aliData = [{name:"名称：名侦探柯南 名探偵コナン 更1159",url:"https://www.aliyundrive.com/s/Tg8b28cQSjs"},
+{name:"名称：问心 (2023) 1080/4K 更33 赵又廷/毛晓彤",url:"https://www.aliyundrive.com/s/EvgBNrYdkzj"},
 {name:"名称：我的助理不简单(2023) S01E01-E15 4K",url:"https://www.aliyundrive.com/s/YcwT5CfMjhU"},
 {name:"名称：魔女2 (2022) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/eKTctfL6pCW"},
 {name:"名称：猫和老鼠：飙风天王 (2005) 720P 中字外挂字幕",url:"https://www.aliyundrive.com/s/ZFWcQDu1Vk9"},
