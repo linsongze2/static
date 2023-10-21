@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：经济学思维50讲 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/Nqb9ojTAsm3"},
+const aliData = [{name:"名称：21招，让孩子独立 | 电子书籍",url:"https://www.aliyundrive.com/s/vB3qtZxEoET"},
+{name:"名称：经济学思维50讲 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/Nqb9ojTAsm3"},
 {name:"名称：爱因斯坦百科 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/Z43sHLxSBnS"},
 {name:"名称：潜水 The Dive&nbsp;(2023) 1080p BluRay 内封简繁英【惊悚片】",url:"https://www.aliyundrive.com/s/usWPmH9Gmhs"},
 {name:"名称：别对我撒谎(2009) 三季全 1080p 内封简英",url:"https://www.aliyundrive.com/s/j1pyh3k91As"},
