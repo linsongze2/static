@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：逃离黑水 Kaala Paani (2023) 1080p NF 高码率 内封简繁英【印度惊悚剧】",url:"https://www.aliyundrive.com/s/cia4d8ocbuM"},
+const aliData = [{name:"名称：大力女子姜南顺 힘쎈여자 강남순 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/4qskndakiYh"},
+{name:"名称：逃离黑水 Kaala Paani (2023) 1080p NF 高码率 内封简繁英【印度惊悚剧】",url:"https://www.aliyundrive.com/s/cia4d8ocbuM"},
 {name:"名称：七人的逃脱 7인의 탈출 (2023) 1080p 中文字幕 更E10【悬疑韩剧】",url:"https://www.aliyundrive.com/s/3gTfhZSwAAg"},
 {name:"名称：GTA5+简中补丁",url:"https://www.aliyundrive.com/s/JSmiYHc8bWH"},
 {name:"名称：名侦探柯南漫画（简体+繁体+日语）",url:"https://www.aliyundrive.com/s/HGuFQvMEmsh"},
