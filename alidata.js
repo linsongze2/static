@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：十月的天空 (1999) 1080P 外挂中字",url:"https://www.aliyundrive.com/s/uUDb6TxSPwM"},
+const aliData = [{name:"名称：名侦探柯南漫画（简体+繁体+日语）",url:"https://www.aliyundrive.com/s/HGuFQvMEmsh"},
+{name:"名称：十月的天空 (1999) 1080P 外挂中字",url:"https://www.aliyundrive.com/s/uUDb6TxSPwM"},
 {name:"名称：千年女优 (2001) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/PDsb3hhBZ3v"},
 {name:"名称：千钧一发 (1997) 1080P",url:"https://www.aliyundrive.com/s/aaYh8pVoREn"},
 {name:"名称：时光音乐会(2021) 更新S03E07(第三季第7期)",url:"https://www.aliyundrive.com/s/ug8WaEgHMUh"},
