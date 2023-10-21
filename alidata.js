@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：异人之下 真人版 一人之下 (2023) 1080/4K HDR 27集 完结",url:"https://www.aliyundrive.com/s/sZJJgzY4Eoa"},
+const aliData = [{name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
+{name:"名称：音乐制作软件/网红声卡机架 Studio one6.5.0",url:"https://www.aliyundrive.com/s/N25U4NaFmdv"},
+{name:"名称：今天也很可爱的狗 (2023) 1080p 内封简繁 更E03【近期热播韩剧】",url:"https://www.aliyundrive.com/s/ENFgtUhDFMy"},
+{name:"名称：异人之下 真人版 一人之下 (2023) 1080/4K HDR 27集 完结",url:"https://www.aliyundrive.com/s/sZJJgzY4Eoa"},
 {name:"名称：长安未知局之大唐遗宝(4K臻彩24集完结)",url:"https://www.aliyundrive.com/s/ziDWug7sczy"},
 {name:"名称：魔女 (2018) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/rjrFnz1s8ao"},
 {name:"名称：宇宙时空之旅 S1(2014) 1080P REMUX (蓝光 原盘) 中字外挂/内嵌字幕",url:"https://www.aliyundrive.com/s/NdrBDsjCaT4"},
