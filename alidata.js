@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：全金属外壳 (1987) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/eawLbFRKwc6"},
+const aliData = [{name:"名称：【开课吧】算法训练营17期",url:"https://www.aliyundrive.com/s/35s1Cvc5Cor"},
+{name:"名称：全金属外壳 (1987) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/eawLbFRKwc6"},
 {name:"名称：兰戈 (2011) 1080P REMUX 内封中字",url:"https://www.aliyundrive.com/s/NPe5RHSRH2Y"},
 {name:"名称：【极客时间-go】Go进阶训练营 - 4期",url:"https://www.aliyundrive.com/s/3USBrfP1hCa"},
 {name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
