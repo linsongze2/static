@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：怒呛人生 Beff (2023) 2160p NF 高码 内封多国语【高分美剧】",url:"https://www.aliyundrive.com/s/hR1wsytxKkQ"},
+const aliData = [{name:"名称：名侦探柯南/名探偵コナン 更至1101集即1159",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
+{name:"名称：药屋少女的呢喃（2023）十月新番/官方中字",url:"https://www.aliyundrive.com/s/R6UqV3HdUsp"},
+{name:"名称：怒呛人生 Beff (2023) 2160p NF 高码 内封多国语【高分美剧】",url:"https://www.aliyundrive.com/s/hR1wsytxKkQ"},
 {name:"名称：堤亚穆帝国物语～从断头台开始，公主重生后的逆转人生～(2023)",url:"https://www.aliyundrive.com/s/1Hr8Znc5hiw"},
 {name:"名称：大力女子姜南顺 힘쎈여자 강남순 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/4qskndakiYh"},
 {name:"名称：逃离黑水 Kaala Paani (2023) 1080p NF 高码率 内封简繁英【印度惊悚剧】",url:"https://www.aliyundrive.com/s/cia4d8ocbuM"},
