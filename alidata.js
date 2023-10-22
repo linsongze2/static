@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：阿拉姆恩之剑：阿斯达年代记 아라문의 검: 아스달 연대기 (2023)[全12集]",url:"https://www.aliyundrive.com/s/aCqGTynCCEQ"},
+const aliData = [{name:"名称：周星驰全集",url:"https://www.aliyundrive.com/s/qkWmj7FgxHo"},
+{name:"名称：恶人传记 악인전기 (2023)[更新至03集]",url:"https://www.aliyundrive.com/s/axuHu5tdcL1"},
+{name:"名称：阿拉姆恩之剑：阿斯达年代记 아라문의 검: 아스달 연대기 (2023)[全12集]",url:"https://www.aliyundrive.com/s/aCqGTynCCEQ"},
 {name:"名称：楚门的世界(1998) 4K原盘 国英音轨 特效字幕",url:"https://www.aliyundrive.com/s/1S7XTbUAmgB"},
 {name:"名称：平原上的摩西 4K原盘REMUX [SDR] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/QMukmYCbJLY"},
 {name:"名称：真探 True Detective S01-S03 1080p REMUX 原盘 外挂双语【高分经典美剧】 【刮削】",url:"https://www.aliyundrive.com/s/Xn24WoQM6Kk"},
