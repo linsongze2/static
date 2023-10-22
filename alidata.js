@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：深林诡事 4KHDR60FPS",url:"https://www.aliyundrive.com/s/mh94ZpjBf1N"},
+const aliData = [{name:"名称：另一个佐伊 The Other Zoey (2023) AMZN 2160p HDR 内封多国语 【刮削】",url:"https://www.aliyundrive.com/s/HCvdAJo6W8w"},
+{name:"名称：深林诡事 4KHDR60FPS",url:"https://www.aliyundrive.com/s/mh94ZpjBf1N"},
 {name:"名称：铃芽之旅 1080p remux ",url:"https://www.aliyundrive.com/s/QFbiKnimhNQ"},
 {name:"名称：财富之眼：用经济思维看清世界 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/AfLwfeUhfo7"},
 {name:"名称：沈从文讲文物 2022-11出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/N1rj5vF4ATZ"},
