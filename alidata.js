@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：头号玩家 (2018) 4K HDR 中英外挂字幕",url:"https://www.aliyundrive.com/s/AcWzjfNaSg1"},
+const aliData = [{name:"名称：女儿大人加个赖 [更新至59集]",url:"https://www.aliyundrive.com/s/SB2ammnfrXU"},
+{name:"名称：头号玩家 (2018) 4K HDR 中英外挂字幕",url:"https://www.aliyundrive.com/s/AcWzjfNaSg1"},
 {name:"名称：齐木楠雄的灾难（1.2季+始动篇+完结篇）",url:"https://www.aliyundrive.com/s/SjGdGUDDoM8"},
 {name:"名称：古城小女人/往事云烟",url:"https://www.aliyundrive.com/s/pxn3wqQH21Y"},
 {name:"名称：零基础学习AI(2021-2022)软件",url:"https://www.aliyundrive.com/s/p56pB6ifFv8"},
