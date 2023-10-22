@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：财富之眼：用经济思维看清世界 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/AfLwfeUhfo7"},
+const aliData = [{name:"名称：铃芽之旅 1080p remux ",url:"https://www.aliyundrive.com/s/QFbiKnimhNQ"},
+{name:"名称：财富之眼：用经济思维看清世界 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/AfLwfeUhfo7"},
 {name:"名称：沈从文讲文物 2022-11出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/N1rj5vF4ATZ"},
 {name:"名称：意外人生 / 繁华将至 (2023) 2160p 高码 DDP5.1 国产悬疑片【和谐补档】",url:"https://www.aliyundrive.com/s/qUEzHJqYDsE"},
 {name:"名称：思维模型 | 电子书籍",url:"https://www.aliyundrive.com/s/23CxzcjPjhk"},
