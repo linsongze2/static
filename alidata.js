@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：田耕纪(2023) S01E01-E16 4K",url:"https://www.aliyundrive.com/s/FicSKuqjWQj"},
+const aliData = [{name:"名称：死神 (2004) 1080P 台粤英日四音轨，默认日语 中字内嵌字幕",url:"https://www.aliyundrive.com/s/8Xr7jo2GygV"},
+{name:"名称：田耕纪(2023) S01E01-E16 4K",url:"https://www.aliyundrive.com/s/FicSKuqjWQj"},
 {name:"名称：D.P：逃兵追缉令 两季全",url:"https://www.aliyundrive.com/s/VceASpLWKxi"},
 {name:"名称：粉笔五千题 2023最新",url:"https://www.aliyundrive.com/s/uKC2y7Cq1PR"},
 {name:"名称：进击的巨人漫画资源（阿里首发）+番剧资源整合",url:"https://www.aliyundrive.com/s/UdMN34eV2pM"},
