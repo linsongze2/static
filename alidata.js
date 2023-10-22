@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：夺命感应(1998) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/fXPwGHBnKVQ"},
+const aliData = [{name:"名称：思维模型 | 电子书籍",url:"https://www.aliyundrive.com/s/23CxzcjPjhk"},
+{name:"名称：夺命感应(1998) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/fXPwGHBnKVQ"},
 {name:"名称：光灵(2017) 4K NF版 外挂中字",url:"https://www.aliyundrive.com/s/uW9zF8AAu2k"},
 {name:"名称：菠萝快车(2008) 4K PROPER REMUX 外挂中字",url:"https://www.aliyundrive.com/s/5VR1n5XApub"},
 {name:"名称：奥兰多(1992) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/6Z4nAW8kTxn"},
