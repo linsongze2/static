@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：审判恶魔 (2023) 1080p NF高码 内封多国语 【刮削】",url:"https://www.aliyundrive.com/s/6kA7Z4XEbEH"},
+const aliData = [{name:"名称：【尚学堂】前端练手项目实训",url:"https://www.aliyundrive.com/s/NuHu1hdkKd8"},
+{name:"名称：审判恶魔 (2023) 1080p NF高码 内封多国语 【刮削】",url:"https://www.aliyundrive.com/s/6kA7Z4XEbEH"},
 {name:"名称：死亡回放 Flashback (2023) 1080p NF 多国语 恐怖 / 短片",url:"https://www.aliyundrive.com/s/LvJRLXdySgp"},
 {name:"名称：龙珠 Z (1989) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/cgKNQEejqGf"},
 {name:"名称：七人的逃脱 / 7人的逃脱 (2023) 1080p 高码率 内封简繁英 更EP10 【热播悬疑韩剧】【刮削】",url:"https://www.aliyundrive.com/s/BMSJd5Jgs4d"},
