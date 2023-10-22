@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：追龙II (2019) 原盘REMUX [内封简繁中字]",url:"https://www.aliyundrive.com/s/rvHbyavhsyJ"},
+const aliData = [{name:"名称：奥兰多(1992) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/6Z4nAW8kTxn"},
+{name:"名称：重生男人(2010) 4K 硬字幕",url:"https://www.aliyundrive.com/s/MFDEsCQoiGo"},
+{name:"名称：浪人(1998) 4K HDR REMUX 外挂中字",url:"https://www.aliyundrive.com/s/tWSCGksweBd"},
+{name:"名称：追龙II (2019) 原盘REMUX [内封简繁中字]",url:"https://www.aliyundrive.com/s/rvHbyavhsyJ"},
 {name:"名称：我的女神室友斗娜 (2023) S01 1080p NF 内封多国语",url:"https://www.aliyundrive.com/s/BuKk631PDoA"},
 {name:"名称：大剑(2007) 1080P 外挂中字",url:"https://www.aliyundrive.com/s/4aovQ344bQG"},
 {name:"名称：斗破苍穹年番 4K 更67",url:"https://www.aliyundrive.com/s/PDToNdsNTc2"},
