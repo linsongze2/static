@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：组织绩效解码：激发价值创造的绩效体系设计 2022-03出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/nVzzHeBTUi4"},
+const aliData = [{name:"名称：思维的精进：聪明人如何避开智力陷阱 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/2nEpVGyDBmf"},
+{name:"名称：组织绩效解码：激发价值创造的绩效体系设计 2022-03出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/nVzzHeBTUi4"},
 {name:"名称：《蝴蝶》强烈推荐! 经典高分 温情儿童喜剧电影 (2002) 1080P中字BD",url:"https://www.aliyundrive.com/s/Mv1kvVo7fGY"},
 {name:"名称：犯罪现场：德州杀场 (2022) 1080p 内封多国语【纪录片】",url:"https://www.aliyundrive.com/s/AGKCmkTvgVu"},
 {name:"名称：牯岭街少年杀人事件 8.9分豆瓣高分电影",url:"https://www.aliyundrive.com/s/rwr4FCj3923"},
