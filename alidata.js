@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：[4K60 帧补帧]-星际穿越-IMAX-Interstellar",url:"https://www.aliyundrive.com/s/kuQF6gQMp7C"},
+const aliData = [{name:"名称：蓝色巨人 BLUE GIANT (2023)/官方中字",url:"https://www.aliyundrive.com/s/73rdvHBw6CC"},
+{name:"名称：[4K60 帧补帧]-星际穿越-IMAX-Interstellar",url:"https://www.aliyundrive.com/s/kuQF6gQMp7C"},
 {name:"名称：窥探1080P蓝光",url:"https://www.aliyundrive.com/s/A8WELwVNbDR"},
 {name:"名称：天涯论坛211篇全",url:"https://www.aliyundrive.com/s/fexVWkAuXwf"},
 {name:"名称：具景伊(2021) 1080P NF 内封中字",url:"https://www.aliyundrive.com/s/sw5e7mg5FeQ"},
