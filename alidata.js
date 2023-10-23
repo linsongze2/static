@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：扫毒3：人在天涯 4K原盘REMUX [杜比视界] [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/W8aH319ceuN"},
+const aliData = [{name:"名称：恶人传记 악인전기 (2023)[更新至04集]",url:"https://www.aliyundrive.com/s/axuHu5tdcL1"},
+{name:"名称：真人快打传奇：牢笼对决 (2023) 2160p HDR BluRay 内封双语",url:"https://www.aliyundrive.com/s/jcww2FsttWA"},
+{name:"名称：扫毒3：人在天涯 4K原盘REMUX [杜比视界] [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/W8aH319ceuN"},
 {name:"名称：闪烁的西瓜 반짝이는 워터멜론 (2023)[更新至09集]",url:"https://www.aliyundrive.com/s/N3FLz8azoEM"},
 {name:"名称：地球脉动 S2(2016) 4K REMUX(蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/GVpVPASvNi1"},
 {name:"名称：猫和老鼠(1940) 193集 国英粤日音轨，找不到合适的TMDB条目就没整理了，所以不要直接扫库",url:"https://www.aliyundrive.com/s/7duYESxiNVy"},
