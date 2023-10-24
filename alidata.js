@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：异形：普罗米修斯(蘭丶曦)",url:"https://www.aliyundrive.com/s/PhJiQrYiYoD"},
+const aliData = [{name:"名称：权力的游戏（Game of Thrones）【Emby】FRDS",url:"https://www.aliyundrive.com/s/mZtnjUeQqRJ"},
+{name:"名称：异形：普罗米修斯(蘭丶曦)",url:"https://www.aliyundrive.com/s/PhJiQrYiYoD"},
 {name:"名称：一念花开 (2023)4K60FPS 更新06集",url:"https://www.aliyundrive.com/s/WTemCRYBkfq"},
 {name:"名称：驱魔人：信徒 (2023) 2160p HDR&amp;DV 暂为机翻双语【恐怖新片】【刮削】",url:"https://www.aliyundrive.com/s/w3twNgxcpfs"},
 {name:"名称：我的助理不简单(2023) S01E01-E21 4K",url:"https://www.aliyundrive.com/s/oLU3yjWZzSA"},
