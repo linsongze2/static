@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：点燃孩子的学习动力：关于儿童学习兴趣的真相 | 电子书籍",url:"https://www.aliyundrive.com/s/cvRZEjNUEth"},
+const aliData = [{name:"名称：【黑马程序员】年度钻石会员-人工智能AI进阶",url:"https://www.aliyundrive.com/s/LZzk8FzzzmU"},
+{name:"名称：吞噬星空 更90",url:"https://www.aliyundrive.com/s/JmwsrNvGCiX"},
+{name:"名称：点燃孩子的学习动力：关于儿童学习兴趣的真相 | 电子书籍",url:"https://www.aliyundrive.com/s/cvRZEjNUEth"},
 {name:"名称：炼气十万年 (2023) 更75",url:"https://www.aliyundrive.com/s/ymsEgT2dHoU"},
 {name:"名称：王冠 The Crown S01-S05 1080p REMUX + 4K HDR 外挂 / 内封双语 【高分欧美剧】【刮削】",url:"https://www.aliyundrive.com/s/EedRB8fb6T6"},
 {name:"名称：Python基础入门实战班(Python基础+高级)",url:"https://www.aliyundrive.com/s/AGTELwCRkuB"},
