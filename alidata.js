@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：龙珠改 (2009) 1080P 国粤日英多音轨 默认日语 中字内嵌字幕",url:"https://www.aliyundrive.com/s/knTuvYmwFmx"},
+const aliData = [{name:"名称：【银河餐饮】比尔盖南：175套餐饮配方",url:"https://www.aliyundrive.com/s/37ZePm2aPUF"},
+{name:"名称：龙珠改 (2009) 1080P 国粤日英多音轨 默认日语 中字内嵌字幕",url:"https://www.aliyundrive.com/s/knTuvYmwFmx"},
 {name:"名称：疾速追杀2 (2017) 2160p BluRay REMUX 原盘 外挂双语",url:"https://www.aliyundrive.com/s/MTPTL4JqtVP"},
 {name:"名称：地海传说 ゲド戦記 (2006) BluRay.1080P.H265.10bit.国粤日三语.中日特效字幕",url:"https://www.aliyundrive.com/s/ZV7EVMKPbzC"},
 {name:"名称：【黑马程序员】年度钻石会员-人工智能AI进阶",url:"https://www.aliyundrive.com/s/LZzk8FzzzmU"},
