@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：回应我 (2022) 4K HDR &amp; Dv 中字外挂字幕",url:"https://www.aliyundrive.com/s/EX2D14fNbt6"},
+const aliData = [{name:"名称：大数据开发高薪训练营 14期",url:"https://www.aliyundrive.com/s/URxPSBrTSuB"},
+{name:"名称：回应我 (2022) 4K HDR &amp; Dv 中字外挂字幕",url:"https://www.aliyundrive.com/s/EX2D14fNbt6"},
 {name:"名称：山诡事(2023) 4K高码",url:"https://www.aliyundrive.com/s/VcDwp15VHVc"},
 {name:"名称：龙珠超 (2015) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/tu1SKGyfuvv"},
 {name:"名称：伸冤人 (系列 1-3 部) 4K HDR 内封特效双语版本【刮削】",url:"https://www.aliyundrive.com/s/4iauVqrS3rG"},
