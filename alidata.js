@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：赌博默示录 (2009) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/ryRZaVQ92a9"},
+const aliData = [{name:"名称：大数据直播课-狂野大数据",url:"https://www.aliyundrive.com/s/8KYTxyHbEsw"},
+{name:"名称：赌博默示录 (2009) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/ryRZaVQ92a9"},
 {name:"名称：繁城之下 (2023) 全12集 4K [纯净无片头广告][杜比视界版本]",url:"https://www.aliyundrive.com/s/RzN8urdrRxt"},
 {name:"名称：Go Golang DevOps运维开发实战集训营",url:"https://www.aliyundrive.com/s/ePZuX9GdGZw"},
 {name:"名称：铃芽之旅",url:"https://www.aliyundrive.com/s/q5Un1oKpi61"},
