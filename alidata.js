@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：纽约黑帮(2002)蓝光圆盘",url:"https://www.aliyundrive.com/s/PuKkEY73rPA"},
+const aliData = [{name:"名称：梅花红桃 4KHDR60FPS 更新24集",url:"https://www.aliyundrive.com/s/eFPdTCUWVKh"},
+{name:"名称：【达内教育】Python + 人工智能培训营 - AIDTN2110",url:"https://www.aliyundrive.com/s/VdWcMPGFTwL"},
+{name:"名称：超脑48小时(2016) 4K原盘 国英音轨 特效字幕",url:"https://www.aliyundrive.com/s/BjFD1mjW632"},
+{name:"名称：纽约黑帮(2002)蓝光圆盘",url:"https://www.aliyundrive.com/s/PuKkEY73rPA"},
 {name:"名称：姜振宇主讲MBTI性格分析课程 | 视频课程",url:"https://www.aliyundrive.com/s/hDc6ZXk5eXd"},
 {name:"名称：秘窗(2004) 1080P 内封中字",url:"https://www.aliyundrive.com/s/Wg3rjEDmzFK"},
 {name:"名称：最终幻想7：圣子降临(2005)4K REMUX 内封中字",url:"https://www.aliyundrive.com/s/mmoJGpEBc6A"},
