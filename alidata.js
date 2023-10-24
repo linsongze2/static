@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：202305软考中级软件设计师课程",url:"https://www.aliyundrive.com/s/EvbPuPdGfpp"},
+const aliData = [{name:"名称：张怡筠 - 小学生24堂心理成长塑造必修课 | 视频课程",url:"https://www.aliyundrive.com/s/Eitddj2RNXL"},
+{name:"名称：202305软考中级软件设计师课程",url:"https://www.aliyundrive.com/s/EvbPuPdGfpp"},
 {name:"名称：地球脉动 第三季 4K HLG 高码率 内封简英&amp;繁英特效双语 更EP01 【BBC纪录片】【附一二季】【刮削】",url:"https://www.aliyundrive.com/s/MkPUUFBPvHa"},
 {name:"名称：疾速追杀3 (2019) 2160p BluRay REMUX 原盘 外挂双语",url:"https://www.aliyundrive.com/s/7uC4zhc1f9M"},
 {name:"名称：公平竞争 (2023) 1080P 中字内嵌字幕",url:"https://www.aliyundrive.com/s/yWYBKCPUkAh"},
