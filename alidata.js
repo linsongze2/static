@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：龙珠Z（1989） [国日英 三语内封 蓝光收藏版] 和三语 GT版",url:"https://www.aliyundrive.com/s/jhm6jT2JaKY"},
+const aliData = [{name:"名称：拾荒者统治(2023) 1080P 硬字幕 更新至3集",url:"https://www.aliyundrive.com/s/GsvS71Yitug"},
+{name:"名称：龙珠Z（1989） [国日英 三语内封 蓝光收藏版] 和三语 GT版",url:"https://www.aliyundrive.com/s/jhm6jT2JaKY"},
 {name:"名称：穴界风云(2023) 1080P 硬字幕 更新至第8集",url:"https://www.aliyundrive.com/s/96TMNN1YGXD"},
 {name:"名称：【妙思维JS++】JS++不一样的前端开发学习之路",url:"https://www.aliyundrive.com/s/1X3uwUiEfBB"},
 {name:"名称：骆驼祥子【1080P】【国语·内嵌简中】【张丰毅/斯琴高娃】",url:"https://www.aliyundrive.com/s/gur1S21ekPt"},
