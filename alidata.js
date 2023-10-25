@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：杨天真 - 32个高情商公式建立自己的优势 | 视频课程",url:"https://www.aliyundrive.com/s/z8B68rWPMTd"},
+const aliData = [{name:"名称：爱情神话",url:"https://www.aliyundrive.com/s/vScPJAXfzG7"},
+{name:"名称：杨天真 - 32个高情商公式建立自己的优势 | 视频课程",url:"https://www.aliyundrive.com/s/z8B68rWPMTd"},
 {name:"名称：精心整理的HR资料【人力资源】",url:"https://www.aliyundrive.com/s/cDJHDakGBkK"},
 {name:"名称：金融经济学公开课程资料",url:"https://www.aliyundrive.com/s/dPEKgb7NcUD"},
 {name:"名称：楚门的世界",url:"https://www.aliyundrive.com/s/wU6vk7w1kDY"},
