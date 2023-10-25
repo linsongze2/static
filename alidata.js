@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：巨齿鲨2：深渊 (2023) 4K REMUX 原盘 杜比视界 外挂双语 附1【刮削】【上传不易，和谐不补】",url:"https://www.aliyundrive.com/s/W6NJNkzNBEY"},
+const aliData = [{name:"名称：覃超的算法训练营",url:"https://www.aliyundrive.com/s/WiivEga9dNA"},
+{name:"名称：巨齿鲨2：深渊 (2023) 4K REMUX 原盘 杜比视界 外挂双语 附1【刮削】【上传不易，和谐不补】",url:"https://www.aliyundrive.com/s/W6NJNkzNBEY"},
 {name:"名称：情绪罗盘：探测你的喜怒哀乐 | 视频课程",url:"https://www.aliyundrive.com/s/mUti2P112oo"},
 {name:"名称：秃鹰 2季全 4K &amp; 1080P 中字外挂/内嵌字幕",url:"https://www.aliyundrive.com/s/DaRSHV4gwsC"},
 {name:"名称：高并发，高性能，高可用的MySQL实战",url:"https://www.aliyundrive.com/s/yo7kBVeLDPh"},
