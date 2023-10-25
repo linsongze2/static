@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：Python核心编程第8期",url:"https://www.aliyundrive.com/s/f9NVBXc6ZcL"},
+const aliData = [{name:"名称：诱拐之日/绑架之日 [全12集]",url:"https://www.aliyundrive.com/s/qxAsnzTZFkn"},
+{name:"名称：诱拐之日/绑架之日/유괴의 날 (2023) 12集完结",url:"https://www.aliyundrive.com/s/YW5g7Svit6P"},
+{name:"名称：Python核心编程第8期",url:"https://www.aliyundrive.com/s/f9NVBXc6ZcL"},
 {name:"名称：瞬息全宇宙 (2022)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/aePbcaXwDfC"},
 {name:"名称：爱乐之城 (2016)✨【2160p.HDR】【杜比视界.Profile7】【蓝光原盘】74G",url:"https://www.aliyundrive.com/s/NEZe1vFQ8sY"},
 {name:"名称：钢铁侠(系列) 三部4K REMUX 国英音轨 特效字幕",url:"https://www.aliyundrive.com/s/1Tz8hsNnoWm"},
