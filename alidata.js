@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：第一序列(2023) 4K 更新至第16集 B站水印 ASS为弹幕文件",url:"https://www.aliyundrive.com/s/eWtmdtmrWbf"},
+const aliData = [{name:"名称：我是传奇 (2007)✨【2160p.HDR】【杜比视界.Profile7】【蓝光原盘】65G",url:"https://www.aliyundrive.com/s/rnXAXBjhCFJ"},
+{name:"名称：第一序列(2023) 4K 更新至第16集 B站水印 ASS为弹幕文件",url:"https://www.aliyundrive.com/s/eWtmdtmrWbf"},
 {name:"名称：虎胆龙威2(1990) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/K7ugBSD9B6B"},
 {name:"名称：虎胆龙威3(1995) 1080P REMUX 内封中字",url:"https://www.aliyundrive.com/s/QW5Dt1Qwx4a"},
 {name:"名称：虎胆龙威4(2007) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/QSFk6G3Q1Vr"},
