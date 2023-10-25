@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：诱拐之日/绑架之日 [全12集]",url:"https://www.aliyundrive.com/s/qxAsnzTZFkn"},
+const aliData = [{name:"名称：【马士兵教育】AI人工智能工程师第2期",url:"https://www.aliyundrive.com/s/ZmgoXrn9QKq"},
+{name:"名称：诱拐之日/绑架之日 [全12集]",url:"https://www.aliyundrive.com/s/qxAsnzTZFkn"},
 {name:"名称：诱拐之日/绑架之日/유괴의 날 (2023) 12集完结",url:"https://www.aliyundrive.com/s/YW5g7Svit6P"},
 {name:"名称：Python核心编程第8期",url:"https://www.aliyundrive.com/s/f9NVBXc6ZcL"},
 {name:"名称：瞬息全宇宙 (2022)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/aePbcaXwDfC"},
