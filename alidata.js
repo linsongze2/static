@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：问心(2023) S01 4K",url:"https://www.aliyundrive.com/s/o4A1mgFWD5u"},
+const aliData = [{name:"名称：我的助理不简单(2023) S01E01-E23 4K",url:"https://www.aliyundrive.com/s/1Sj8zszwJAs"},
+{name:"名称：问心(2023) S01 4K",url:"https://www.aliyundrive.com/s/o4A1mgFWD5u"},
 {name:"名称：田耕纪(2023) S01E01-E22 4K",url:"https://www.aliyundrive.com/s/c31aHHRGoym"},
 {name:"名称：有药(2020) S02E09 4K",url:"https://www.aliyundrive.com/s/WhfTdL62boE"},
 {name:"名称：田耕纪 [2023] 4KHDR60FPS 更新22集",url:"https://www.aliyundrive.com/s/Zo8idpuutQj"},
