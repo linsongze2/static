@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：厄舍府的崩塌 The Fall of the House of Usher (2023) 8集全",url:"https://www.aliyundrive.com/s/x6f7F1VfFWL"},
+const aliData = [{name:"名称：心理学解压漫画 - 弗洛伊德与为什么鸭 | 电子书籍",url:"https://www.aliyundrive.com/s/YZoX7sTqsim"},
+{name:"名称：王阳明大传-知行合一的心学智慧",url:"https://www.aliyundrive.com/s/hAZbcvqRP9D"},
+{name:"名称：叛我更幸福 (2023) 1080p NF DDP5.1 内封多国语 【刮削】",url:"https://www.aliyundrive.com/s/5GRGYBn3h1n"},
+{name:"名称：厄舍府的崩塌 The Fall of the House of Usher (2023) 8集全",url:"https://www.aliyundrive.com/s/x6f7F1VfFWL"},
 {name:"名称：霍比特人（系列） 4K HDR 国英音轨 内封特效 【刮削】",url:"https://www.aliyundrive.com/s/zFR2NFtB5C4"},
 {name:"名称：非暴力沟通：丰盈生命的教育 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/7u6Z4YRxFRE"},
 {name:"名称：田耕纪 (2023) 4K + 1080p 全26集完结【古装剧】【河蟹补】",url:"https://www.aliyundrive.com/s/v97D9tBQvJD"},
