@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：想哭的我戴上了猫的面具",url:"https://www.aliyundrive.com/s/1rBNDoWV7E2"},
+const aliData = [{name:"名称：李靖瑜 - 新思维词汇速记与应用 | 课程",url:"https://www.aliyundrive.com/s/HaB6yecxjHu"},
+{name:"名称：想哭的我戴上了猫的面具",url:"https://www.aliyundrive.com/s/1rBNDoWV7E2"},
 {name:"名称：爱情万岁 ลอง ลีฟ เลิฟว์ (2023) 中字",url:"https://www.aliyundrive.com/s/VQj9nrrb9sc"},
 {name:"名称：谁是超级英雄 (2021) 1080P 中字内嵌字幕",url:"https://www.aliyundrive.com/s/WiNJWosaGXk"},
 {name:"名称：图灵学院-Java架构班第5期",url:"https://www.aliyundrive.com/s/Ct6ZytdLNf9"},
