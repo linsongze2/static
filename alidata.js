@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：毒枭 Narcos S01-S03 1080p BluRay 高码 外挂双语 【高分经典美剧】【刮削】",url:"https://www.aliyundrive.com/s/33jTg2FdaJ9"},
+const aliData = [{name:"名称：奇迹的兄弟 기적의 형제 (2023) 1080p NF 高码 内封简中 全16集",url:"https://www.aliyundrive.com/s/8Vu9vUeHU3X"},
+{name:"名称：毒枭 Narcos S01-S03 1080p BluRay 高码 外挂双语 【高分经典美剧】【刮削】",url:"https://www.aliyundrive.com/s/33jTg2FdaJ9"},
 {name:"名称：素媛 (2013)✨【1080p.SDR】【蓝光压制】5.7G",url:"https://www.aliyundrive.com/s/mGC1rkHM3Kx"},
 {name:"名称：微专业 - 安卓高级开发工程师",url:"https://www.aliyundrive.com/s/cBK7F5kmwrq"},
 {name:"名称：雄狮 (2016)✨【1080p.SDR】【蓝光压制】9.2G",url:"https://www.aliyundrive.com/s/bYWA3U6mRHH"},
