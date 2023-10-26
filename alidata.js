@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：JavaScript 逆向系列课 + 高阶课(SVIP完结)",url:"https://www.aliyundrive.com/s/Wpfd69FubPt"},
+const aliData = [{name:"名称：小姐姐们 (2022) 1080p 内封多国语【悬疑韩剧】",url:"https://www.aliyundrive.com/s/Aj3zk8WJa24"},
+{name:"名称：名校风暴 / 菁英杀机 S01-S07 1080p NF DDP5.1 内封多国语【刮削】",url:"https://www.aliyundrive.com/s/FmFfEy4ok3f"},
+{name:"名称：JavaScript 逆向系列课 + 高阶课(SVIP完结)",url:"https://www.aliyundrive.com/s/Wpfd69FubPt"},
 {name:"名称：2022版《学而思秘籍 小学数学思维培养》",url:"https://www.aliyundrive.com/s/WvLEJj6H41i"},
 {name:"名称：异世界悠闲农家",url:"https://www.aliyundrive.com/s/PDoVLxRLDyP"},
 {name:"名称：小岛经济学：鱼、美元和经济的故事",url:"https://www.aliyundrive.com/s/hC9RGqveGp3"},
