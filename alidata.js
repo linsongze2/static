@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：傲骨贤妻 The Good Wife S01-S07 1080p 内封双语 FRDS版 【高分悬疑美剧】【刮削】",url:"https://www.aliyundrive.com/s/yHCgxfFCita"},
+const aliData = [{name:"名称：国民死刑投票 국민사형투표 (2023) [更新至10集]",url:"https://www.aliyundrive.com/s/X6Qx1fuVkGf"},
+{name:"名称：傲骨贤妻 The Good Wife S01-S07 1080p 内封双语 FRDS版 【高分悬疑美剧】【刮削】",url:"https://www.aliyundrive.com/s/yHCgxfFCita"},
 {name:"名称：【卢菲菲】 世界记忆大师 - 九节课练就你的超强大脑 | 课程",url:"https://www.aliyundrive.com/s/SEFBkijj8t3"},
 {name:"名称：微专业 - UI设计师--全链路实战班11期",url:"https://www.aliyundrive.com/s/6EZE4ngF1b3"},
 {name:"名称：关原之战 (2017)✨【1080p.SDR】【蓝光原盘】【原轨.高码率】31G",url:"https://www.aliyundrive.com/s/C88X5QTe8RC"},
