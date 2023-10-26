@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：2022版《学而思秘籍 小学数学思维培养》",url:"https://www.aliyundrive.com/s/WvLEJj6H41i"},
+const aliData = [{name:"名称：JavaScript 逆向系列课 + 高阶课(SVIP完结)",url:"https://www.aliyundrive.com/s/Wpfd69FubPt"},
+{name:"名称：2022版《学而思秘籍 小学数学思维培养》",url:"https://www.aliyundrive.com/s/WvLEJj6H41i"},
 {name:"名称：异世界悠闲农家",url:"https://www.aliyundrive.com/s/PDoVLxRLDyP"},
 {name:"名称：小岛经济学：鱼、美元和经济的故事",url:"https://www.aliyundrive.com/s/hC9RGqveGp3"},
 {name:"名称：经济学的思维方式（套装共2册）",url:"https://www.aliyundrive.com/s/LEvCw3HVbGg"},
