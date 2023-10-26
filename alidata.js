@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：关原之战 (2017)✨【1080p.SDR】【蓝光原盘】【原轨.高码率】31G",url:"https://www.aliyundrive.com/s/C88X5QTe8RC"},
+const aliData = [{name:"名称：【卢菲菲】 世界记忆大师 - 九节课练就你的超强大脑 | 课程",url:"https://www.aliyundrive.com/s/SEFBkijj8t3"},
+{name:"名称：微专业 - UI设计师--全链路实战班11期",url:"https://www.aliyundrive.com/s/6EZE4ngF1b3"},
+{name:"名称：关原之战 (2017)✨【1080p.SDR】【蓝光原盘】【原轨.高码率】31G",url:"https://www.aliyundrive.com/s/C88X5QTe8RC"},
 {name:"名称：沼泽深处的女孩 Where the Crawdads Sing (2022)",url:"https://www.aliyundrive.com/s/6aCJPVb6E9q"},
 {name:"名称：间谍之桥 (2015) 1080P 中英外挂字幕",url:"https://www.aliyundrive.com/s/UKZFT1PtV11"},
 {name:"名称：赛博朋克：边缘行者 Cyberpunk: Edgerunners【Emby】",url:"https://www.aliyundrive.com/s/MCnZUDsuyPE"},
