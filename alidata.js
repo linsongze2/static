@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：冰河时代的巨人 (2013) 4K REMUX (蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/Acp1WJ3sEjq"},
+const aliData = [{name:"名称：我的助理不简单(2023) S01E01-E25 4K",url:"https://www.aliyundrive.com/s/BLK5Xkbyn2F"},
+{name:"名称：冰河时代的巨人 (2013) 4K REMUX (蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/Acp1WJ3sEjq"},
 {name:"名称：邻人似银河(2023) S01 1080P 内封简繁",url:"https://www.aliyundrive.com/s/eAREBL81JEd"},
 {name:"名称：因为太怕痛就全点防御力了(2020) 2季全 1080p 内封简繁",url:"https://www.aliyundrive.com/s/kspL8sxCcH2"},
 {name:"名称：繁城之下",url:"https://www.aliyundrive.com/s/iokPjV1qHMo"},
