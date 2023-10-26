@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：风筝(1998) 1080p内封简中",url:"https://www.aliyundrive.com/s/JwVWaVsSuv8"},
+const aliData = [{name:"名称：诱拐之日 / 绑架之日 (2023) 1080p AMZN 高码率 DDP2.0 内封多国语 【12集完结】【刮削】",url:"https://www.aliyundrive.com/s/XDoZ4dfpFQn"},
+{name:"名称：风筝(1998) 1080p内封简中",url:"https://www.aliyundrive.com/s/JwVWaVsSuv8"},
 {name:"名称：黑暗收割 (2023) 4K 中字内嵌字幕",url:"https://www.aliyundrive.com/s/P1xuDyt88xX"},
 {name:"名称：卜案 (2012) 26集全",url:"https://www.aliyundrive.com/s/9LRAsr9XsMX"},
 {name:"名称：饥饿站台 (2019) 1080P REMUX 内封中字",url:"https://www.aliyundrive.com/s/uFVuuG3gKqS"},
