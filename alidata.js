@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：药剂师 (2020) 4K SDR 中字内嵌字幕",url:"https://www.aliyundrive.com/s/C7wW9xcRXib"},
+const aliData = [{name:"名称：地球脉动3 (2023) 4K HLG 更新1 中英外挂字幕",url:"https://www.aliyundrive.com/s/dBe5jkBdDut"},
+{name:"名称：药剂师 (2020) 4K SDR 中字内嵌字幕",url:"https://www.aliyundrive.com/s/C7wW9xcRXib"},
 {name:"名称：诱拐之日 / 绑架之日 (2023) 1080p AMZN 高码率 DDP2.0 内封多国语 【12集完结】【刮削】",url:"https://www.aliyundrive.com/s/XDoZ4dfpFQn"},
 {name:"名称：风筝(1998) 1080p内封简中",url:"https://www.aliyundrive.com/s/JwVWaVsSuv8"},
 {name:"名称：黑暗收割 (2023) 4K 中字内嵌字幕",url:"https://www.aliyundrive.com/s/P1xuDyt88xX"},
