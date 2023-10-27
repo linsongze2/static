@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：环形使者 (2012)✨【2160p.HDR】【蓝光压制】【原轨.高码率】28G",url:"https://www.aliyundrive.com/s/xUdwXRNgVFV"},
+const aliData = [{name:"名称：【博学谷】零基础大数据在线就业班",url:"https://www.aliyundrive.com/s/MLLJ4ZwyE6g"},
+{name:"名称：环形使者 (2012)✨【2160p.HDR】【蓝光压制】【原轨.高码率】28G",url:"https://www.aliyundrive.com/s/xUdwXRNgVFV"},
 {name:"名称：人类之子 (2006) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/FpBjQUWRUaz"},
 {name:"名称：止痛骗(2023) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/XERS2to1jrx"},
 {name:"名称：【黑马程序员】HTML&amp;JS+前端 V7.6",url:"https://www.aliyundrive.com/s/SWX6vHkeica"},
