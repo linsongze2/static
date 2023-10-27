@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：洛基第二季更新至04",url:"https://www.aliyundrive.com/s/bBU4EYwgp7e"},
+const aliData = [{name:"名称：浪客剑心 明治剑客浪漫谭 1080P更至17 总集24 (2023)",url:"https://www.aliyundrive.com/s/7tVBiRL9iqs"},
+{name:"名称：青春年少 (1998) 1080P 内封英字",url:"https://www.aliyundrive.com/s/z58721Fv4Eh"},
+{name:"名称：洛基第二季更新至04",url:"https://www.aliyundrive.com/s/bBU4EYwgp7e"},
 {name:"名称：权力的游戏 S01-S08 未删减版 4K REMUX + 4K SDR + 1080p高码 外挂双语 + 1080内嵌 【多版本典藏】【合计3.5TB】【刮削】",url:"https://www.aliyundrive.com/s/LmUTdsFRwFs"},
 {name:"名称：深层认知-深层洞悉事物的商业规律",url:"https://www.aliyundrive.com/s/SA6LvAXU8hV"},
 {name:"名称：七天 (2007) BD1080p 中文字幕",url:"https://www.aliyundrive.com/s/sXxbJo6Yguc"},
