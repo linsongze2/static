@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：国民死刑投票 (2023) 1080p AMZN 高码率 DDP2.0 内封多国语 热播韩剧漫改ip 更EP10【刮削】",url:"https://www.aliyundrive.com/s/42HJQKV3ibK"},
+const aliData = [{name:"名称：安妮日记 (漫画版) 电子书籍",url:"https://www.aliyundrive.com/s/bRHAuCvemGg"},
+{name:"名称：北欧人 (2022)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】24.3G",url:"https://www.aliyundrive.com/s/msPAazeAUT2"},
+{name:"名称：国民死刑投票 (2023) 1080p AMZN 高码率 DDP2.0 内封多国语 热播韩剧漫改ip 更EP10【刮削】",url:"https://www.aliyundrive.com/s/42HJQKV3ibK"},
 {name:"名称：Vue3+ElementPlus+Koa2 全栈开发后台系统",url:"https://www.aliyundrive.com/s/MqNDdEFmY6v"},
 {name:"名称：《译文传记作品系列》（套装共15册）",url:"https://www.aliyundrive.com/s/CGpS9tLNTvJ"},
 {name:"名称：GT赛车：极速狂飙 (2023) 2160p HDR&amp;DV MA版 内封简英特效 &amp; 繁英特效双语 (精校双语带注解)【刮削】",url:"https://www.aliyundrive.com/s/Y1W9mosPynC"},
