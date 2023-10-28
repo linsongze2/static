@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我可以47 (2023) 真人秀 甄子丹 更1028",url:"https://www.aliyundrive.com/s/ZhcAZJL3e6A"},
+const aliData = [{name:"名称：蓝甲虫 4K原盘REMUX [杜比视界] [内封简英双字]",url:"https://www.aliyundrive.com/s/z8tX8Yitr8i"},
+{name:"名称：我可以47 (2023) 真人秀 甄子丹 更1028",url:"https://www.aliyundrive.com/s/ZhcAZJL3e6A"},
 {name:"名称：有生之年 (2023) 1080/4K HDR 12集完结",url:"https://www.aliyundrive.com/s/Q42LSQsYRdd"},
 {name:"名称：葬礼上的死亡 (2007) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/X3kxcvFRRyo"},
 {name:"名称：冥王 PLUTO (2023) 1080p NF 高码率 DDP5.1 多国语音轨 &amp; 多国语字幕 科幻 / 惊悚 【刮削】",url:"https://www.aliyundrive.com/s/xaA45LvtADg"},
