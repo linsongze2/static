@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：大染坊 (2003) 4K",url:"https://www.aliyundrive.com/s/4oCN2HQoQzd"},
+const aliData = [{name:"名称：【PC策略模拟】海狸浮生记 v0.5.1.0免安装中文版",url:"https://www.aliyundrive.com/s/yk6L5KkWue4"},
+{name:"名称：大染坊 (2003) 4K",url:"https://www.aliyundrive.com/s/4oCN2HQoQzd"},
 {name:"名称：血战钢锯岭 (2016) 4K REMUX 内封中字",url:"https://www.aliyundrive.com/s/8L2xc5KSxbZ"},
 {name:"名称：被光抓走的人 (2019) 4K 内嵌中字",url:"https://www.aliyundrive.com/s/CfHpijivc2y"},
 {name:"名称：一念花开 (2023)4K60FPS 更新12集",url:"https://www.aliyundrive.com/s/pbfNd8PYcDs"},
