@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至03集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
+const aliData = [{name:"名称：23-24赛季常规赛 231028 勇士vs国王",url:"https://www.aliyundrive.com/s/WSykPWYyT7D"},
+{name:"名称：芭比 Barbie (2023) 4K REMUX 原盘 HDR 杜比视界 内封原盘多国语字幕 【刮削】【和谐不补】",url:"https://www.aliyundrive.com/s/hXeox7tdRTH"},
+{name:"名称：【光环国际】人工智能工程师直通车28期",url:"https://www.aliyundrive.com/s/QMH67zVcjXz"},
+{name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至03集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
 {name:"名称：【大喵教育】微计算机专业 - 前端培训 07期",url:"https://www.aliyundrive.com/s/fCuPNs6GZxn"},
 {name:"名称：丁宝桢 (2023) 4K60FPS 更新06集",url:"https://www.aliyundrive.com/s/ioaYwJzS6Ba"},
 {name:"名称：T 田耕纪 4K 2023",url:"https://www.aliyundrive.com/s/UBYq5muk3L9"},
