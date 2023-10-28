@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：被放大的欲望 | 电子书籍",url:"https://www.aliyundrive.com/s/XLUTqMKcMzZ"},
+const aliData = [{name:"名称：Kevin Feng-数据结构与算法Python进阶班",url:"https://www.aliyundrive.com/s/xUR9Ec5ufVz"},
+{name:"名称：大力女子姜南顺 힘쎈여자 강남순 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/4qskndakiYh"},
+{name:"名称：被放大的欲望 | 电子书籍",url:"https://www.aliyundrive.com/s/XLUTqMKcMzZ"},
 {name:"名称：核磁共振 (2022)✨【1080p.SDR】【蓝光压制】8G",url:"https://www.aliyundrive.com/s/R3xrsRJqom3"},
 {name:"名称：晒后假日 (2022)✨【1080p.SDR】【原轨.高码率】4.7G",url:"https://www.aliyundrive.com/s/RM8LnnYboUK"},
 {name:"名称：Python数据分析+人工智能从入门到精通",url:"https://www.aliyundrive.com/s/MCQdtn4oMGx"},
