@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【大喵教育】微计算机专业 - 前端培训 07期",url:"https://www.aliyundrive.com/s/fCuPNs6GZxn"},
+const aliData = [{name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至03集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
+{name:"名称：【大喵教育】微计算机专业 - 前端培训 07期",url:"https://www.aliyundrive.com/s/fCuPNs6GZxn"},
 {name:"名称：丁宝桢 (2023) 4K60FPS 更新06集",url:"https://www.aliyundrive.com/s/ioaYwJzS6Ba"},
 {name:"名称：T 田耕纪 4K 2023",url:"https://www.aliyundrive.com/s/UBYq5muk3L9"},
 {name:"名称：加勒比海盗 (系列五部) 4K HDR&amp;DV 国英音轨 内封特效 FRDS 蓝光版 【刮削】",url:"https://www.aliyundrive.com/s/irnTqScnPhH"},
