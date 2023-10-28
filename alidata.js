@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：十八个时空中的世界史 | 电子书籍",url:"https://www.aliyundrive.com/s/Xs1E6Jt1zTh"},
+const aliData = [{name:"名称：创业密码解读：人、团队、投资",url:"https://www.aliyundrive.com/s/WoUakr4zeXk"},
+{name:"名称：好书系列：湛庐精品力作！《金融投资的逻辑思维系列套装》(套装12册)",url:"https://www.aliyundrive.com/s/JHxCgEXchh5"},
+{name:"名称：十八个时空中的世界史 | 电子书籍",url:"https://www.aliyundrive.com/s/Xs1E6Jt1zTh"},
 {name:"名称：不速之客(2014) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/sLHfdHAnF6a"},
 {name:"名称：心愿房间(2019) 1080P PROPER REMUX 外挂中字",url:"https://www.aliyundrive.com/s/oYAChPYVSEp"},
 {name:"名称：致命感应(2021) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/9MHgxeYKLBu"},
