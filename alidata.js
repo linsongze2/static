@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：叠影狙击 (2023) 4K 国粤双音轨 24集完结【黄宗泽/周秀娜】",url:"https://www.aliyundrive.com/s/WUUi8WCdp6R"},
+const aliData = [{name:"名称：致命伴旅(2010) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/i4YwBvJqic4"},
+{name:"名称：科洛弗道10号(2016) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/Tujt5EdymDJ"},
+{name:"名称：叠影狙击 (2023) 4K 国粤双音轨 24集完结【黄宗泽/周秀娜】",url:"https://www.aliyundrive.com/s/WUUi8WCdp6R"},
 {name:"名称：华盛顿邮报(2017) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/m7gjqSXwaVe"},
 {name:"名称：魔角侦探 (2010) 720P 中字硬字幕",url:"https://www.aliyundrive.com/s/vmbABobpPHB"},
 {name:"名称：【4K超高清】2023年10月新番无水印热门资源超分合集",url:"https://www.aliyundrive.com/s/ZeppegMfVFF"},
