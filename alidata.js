@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：木乃伊复活（木乃伊重生 ） 【蓝光原盘 REM...X封装】（内嵌中字）（2019）",url:"https://www.aliyundrive.com/s/iQq4ynZHaVG"},
+const aliData = [{name:"名称：聊斋新编之辛女子 4K60FPS&amp;TV_高码",url:"https://www.aliyundrive.com/s/d42qyYwRSDQ"},
+{name:"名称：木乃伊复活（木乃伊重生 ） 【蓝光原盘 REM...X封装】（内嵌中字）（2019）",url:"https://www.aliyundrive.com/s/iQq4ynZHaVG"},
 {name:"名称：木乃伊复活 （蓝光原盘 REMUX封装）（内嵌中字）（2014）",url:"https://www.aliyundrive.com/s/Z6tw5TePwuR"},
 {name:"名称：大熊猫 (2018) 4K REMUX(蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/jbTDMeYH88U"},
 {name:"名称：高墙边的混乱 第三季 Fauda Season 3 (2019)[全12集][简繁英字幕]",url:"https://www.aliyundrive.com/s/GWBw4oMofDk"},
