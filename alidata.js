@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：笼中之鸟 (2023)✨【2160p.HDR】【原轨.高码率】11.2G",url:"https://www.aliyundrive.com/s/w7A2vyUCmeJ"},
+const aliData = [{name:"名称：饥渴游戏 (2023)✨【1080p.SDR】【原轨.高码率】5.8G",url:"https://www.aliyundrive.com/s/hgwe9GjDANw"},
+{name:"名称：爱琴海没有空气 (2023)✨【1080p.SDR】【原轨.高码率】5.7G",url:"https://www.aliyundrive.com/s/bnL4iXaSW7P"},
+{name:"名称：笼中之鸟 (2023)✨【2160p.HDR】【原轨.高码率】11.2G",url:"https://www.aliyundrive.com/s/w7A2vyUCmeJ"},
 {name:"名称：《斯坦福学习法：有效提升孩子能力的8个方法》2022-05出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/fiAALLEgMzy"},
 {name:"名称：《阿德勒心理学实践手册》2023-01出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/FXpCodShkMV"},
 {name:"名称：丁宝桢 (2023) 4K60FPS 更新12集",url:"https://www.aliyundrive.com/s/Aui7QWErZLy"},
