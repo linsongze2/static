@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：【开课吧】人工智能核心能力培养计划04期",url:"https://www.aliyundrive.com/s/XwUR5q4YscJ"},
+const aliData = [{name:"名称：枪神 (1998) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/iQXHdEc6hBa"},
+{name:"名称：小岛惊魂 4K原盘REMUX [SDR] [CC版] [内封简英双字]",url:"https://www.aliyundrive.com/s/qBswqbYVkhn"},
+{name:"名称：【开课吧】人工智能核心能力培养计划04期",url:"https://www.aliyundrive.com/s/XwUR5q4YscJ"},
 {name:"名称：我的助理不简单（更新中）4K&amp;4KHDR60FPS 更新30",url:"https://www.aliyundrive.com/s/CreSMS64gJn"},
 {name:"名称：喜鹊谋杀案 S1(2022) 1080P 中英外挂字幕",url:"https://www.aliyundrive.com/s/3CWaeMMZdsx"},
 {name:"名称：我的助理不简单(2023) S01E01-E30 4K",url:"https://www.aliyundrive.com/s/3URU5iNVfra"},
