@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：一日雄狮 (2023)✨【2160p.SDR】【原轨】7.5G",url:"https://www.aliyundrive.com/s/u5VFEUqrxPr"},
+const aliData = [{name:"名称：神奇的一天 (2017) 4K REMUX(蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/sEi2onFnPEi"},
+{name:"名称：一日雄狮 (2023)✨【2160p.SDR】【原轨】7.5G",url:"https://www.aliyundrive.com/s/u5VFEUqrxPr"},
 {name:"名称：渔夫行动 (2023)✨【1080p.SDR】【原轨.高码率】6.2G",url:"https://www.aliyundrive.com/s/aN3anziBt61"},
 {name:"名称：刺杀小说家 (2021)✨【2160p.HDR】【蓝光原盘】【原轨.高码率】72.5G",url:"https://www.aliyundrive.com/s/RDaiZQMPDQc"},
 {name:"名称：早餐中国 (1～4季全) 4K / 1080p 国语中字【美食纪录片】",url:"https://www.aliyundrive.com/s/cGfjCJczyCd"},
