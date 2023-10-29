@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：反脆弱养育 | 电子书籍",url:"https://www.aliyundrive.com/s/ZeCTbXbXfCE"},
+const aliData = [{name:"名称：2023年十月新番合集",url:"https://www.aliyundrive.com/s/dAsCLpmTRYh"},
+{name:"名称：山楂树之恋 (2010) 日版原盘REMUX [内封简繁中字]",url:"https://www.aliyundrive.com/s/48fSdpdGNh9"},
+{name:"名称：反脆弱养育 | 电子书籍",url:"https://www.aliyundrive.com/s/ZeCTbXbXfCE"},
 {name:"名称：魅力之地印度 (2015) 4K REMUX(蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/riwiLLFYS8T"},
 {name:"名称：东野圭吾青春悬疑系列（共10册）",url:"https://www.aliyundrive.com/s/jv3YSUyu2Zn"},
 {name:"名称：七人的逃脱 7인의 탈출 (2023) 1080p 中文字幕 12集完结【悬疑韩剧】",url:"https://www.aliyundrive.com/s/3gTfhZSwAAg"},
