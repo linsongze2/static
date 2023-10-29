@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：开放式婚姻 Otkrytyy brak (2023) 10集完结 中字",url:"https://www.aliyundrive.com/s/ufbgmNGvco4"},
+const aliData = [{name:"名称：无人岛的Diva 무인도의 디바 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/2nXevC5tQMs"},
+{name:"名称：【博学谷】HTML&amp;JS+前端就业课 v6.5",url:"https://www.aliyundrive.com/s/o1rkRyYh5Pg"},
+{name:"名称：开放式婚姻 Otkrytyy brak (2023) 10集完结 中字",url:"https://www.aliyundrive.com/s/ufbgmNGvco4"},
 {name:"名称：百万美元宝贝 (2004) 1080P 国英双英轨 默认英语 中英内嵌字幕",url:"https://www.aliyundrive.com/s/iFh7ZWiGLZo"},
 {name:"名称：梅花红桃 (2023) 4K 32集完结【关晓彤/韩东君】",url:"https://www.aliyundrive.com/s/q8VyBjXCDXy"},
 {name:"名称：七人的逃脱 / 7人的逃脱 (2023) 1080p 高码率 内封简繁英 12集完结【热播悬疑韩剧】【刮削】",url:"https://www.aliyundrive.com/s/BMSJd5Jgs4d"},
