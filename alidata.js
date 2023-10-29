@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：喜鹊谋杀案 S1(2022) 1080P 中英外挂字幕",url:"https://www.aliyundrive.com/s/3CWaeMMZdsx"},
+const aliData = [{name:"名称：我的助理不简单（更新中）4K&amp;4KHDR60FPS 更新30",url:"https://www.aliyundrive.com/s/CreSMS64gJn"},
+{name:"名称：喜鹊谋杀案 S1(2022) 1080P 中英外挂字幕",url:"https://www.aliyundrive.com/s/3CWaeMMZdsx"},
 {name:"名称：我的助理不简单(2023) S01E01-E30 4K",url:"https://www.aliyundrive.com/s/3URU5iNVfra"},
 {name:"名称：田耕纪 [2023] 4KHDR60FPS 26集完结",url:"https://www.aliyundrive.com/s/bwCmfWv4Ms1"},
 {name:"名称：田耕纪 (2023) 1080/4K HDR 26集完结",url:"https://www.aliyundrive.com/s/8rQs13GUgg8"},
