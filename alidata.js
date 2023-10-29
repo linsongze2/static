@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：丁宝桢 (2023) 4K60FPS 更新12集",url:"https://www.aliyundrive.com/s/Aui7QWErZLy"},
+const aliData = [{name:"名称：笼中之鸟 (2023)✨【2160p.HDR】【原轨.高码率】11.2G",url:"https://www.aliyundrive.com/s/w7A2vyUCmeJ"},
+{name:"名称：《斯坦福学习法：有效提升孩子能力的8个方法》2022-05出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/fiAALLEgMzy"},
+{name:"名称：《阿德勒心理学实践手册》2023-01出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/FXpCodShkMV"},
+{name:"名称：丁宝桢 (2023) 4K60FPS 更新12集",url:"https://www.aliyundrive.com/s/Aui7QWErZLy"},
 {name:"名称：大力女子姜南顺 힘쎈여자 강남순 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/4qskndakiYh"},
 {name:"名称：恶人传记 악인전기 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/axuHu5tdcL1"},
 {name:"名称：神出鬼没 (2023)✨【2160p.HDR】【兼容杜比视界】【原轨.高码率】20.3G",url:"https://www.aliyundrive.com/s/hSSyuifnYRM"},
