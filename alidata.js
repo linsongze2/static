@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：勇敢者 【蓝光原盘 REMUX封装】（内嵌中字）（2019）",url:"https://www.aliyundrive.com/s/RmayS3RAaBc"},
+const aliData = [{name:"名称：我的天才女友 L'amica geniale【Emby】",url:"https://www.aliyundrive.com/s/FVcGn6QgTAu"},
+{name:"名称：勇敢者 【蓝光原盘 REMUX封装】（内嵌中字）（2019）",url:"https://www.aliyundrive.com/s/RmayS3RAaBc"},
 {name:"名称：新父母五门必修大课（全108讲）",url:"https://www.aliyundrive.com/s/iYc1FUzmGjS"},
 {name:"名称：梅花红桃 (2023) 1080/4K HDR 32集完结 关晓彤/韩东君",url:"https://www.aliyundrive.com/s/Xs2XsewBv1c"},
 {name:"名称：如何把话说清楚 | 电子书籍",url:"https://www.aliyundrive.com/s/bbekGrVb1sc"},
