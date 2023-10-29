@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：《无意识偏见：影响你判断和行动的秘密》 2022-07出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/WRswJARNrqW"},
+const aliData = [{name:"名称：《归属感：构建团队共同愿景、打造高效能执行体系的思维法则》2023-08出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/dncV1ppKq7o"},
+{name:"名称：六舰：美国海军的诞生与一个国家的起航 | 电子书籍",url:"https://www.aliyundrive.com/s/DD8sDJ2xBkm"},
+{name:"名称：《无意识偏见：影响你判断和行动的秘密》 2022-07出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/WRswJARNrqW"},
 {name:"名称：现在启示录 (2009) 1080P 中字内嵌字幕",url:"https://www.aliyundrive.com/s/9NaJKUBEnj7"},
 {name:"名称：生化危机6：终章(2016) 4K原盘 国英音轨 特效字幕",url:"https://www.aliyundrive.com/s/MbQCjXEqhP5"},
 {name:"名称：萤火虫(2002) S01 1080P原盘 外挂简英",url:"https://www.aliyundrive.com/s/3c7xQPNYXV7"},
