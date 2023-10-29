@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：恶人传记 악인전기 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/axuHu5tdcL1"},
+const aliData = [{name:"名称：丁宝桢 (2023) 4K60FPS 更新12集",url:"https://www.aliyundrive.com/s/Aui7QWErZLy"},
+{name:"名称：大力女子姜南顺 힘쎈여자 강남순 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/4qskndakiYh"},
+{name:"名称：恶人传记 악인전기 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/axuHu5tdcL1"},
 {name:"名称：神出鬼没 (2023)✨【2160p.HDR】【兼容杜比视界】【原轨.高码率】20.3G",url:"https://www.aliyundrive.com/s/hSSyuifnYRM"},
 {name:"名称：完美婚姻的定式 완벽한 결혼의 정석 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/rsYnv29t7yP"},
 {name:"名称：逃出白垩纪 (2023)✨【2160p.HDR】【兼容杜比视界】【原轨.高码率】16.1G",url:"https://www.aliyundrive.com/s/RbfkhqNhHLN"},
