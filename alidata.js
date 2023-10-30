@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：芯片战争：世界最关键技术的争夺战",url:"https://www.aliyundrive.com/s/ow4xjomAhbm"},
+const aliData = [{name:"名称：《漫画算法：小灰的算法之旅》",url:"https://www.aliyundrive.com/s/b3b5xKhWFbM"},
+{name:"名称：芯片战争：世界最关键技术的争夺战",url:"https://www.aliyundrive.com/s/ow4xjomAhbm"},
 {name:"名称：神盾局特工 Agents of S.H.I.E.L.D.系列 1~7季全",url:"https://www.aliyundrive.com/s/WpFop1R95sL"},
 {name:"名称：看人的艺术：11种以物识人术",url:"https://www.aliyundrive.com/s/EQzGZbTSuoN"},
 {name:"名称：阿甘聊跨境-亚马逊入门到精通培训课程(26套)",url:"https://www.aliyundrive.com/s/e6QVxH2URhM"},
