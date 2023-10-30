@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：哈萨克汗国：不败之剑 （蓝光原盘 REMUX...封装 ）（内嵌中字）（2017）",url:"https://www.aliyundrive.com/s/ZFyztnQg5GG"},
+const aliData = [{name:"名称：恐怖大师 S01-S02 1080p BluRay 高码 外挂简中 【刮削】",url:"https://www.aliyundrive.com/s/nQoEg3k7k46"},
+{name:"名称：思维是平的 | 电子书籍",url:"https://www.aliyundrive.com/s/aVPnbxxL4pF"},
+{name:"名称：哈萨克汗国：不败之剑 （蓝光原盘 REMUX...封装 ）（内嵌中字）（2017）",url:"https://www.aliyundrive.com/s/ZFyztnQg5GG"},
 {name:"名称：教皇的驱魔人 (2023)✨【2160p.HDR】【兼容杜比视界】【原轨.高码率】18G",url:"https://www.aliyundrive.com/s/Y8LVuTUtsoM"},
 {name:"名称：康斯坦丁 Constantine (2014) 1080p REMUX + 1080p 蓝光高码 外挂双语 【高分惊悚美剧】【刮削】",url:"https://www.aliyundrive.com/s/REpsBoxvW1H"},
 {name:"名称：我们都是超能力者！电影版 (2015) 1080P 中字内嵌字幕",url:"https://www.aliyundrive.com/s/2v9Zh6iVjDv"},
