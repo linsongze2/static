@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：静水城(2021) 4K HDR+1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/Wuo2VNBdDb1"},
+const aliData = [{name:"名称：樊登读书会 2023 更1028 持续更新",url:"https://www.aliyundrive.com/s/7zYhZLCwcY2"},
+{name:"名称：静水城(2021) 4K HDR+1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/Wuo2VNBdDb1"},
 {name:"名称：不要用别人的脑子思考你的人生 | 电子书籍",url:"https://www.aliyundrive.com/s/mhebH37i419"},
 {name:"名称：编舟记(2013) 1080P 外挂中字",url:"https://www.aliyundrive.com/s/WVpWrmDmmLH"},
 {name:"名称：滴答屋(2018) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/Sdiu3rbPQ6T"},
