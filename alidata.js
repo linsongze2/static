@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：生死航班 (2022) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/XJEEE61cygd"},
+const aliData = [{name:"名称：【虎课网】布林·零基础商业插画实战班",url:"https://www.aliyundrive.com/s/ftEnyFx519b"},
+{name:"名称：生死航班 (2022) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/XJEEE61cygd"},
 {name:"名称：男生必看书籍：《the rational male》《红丸觉醒》 中文+英文（10本）",url:"https://www.aliyundrive.com/s/EShwTxoMUMR"},
 {name:"名称：婚礼大捷 혼례대첩 (2023)[首播第1集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
 {name:"名称：恶人传记 악인전기 (2023)[更新至06集]",url:"https://www.aliyundrive.com/s/axuHu5tdcL1"},
