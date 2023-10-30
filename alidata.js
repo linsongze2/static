@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：[女神捕][系列电影10部全HD1080P]",url:"https://www.aliyundrive.com/s/Kb4N2u9q9bw"},
+const aliData = [{name:"名称：精益思想丛书 (共 9 册)【EPUB | MOBI 电子书】",url:"https://www.aliyundrive.com/s/pGwwGr46uhw"},
+{name:"名称：[女神捕][系列电影10部全HD1080P]",url:"https://www.aliyundrive.com/s/Kb4N2u9q9bw"},
 {name:"名称：怒火·重案 4K原盘REMUX [HDR] [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/6YvfxXjsNzV"},
 {name:"名称：手把手教你读财报（套装共 6 册）【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/expSdU8Yg7q"},
 {name:"名称：领域计划-DDD领域模型驱动设计-第一期",url:"https://www.aliyundrive.com/s/x1DzArQRFoH"},
