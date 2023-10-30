@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：神盾局特工 Agents of S.H.I.E.L.D.系列 1~7季全",url:"https://www.aliyundrive.com/s/WpFop1R95sL"},
+const aliData = [{name:"名称：芯片战争：世界最关键技术的争夺战",url:"https://www.aliyundrive.com/s/ow4xjomAhbm"},
+{name:"名称：神盾局特工 Agents of S.H.I.E.L.D.系列 1~7季全",url:"https://www.aliyundrive.com/s/WpFop1R95sL"},
 {name:"名称：看人的艺术：11种以物识人术",url:"https://www.aliyundrive.com/s/EQzGZbTSuoN"},
 {name:"名称：阿甘聊跨境-亚马逊入门到精通培训课程(26套)",url:"https://www.aliyundrive.com/s/e6QVxH2URhM"},
 {name:"名称：饥渴游戏 (2023)✨【1080p.SDR】【原轨.高码率】5.8G",url:"https://www.aliyundrive.com/s/hgwe9GjDANw"},
