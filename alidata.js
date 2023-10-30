@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：【奈学科技】P7Java架构师13期",url:"https://www.aliyundrive.com/s/84C6vArwprs"},
+const aliData = [{name:"名称：闪烁的西瓜 반짝이는 워터멜론 (2023)[更新至11集]",url:"https://www.aliyundrive.com/s/N3FLz8azoEM"},
+{name:"名称：无人岛的Diva (2023) 1080p NF 高码率 DDP2.0 内封多国语 更EP02 【热播韩剧】【刮削】",url:"https://www.aliyundrive.com/s/kF1TAdtHaFg"},
+{name:"名称：【奈学科技】P7Java架构师13期",url:"https://www.aliyundrive.com/s/84C6vArwprs"},
 {name:"名称：高墙边的混乱 第四季 Fauda Season 4 (2022)[全12集][简繁英字幕]",url:"https://www.aliyundrive.com/s/AkyYAu58Q5q"},
 {name:"名称：沉默的真相【Emby】",url:"https://www.aliyundrive.com/s/P1ZMnGJ5aWW"},
 {name:"名称：精益思想丛书 (共 9 册)【EPUB | MOBI 电子书】",url:"https://www.aliyundrive.com/s/pGwwGr46uhw"},
