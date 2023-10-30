@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：死亡修女 Hermana Muerte (2023) 1080p 内封多国语【恐怖片】",url:"https://www.aliyundrive.com/s/stmEpyasP7y"},
+const aliData = [{name:"名称：口头传说 S2(2018) 4K HDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/jcyUe2xmvyA"},
+{name:"名称：死亡修女 Hermana Muerte (2023) 1080p 内封多国语【恐怖片】",url:"https://www.aliyundrive.com/s/stmEpyasP7y"},
 {name:"名称：拆弹部队 (2008) 1080P 国英双英轨 默认英语 中英内嵌字幕",url:"https://www.aliyundrive.com/s/ou3fVXSMu6B"},
 {name:"名称：樊登读书会 2023 更1028 持续更新",url:"https://www.aliyundrive.com/s/7zYhZLCwcY2"},
 {name:"名称：静水城(2021) 4K HDR+1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/Wuo2VNBdDb1"},
