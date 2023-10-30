@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：幽灵公主 もののけ姫 (1997) H265.1080P.国日双语.中日特效字幕",url:"https://www.aliyundrive.com/s/ieSQaF4n1MR"},
+const aliData = [{name:"名称：照顾酱·电商人修炼手册",url:"https://www.aliyundrive.com/s/kX3xQqrL3dY"},
+{name:"名称：幽灵公主 もののけ姫 (1997) H265.1080P.国日双语.中日特效字幕",url:"https://www.aliyundrive.com/s/ieSQaF4n1MR"},
 {name:"名称：止痛骗 Pain Hustlers (2023) 1080p NF 高码 内封多国语【犯罪片】",url:"https://www.aliyundrive.com/s/iAsvS3mmPLc"},
 {name:"名称：拆案：黎明将至 4KHDR60FPS 更新17集",url:"https://www.aliyundrive.com/s/HvADc7zxMsp"},
 {name:"名称：繁华似锦 (2023) 1080/4K HDR 38集完结 张雨绮/左小青",url:"https://www.aliyundrive.com/s/qMvroXoYLXb"},
