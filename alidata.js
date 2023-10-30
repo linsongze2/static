@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：花满楼之绝世花魁 (2023) 4K 24集完结",url:"https://www.aliyundrive.com/s/EqtYE8TqmUC"},
+const aliData = [{name:"名称：死亡修女 (2023) 1080P 中字内嵌字幕",url:"https://www.aliyundrive.com/s/4gyxgQgT4Aa"},
+{name:"名称：花满楼之绝世花魁 (2023) 4K 24集完结",url:"https://www.aliyundrive.com/s/EqtYE8TqmUC"},
 {name:"名称：英国病人 (1996) 1080P 国英双音轨 默认英语 中字内嵌字幕",url:"https://www.aliyundrive.com/s/iRZp4P4na7p"},
 {name:"名称：千面特务 (2023)✨【1080p.SDR】【原轨.高码率】7.2G",url:"https://www.aliyundrive.com/s/UvCWEpT1zJb"},
 {name:"名称：蜂鸟 Il colibrì (2022)✨【1080p.SDR】【原轨.高码率】【罗马电影节】3.3G",url:"https://www.aliyundrive.com/s/vPf9NXJByLw"},
