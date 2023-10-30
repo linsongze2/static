@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：婚礼大捷 혼례대첩 (2023)[首播第1集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
+const aliData = [{name:"名称：男生必看书籍：《the rational male》《红丸觉醒》 中文+英文（10本）",url:"https://www.aliyundrive.com/s/EShwTxoMUMR"},
+{name:"名称：婚礼大捷 혼례대첩 (2023)[首播第1集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
 {name:"名称：恶人传记 악인전기 (2023)[更新至06集]",url:"https://www.aliyundrive.com/s/axuHu5tdcL1"},
 {name:"名称：当邪恶潜伏时 (2023) 1080p AMZN 高码 DDP5.1 外挂双语 (人工翻译字幕) 【最新恐怖片】【刮削】",url:"https://www.aliyundrive.com/s/kwvkJ4irncL"},
 {name:"名称：巴尔干边界 [蓝光原盘 REMUX封装 ] （内嵌中字）（2019）",url:"https://www.aliyundrive.com/s/APjLmvZDbTJ"},
