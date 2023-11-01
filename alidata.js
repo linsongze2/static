@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：一千灵异夜（1992年悬疑单元剧）",url:"https://www.aliyundrive.com/s/cMMWCqejvF8"},
+const aliData = [{name:"名称：诅咒 (2023) 4K HDR &amp; Dv 中字内嵌字幕",url:"https://www.aliyundrive.com/s/VLnw8Y5mkqk"},
+{name:"名称：一千灵异夜（1992年悬疑单元剧）",url:"https://www.aliyundrive.com/s/cMMWCqejvF8"},
 {name:"名称：绝望主妇 / 欲乱绝情妻 S01-S08 1080p 高码 DDP5.1 外挂双语 【高分喜剧美剧】【刮削】",url:"https://www.aliyundrive.com/s/KWE1c8b3C73"},
 {name:"名称：掌控安全学院-web安全工程师高薪正式班 - 13期",url:"https://www.aliyundrive.com/s/ca1BiNQpYa8"},
 {name:"名称：女僚机 (2023) 1080P 官方中字",url:"https://www.aliyundrive.com/s/Le88nx3GD5K"},
