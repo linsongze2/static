@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：方案设计思维拓展课程 - 39节课 | 视频课程",url:"https://www.aliyundrive.com/s/EeXjD6SfHzy"},
+const aliData = [{name:"名称：奎迪 (系列)✨【2160p.HDR+】【蓝光原盘】【原轨.高码率】",url:"https://www.aliyundrive.com/s/6r8A5ZV1vhu"},
+{name:"名称：方案设计思维拓展课程 - 39节课 | 视频课程",url:"https://www.aliyundrive.com/s/EeXjD6SfHzy"},
 {name:"名称：闭锁症 Locked In (2023) 1080P 中字",url:"https://www.aliyundrive.com/s/h8vxaCDqboi"},
 {name:"名称：猫眼三姐妹 2季全 1080P 国日双音轨 默认日语 中字硬字幕",url:"https://www.aliyundrive.com/s/QSurLLsGHHB"},
 {name:"名称：国际空间站 (2015) 4K REMUX (蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/4BQLcivXZbY"},
