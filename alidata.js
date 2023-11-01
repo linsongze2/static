@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：非自然死亡(2018) S01 1080p原盘 内封简中",url:"https://www.aliyundrive.com/s/RP1j62kWCGX"},
+const aliData = [{name:"名称：人生大事",url:"https://www.aliyundrive.com/s/K9MFdz5Gp42"},
+{name:"名称：非自然死亡(2018) S01 1080p原盘 内封简中",url:"https://www.aliyundrive.com/s/RP1j62kWCGX"},
 {name:"名称：极地 (2017) 1080p 国语中字【大型西藏人文高分纪录片】",url:"https://www.aliyundrive.com/s/66cX39hsdbM"},
 {name:"名称：1947波士顿 1947 보스톤 (2023)",url:"https://www.aliyundrive.com/s/F6w7zXSCBit"},
 {name:"名称：俄罗斯方块 (2023)✨【2160p.HDR】【兼容杜比视界】【原轨.高码率】21G",url:"https://www.aliyundrive.com/s/DFMTENTPWNn"},
