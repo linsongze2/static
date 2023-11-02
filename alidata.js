@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：思琦网络科技 樊琦-CCNP全套高清",url:"https://www.aliyundrive.com/s/WtgL8A8yF2M"},
+const aliData = [{name:"名称：人类之子 (2006) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/FpBjQUWRUaz"},
+{name:"名称：思琦网络科技 樊琦-CCNP全套高清",url:"https://www.aliyundrive.com/s/WtgL8A8yF2M"},
 {name:"名称：鬼武者(2023) S01 1080P 内封简繁",url:"https://www.aliyundrive.com/s/T5ZhaYcP6hH"},
 {name:"名称：闭锁症 / 闭锁 Locked In (2023) 1080p NF 内封多国语 惊悚 / 悬疑 【刮削】",url:"https://www.aliyundrive.com/s/18cNiW51Z1g"},
 {name:"名称：所有我们看不见的光(2023) S01 1080P 内封简繁",url:"https://www.aliyundrive.com/s/dFsx7Mu7r8v"},
