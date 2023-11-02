@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我的助理不简单(2023) S01完结 4K",url:"https://www.aliyundrive.com/s/Aerqqi4iXcB"},
+const aliData = [{name:"名称：我要逆风去(2023) S01E01-E10 4K",url:"https://www.aliyundrive.com/s/GN1kzAXr6RV"},
+{name:"名称：我的助理不简单(2023) S01完结 4K",url:"https://www.aliyundrive.com/s/Aerqqi4iXcB"},
 {name:"名称：汤道 湯道 Yudo (2023) 1080p BluRay 高码 DTS 内封简繁 【刮削】",url:"https://www.aliyundrive.com/s/61MzxJGeSez"},
 {name:"名称：1947波士顿 1947 보스톤 (2023) 1080P 韩语中字",url:"https://www.aliyundrive.com/s/VTk7ftpQfym"},
 {name:"名称：极速悖论 (2023) 更6",url:"https://www.aliyundrive.com/s/Pc7nkbJFVfp"},
