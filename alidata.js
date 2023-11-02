@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：魔偶奇谭：至小帝国(2018) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/zWLewskTPAW"},
+const aliData = [{name:"名称：克洛伊(2010) 1080P REMUX 外挂中字 易和谐",url:"https://www.aliyundrive.com/s/TpcZybUq2bK"},
+{name:"名称：缩小人生(2017) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/p6WTCeFyBpS"},
+{name:"名称：气垫传奇 (2023)✨【2160p.HDR】【兼容杜比视界】12G",url:"https://www.aliyundrive.com/s/R8ncUQAzGZp"},
+{name:"名称：魔偶奇谭：至小帝国(2018) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/zWLewskTPAW"},
 {name:"名称：无处可逃(2015) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/WjnDZ2Z5gjk"},
 {name:"名称：惊曝内幕(1999) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/iMbGuLyujqH"},
 {name:"名称：爱国者游戏(1992) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/BrtvYhFC952"},
