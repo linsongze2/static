@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：全新Java进阶课【每特教育】",url:"https://www.aliyundrive.com/s/gaH6sbeFdzL"},
+const aliData = [{name:"名称：惊声尖叫6 Scream VI (2023)✨【2160p.HDR】【原轨.高码率】12.9G",url:"https://www.aliyundrive.com/s/6KwNfdFqXPc"},
+{name:"名称：全新Java进阶课【每特教育】",url:"https://www.aliyundrive.com/s/gaH6sbeFdzL"},
 {name:"名称：为有暗香来 4K60帧（30集完结）",url:"https://www.aliyundrive.com/s/gDUoAW7iFc6"},
 {name:"名称：11.02 湖人VS快船",url:"https://www.aliyundrive.com/s/iUdfzqKvBxf"},
 {name:"名称：11.02 国王vs勇士",url:"https://www.aliyundrive.com/s/USsEghHw1qV"},
