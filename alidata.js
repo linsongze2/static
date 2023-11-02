@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：孤单又灿烂的神：鬼怪",url:"https://www.aliyundrive.com/s/sBgNTS6E6wd"},
+const aliData = [{name:"名称：社会心理学（第10版）阿伦森 著 2023-03出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/CEfWq9MWTvM"},
+{name:"名称：剃刀边缘 (1980) 1080P 国英多音轨 默认英语 中英外挂/内嵌字幕",url:"https://www.aliyundrive.com/s/LPRwc2HpBJX"},
+{name:"名称：Topaz Video AI破解版(视频修复软件) v4.0.3",url:"https://www.aliyundrive.com/s/37rnACu2Tcc"},
+{name:"名称：孤单又灿烂的神：鬼怪",url:"https://www.aliyundrive.com/s/sBgNTS6E6wd"},
 {name:"名称：慈禧全传(全十册)",url:"https://www.aliyundrive.com/s/cnm7GK56LJf"},
 {name:"名称：西方哲学史讲演录 / 赵林著 2022-01出版 【豆瓣高分热门Top10哲学史图书】【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/BSDx2mMXN2c"},
 {name:"名称：【11月02日】NBA常规赛 2023-24赛季 完整录像回放",url:"https://www.aliyundrive.com/s/n5HYk7BbR9h"},
