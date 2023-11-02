@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：狗镇 (2003) 1080P 内嵌中字",url:"https://www.aliyundrive.com/s/UDtNedwBy8d"},
+const aliData = [{name:"名称：耶稣革命 (2023)✨【1080p.SDR】2.3G",url:"https://www.aliyundrive.com/s/X2hBie2orTo"},
+{name:"名称：一个好人 (2023)✨【1080p.SDR】【原轨.高码率】6.1G",url:"https://www.aliyundrive.com/s/8PeUXdWHPCC"},
+{name:"名称：狗镇 (2003) 1080P 内嵌中字",url:"https://www.aliyundrive.com/s/UDtNedwBy8d"},
 {name:"名称：犬之岛 (2018) 4K WEB-DL 内封中字",url:"https://www.aliyundrive.com/s/1kNQiaDHQ4i"},
 {name:"名称：爱乐之城 (2016) 4K REMUX 内封中字",url:"https://www.aliyundrive.com/s/T5313p48enz"},
 {name:"名称：燃烧女子的肖像 (2019) 1080P 内嵌中字",url:"https://www.aliyundrive.com/s/b3tv5XiJPek"},
