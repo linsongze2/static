@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：魔鬼的计谋",url:"https://www.aliyundrive.com/s/8QFgdGpV3f6"},
+const aliData = [{name:"名称：《新IP大趋势》2023-05出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/efr9JTvGbeV"},
+{name:"名称：秋菊打官司 (1992) 澳版原盘REMUX [内封简繁中字]",url:"https://www.aliyundrive.com/s/4zBHBbQi4Dd"},
+{name:"名称：《规则的悖论：想象背后的技术、愚笨与权力诱惑》2023-04出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/VYPYNbXnAwB"},
+{name:"名称：魔鬼的计谋",url:"https://www.aliyundrive.com/s/8QFgdGpV3f6"},
 {name:"名称：好书推荐：《五维思考法》-爱德华·伯格",url:"https://www.aliyundrive.com/s/A4Zz3pnk3Xg"},
 {name:"名称：我的女神室友斗娜",url:"https://www.aliyundrive.com/s/DzSKAMRKbUh"},
 {name:"名称：国医绝学家庭使用手册",url:"https://www.aliyundrive.com/s/HbMFWa4fB9H"},
