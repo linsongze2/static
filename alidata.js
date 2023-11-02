@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：好书推荐：《五维思考法》-爱德华·伯格",url:"https://www.aliyundrive.com/s/A4Zz3pnk3Xg"},
+const aliData = [{name:"名称：魔鬼的计谋",url:"https://www.aliyundrive.com/s/8QFgdGpV3f6"},
+{name:"名称：好书推荐：《五维思考法》-爱德华·伯格",url:"https://www.aliyundrive.com/s/A4Zz3pnk3Xg"},
 {name:"名称：我的女神室友斗娜",url:"https://www.aliyundrive.com/s/DzSKAMRKbUh"},
 {name:"名称：国医绝学家庭使用手册",url:"https://www.aliyundrive.com/s/HbMFWa4fB9H"},
 {name:"名称：最后的真相 (2023) 4K 黄晓明/闫妮",url:"https://www.aliyundrive.com/s/VTWnanFXjzn"},
