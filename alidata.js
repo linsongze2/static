@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：西方哲学史讲演录 / 赵林著 2022-01出版 【豆瓣高分热门Top10哲学史图书】【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/BSDx2mMXN2c"},
+const aliData = [{name:"名称：孤单又灿烂的神：鬼怪",url:"https://www.aliyundrive.com/s/sBgNTS6E6wd"},
+{name:"名称：慈禧全传(全十册)",url:"https://www.aliyundrive.com/s/cnm7GK56LJf"},
+{name:"名称：西方哲学史讲演录 / 赵林著 2022-01出版 【豆瓣高分热门Top10哲学史图书】【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/BSDx2mMXN2c"},
 {name:"名称：【11月02日】NBA常规赛 2023-24赛季 完整录像回放",url:"https://www.aliyundrive.com/s/n5HYk7BbR9h"},
 {name:"名称：软件测试之JMeter高级性能测试训练营（别再用loadrunner了）",url:"https://www.aliyundrive.com/s/yPpiEMJbzaR"},
 {name:"名称：阿方斯(2023) S01 4K HDR 内封简繁",url:"https://www.aliyundrive.com/s/Vcip8nZEU4E"},
