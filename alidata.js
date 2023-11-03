@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：精神病房也会迎来清晨 정신병동에도 아침이 와요 (2023)[全12集]",url:"https://www.aliyundrive.com/s/WJsR4d3aerS"},
+const aliData = [{name:"名称：V世代 GEN V (2023) 1080/4K 8集完结",url:"https://www.aliyundrive.com/s/Fa9cwoEFCME"},
+{name:"名称：精神病房也会迎来清晨 정신병동에도 아침이 와요 (2023)[全12集]",url:"https://www.aliyundrive.com/s/WJsR4d3aerS"},
 {name:"名称：灾难艺术家 (2017) 4K HDR 中英外挂字幕",url:"https://www.aliyundrive.com/s/es9uHrw6Mib"},
 {name:"名称：体系课-Java工程师 2022版",url:"https://www.aliyundrive.com/s/udaGjNLJ9w7"},
 {name:"名称：蓝眼武士 Blue Eye Samurai (2023) 8集完结",url:"https://www.aliyundrive.com/s/isiWuxij5hz"},
