@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：猩球崛起（系列） 4K HDR 国英音轨 内封特效 FRDS 蓝光版 【刮削】",url:"https://www.aliyundrive.com/s/TULurMtXvra"},
+const aliData = [{name:"名称：白夜追凶 (2017)✨【2160p.SDR】【60fps】【原轨.高码率】2G/集",url:"https://www.aliyundrive.com/s/qwreGKKBQmX"},
+{name:"名称：战争之王 Lord of War (2005) 4K HDR 国英音轨 内封特效 【豆瓣 Top250】【刮削】",url:"https://www.aliyundrive.com/s/6F4PcZX6Ysm"},
+{name:"名称：猩球崛起（系列） 4K HDR 国英音轨 内封特效 FRDS 蓝光版 【刮削】",url:"https://www.aliyundrive.com/s/TULurMtXvra"},
 {name:"名称：无间之战 (2023) 4K 国粤双音轨",url:"https://www.aliyundrive.com/s/5qTrfqCJeWN"},
 {name:"名称：潜伏 (2008)✨【2160p.SDR】【未修复】1.4G/集",url:"https://www.aliyundrive.com/s/gbR3CWQPBcq"},
 {name:"名称：Kali零基础 Web 安全渗透工程师实战就业班",url:"https://www.aliyundrive.com/s/v4SLqzV4QjV"},
