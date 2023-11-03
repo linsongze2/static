@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：kali渗透测试+web安全高级工程师",url:"https://www.aliyundrive.com/s/iRi77qsLL2n"},
+const aliData = [{name:"名称：【11月03日】NBA常规赛 2023-24赛季 完整录像回放",url:"https://www.aliyundrive.com/s/FJfdmQQ4cLZ"},
+{name:"名称：React核心技术与开发实战",url:"https://www.aliyundrive.com/s/kX7GZYJCPhn"},
+{name:"名称：kali渗透测试+web安全高级工程师",url:"https://www.aliyundrive.com/s/iRi77qsLL2n"},
 {name:"名称：红色 (2014)✨【2160p.SDR】【原轨.高码率】4.8G/集",url:"https://www.aliyundrive.com/s/irKNP25DC5D"},
 {name:"名称：白夜追凶 (2017)✨【2160p.SDR】【60fps】【原轨.高码率】2G/集",url:"https://www.aliyundrive.com/s/qwreGKKBQmX"},
 {name:"名称：战争之王 Lord of War (2005) 4K HDR 国英音轨 内封特效 【豆瓣 Top250】【刮削】",url:"https://www.aliyundrive.com/s/6F4PcZX6Ysm"},
