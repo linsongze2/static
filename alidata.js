@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：七人的逃脱 7인의 탈출 (2023) [更新至13集]",url:"https://www.aliyundrive.com/s/jFZZihyASRR"},
+const aliData = [{name:"名称：永生战士 (2023)✨【2160p.HDR】【兼容杜比视界】16G",url:"https://www.aliyundrive.com/s/c1cmvneCfin"},
+{name:"名称：七人的逃脱 7인의 탈출 (2023) [更新至13集]",url:"https://www.aliyundrive.com/s/jFZZihyASRR"},
 {name:"名称：侏罗纪公园(1993)4K PROPER REMUX",url:"https://www.aliyundrive.com/s/H9PTEtZY98V"},
 {name:"名称：侏罗纪公园2：失落的世界(1997)4K PROPER REMUX",url:"https://www.aliyundrive.com/s/Q8aKxsqNTFu"},
 {name:"名称：侏罗纪公园3(2001)4K PROPER REMUX",url:"https://www.aliyundrive.com/s/hMYxJupT4uH"},
