@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：晋江VIP穿越文完结合集(TXT格式40部)",url:"https://www.aliyundrive.com/s/J3R7EbABRgz"},
+const aliData = [{name:"名称：白人的工资 | 电子书籍",url:"https://www.aliyundrive.com/s/8czNLmeiyP2"},
+{name:"名称：晋江VIP穿越文完结合集(TXT格式40部)",url:"https://www.aliyundrive.com/s/J3R7EbABRgz"},
 {name:"名称：中信十年经典：大历史十书（套装共10册）",url:"https://www.aliyundrive.com/s/DDBGgFXM8kk"},
 {name:"名称：斯巴达克斯 1-3季 无删减 高码率1080P 内封中英特效字幕【易河蟹，速存】",url:"https://www.aliyundrive.com/s/sG8rS955jyn"},
 {name:"名称：Three.js企业3D可视化实战项目WEBGL系统体系课程",url:"https://www.aliyundrive.com/s/nacE3c8UKBH"},
