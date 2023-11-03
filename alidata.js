@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【11月03日】NBA常规赛 2023-24赛季 完整录像回放",url:"https://www.aliyundrive.com/s/FJfdmQQ4cLZ"},
+const aliData = [{name:"名称：单干：成为超级个体的49 个关键动作",url:"https://www.aliyundrive.com/s/CsbtGd1QeMj"},
+{name:"名称：【11月03日】NBA常规赛 2023-24赛季 完整录像回放",url:"https://www.aliyundrive.com/s/FJfdmQQ4cLZ"},
 {name:"名称：React核心技术与开发实战",url:"https://www.aliyundrive.com/s/kX7GZYJCPhn"},
 {name:"名称：kali渗透测试+web安全高级工程师",url:"https://www.aliyundrive.com/s/iRi77qsLL2n"},
 {name:"名称：红色 (2014)✨【2160p.SDR】【原轨.高码率】4.8G/集",url:"https://www.aliyundrive.com/s/irKNP25DC5D"},
