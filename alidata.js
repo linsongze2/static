@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：暗杀教室》 🎉 | 动漫+真人版+剧场版 | 中文字幕🎊",url:"https://www.aliyundrive.com/s/8gN3tcppSmd"},
+const aliData = [{name:"名称：对手 (2021)✨【2160p.SDR】【原轨.高码率】850M/集",url:"https://www.aliyundrive.com/s/rkLvcKeFPPb"},
+{name:"名称：暗杀教室》 🎉 | 动漫+真人版+剧场版 | 中文字幕🎊",url:"https://www.aliyundrive.com/s/8gN3tcppSmd"},
 {name:"名称：威尼斯惊魂夜(2023) 4K HDR&amp;DV 外挂特效简英 补",url:"https://www.aliyundrive.com/s/2nRqMQwPvJs"},
 {name:"名称：《博弈论：每个人都能成为决策高手》 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/NccmeCqETR3"},
 {name:"名称：风筝 (2017)✨【2160p.SDR】【原轨.高画质】1.2G/集",url:"https://www.aliyundrive.com/s/Asz5hcmrK1t"},
