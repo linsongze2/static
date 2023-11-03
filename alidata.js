@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：大主宰年番 2023 4K高码 更新21集",url:"https://www.aliyundrive.com/s/ggVHChZQqcC"},
+const aliData = [{name:"名称：90天B端产品经理实战班",url:"https://www.aliyundrive.com/s/GCXSuxbvsK9"},
+{name:"名称：大主宰年番 2023 4K高码 更新21集",url:"https://www.aliyundrive.com/s/ggVHChZQqcC"},
 {name:"名称：面目全非 FUBAR (2023) S01 1080p HDR + 4K HDR 内封双语 / 简繁 【刮削】",url:"https://www.aliyundrive.com/s/wu7WTWhXczH"},
 {name:"名称：有声书 - 父母与孩子沟通相处五门必修大课",url:"https://www.aliyundrive.com/s/AxMhBn3YxSd"},
 {name:"名称：10000个科学难题丛书合集 | 电子书籍【PDF】",url:"https://www.aliyundrive.com/s/QqstX4s7Fwt"},
