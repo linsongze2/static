@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：平原上的摩西 (2023)✨【2160p.SDR】【原轨.高码率】2.3G/集",url:"https://www.aliyundrive.com/s/RChyf9TJvME"},
+const aliData = [{name:"名称：迷镇凶案 (2017) 4K HDR 中英外挂字幕",url:"https://www.aliyundrive.com/s/VLsCT3XBBHv"},
+{name:"名称：平原上的摩西 (2023)✨【2160p.SDR】【原轨.高码率】2.3G/集",url:"https://www.aliyundrive.com/s/RChyf9TJvME"},
 {name:"名称：十日游戏 (2020)✨【2160p.SDR】【原轨.高画质】1.1G/集",url:"https://www.aliyundrive.com/s/A2eFnCey8FR"},
 {name:"名称：活埋 (2010)✨【1080p.SDR】【蓝光原盘】【原轨.高码率】25.5G",url:"https://www.aliyundrive.com/s/T98BExVJ8hV"},
 {name:"名称：异物志 (2022)✨【2160p.SDR】【原轨.高画质】640M/集",url:"https://www.aliyundrive.com/s/cHFYT4HKJ59"},
