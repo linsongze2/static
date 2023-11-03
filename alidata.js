@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：逃亡(2023) S01 4K HDR 内封简繁",url:"https://www.aliyundrive.com/s/xTLY6L83Pqn"},
+const aliData = [{name:"名称：蓝眼武士 Blue Eye Samurai (2023) 8集完结",url:"https://www.aliyundrive.com/s/isiWuxij5hz"},
+{name:"名称：逃亡(2023) S01 4K HDR 内封简繁",url:"https://www.aliyundrive.com/s/xTLY6L83Pqn"},
 {name:"名称：体系课-Web前端架构师2021版",url:"https://www.aliyundrive.com/s/QTLupzgDi9M"},
 {name:"名称：完美世界(2021) S01E135 4K",url:"https://www.aliyundrive.com/s/8AcFncjpyxK"},
 {name:"名称：治愈系恋人 [2023] 4K60FPS 更新06集 官方60帧流媒体源它来了",url:"https://www.aliyundrive.com/s/R8yQNacFQ8k"},
