@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：《穿透财报，发现互联网的商业逻辑》2022-07出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/X1CRtyJMSPh"},
+const aliData = [{name:"名称：治愈系恋人 [2023] 4K60FPS 更新08集",url:"https://www.aliyundrive.com/s/atpW7dwrTNk"},
+{name:"名称：上载新生 S03 (2023) 2160p HDR + 1080p 高码率 内封多国语 更EP06 【附一二季4K+1080】【刮削】",url:"https://www.aliyundrive.com/s/LpemA2Dnpo2"},
+{name:"名称：Java并发编程高阶技术-高性能并发框架源码解析与实战",url:"https://www.aliyundrive.com/s/iLDpa1wCngU"},
+{name:"名称：《穿透财报，发现互联网的商业逻辑》2022-07出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/X1CRtyJMSPh"},
 {name:"名称：台湾硬笔书法冠军叶晔：每天15分钟，3周写出一手漂亮字 | 视频课程",url:"https://www.aliyundrive.com/s/962JPhqkSre"},
 {name:"名称：《理性的艺术鉴赏》灵活运用理性的方法，轻松看懂任何艺术！ 2022-05出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/PqFMVKJt5D7"},
 {name:"名称：镇魂街 第三季 (2023) 4K 16集完结",url:"https://www.aliyundrive.com/s/kJEsAaChYX8"},
