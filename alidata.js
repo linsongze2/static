@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：以爱为营 (2023) 1080/4K 更8 白鹿/王鹤棣",url:"https://www.aliyundrive.com/s/EhrWLHh2TL1"},
+const aliData = [{name:"名称：《理性的艺术鉴赏》灵活运用理性的方法，轻松看懂任何艺术！ 2022-05出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/PqFMVKJt5D7"},
+{name:"名称：镇魂街 第三季 (2023) 4K 16集完结",url:"https://www.aliyundrive.com/s/kJEsAaChYX8"},
+{name:"名称：以爱为营 (2023) 1080/4K 更8 白鹿/王鹤棣",url:"https://www.aliyundrive.com/s/EhrWLHh2TL1"},
 {name:"名称：Spring Cloud 进阶 Alibaba 微服务体系自媒体实战",url:"https://www.aliyundrive.com/s/tNYUtK1GBTC"},
 {name:"名称：名侦探柯南 名探偵コナン 更1160",url:"https://www.aliyundrive.com/s/SfzrxrcA1Xr"},
 {name:"名称：宣判(2023) S01E01-E10 4K",url:"https://www.aliyundrive.com/s/J7gdyACkiee"},
