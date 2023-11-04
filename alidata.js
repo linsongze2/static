@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：十二猴子 12 Monkeys (2015) 四季全✨【1080p.SDR】【原轨.高码率】3.2G/集",url:"https://www.aliyundrive.com/s/fjRjZ9Anbup"},
+const aliData = [{name:"名称：熵减心理学：需要警惕的17个思维偏差 | 电子书籍",url:"https://www.aliyundrive.com/s/5sLdmQcjMUu"},
+{name:"名称：十二猴子 12 Monkeys (2015) 四季全✨【1080p.SDR】【原轨.高码率】3.2G/集",url:"https://www.aliyundrive.com/s/fjRjZ9Anbup"},
 {name:"名称：孤胆特工 (2010) 4K HDR &amp; Dv 中字外挂字幕",url:"https://www.aliyundrive.com/s/DrkBGjvB1rm"},
 {name:"名称：狄仁杰之运河惊龙 (2023) 4K",url:"https://www.aliyundrive.com/s/xnNY4pUAgU3"},
 {name:"名称：《刘澜极简管理学》2022-08出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/BvKw5QMNjz5"},
