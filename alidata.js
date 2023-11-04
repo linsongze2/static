@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：《理性的艺术鉴赏》灵活运用理性的方法，轻松看懂任何艺术！ 2022-05出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/PqFMVKJt5D7"},
+const aliData = [{name:"名称：《穿透财报，发现互联网的商业逻辑》2022-07出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/X1CRtyJMSPh"},
+{name:"名称：台湾硬笔书法冠军叶晔：每天15分钟，3周写出一手漂亮字 | 视频课程",url:"https://www.aliyundrive.com/s/962JPhqkSre"},
+{name:"名称：《理性的艺术鉴赏》灵活运用理性的方法，轻松看懂任何艺术！ 2022-05出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/PqFMVKJt5D7"},
 {name:"名称：镇魂街 第三季 (2023) 4K 16集完结",url:"https://www.aliyundrive.com/s/kJEsAaChYX8"},
 {name:"名称：以爱为营 (2023) 1080/4K 更8 白鹿/王鹤棣",url:"https://www.aliyundrive.com/s/EhrWLHh2TL1"},
 {name:"名称：Spring Cloud 进阶 Alibaba 微服务体系自媒体实战",url:"https://www.aliyundrive.com/s/tNYUtK1GBTC"},
