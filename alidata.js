@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：王牌对王牌 第八季 (2023) 更2",url:"https://www.aliyundrive.com/s/NVk9ARfJ7cZ"},
+const aliData = [{name:"名称：绯闻女孩 s1-s6 全集",url:"https://www.aliyundrive.com/s/qWgct3LiTHe"},
+{name:"名称：认知操纵—宣传如何影响我们的行为",url:"https://www.aliyundrive.com/s/3rmh44goiG4"},
+{name:"名称：小小的世界1-2季国语配音版4k（豆瓣评分9.6）",url:"https://www.aliyundrive.com/s/BjZ8sDwfu7G"},
+{name:"名称：王牌对王牌 第八季 (2023) 更2",url:"https://www.aliyundrive.com/s/NVk9ARfJ7cZ"},
 {name:"名称：营销笔记 | 电子书籍",url:"https://www.aliyundrive.com/s/tu4CFRsRB9i"},
 {name:"名称：赵.忠.祥.《动物世界》.108集纪录片",url:"https://www.aliyundrive.com/s/bQda18bWjgr"},
 {name:"名称：阿郎的故事 (1989) 原盘REMUX [内封简繁中字]",url:"https://www.aliyundrive.com/s/u5Z5x1JTc5W"},
