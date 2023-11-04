@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：儿童行为心理学",url:"https://www.aliyundrive.com/s/grkKmH2CUW8"},
+const aliData = [{name:"名称：最强大脑：20堂超实用记忆术 | 视频课程",url:"https://www.aliyundrive.com/s/sbTZ4Dps9X3"},
+{name:"名称：无人岛的Diva 무인도의 디바 (2023)[更新至03集]",url:"https://www.aliyundrive.com/s/2nXevC5tQMs"},
+{name:"名称：江湖菜馆 2季全 4K",url:"https://www.aliyundrive.com/s/6f3EVLbHpgW"},
+{name:"名称：儿童行为心理学",url:"https://www.aliyundrive.com/s/grkKmH2CUW8"},
 {name:"名称：第八个嫌疑人4K/1080p",url:"https://www.aliyundrive.com/s/qVf48zS8Cj9"},
 {name:"名称：七人的逃脱 7인의 탈출 (2023) [更新至14集]",url:"https://www.aliyundrive.com/s/jFZZihyASRR"},
 {name:"名称：真实犯罪笔记",url:"https://www.aliyundrive.com/s/HCFz9k7saad"},
