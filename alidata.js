@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：全能软件测试工程师",url:"https://www.aliyundrive.com/s/1C9frQ6FTwC"},
+const aliData = [{name:"名称：新竞争战略",url:"https://www.aliyundrive.com/s/73CtCQz9P5F"},
+{name:"名称：《卢浮宫美术作品画册》",url:"https://www.aliyundrive.com/s/5DhdRiduZir"},
+{name:"名称：全能软件测试工程师",url:"https://www.aliyundrive.com/s/1C9frQ6FTwC"},
 {name:"名称：第八个嫌疑人4K/1080p",url:"https://www.aliyundrive.com/s/3Je9eNRDo1V"},
 {name:"名称：湛庐豆瓣高分系列（套装15册）",url:"https://www.aliyundrive.com/s/5NaGFvkFy9Y"},
 {name:"名称：不去讨好任何人",url:"https://www.aliyundrive.com/s/QDCZM8kvMhE"},
