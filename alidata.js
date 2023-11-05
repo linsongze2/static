@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：斗破苍穹年番 4K 更69",url:"https://www.aliyundrive.com/s/mcxEcngxFqu"},
+const aliData = [{name:"名称：GT赛车：极速狂飙(2023) 4K原盘 P7双层杜比视界 特效字幕",url:"https://www.aliyundrive.com/s/gfgi6gB5PDr"},
+{name:"名称：无人岛的Diva (2023) 1080p NF DDP2.0 内封多国语 更EP03【热播韩剧】【刮削】",url:"https://www.aliyundrive.com/s/kF1TAdtHaFg"},
+{name:"名称：斗破苍穹年番 4K 更69",url:"https://www.aliyundrive.com/s/mcxEcngxFqu"},
 {name:"名称：七人的逃脱 / 7人的逃脱 (2023) 1080p 高码率 内封简繁英 更EP14【热播悬疑韩剧】【刮削】",url:"https://www.aliyundrive.com/s/BMSJd5Jgs4d"},
 {name:"名称：间谍过家家 第二季 SPY×FAMILY Season 2 (2023) 更5",url:"https://www.aliyundrive.com/s/DmADT3Wu9hJ"},
 {name:"名称：银翼杀手2049 (2017) 4K REMUX 原盘 + 4K HDR 国英音轨 内封特效 【高分科幻】【刮削】",url:"https://www.aliyundrive.com/s/MwRuKadQzu8"},
