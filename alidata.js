@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：与青春期孩子的18场关键对话 | 电子书籍",url:"https://www.aliyundrive.com/s/EpLyaio1Bmf"},
+const aliData = [{name:"名称：《基因彩票：运气、平等与补偿性公正》2023-03出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/JZvs8DMD3DX"},
+{name:"名称：《心智社会 : 我们的认识决定了我们的世界》2023-04出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/89Az7HXQE1G"},
+{name:"名称：与青春期孩子的18场关键对话 | 电子书籍",url:"https://www.aliyundrive.com/s/EpLyaio1Bmf"},
 {name:"名称：恶人传记 악인전기 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/axuHu5tdcL1"},
 {name:"名称：猜谜女士 Quiz Lady (2023) 2160p 高码 内封多国语【喜剧】",url:"https://www.aliyundrive.com/s/16vE45sUCiw"},
 {name:"名称：瑞秋美式英语Rachel美语发音全集（带字幕）",url:"https://www.aliyundrive.com/s/9B8VsKCoKhP"},
