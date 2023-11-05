@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：悍城 (2018) 4K",url:"https://www.aliyundrive.com/s/iRbX3kaickA"},
+const aliData = [{name:"名称：风起西州 (2023) 1080/4K 更1 古力娜扎",url:"https://www.aliyundrive.com/s/3ovqvkiU3DZ"},
+{name:"名称：悍城 (2018) 4K",url:"https://www.aliyundrive.com/s/iRbX3kaickA"},
 {name:"名称：GT赛车：极速狂飙(2023) 4K原盘 P7双层杜比视界 特效字幕",url:"https://www.aliyundrive.com/s/gfgi6gB5PDr"},
 {name:"名称：无人岛的Diva (2023) 1080p NF DDP2.0 内封多国语 更EP03【热播韩剧】【刮削】",url:"https://www.aliyundrive.com/s/kF1TAdtHaFg"},
 {name:"名称：斗破苍穹年番 4K 更69",url:"https://www.aliyundrive.com/s/mcxEcngxFqu"},
