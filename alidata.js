@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：拾荒者统治(2023) 1080P 外挂中字 更新至9集",url:"https://www.aliyundrive.com/s/GsvS71Yitug"},
+const aliData = [{name:"名称：名侦探柯南/名探偵コナン 更至1102集即1160",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
+{name:"名称：拾荒者统治(2023) 1080P 外挂中字 更新至9集",url:"https://www.aliyundrive.com/s/GsvS71Yitug"},
 {name:"名称：无敌少侠(2021) 1080P 内封中字 S01 S02-E01",url:"https://www.aliyundrive.com/s/dVHBZUieMsR"},
 {name:"名称：进击的巨人 最终季 完结篇 后篇（2023）1080P 官方中字",url:"https://www.aliyundrive.com/s/pwqmquDMrvR"},
 {name:"名称：通胀陷阱—疫情后财务生存应急手册",url:"https://www.aliyundrive.com/s/oLviU8LfcSw"},
