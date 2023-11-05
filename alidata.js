@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：《存在心理学探索》2023-01再版，马斯洛带你探讨自我实现与成长【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/JaVegeqFmrb"},
+const aliData = [{name:"名称：第八个嫌疑人 (2023) 4K WEB [简英双字][高码版]",url:"https://www.aliyundrive.com/s/d2n3eb1zwtr"},
+{name:"名称：中国精英与政治变迁",url:"https://www.aliyundrive.com/s/HXvkzr8Cdxf"},
+{name:"名称：《魔鬼聊天术》",url:"https://www.aliyundrive.com/s/NcBJ5Bv6bsT"},
+{name:"名称：《存在心理学探索》2023-01再版，马斯洛带你探讨自我实现与成长【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/JaVegeqFmrb"},
 {name:"名称：《万物认知指南》2023-01出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/JnbPMjp3vbJ"},
 {name:"名称：万神殿 (2023) 1080P 中字外挂字幕",url:"https://www.aliyundrive.com/s/zZnpny59iiW"},
 {name:"名称：善用幽默，全世界都会欢迎你 | 电子书籍",url:"https://www.aliyundrive.com/s/T5gg7BWhP5W"},
