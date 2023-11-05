@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：又是吴海英(2016) S01 1080P 内封简繁",url:"https://www.aliyundrive.com/s/S2tYSpQwtDB"},
+const aliData = [{name:"名称：零基础学 Java",url:"https://www.aliyundrive.com/s/WqRX2Jm5nYA"},
+{name:"名称：又是吴海英(2016) S01 1080P 内封简繁",url:"https://www.aliyundrive.com/s/S2tYSpQwtDB"},
 {name:"名称：难以置信(2019) S01 4K HDR&amp;DV 内封简繁",url:"https://www.aliyundrive.com/s/zWXSGjCbMJu"},
 {name:"名称：经史 百家 杂钞 套装 共 8 册 （ 全本 全注 全译 ）",url:"https://www.aliyundrive.com/s/6yQxMT1EW6f"},
 {name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/RPZfjYLTpPy"},
