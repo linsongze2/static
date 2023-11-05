@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：JavaEE企业级分布式高级架构师023期",url:"https://www.aliyundrive.com/s/tuPs8hpDXWo"},
+const aliData = [{name:"名称：鸡皮疙瘩(2023) S01E01-E08 4K HDR",url:"https://www.aliyundrive.com/s/R3PfiszdiFn"},
+{name:"名称：JavaEE企业级分布式高级架构师023期",url:"https://www.aliyundrive.com/s/tuPs8hpDXWo"},
 {name:"名称：鼠胆龙威1995国语中字4K",url:"https://www.aliyundrive.com/s/kf9zZvDybw7"},
 {name:"名称：为什么和你说话这么累 | 电子书籍",url:"https://www.aliyundrive.com/s/S1G8uJyiC5m"},
 {name:"名称：老友记 10季全 1080P 中英硬字幕",url:"https://www.aliyundrive.com/s/qGCbVzoatu1"},
