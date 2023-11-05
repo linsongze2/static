@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：浮世烦恼 | 电子书籍",url:"https://www.aliyundrive.com/s/tBoqP9eENnq"},
+const aliData = [{name:"名称：少年包青天（全3季，4K，已刮削，emby、infuse完美观看）",url:"https://www.aliyundrive.com/s/12HHeEQdPXX"},
+{name:"名称：大白鲨 (2013) 4K REMUX(蓝光 原盘) 中字外挂字幕",url:"https://www.aliyundrive.com/s/DyFAUhaZWRm"},
+{name:"名称：浮世烦恼 | 电子书籍",url:"https://www.aliyundrive.com/s/tBoqP9eENnq"},
 {name:"名称：骨科标准技术丛书（第3版）",url:"https://www.aliyundrive.com/s/z5Mmbh6F3Uu"},
 {name:"名称：为全人类 For All Mankind (2019) 三季全✨【2160p.HDR】",url:"https://www.aliyundrive.com/s/vYJzyQeZs2V"},
 {name:"名称：海贼王",url:"https://www.aliyundrive.com/s/urFRxBijdmW"},
