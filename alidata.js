@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：猜谜女士 Quiz Lady (2023) 1080/4K HDR",url:"https://www.aliyundrive.com/s/2S7iTLG2rWd"},
+const aliData = [{name:"名称：云原生训练营",url:"https://www.aliyundrive.com/s/kLPHToz7WnF"},
+{name:"名称：猜谜女士 Quiz Lady (2023) 1080/4K HDR",url:"https://www.aliyundrive.com/s/2S7iTLG2rWd"},
 {name:"名称：蚊子海岸 The Mosquito Coast (2021) 两季全✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/vAzpDjJnYWM"},
 {name:"名称：西部世界 Westworld (2016) 四季全✨【2160p.HDR】【兼容杜比视界】【蓝光原盘】20G/集",url:"https://www.aliyundrive.com/s/qjN7o9tADei"},
 {name:"名称：天若有情 (1990) 4K 英版修复 国粤双音轨 默认粤语 中字内嵌字幕",url:"https://www.aliyundrive.com/s/b2EZ7Cfe22m"},
