@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：无人岛的Diva 무인도의 디바 (2023) 1080p NF 内封多国语 更E04",url:"https://www.aliyundrive.com/s/4b2Sv4gLkTL"},
+const aliData = [{name:"名称：边缘世界 The Peripheral (2022) 2160p HDR 外挂双语 【科幻美剧】【刮削】",url:"https://www.aliyundrive.com/s/kEVkSyaxeBB"},
+{name:"名称：无人岛的Diva 무인도의 디바 (2023) 1080p NF 内封多国语 更E04",url:"https://www.aliyundrive.com/s/4b2Sv4gLkTL"},
 {name:"名称：《领导者的心智模型》2023-01出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/fr2z4mdp7A4"},
 {name:"名称：赌命为王 精英之王 (2022) 两季全✨【2160p.HDR】【原轨.高码率】5.6G/集",url:"https://www.aliyundrive.com/s/H2Ws85rw8Tg"},
 {name:"名称：在京都小住 (2022)✨【1080p.SDR】【原轨】650M/集",url:"https://www.aliyundrive.com/s/B1JsPUSXUXZ"},
