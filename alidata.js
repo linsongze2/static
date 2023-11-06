@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：再见，成人杂志(2022) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/T3J7GxPSCL7"},
+const aliData = [{name:"名称：庄晓丹 - 情绪舵手：做情绪的主人 | 视频课程",url:"https://www.aliyundrive.com/s/x2FCt885c6a"},
+{name:"名称：再见，成人杂志(2022) 1080p 内封简繁",url:"https://www.aliyundrive.com/s/T3J7GxPSCL7"},
 {name:"名称：《逆袭：大学四年成功蜕变线路图》",url:"https://www.aliyundrive.com/s/tBvWv6sKvXr"},
 {name:"名称：《魔鬼沟通学》2023-03出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/pQh5XZwvGGB"},
 {name:"名称：Elasticsearch 核心技术与实战",url:"https://www.aliyundrive.com/s/UtUCqojk9xR"},
