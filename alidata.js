@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：最后的真相 (2023) 4K 高码 DDP5.1 黄晓明 / 闫妮 【刮削】【易和谐】",url:"https://www.aliyundrive.com/s/iqLyriEad5N"},
+const aliData = [{name:"名称：黛西与乐队 (2023)✨【2160p.HDR】【原轨.高码率】5G/集",url:"https://www.aliyundrive.com/s/FfdZgDQZrHS"},
+{name:"名称：成瘾剂量 (2021)✨【2160p.SDR】【原轨.高码率】6.8G/集",url:"https://www.aliyundrive.com/s/hExsNfTtFgP"},
+{name:"名称：最后的真相 (2023) 4K 高码 DDP5.1 黄晓明 / 闫妮 【刮削】【易和谐】",url:"https://www.aliyundrive.com/s/iqLyriEad5N"},
 {name:"名称：大力女子姜南顺(2023) S01E01-E10 1080P",url:"https://www.aliyundrive.com/s/uYtkf3M4J9a"},
 {name:"名称：爱的亡灵 (1978) 4K 中字内嵌字幕",url:"https://www.aliyundrive.com/s/QZqLzNBU14n"},
 {name:"名称：岁岁青莲 (2023) 4K更新26集",url:"https://www.aliyundrive.com/s/TLECGnd8aS6"},
