@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Selenium自动化测试实战",url:"https://www.aliyundrive.com/s/VJQPVxaNm4E"},
+const aliData = [{name:"名称：诊疗中 Shrinking (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/s96t9Cwaov7"},
+{name:"名称：Selenium自动化测试实战",url:"https://www.aliyundrive.com/s/VJQPVxaNm4E"},
 {name:"名称：高效决策法系列：原则+对赌+富人思维+思维的发现+助推 | 电子书籍",url:"https://www.aliyundrive.com/s/EsS9EnnwaeE"},
 {name:"名称：三十六骑 4K 更新06集",url:"https://www.aliyundrive.com/s/B3JcchLdqCy"},
 {name:"名称：环形物语 Tales from the Loop (2020)✨【2160p.HDR】【原轨.高码率】",url:"https://www.aliyundrive.com/s/qBGQV3dhyGR"},
