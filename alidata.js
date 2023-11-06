@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：DaVinci Resolve 18初学者指南（中文版）",url:"https://www.aliyundrive.com/s/RQnmzPhuLWH"},
+const aliData = [{name:"名称：Cocos Creator+TypeScript 制作《纸牌》游戏并上架App Store赚广告费",url:"https://www.aliyundrive.com/s/Uh8HgHyuFhQ"},
+{name:"名称：V世代 (2023) 4K HDR 完结 中字外挂字幕",url:"https://www.aliyundrive.com/s/Y9KrbHrGDFR"},
+{name:"名称：《没用的知识又增加了》2023-02出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/Td1SBxixLcc"},
+{name:"名称：DaVinci Resolve 18初学者指南（中文版）",url:"https://www.aliyundrive.com/s/RQnmzPhuLWH"},
 {name:"名称：DaVinci Resolve 18初学者指南（中文版）",url:"https://www.aliyundrive.com/s/RQnmzPhuLWH6"},
 {name:"名称：心理韧性的力量 | 电子书籍",url:"https://www.aliyundrive.com/s/oLiNdZobrKT"},
 {name:"名称：【B站】英语六级CET6全程班",url:"https://www.aliyundrive.com/s/HzXzAke7hx7"},
