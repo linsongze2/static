@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：名姝 Harlots (2017) 三季全✨【1080p.SDR】【原轨.高画质】1.2G/集",url:"https://www.aliyundrive.com/s/mfpn4pcMWbp"},
+const aliData = [{name:"名称：环形物语 Tales from the Loop (2020)✨【2160p.HDR】【原轨.高码率】",url:"https://www.aliyundrive.com/s/qBGQV3dhyGR"},
+{name:"名称：衡水中学资料大全",url:"https://www.aliyundrive.com/s/MNpRa54J9xA"},
+{name:"名称：名姝 Harlots (2017) 三季全✨【1080p.SDR】【原轨.高画质】1.2G/集",url:"https://www.aliyundrive.com/s/mfpn4pcMWbp"},
 {name:"名称：黑道律师文森佐 빈센조 (2021)✨【1080p.SDR】【字幕组版】3.1G/集",url:"https://www.aliyundrive.com/s/L4iyhB1fXQx"},
 {name:"名称：南方车站的聚会 (2019) 原盘REMUX [内封简繁双语字幕]",url:"https://www.aliyundrive.com/s/35PdP169pUp"},
 {name:"名称：人工性智能 (2018) 1080P 中英内嵌字幕",url:"https://www.aliyundrive.com/s/2FGG1FLRUw7"},
