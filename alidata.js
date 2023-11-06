@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：高维度思考法：如何从解决问题进化到发现问题 | 电子书籍",url:"https://www.aliyundrive.com/s/Ahhk13rdB6y"},
+const aliData = [{name:"名称：《图像思考术》 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/bMJbqJ4Rk1h"},
+{name:"名称：《65种微习惯：轻松掌控你的行为、思维和情绪》 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/NsBDv6cqz2d"},
+{name:"名称：高维度思考法：如何从解决问题进化到发现问题 | 电子书籍",url:"https://www.aliyundrive.com/s/Ahhk13rdB6y"},
 {name:"名称：侦探米娜 P.I. Meena (2023) 2160p HDR10+ 内封多国语 8集全【惊悚剧】",url:"https://www.aliyundrive.com/s/AvFHyxWpaNQ"},
 {name:"名称：姜子牙 (2020) 4K 中字硬字幕",url:"https://www.aliyundrive.com/s/pA1EQivAxcj"},
 {name:"名称：Android 扫描全能王 v6.52.0.2311030000 解锁收费特别版",url:"https://www.aliyundrive.com/s/bWr4r8BorYP"},
