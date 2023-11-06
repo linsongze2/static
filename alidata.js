@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：幻象（中文版首度引进）",url:"https://www.aliyundrive.com/s/WnNHATjU1fV"},
+const aliData = [{name:"名称：杀了我治愈我✨【1080p.SDR】【硬字幕】2.1G/集",url:"https://www.aliyundrive.com/s/13mibbfpoeM"},
+{name:"名称：幻象（中文版首度引进）",url:"https://www.aliyundrive.com/s/WnNHATjU1fV"},
 {name:"名称：匹诺曹 피노키오 (2014)✨【1080p.SDR】【字幕组版】2G/集",url:"https://www.aliyundrive.com/s/Em9UqgKN64E"},
 {name:"名称：好书推荐：《价值投资与常赢之道（套装共10册）》",url:"https://www.aliyundrive.com/s/AEZ1jRRaPzr"},
 {name:"名称：我记得(2022) 1080P 内封中字",url:"https://www.aliyundrive.com/s/TBWC19oW4nV"},
