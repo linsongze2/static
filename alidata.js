@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【B站】英语六级CET6全程班",url:"https://www.aliyundrive.com/s/HzXzAke7hx7"},
+const aliData = [{name:"名称：心理韧性的力量 | 电子书籍",url:"https://www.aliyundrive.com/s/oLiNdZobrKT"},
+{name:"名称：【B站】英语六级CET6全程班",url:"https://www.aliyundrive.com/s/HzXzAke7hx7"},
 {name:"名称：顶楼 (2020) 三季全✨【1080p.SDR】【原轨.高码率】2.8G/集",url:"https://www.aliyundrive.com/s/Fm1Ka1opvpC"},
 {name:"名称：迎刃 - 人人都需要的自信沟通秘籍 | 视频课程",url:"https://www.aliyundrive.com/s/kLQYFXLST6j"},
 {name:"名称：后翼弃兵 (2020)✨【2160p.HDR】【原轨.高码率】7.1G/集",url:"https://www.aliyundrive.com/s/DYxeWKYTvdZ"},
