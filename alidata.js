@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：《图像思考术》 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/bMJbqJ4Rk1h"},
+const aliData = [{name:"名称：镀金时代 第二季 The Gilded Age (2023) 更2 豆瓣8.6",url:"https://www.aliyundrive.com/s/vhSeV9yZvSi"},
+{name:"名称：《图像思考术》 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/bMJbqJ4Rk1h"},
 {name:"名称：《65种微习惯：轻松掌控你的行为、思维和情绪》 【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/NsBDv6cqz2d"},
 {name:"名称：高维度思考法：如何从解决问题进化到发现问题 | 电子书籍",url:"https://www.aliyundrive.com/s/Ahhk13rdB6y"},
 {name:"名称：侦探米娜 P.I. Meena (2023) 2160p HDR10+ 内封多国语 8集全【惊悚剧】",url:"https://www.aliyundrive.com/s/AvFHyxWpaNQ"},
