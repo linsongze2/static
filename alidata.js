@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：极速悖论 (2023) 更10",url:"https://www.aliyundrive.com/s/5wyccXBB4Yi"},
+const aliData = [{name:"名称：对话叛逆期 ：父母语言训练手册（2022年2月第1版）",url:"https://www.aliyundrive.com/s/pSkdKbc9ptP"},
+{name:"名称：樊登读书会 2023年更新至1104 掌控注意力",url:"https://www.aliyundrive.com/s/qHp5YYyKXnd"},
+{name:"名称：极速悖论 (2023) 更10",url:"https://www.aliyundrive.com/s/5wyccXBB4Yi"},
 {name:"名称：TensorFlow 2 项目进阶实战",url:"https://www.aliyundrive.com/s/UZpFszPpwXG"},
 {name:"名称：辛德勒的名单 (1993) 4K REMUX + 4K HDR + 1080p高码 后两者为国英音轨 内封特效 【豆瓣Top250】【刮削】",url:"https://www.aliyundrive.com/s/yVxZxnCF7L2"},
 {name:"名称：人人都该懂的认识论 | 电子书籍",url:"https://www.aliyundrive.com/s/R8UAVLcf7i2"},
