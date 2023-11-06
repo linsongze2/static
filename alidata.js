@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【共6册】 心理学巨匠的心理秘籍 | 电子书籍",url:"https://www.aliyundrive.com/s/f4KLJSGBehM"},
+const aliData = [{name:"名称：仙逆 (2023) 4K 更9",url:"https://www.aliyundrive.com/s/ptTScRNSyrG"},
+{name:"名称：【共6册】 心理学巨匠的心理秘籍 | 电子书籍",url:"https://www.aliyundrive.com/s/f4KLJSGBehM"},
 {name:"名称：唐人街探案2 (2018) 4K 60FPS",url:"https://www.aliyundrive.com/s/LWKCjXthcLz"},
 {name:"名称：维京传奇：英灵神殿 (2022) 两季全✨【2160p.SDR】【兼容杜比视界】【原轨.高码率】6.6G/集",url:"https://www.aliyundrive.com/s/Na5YyaR3A62"},
 {name:"名称：模仿犯 (2023)✨【1080p.SDR】【原轨.高码率】2.5G/集",url:"https://www.aliyundrive.com/s/VZNnny9PTU9"},
