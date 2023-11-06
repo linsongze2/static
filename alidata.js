@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：杀了我治愈我✨【1080p.SDR】【硬字幕】2.1G/集",url:"https://www.aliyundrive.com/s/13mibbfpoeM"},
+const aliData = [{name:"名称：维京传奇：英灵神殿 (2022) 两季全✨【2160p.SDR】【兼容杜比视界】【原轨.高码率】6.6G/集",url:"https://www.aliyundrive.com/s/Na5YyaR3A62"},
+{name:"名称：模仿犯 (2023)✨【1080p.SDR】【原轨.高码率】2.5G/集",url:"https://www.aliyundrive.com/s/VZNnny9PTU9"},
+{name:"名称：魔鬼聊天术 | 电子书籍",url:"https://www.aliyundrive.com/s/HfGsjWubJhb"},
+{name:"名称：杀了我治愈我✨【1080p.SDR】【硬字幕】2.1G/集",url:"https://www.aliyundrive.com/s/13mibbfpoeM"},
 {name:"名称：幻象（中文版首度引进）",url:"https://www.aliyundrive.com/s/WnNHATjU1fV"},
 {name:"名称：匹诺曹 피노키오 (2014)✨【1080p.SDR】【字幕组版】2G/集",url:"https://www.aliyundrive.com/s/Em9UqgKN64E"},
 {name:"名称：好书推荐：《价值投资与常赢之道（套装共10册）》",url:"https://www.aliyundrive.com/s/AEZ1jRRaPzr"},
