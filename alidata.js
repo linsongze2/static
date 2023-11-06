@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：对话叛逆期 ：父母语言训练手册（2022年2月第1版）",url:"https://www.aliyundrive.com/s/pSkdKbc9ptP"},
+const aliData = [{name:"名称：儿童心理学 ： 0 ~ 8 岁 儿童 的 成长 （ 原书 第 7 版 ）",url:"https://www.aliyundrive.com/s/QabCUYBuZ2V"},
+{name:"名称：对话叛逆期 ：父母语言训练手册（2022年2月第1版）",url:"https://www.aliyundrive.com/s/pSkdKbc9ptP"},
 {name:"名称：樊登读书会 2023年更新至1104 掌控注意力",url:"https://www.aliyundrive.com/s/qHp5YYyKXnd"},
 {name:"名称：极速悖论 (2023) 更10",url:"https://www.aliyundrive.com/s/5wyccXBB4Yi"},
 {name:"名称：TensorFlow 2 项目进阶实战",url:"https://www.aliyundrive.com/s/UZpFszPpwXG"},
