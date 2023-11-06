@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：环形物语 Tales from the Loop (2020)✨【2160p.HDR】【原轨.高码率】",url:"https://www.aliyundrive.com/s/qBGQV3dhyGR"},
+const aliData = [{name:"名称：高效决策法系列：原则+对赌+富人思维+思维的发现+助推 | 电子书籍",url:"https://www.aliyundrive.com/s/EsS9EnnwaeE"},
+{name:"名称：三十六骑 4K 更新06集",url:"https://www.aliyundrive.com/s/B3JcchLdqCy"},
+{name:"名称：环形物语 Tales from the Loop (2020)✨【2160p.HDR】【原轨.高码率】",url:"https://www.aliyundrive.com/s/qBGQV3dhyGR"},
 {name:"名称：衡水中学资料大全",url:"https://www.aliyundrive.com/s/MNpRa54J9xA"},
 {name:"名称：名姝 Harlots (2017) 三季全✨【1080p.SDR】【原轨.高画质】1.2G/集",url:"https://www.aliyundrive.com/s/mfpn4pcMWbp"},
 {name:"名称：黑道律师文森佐 빈센조 (2021)✨【1080p.SDR】【字幕组版】3.1G/集",url:"https://www.aliyundrive.com/s/L4iyhB1fXQx"},
