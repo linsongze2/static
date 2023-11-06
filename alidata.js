@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：辛德勒的名单 (1993) 4K REMUX + 4K HDR + 1080p高码 后两者为国英音轨 内封特效 【豆瓣Top250】【刮削】",url:"https://www.aliyundrive.com/s/yVxZxnCF7L2"},
+const aliData = [{name:"名称：TensorFlow 2 项目进阶实战",url:"https://www.aliyundrive.com/s/UZpFszPpwXG"},
+{name:"名称：辛德勒的名单 (1993) 4K REMUX + 4K HDR + 1080p高码 后两者为国英音轨 内封特效 【豆瓣Top250】【刮削】",url:"https://www.aliyundrive.com/s/yVxZxnCF7L2"},
 {name:"名称：人人都该懂的认识论 | 电子书籍",url:"https://www.aliyundrive.com/s/R8UAVLcf7i2"},
 {name:"名称：张汉东的 Rust 实战课",url:"https://www.aliyundrive.com/s/4FcmchpZtgC"},
 {name:"名称：进击的巨人 最终季 完结篇 后篇 (2023) 1080p高码 内封简繁",url:"https://www.aliyundrive.com/s/fjXFffC3SSo"},
