@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Django 快速开发实战",url:"https://www.aliyundrive.com/s/vY9Ja7ebUtZ"},
+const aliData = [{name:"名称：鬼武者 (2023) 1080P 中字内嵌字幕",url:"https://www.aliyundrive.com/s/XgL1kNhcsY4"},
+{name:"名称：Django 快速开发实战",url:"https://www.aliyundrive.com/s/vY9Ja7ebUtZ"},
 {name:"名称：星际穿越 Interstellar (2014) 4K REMUX + 4K HDR + 1080p高码 后两者为国英音轨 特效字幕 【豆瓣Top250】【刮削】",url:"https://www.aliyundrive.com/s/t3kwiUiWZ6k"},
 {name:"名称：毛雪汪 (2023) 更1106 真人秀",url:"https://www.aliyundrive.com/s/2NXb8Si7V3f"},
 {name:"名称：【共18册】 通俗心理学百科合集 | 电子书籍",url:"https://www.aliyundrive.com/s/n85Hc8v3PLA"},
