@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：死神来了 (2000) 4K HDR &amp; Dv 中英外挂字幕",url:"https://www.aliyundrive.com/s/EqLiA293dAY"},
+const aliData = [{name:"名称：婚礼大捷 혼례대첩 (2023) 更3",url:"https://www.aliyundrive.com/s/XohVKr6DTki"},
+{name:"名称：死神来了 (2000) 4K HDR &amp; Dv 中英外挂字幕",url:"https://www.aliyundrive.com/s/EqLiA293dAY"},
 {name:"名称：网易9大前端项目就业实训营",url:"https://www.aliyundrive.com/s/vnQ82KNoDtb"},
 {name:"名称：拥抱星星的月亮(2015) S01 4K",url:"https://www.aliyundrive.com/s/g3JKD39vX7d"},
 {name:"名称：婚礼大捷 혼례대첩 (2023)[更新至03集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
