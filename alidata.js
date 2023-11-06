@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【电影】芬奇[中英特效字幕]",url:"https://www.aliyundrive.com/s/Ptgm6om1JVK"},
+const aliData = [{name:"名称：【超燃计划】 30天蜕变行动营，干掉平庸的自己 | 视频课程",url:"https://www.aliyundrive.com/s/jWuKQRPWN6x"},
+{name:"名称：【电影】芬奇[中英特效字幕]",url:"https://www.aliyundrive.com/s/Ptgm6om1JVK"},
 {name:"名称：微专业 - Java高级架构师 2021架构福利期",url:"https://www.aliyundrive.com/s/4SYxb3GECNQ"},
 {name:"名称：风起西州 (2023) 4K60FPS 更新05集",url:"https://www.aliyundrive.com/s/hYGsqBE4RNN"},
 {name:"名称：【11月06日】NBA常规赛 2023-24赛季 完整录像回放",url:"https://www.aliyundrive.com/s/eUzE7pFt26m"},
