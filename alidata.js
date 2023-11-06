@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：闪烁的西瓜 반짝이는 워터멜론 (2023)[更新至13集]",url:"https://www.aliyundrive.com/s/N3FLz8azoEM"},
+const aliData = [{name:"名称：婚礼大捷 혼례대첩 (2023)[更新至03集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
+{name:"名称：B站-3小时学会用Python处理Excel及各种自动化办公小案例",url:"https://www.aliyundrive.com/s/TqFRubcXD5h"},
+{name:"名称：【共4册】 谈判就要搞懂心理学 | 电子书籍",url:"https://www.aliyundrive.com/s/mtJVkhzL5bY"},
+{name:"名称：闪烁的西瓜 반짝이는 워터멜론 (2023)[更新至13集]",url:"https://www.aliyundrive.com/s/N3FLz8azoEM"},
 {name:"名称：闪烁的西瓜/闪亮的西瓜/반짝이는 워터멜론 (2023) 更13",url:"https://www.aliyundrive.com/s/5sWbtKXkMpN"},
 {name:"名称：一本书读懂中国税系列",url:"https://www.aliyundrive.com/s/4aLXwEoZtTf"},
 {name:"名称：恶人传记 악인전기 (2023) 更8",url:"https://www.aliyundrive.com/s/akcS9GAWUFL"},
