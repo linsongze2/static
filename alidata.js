@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：DaVinci Resolve 18初学者指南（中文版）",url:"https://www.aliyundrive.com/s/RQnmzPhuLWH6"},
+const aliData = [{name:"名称：DaVinci Resolve 18初学者指南（中文版）",url:"https://www.aliyundrive.com/s/RQnmzPhuLWH"},
+{name:"名称：DaVinci Resolve 18初学者指南（中文版）",url:"https://www.aliyundrive.com/s/RQnmzPhuLWH6"},
 {name:"名称：心理韧性的力量 | 电子书籍",url:"https://www.aliyundrive.com/s/oLiNdZobrKT"},
 {name:"名称：【B站】英语六级CET6全程班",url:"https://www.aliyundrive.com/s/HzXzAke7hx7"},
 {name:"名称：顶楼 (2020) 三季全✨【1080p.SDR】【原轨.高码率】2.8G/集",url:"https://www.aliyundrive.com/s/Fm1Ka1opvpC"},
