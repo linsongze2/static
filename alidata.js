@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：脱不花 - 30天沟通训练营 | 课程",url:"https://www.aliyundrive.com/s/CHLt8dmhgZb"},
+const aliData = [{name:"名称：好书推荐：心理学精品译丛（套装共3册）",url:"https://www.aliyundrive.com/s/3qyT1GmPh7H"},
+{name:"名称：脱不花 - 30天沟通训练营 | 课程",url:"https://www.aliyundrive.com/s/CHLt8dmhgZb"},
 {name:"名称：熊世界 (2014) 1080P REMUX(蓝光 原盘) 中英外挂字幕",url:"https://www.aliyundrive.com/s/nWxUU66h8ii"},
 {name:"名称：Python网络爬虫工程师系列培训视频课程（全套详细版）（无答疑）",url:"https://www.aliyundrive.com/s/VU9xZvwqdnk"},
 {name:"名称：蚁景网络安全学院网络安全课程",url:"https://www.aliyundrive.com/s/xc6bBtkrvY3"},
