@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：哈利波特 4K 120帧",url:"https://www.aliyundrive.com/s/5PJgVafgEEN"},
+const aliData = [{name:"名称：【Switch】超级马里奥 RPG.Super Mario RPG 美版中文",url:"https://www.aliyundrive.com/s/NVeErReNN1K"},
+{name:"名称：【大厂学苑】数据结构与算法 - 2021 带源码课件",url:"https://www.aliyundrive.com/s/ye61FxuG56L"},
+{name:"名称：【尚硅谷】大数据大神班V9 - 2022",url:"https://www.aliyundrive.com/s/nKzpmRpvT1Y"},
+{name:"名称：哈利波特 4K 120帧",url:"https://www.aliyundrive.com/s/5PJgVafgEEN"},
 {name:"名称：【11月11日】NBA常规赛 2023-24赛季 完整录像回放",url:"https://www.aliyundrive.com/s/AjLonKLK32Q"},
 {name:"名称：大力女子姜南顺 힘쎈여자 강남순 (2023)[更新至11集]",url:"https://www.aliyundrive.com/s/4qskndakiYh"},
 {name:"名称：【开课吧】完成你的第一个智能机器人 002期",url:"https://www.aliyundrive.com/s/9sbZNXaPZVL"},
