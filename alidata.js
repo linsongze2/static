@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：冲出地球 (2022) 4K",url:"https://www.aliyundrive.com/s/VxMhYRuqAyd"},
+const aliData = [{name:"名称：宁安如梦(2023) S01E01-E14",url:"https://www.aliyundrive.com/s/s48411ss2Y4"},
+{name:"名称：冲出地球 (2022) 4K",url:"https://www.aliyundrive.com/s/VxMhYRuqAyd"},
 {name:"名称：风起西州 (2023) 4K60FPS 更新13集",url:"https://www.aliyundrive.com/s/Sscj3PuScgk"},
 {name:"名称：杀手 The Killer (2023)✨【1080p.SDR】【原轨.高码率】4.6G",url:"https://www.aliyundrive.com/s/rNXbrYTbALP"},
 {name:"名称：鹦鹉杀 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/AKZBLLqw1J5"},
