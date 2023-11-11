@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：杀手 The Killer (2023)✨【1080p.SDR】【原轨.高码率】4.6G",url:"https://www.aliyundrive.com/s/rNXbrYTbALP"},
+const aliData = [{name:"名称：风起西州 (2023) 4K60FPS 更新13集",url:"https://www.aliyundrive.com/s/Sscj3PuScgk"},
+{name:"名称：杀手 The Killer (2023)✨【1080p.SDR】【原轨.高码率】4.6G",url:"https://www.aliyundrive.com/s/rNXbrYTbALP"},
 {name:"名称：鹦鹉杀 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/AKZBLLqw1J5"},
 {name:"名称：宁安如梦 (2023) 1080/4K 更14 白鹿/张凌赫",url:"https://www.aliyundrive.com/s/re68Ctwpknf"},
 {name:"名称：披荆斩棘的哥哥(2021) S03E18(第12期) 仅正片",url:"https://www.aliyundrive.com/s/VcHFZRQq9KS"},
