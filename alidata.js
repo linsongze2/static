@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：1883 (2021) 2160p 高码 外挂双语【高分美剧】",url:"https://www.aliyundrive.com/s/N4hrDFNVVsG"},
+const aliData = [{name:"名称：尸兄（我叫白小飞）",url:"https://www.aliyundrive.com/s/pvEgscwrTkX"},
+{name:"名称：边缘世界 (2022)✨【2160p.HDR+】【原轨.高码率】6.3G/集",url:"https://www.aliyundrive.com/s/AoTNUC9KAtC"},
+{name:"名称：1883 (2021) 2160p 高码 外挂双语【高分美剧】",url:"https://www.aliyundrive.com/s/N4hrDFNVVsG"},
 {name:"名称：怪奇物语 (2016) 全四季 1080P 内封中字",url:"https://www.aliyundrive.com/s/x7KZszbbp6i"},
 {name:"名称：想见你 (2019) 全集 1080P 内嵌中字",url:"https://www.aliyundrive.com/s/txqXZKiptsz"},
 {name:"名称：内马尔：不完美的完美球星 Neymar: The Perfect Chaos (2022) 3集完结",url:"https://www.aliyundrive.com/s/HS32RqDsAFD"},
