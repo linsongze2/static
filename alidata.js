@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我恨你的十件事(1999) 4K HDR&amp;DV 内封简繁",url:"https://www.aliyundrive.com/s/mZeAp1erfDX"},
+const aliData = [{name:"名称：无人岛的Diva 무인도의 디바 (2023)[更新至06集]",url:"https://www.aliyundrive.com/s/2nXevC5tQMs"},
+{name:"名称：我恨你的十件事(1999) 4K HDR&amp;DV 内封简繁",url:"https://www.aliyundrive.com/s/mZeAp1erfDX"},
 {name:"名称：剑指Java自研框架，决胜Spring源码",url:"https://www.aliyundrive.com/s/2jeBRNtK46z"},
 {name:"名称：伊基塔：蝎子摆尾 Higuita：El camino del Escorpión (2023) 纪录片",url:"https://www.aliyundrive.com/s/DKKrCkGzx9L"},
 {name:"名称：【 B站 】 闫帅奇 : 女性马甲线打造减脂瘦肚子方案 | 健身视频课程",url:"https://www.aliyundrive.com/s/cJYwHmyX6eo"},
