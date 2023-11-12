@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：漫长的季节 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】3.1G/集",url:"https://www.aliyundrive.com/s/dS1qmkAuhfz"},
+const aliData = [{name:"名称：《效率人生：告诉你如何迅速抵达人生的目标》",url:"https://www.aliyundrive.com/s/fNXkNPnH49F"},
+{name:"名称：漫长的季节 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】3.1G/集",url:"https://www.aliyundrive.com/s/dS1qmkAuhfz"},
 {name:"名称：不良执念清除师 (2023)✨【2160p.SDR】【原轨.高码率】1.7G/集",url:"https://www.aliyundrive.com/s/g2juANnh5zh"},
 {name:"名称：【黑马程序员】2023新版前端基础入门教程HTML5+CSS3+移动Web",url:"https://www.aliyundrive.com/s/XSZEDnZqM8W"},
 {name:"名称：【黑马程序员】Vue.js深入浅出教程",url:"https://www.aliyundrive.com/s/y3fP33H5KdZ"},
