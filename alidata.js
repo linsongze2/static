@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：《大力出奇迹：张一鸣的创业心路与算法思维》",url:"https://www.aliyundrive.com/s/XAM3xiBZnVu"},
+const aliData = [{name:"名称：心智突围：重构心智的底层逻辑 | 电子书籍",url:"https://www.aliyundrive.com/s/QMM3yXZEhft"},
+{name:"名称：斗破苍穹年番 4K 更70",url:"https://www.aliyundrive.com/s/Ksv5q4kwnKZ"},
+{name:"名称：《大力出奇迹：张一鸣的创业心路与算法思维》",url:"https://www.aliyundrive.com/s/XAM3xiBZnVu"},
 {name:"名称：七人的逃脱 7인의 탈출 (2023) 1080p 中文字幕 更E16【悬疑韩剧】",url:"https://www.aliyundrive.com/s/3gTfhZSwAAg"},
 {name:"名称：致命报应(2007) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/kcUwLfXo6tG"},
 {name:"名称：端脑-漫画",url:"https://www.aliyundrive.com/s/1xZuhr2NCmG"},
