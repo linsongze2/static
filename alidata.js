@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：从1到N实战Go改造PHP 慕优酷 视频网站",url:"https://www.aliyundrive.com/s/E1mdDsdbRWf"},
+const aliData = [{name:"名称：好好赚钱：破除认知误区，揭示财富本质",url:"https://www.aliyundrive.com/s/yBdEXeTHTap"},
+{name:"名称：从1到N实战Go改造PHP 慕优酷 视频网站",url:"https://www.aliyundrive.com/s/E1mdDsdbRWf"},
 {name:"名称：治愈系恋人 (2023) 1080/4K 更22",url:"https://www.aliyundrive.com/s/5BMR9Ngrioj"},
 {name:"名称：法医秦明之雨中协奏曲 (2023) 4K",url:"https://www.aliyundrive.com/s/PNAsKj5sRNj"},
 {name:"名称：治愈系恋人 [2023] 4K60FPS 更新22集",url:"https://www.aliyundrive.com/s/UZr2wRMPkwN"},
