@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【百战程序员】Java互联网架构师",url:"https://www.aliyundrive.com/s/QY2kut6bYwy"},
+const aliData = [{name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/t1mq9666KpQ"},
+{name:"名称：【百战程序员】Java互联网架构师",url:"https://www.aliyundrive.com/s/QY2kut6bYwy"},
 {name:"名称：战士 Jawan (2023) 1080p NF 外挂简中【印度惊悚片】",url:"https://www.aliyundrive.com/s/XgXye9J38Ch"},
 {name:"名称：不存在的战区 S1(2021) 4K 中日硬字幕",url:"https://www.aliyundrive.com/s/MALNXqrHk9D"},
 {name:"名称：完美婚姻的定式 완벽한 결혼의 정석 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/rsYnv29t7yP"},
