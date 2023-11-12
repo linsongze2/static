@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：INE机构OSCP课程",url:"https://www.aliyundrive.com/s/aDKpA6msoYh"},
+const aliData = [{name:"名称：ZoomIt(微软免费屏幕放大工具) v7.2 汉化绿色版",url:"https://www.aliyundrive.com/s/5RKZFP3cftb"},
+{name:"名称：INE机构OSCP课程",url:"https://www.aliyundrive.com/s/aDKpA6msoYh"},
 {name:"名称：【Switch】超级马里奥 RPG.Super Mario RPG 美版中文",url:"https://www.aliyundrive.com/s/NVeErReNN1K"},
 {name:"名称：【大厂学苑】数据结构与算法 - 2021 带源码课件",url:"https://www.aliyundrive.com/s/ye61FxuG56L"},
 {name:"名称：【尚硅谷】大数据大神班V9 - 2022",url:"https://www.aliyundrive.com/s/nKzpmRpvT1Y"},
