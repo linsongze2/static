@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：杀她（2022）中文字幕",url:"https://www.aliyundrive.com/s/fXbGAT4Ni4K"},
+const aliData = [{name:"名称：深度实战Electron，开发本地音乐播放器",url:"https://www.aliyundrive.com/s/caUWkjw27js"},
+{name:"名称：《芯片战争：世界最关键技术的争夺战》 2023-05出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/hhWAQ8hz8uz"},
+{name:"名称：杀她（2022）中文字幕",url:"https://www.aliyundrive.com/s/fXbGAT4Ni4K"},
 {name:"名称：傲世九重天 更新08集",url:"https://www.aliyundrive.com/s/6vSU3q7K8JR"},
 {name:"名称：铃芽之旅",url:"https://www.aliyundrive.com/s/F7cFaLH9z3N"},
 {name:"名称：最遥远的距离 (2023) 1080/4K HDR 30集完结 钟楚曦/张云龙/李溪芮",url:"https://www.aliyundrive.com/s/zkorX83tSQc"},
