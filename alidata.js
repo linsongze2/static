@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
+const aliData = [{name:"名称：《日常》超搞笑鬼畜番 1080p＋画质",url:"https://www.aliyundrive.com/s/9gSdvwUomZy"},
+{name:"名称：扑克脸 Poker Face (2023)✨【2160p.SDR】【原轨.高码率】6G/集",url:"https://www.aliyundrive.com/s/ghSDQSaW6nt"},
+{name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
 {name:"名称：极地恶灵 The Terror S01-S02 1080p REMUX 原盘 + 1080p 高码率 外挂双语 【恐怖美剧】【刮削】",url:"https://www.aliyundrive.com/s/saY688BW3wj"},
 {name:"名称：1923 黄石✨【2160p.SDR】【原轨.高画质】3.7G/集",url:"https://www.aliyundrive.com/s/HxCKKoC5ny6"},
 {name:"名称：《快把我哥带走》电视剧＋电影＋动漫全套",url:"https://www.aliyundrive.com/s/Gb3nvsjahNz"},
