@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：大模型时代 ： ChatGPT 开启 通用 人工智能 浪潮",url:"https://www.aliyundrive.com/s/yv5j6fJSKk8"},
+const aliData = [{name:"名称：伟大的逃兵 (2023) 1080p DDP5.1 外挂双语 (人工翻译) 【最新剧情片】【刮削】",url:"https://www.aliyundrive.com/s/srx27FifHAy"},
+{name:"名称：大模型时代 ： ChatGPT 开启 通用 人工智能 浪潮",url:"https://www.aliyundrive.com/s/yv5j6fJSKk8"},
 {name:"名称：亚历山大大帝(2004) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/1w1KBNb2tMG"},
 {name:"名称：自由职业者生存 手册",url:"https://www.aliyundrive.com/s/FQK4HyzifF7"},
 {name:"名称：仙逆 4K 更新10集",url:"https://www.aliyundrive.com/s/f8H89CpwS8d"},
