@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：自由职业者生存 手册",url:"https://www.aliyundrive.com/s/FQK4HyzifF7"},
+const aliData = [{name:"名称：大模型时代 ： ChatGPT 开启 通用 人工智能 浪潮",url:"https://www.aliyundrive.com/s/yv5j6fJSKk8"},
+{name:"名称：亚历山大大帝(2004) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/1w1KBNb2tMG"},
+{name:"名称：自由职业者生存 手册",url:"https://www.aliyundrive.com/s/FQK4HyzifF7"},
 {name:"名称：仙逆 4K 更新10集",url:"https://www.aliyundrive.com/s/f8H89CpwS8d"},
 {name:"名称：神秘河(2003) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/JsJu5JhwaHy"},
 {name:"名称：三十六骑 4K 更新07集",url:"https://www.aliyundrive.com/s/uo6zs1rtPai"},
