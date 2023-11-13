@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：C++全套数据结构算法-进阶高级开发必备-大厂面试必备",url:"https://www.aliyundrive.com/s/NAhMmTMSiNB"},
+const aliData = [{name:"名称：奥本海默 [蓝光原盘][IMAX满屏版][简繁英字幕]",url:"https://www.aliyundrive.com/s/b8GsQpNgbQu"},
+{name:"名称：穿条纹睡衣的男孩 (2008).BluRay.1080P.H265.10bit.英语.中英特效字幕 豆瓣高分9.2",url:"https://www.aliyundrive.com/s/1qjYeJBByWt"},
+{name:"名称：C++全套数据结构算法-进阶高级开发必备-大厂面试必备",url:"https://www.aliyundrive.com/s/NAhMmTMSiNB"},
 {name:"名称：护国密探 4K高码率",url:"https://www.aliyundrive.com/s/SQPsdxBMXG5"},
 {name:"名称：十兄弟 (1995) 1080P 国语",url:"https://www.aliyundrive.com/s/ugoQz7GLdYx"},
 {name:"名称：燕垒生-天行健共7册",url:"https://www.aliyundrive.com/s/jyQyjnRDT5N"},
