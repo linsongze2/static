@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：地球脉动 第三季 (2023) 2160p 高码率 外挂双语 更E04【BBC纪录片-附1～2季】",url:"https://www.aliyundrive.com/s/52RGcfRyds9"},
+const aliData = [{name:"名称：禁忌女孩 (2018) 全两季 1080P 内嵌中字",url:"https://www.aliyundrive.com/s/5g73eUsyPVX"},
+{name:"名称：地球脉动 第三季 (2023) 2160p 高码率 外挂双语 更E04【BBC纪录片-附1～2季】",url:"https://www.aliyundrive.com/s/52RGcfRyds9"},
 {name:"名称：Python语言基础与应用 - 北京大学",url:"https://www.aliyundrive.com/s/h6v9tCrYkum"},
 {name:"名称：那年盛夏 我们绽放如花 那年盛夏 我們綻放如花 (2023) 15集完结",url:"https://www.aliyundrive.com/s/9F23L6kHgH3"},
 {name:"名称：上外顾悦教授：终极英语口语课 | 视频课程",url:"https://www.aliyundrive.com/s/32CxHJKCVU4"},
