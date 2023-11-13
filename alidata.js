@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：【黑马程序员】PHP高级工程师（基础班+就业班）",url:"https://www.aliyundrive.com/s/jMEwHJ8WoKu"},
+const aliData = [{name:"名称：深度思考：不断逼近问题的本质 | 电子书籍",url:"https://www.aliyundrive.com/s/bYUdz5GjSbV"},
+{name:"名称：【黑马程序员】PHP高级工程师（基础班+就业班）",url:"https://www.aliyundrive.com/s/jMEwHJ8WoKu"},
 {name:"名称：《学得会的老板思维：人人都是自己的CEO 》",url:"https://www.aliyundrive.com/s/Afhs23uBa8F"},
 {name:"名称：《效率人生：告诉你如何迅速抵达人生的目标》",url:"https://www.aliyundrive.com/s/fNXkNPnH49F"},
 {name:"名称：漫长的季节 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】3.1G/集",url:"https://www.aliyundrive.com/s/dS1qmkAuhfz"},
