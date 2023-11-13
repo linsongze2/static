@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：上外顾悦教授：终极英语口语课 | 视频课程",url:"https://www.aliyundrive.com/s/32CxHJKCVU4"},
+const aliData = [{name:"名称：Python语言基础与应用 - 北京大学",url:"https://www.aliyundrive.com/s/h6v9tCrYkum"},
+{name:"名称：那年盛夏 我们绽放如花 那年盛夏 我們綻放如花 (2023) 15集完结",url:"https://www.aliyundrive.com/s/9F23L6kHgH3"},
+{name:"名称：上外顾悦教授：终极英语口语课 | 视频课程",url:"https://www.aliyundrive.com/s/32CxHJKCVU4"},
 {name:"名称：剃刀边缘 (1980) 1080P 国英多音轨 默认英语 中英外挂/内嵌字幕",url:"https://www.aliyundrive.com/s/KtkQuhToxuZ"},
 {name:"名称：史前星球 (2022) 两季全✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/HHveGuySbER"},
 {name:"名称：婚礼大捷 혼례대첩 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
