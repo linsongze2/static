@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：疾速反击(2023) 4K60FPS&amp;4KHQ60FPS",url:"https://www.aliyundrive.com/s/6uuo5pg7Vs2"},
+const aliData = [{name:"名称：【沽泡学院】P5：人工智能CV + NLP技术 - 5期",url:"https://www.aliyundrive.com/s/5AngW79TmoB"},
+{name:"名称：疾速反击(2023) 4K60FPS&amp;4KHQ60FPS",url:"https://www.aliyundrive.com/s/6uuo5pg7Vs2"},
 {name:"名称：老友记 (1994) 全十季 720P 内嵌中英",url:"https://www.aliyundrive.com/s/dUM7zZQnH48"},
 {name:"名称：《生活的哲学心理学（套装10册）》【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/bosU334ga5B"},
 {name:"名称：宋代足球小将 (2010) 1080P",url:"https://www.aliyundrive.com/s/DQ5awNJ8i5R"},
