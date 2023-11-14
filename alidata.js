@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：《战略视角的培训管理全景图》【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/TDThfuQWLqu"},
+const aliData = [{name:"名称：Python Flask高级编程之从0到1开发《鱼书》精品项目",url:"https://www.aliyundrive.com/s/pLaJRzVHCNp"},
+{name:"名称：这么多年 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/VGUyfB378AD"},
+{name:"名称：Koa2框架从0开始构建预告片网站",url:"https://www.aliyundrive.com/s/QQr3zzULpX1"},
+{name:"名称：《战略视角的培训管理全景图》【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/TDThfuQWLqu"},
 {name:"名称：《元宇宙：人类空间移民的想象力革命》2022-04出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/qpqTFXwRXPC"},
 {name:"名称：羊毛战记 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/yMw1egrr9gZ"},
 {name:"名称：奥本海默 (2023) 4K REMUX 蓝光原盘 外挂特效双语",url:"https://www.aliyundrive.com/s/xLR3Gf6HEre"},
