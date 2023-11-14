@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：孙子兵法100集精品动画 开启孩子智慧人生",url:"https://www.aliyundrive.com/s/Z98RYYAr3MP"},
+const aliData = [{name:"名称：《三冠王”陈舜臣推理小说集（套装共10册）》",url:"https://www.aliyundrive.com/s/b8HdZ21je24"},
+{name:"名称：华尔街 (1987) 4K SDR 中字内嵌字幕",url:"https://www.aliyundrive.com/s/dhMCcp4Qbya"},
+{name:"名称：孙子兵法100集精品动画 开启孩子智慧人生",url:"https://www.aliyundrive.com/s/Z98RYYAr3MP"},
 {name:"名称：西游记 (1999) 动画版 DVDRip 五十二集全 【豆瓣 9.3 高分经典动画】",url:"https://www.aliyundrive.com/s/GZSBsrWBjr7"},
 {name:"名称：物语系列(附TMDB刮削)",url:"https://www.aliyundrive.com/s/8YowGxWKz1Y"},
 {name:"名称：从基础到实战 手把手带你掌握新版Webpack4.0",url:"https://www.aliyundrive.com/s/8MoQMzuyhYx"},
