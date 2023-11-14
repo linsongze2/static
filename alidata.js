@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：护心 (2023)✨【2160p.SDR】【原轨.高码率】 1.8G/集",url:"https://www.aliyundrive.com/s/nxXvkZhkkp2"},
+const aliData = [{name:"名称：思维导图完整手册：零基础快速掌握思维导图",url:"https://www.aliyundrive.com/s/tPt8kAYjTos"},
+{name:"名称：【奈学科技】P7数据分析架构师1期",url:"https://www.aliyundrive.com/s/sxnnBiPRS3C"},
+{name:"名称：护心 (2023)✨【2160p.SDR】【原轨.高码率】 1.8G/集",url:"https://www.aliyundrive.com/s/nxXvkZhkkp2"},
 {name:"名称：武侠数学",url:"https://www.aliyundrive.com/s/DaXsiMyPHUx"},
 {name:"名称：AI创世者(2023) 洗版为MA 4K HDR&amp;DV 外挂简中",url:"https://www.aliyundrive.com/s/c9PNHU2oK2G"},
 {name:"名称：恶人传记 (2023) 1080p 内嵌简中 10集完结【悬疑犯罪韩剧】",url:"https://www.aliyundrive.com/s/CbTJYFmEyh1"},
