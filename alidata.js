@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：恶人传记 악인전기 (2023) 10集完结",url:"https://www.aliyundrive.com/s/9or71hyu2nT"},
+const aliData = [{name:"名称：Spring Boot2.0深度实践 核心原理拆解+源码分析",url:"https://www.aliyundrive.com/s/ksaNEqVNUAd"},
+{name:"名称：诅咒 The Curse (2023) 2160p HDR ➕ 1080p 高码 DDP5.1 外挂双语 更EP01 【刮削】",url:"https://www.aliyundrive.com/s/MT8tw4HAVBm"},
+{name:"名称：恶人传记 악인전기 (2023) 10集完结",url:"https://www.aliyundrive.com/s/9or71hyu2nT"},
 {name:"名称：神藏 (2023) 更新03集",url:"https://www.aliyundrive.com/s/XuVJnKAERBz"},
 {name:"名称：穹顶之下 (2013) 全三季 576P 内嵌中英",url:"https://www.aliyundrive.com/s/J3iX9PfRYLb"},
 {name:"名称：终极名单 (2022) 全集 4K 内封英字",url:"https://www.aliyundrive.com/s/Xu7CkbvQ9Ga"},
