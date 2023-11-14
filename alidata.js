@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：思维导图完整手册：零基础快速掌握思维导图",url:"https://www.aliyundrive.com/s/tPt8kAYjTos"},
+const aliData = [{name:"名称：自驱娃养成手册-2024年版",url:"https://www.aliyundrive.com/s/BdUn9pAaAka"},
+{name:"名称：思维导图完整手册：零基础快速掌握思维导图",url:"https://www.aliyundrive.com/s/tPt8kAYjTos"},
 {name:"名称：【奈学科技】P7数据分析架构师1期",url:"https://www.aliyundrive.com/s/sxnnBiPRS3C"},
 {name:"名称：护心 (2023)✨【2160p.SDR】【原轨.高码率】 1.8G/集",url:"https://www.aliyundrive.com/s/nxXvkZhkkp2"},
 {name:"名称：武侠数学",url:"https://www.aliyundrive.com/s/DaXsiMyPHUx"},
