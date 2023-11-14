@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：羊毛战记 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/yMw1egrr9gZ"},
+const aliData = [{name:"名称：《战略视角的培训管理全景图》【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/TDThfuQWLqu"},
+{name:"名称：《元宇宙：人类空间移民的想象力革命》2022-04出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/qpqTFXwRXPC"},
+{name:"名称：羊毛战记 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/yMw1egrr9gZ"},
 {name:"名称：奥本海默 (2023) 4K REMUX 蓝光原盘 外挂特效双语",url:"https://www.aliyundrive.com/s/xLR3Gf6HEre"},
 {name:"名称：Selenium3 与 Python3 实战 Web自动化测试框架",url:"https://www.aliyundrive.com/s/fiarq7rENTu"},
 {name:"名称：ONEFOUR：饶舌魂不死 OneFour：Against All Odds (2023) 纪录片 / 音乐 / 犯罪",url:"https://www.aliyundrive.com/s/iBEreqmoQ2R"},
