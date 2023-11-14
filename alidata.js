@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：孤注一掷：巴西国家队 All or Nothing：Brazil National Team (2020) 5集完结",url:"https://www.aliyundrive.com/s/CgYQ9ae1XfB"},
+const aliData = [{name:"名称：AI创世者(2023) 洗版为MA 4K HDR&amp;DV 外挂简中",url:"https://www.aliyundrive.com/s/c9PNHU2oK2G"},
+{name:"名称：恶人传记 (2023) 1080p 内嵌简中 10集完结【悬疑犯罪韩剧】",url:"https://www.aliyundrive.com/s/CbTJYFmEyh1"},
+{name:"名称：孤注一掷：巴西国家队 All or Nothing：Brazil National Team (2020) 5集完结",url:"https://www.aliyundrive.com/s/CgYQ9ae1XfB"},
 {name:"名称：AI创世者 The Creator (2023) 2160p HDR10+ 外挂双语 (iTunes官中合并提取英文) 【最新科幻惊悚片】【刮削】",url:"https://www.aliyundrive.com/s/Nxs7CjRQzNP"},
 {name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/gqnTBYaKMkf"},
 {name:"名称：地球脉动3 (2023) 4K HLG 更新4 中英外挂字幕",url:"https://www.aliyundrive.com/s/dBe5jkBdDut"},
