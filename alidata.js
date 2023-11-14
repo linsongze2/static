@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：伸冤人3 4K原盘REMUX [杜比视界] [内封简英双字]",url:"https://www.aliyundrive.com/s/hKD1L6ZBGkr"},
+const aliData = [{name:"名称：修女2 4K原盘REMUX [HDR] [内封简英双字]",url:"https://www.aliyundrive.com/s/qNbdiTA6wkp"},
+{name:"名称：奥本海默 4K原盘REMUX [HDR] [内封简英双字]",url:"https://www.aliyundrive.com/s/fCV5hc2sv6b"},
+{name:"名称：大学计算机必修课新讲--编译原理+操作系统+图形学",url:"https://www.aliyundrive.com/s/982hrEhRgGQ"},
+{name:"名称：伸冤人3 4K原盘REMUX [杜比视界] [内封简英双字]",url:"https://www.aliyundrive.com/s/hKD1L6ZBGkr"},
 {name:"名称：以爱为营 (2023) 1080/4K 更24 白鹿/王鹤棣",url:"https://www.aliyundrive.com/s/tn3EAjh5AQo"},
 {name:"名称：风起西州 (2023) 4K60FPS 更新19集",url:"https://www.aliyundrive.com/s/9NosmogLndm"},
 {name:"名称：11月14日开源阅读书源5000个已检验",url:"https://www.aliyundrive.com/s/ELobBzRiT53"},
