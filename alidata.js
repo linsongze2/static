@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：费曼超级学习法：理解更快、保留更高，27个高级学习模型",url:"https://www.aliyundrive.com/s/LU1manPV3un"},
+const aliData = [{name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/gVgGSgaYedm"},
+{name:"名称：追踪海洋巨兽 S1(2021) 4K 中英硬字幕",url:"https://www.aliyundrive.com/s/cG5AqKcPST5"},
+{name:"名称：费曼超级学习法：理解更快、保留更高，27个高级学习模型",url:"https://www.aliyundrive.com/s/LU1manPV3un"},
 {name:"名称：《长寿的习惯》2023-01出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/p5Prscvp9Ro"},
 {name:"名称：AI创世者 The Creator (2023) 2160p HDR&amp;DV MA版 外挂双语【最新科幻惊悚片】【刮削】",url:"https://www.aliyundrive.com/s/JBFz8MdhANZ"},
 {name:"名称：无罪之最 (2021) 全集 1080P 内封中字",url:"https://www.aliyundrive.com/s/EdkNh8LYQGm"},
