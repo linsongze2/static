@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：偏见的本质【epub/mobi/azw3/书籍】",url:"https://www.aliyundrive.com/s/jMRGHs3ZR1i"},
+const aliData = [{name:"名称：《效率红利：12套拿来就能用的增效方法》豆瓣8.6分",url:"https://www.aliyundrive.com/s/VdDMTpKmKpH"},
+{name:"名称：偏见的本质【epub/mobi/azw3/书籍】",url:"https://www.aliyundrive.com/s/jMRGHs3ZR1i"},
 {name:"名称：Python Flask高级编程之从0到1开发《鱼书》精品项目",url:"https://www.aliyundrive.com/s/pLaJRzVHCNp"},
 {name:"名称：这么多年 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/VGUyfB378AD"},
 {name:"名称：Koa2框架从0开始构建预告片网站",url:"https://www.aliyundrive.com/s/QQr3zzULpX1"},
