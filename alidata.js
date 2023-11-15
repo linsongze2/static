@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：梦中的那片海 (2023)✨【2160p.HDR】【原轨.高码率】2.4G/集",url:"https://www.aliyundrive.com/s/gTq43sejTru"},
+const aliData = [{name:"名称：90天Java进阶训练营三期",url:"https://www.aliyundrive.com/s/6zVRwFFQJLK"},
+{name:"名称：梦中的那片海 (2023)✨【2160p.HDR】【原轨.高码率】2.4G/集",url:"https://www.aliyundrive.com/s/gTq43sejTru"},
 {name:"名称：哈佛商业评论：像管理者一样思考（全15册）",url:"https://www.aliyundrive.com/s/9ucFE3GQipW"},
 {name:"名称：GT赛车：极速狂飙 Gran Turismo (2023) 4K",url:"https://www.aliyundrive.com/s/JREAuPy7mYe"},
 {name:"名称：潘尼沃斯 1-3季全 个人收集整理 犯罪动嘴剧 豆瓣评分8.0",url:"https://www.aliyundrive.com/s/8SiKWZXTcWh"},
