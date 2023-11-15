@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：抑郁、焦虑和药物的那些事：从学者、医者、患者三重身份为你讲透精神药物的误区与真相",url:"https://www.aliyundrive.com/s/oZFLfqABX2P"},
+const aliData = [{name:"名称：《停止你的精神内耗》2022-11出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/tCBEHypuaNF"},
+{name:"名称：抑郁、焦虑和药物的那些事：从学者、医者、患者三重身份为你讲透精神药物的误区与真相",url:"https://www.aliyundrive.com/s/oZFLfqABX2P"},
 {name:"名称：性爱自修室(全四季)",url:"https://www.aliyundrive.com/s/LvfjDqV4fnY"},
 {name:"名称：奥本海默(2023) 4K REMUX洗版为双层杜比视界",url:"https://www.aliyundrive.com/s/v7Fms4XaQyo"},
 {name:"名称：边缘世界 (2022) 全集 4K 内封中字",url:"https://www.aliyundrive.com/s/oJBJNcVdJ5E"},
