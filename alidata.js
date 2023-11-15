@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：无所畏惧[2023] 4KHDR60FPS 更新30集",url:"https://www.aliyundrive.com/s/ueKeFyj4tcF"},
+const aliData = [{name:"名称：权力的游戏 8季全 1080P 中英内嵌字幕",url:"https://www.aliyundrive.com/s/KxCKMPNNxC4"},
+{name:"名称：无所畏惧[2023] 4KHDR60FPS 更新30集",url:"https://www.aliyundrive.com/s/ueKeFyj4tcF"},
 {name:"名称：惊天营救 (系列)✨【2160p.HDR】【兼容杜比视界】14.2G/集",url:"https://www.aliyundrive.com/s/r76BFEUVwEr"},
 {name:"名称：奥本海默 REMUX原盘4K",url:"https://www.aliyundrive.com/s/GfaaJMMaQ3b"},
 {name:"名称：疾速反击 4K 高码 60帧 补",url:"https://www.aliyundrive.com/s/5yq8hu2TzA3"},
