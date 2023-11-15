@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：维京恶狼 (2022) 4K 中字内嵌字幕",url:"https://www.aliyundrive.com/s/LZGvH3othC5"},
+const aliData = [{name:"名称：正义联盟与红白黑黄：超级英雄和猎人(上) UHD无损蓝光 [内封简繁英字幕]",url:"https://www.aliyundrive.com/s/DdTxWXY7Vfg"},
+{name:"名称：爱的修学旅行 (2023) 持续更新 真人秀",url:"https://www.aliyundrive.com/s/p8xd1w4VegP"},
+{name:"名称：维京恶狼 (2022) 4K 中字内嵌字幕",url:"https://www.aliyundrive.com/s/LZGvH3othC5"},
 {name:"名称：哈佛商业评论：什么样的工作，算是好工作（全8册）",url:"https://www.aliyundrive.com/s/Ft62yanKPkb"},
 {name:"名称：《效率红利：12套拿来就能用的增效方法》豆瓣8.6分",url:"https://www.aliyundrive.com/s/VdDMTpKmKpH"},
 {name:"名称：偏见的本质【epub/mobi/azw3/书籍】",url:"https://www.aliyundrive.com/s/jMRGHs3ZR1i"},
