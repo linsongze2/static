@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：Python Flask高级编程之从0到1开发《鱼书》精品项目",url:"https://www.aliyundrive.com/s/pLaJRzVHCNp"},
+const aliData = [{name:"名称：偏见的本质【epub/mobi/azw3/书籍】",url:"https://www.aliyundrive.com/s/jMRGHs3ZR1i"},
+{name:"名称：Python Flask高级编程之从0到1开发《鱼书》精品项目",url:"https://www.aliyundrive.com/s/pLaJRzVHCNp"},
 {name:"名称：这么多年 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】",url:"https://www.aliyundrive.com/s/VGUyfB378AD"},
 {name:"名称：Koa2框架从0开始构建预告片网站",url:"https://www.aliyundrive.com/s/QQr3zzULpX1"},
 {name:"名称：《战略视角的培训管理全景图》【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/TDThfuQWLqu"},
