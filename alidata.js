@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：风再起时 (2023)✨【1080p.SDR】【原轨.高码率】 9G",url:"https://www.aliyundrive.com/s/naMt9Z2dBBc"},
+const aliData = [{name:"名称：2023年新书推荐：《好用的博弈论》",url:"https://www.aliyundrive.com/s/CA6yzeF9x1v"},
+{name:"名称：风再起时 (2023)✨【1080p.SDR】【原轨.高码率】 9G",url:"https://www.aliyundrive.com/s/naMt9Z2dBBc"},
 {name:"名称：偷偷藏不住 (2023)✨【2160p.SDR】【原轨】26集花絮 810M/集",url:"https://www.aliyundrive.com/s/uQC2nMHBbdt"},
 {name:"名称：【站酷学习】创意视觉设计师培养计划",url:"https://www.aliyundrive.com/s/adgBrGJXMyy"},
 {name:"名称：怒火攻心2：高压电(2009)蓝光原盘",url:"https://www.aliyundrive.com/s/npd6e6ufPRm"},
