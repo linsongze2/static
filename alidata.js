@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/4P5FHcJYiw7"},
+const aliData = [{name:"名称：鼠胆龙威 (1995) 4K 国语",url:"https://www.aliyundrive.com/s/rGWSn7d9fbQ"},
+{name:"名称：金田一少年事件簿 (1997) 1080P 国日多音轨",url:"https://www.aliyundrive.com/s/bXv4B4HN5hL"},
+{name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/4P5FHcJYiw7"},
 {name:"名称：绿皮书 Green Book (2018) 4K REMUX + 4K HDR (国英音轨 内封特效中英) 【豆瓣Top250】【刮削】",url:"https://www.aliyundrive.com/s/FoNjrArZf4P"},
 {name:"名称：乡野有真味1 (2022) 4K",url:"https://www.aliyundrive.com/s/gswMrK7Lixc"},
 {name:"名称：我的电幻梦 Tengo sueños eléctricos (2022) 1080P 中英字幕",url:"https://www.aliyundrive.com/s/FdsY42ML98x"},
