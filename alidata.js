@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：今天也很可爱的狗 (2023) 1080p NF 高码 内封简繁英 更EP06 【热播韩剧】【刮削】",url:"https://www.aliyundrive.com/s/Pbxh755hVqM"},
+const aliData = [{name:"名称：风起西州 (2023) 1080/4K 更23 古力娜扎",url:"https://www.aliyundrive.com/s/Rs6jtuBvf7Z"},
+{name:"名称：今天也很可爱的狗 (2023) 1080p NF 高码 内封简繁英 更EP06 【热播韩剧】【刮削】",url:"https://www.aliyundrive.com/s/Pbxh755hVqM"},
 {name:"名称：鼠胆龙威 (1995) 4K 国语",url:"https://www.aliyundrive.com/s/rGWSn7d9fbQ"},
 {name:"名称：金田一少年事件簿 (1997) 1080P 国日多音轨",url:"https://www.aliyundrive.com/s/bXv4B4HN5hL"},
 {name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/4P5FHcJYiw7"},
