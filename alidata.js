@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：《会做图表的人显得特别牛》",url:"https://www.aliyundrive.com/s/Vbo94NBTfcT"},
+const aliData = [{name:"名称：赌神 (1989) 4K 60FPS 国语",url:"https://www.aliyundrive.com/s/Gi1ngrkp5Cv"},
+{name:"名称：《会做图表的人显得特别牛》",url:"https://www.aliyundrive.com/s/Vbo94NBTfcT"},
 {name:"名称：微观世界 (1996) 1080P",url:"https://www.aliyundrive.com/s/haNbrLDp5Yy"},
 {name:"名称：安徒生童话 (2004) 720P 国语",url:"https://www.aliyundrive.com/s/LUoUuQHtyvW"},
 {name:"名称：2023年新书推荐：《好用的博弈论》",url:"https://www.aliyundrive.com/s/CA6yzeF9x1v"},
