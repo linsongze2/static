@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：医统·天下-漫画",url:"https://www.aliyundrive.com/s/6mbFdWMY9Pr"},
+const aliData = [{name:"名称：国民死刑投票 국민사형투표 (2023) [全12集]",url:"https://www.aliyundrive.com/s/X6Qx1fuVkGf"},
+{name:"名称：医统·天下-漫画",url:"https://www.aliyundrive.com/s/6mbFdWMY9Pr"},
 {name:"名称：233网校 小学1-6年级全套（语数英）人教版培训视频教材合集",url:"https://www.aliyundrive.com/s/shUq4NaY57u"},
 {name:"名称：风起西州 (2023) 4K60FPS 更新23集",url:"https://www.aliyundrive.com/s/XtAJCkTpQkk"},
 {name:"名称：《向内求：认识自己的成长法则》2023-05出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/ai2tjbLtqbX"},
