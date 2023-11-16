@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/HvLWScH8LuN"},
+const aliData = [{name:"名称：《七种死亡：只有法医知道的身体秘密》2023-08出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/K1D9aUfLucW"},
+{name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/HvLWScH8LuN"},
 {name:"名称：《ChatGPT：智能对话开创新时代》2023-05出版【EPUB | MOBI | PDF 电子书】",url:"https://www.aliyundrive.com/s/f9wqpyXZg2v"},
 {name:"名称：傻钱 (2023) 4K HDR &amp; Dv 中字外挂字幕",url:"https://www.aliyundrive.com/s/UpEWKBW8Zbt"},
 {name:"名称：iOS Flutter高级进阶班级",url:"https://www.aliyundrive.com/s/khjc7sktNxz"},
