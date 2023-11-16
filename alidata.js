@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：【百战程序员】JavaEE就业班",url:"https://www.aliyundrive.com/s/jHeji38o58c"},
+const aliData = [{name:"名称：近距离看美国系列",url:"https://www.aliyundrive.com/s/eSCY5s4ftmN"},
+{name:"名称：七令诡事录(2023) 4K 高码",url:"https://www.aliyundrive.com/s/Qtic2v6GRu6"},
+{name:"名称：【百战程序员】JavaEE就业班",url:"https://www.aliyundrive.com/s/jHeji38o58c"},
 {name:"名称：觉醒胖东来—首部中国本土觉醒商业力作",url:"https://www.aliyundrive.com/s/Q7L9RjBLWug"},
 {name:"名称：非正式会谈 (2015) 全十季 (1/2/3/3.5/4/5/6/6.5/7/8) 更新中 (可使用 tvdb 直接刮削)",url:"https://www.aliyundrive.com/s/AdRd8R9z72g"},
 {name:"名称：万门大学 雅思 口语.听力.写作.阅读 密训班 合集",url:"https://www.aliyundrive.com/s/f1RqQRyfbNL"},
