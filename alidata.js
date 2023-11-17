@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：咒术回战 第二季 呪術廻戦 2 (2023) 1080p &amp; 2160p 高码版 内封简繁英 EP17",url:"https://www.aliyundrive.com/s/b5rwb67cyZa"},
+const aliData = [{name:"名称：切尔诺贝利：一部悲剧史",url:"https://www.aliyundrive.com/s/ujsLEDZ3G7L"},
+{name:"名称：咒术回战 第二季 呪術廻戦 2 (2023) 1080p &amp; 2160p 高码版 内封简繁英 EP17",url:"https://www.aliyundrive.com/s/b5rwb67cyZa"},
 {name:"名称：帝王计划：怪兽遗产 (2023) 1080p 高码 ➕ 2160p HDR&DV 内封简英特效&繁英特效双语 更EP02 【刮削】",url:"https://www.aliyundrive.com/s/HrBnE6Ux5jZ"},
 {name:"名称：为全人类 第四季 (2023) 1080p 高码 ➕ 2160p HDR&DV 外挂双语 更EP02【附前三季 4K HDR 合集】【刮削】",url:"https://www.aliyundrive.com/s/tpLmP8Ebu8X"},
 {name:"名称：沟通 的 艺术 ： 轻松 应对 社交 场合 （ 套装 共 5 册 ）",url:"https://www.aliyundrive.com/s/7AgaCBE49Uj"},
