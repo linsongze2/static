@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：治愈系恋人 [2023] 4K60FPS(34集完结)",url:"https://www.aliyundrive.com/s/TqeippaZcac"},
+const aliData = [{name:"名称：封神第一部：朝歌风云 (2023)✨【2160p.DV】【杜比视界.Profile5】【补档】",url:"https://www.aliyundrive.com/s/NiXbwFxpi91"},
+{name:"名称：治愈系恋人 [2023] 4K60FPS(34集完结)",url:"https://www.aliyundrive.com/s/TqeippaZcac"},
 {name:"名称：【动画】魔兵传奇全集 4K修复画质",url:"https://www.aliyundrive.com/s/aqzecRA1FGB"},
 {name:"名称：超人归来 (2006) 1080P BD 内封中字",url:"https://www.aliyundrive.com/s/7CM7L2q4DeY"},
 {name:"名称：对手",url:"https://www.aliyundrive.com/s/qXQdo1AMZry"},
