@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：GT赛车：极速狂飙 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】【补档】",url:"https://www.aliyundrive.com/s/qKgjfmCf62q"},
+const aliData = [{name:"名称：黄石 Yellowstone (2018) 五季全✨【1080p.SDR】【2160p.SDR】【原轨.高码率】12.5G/集【补档】",url:"https://www.aliyundrive.com/s/tsi3LHBFLJ3"},
+{name:"名称：GT赛车：极速狂飙 (2023)✨【2160p.DV】【杜比视界.Profile5】【Infuse最佳拍档】【补档】",url:"https://www.aliyundrive.com/s/qKgjfmCf62q"},
 {name:"名称：康斯坦丁 (2005) 1080P BD 内封中字",url:"https://www.aliyundrive.com/s/TXzZoMmwMQY"},
 {name:"名称：乡野有真味2：守望 (2023) 4K",url:"https://www.aliyundrive.com/s/RRKJqkfLdro"},
 {name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/mfK3D2C2tio"},
