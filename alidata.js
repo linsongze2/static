@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：超人归来 (2006) 1080P BD 内封中字",url:"https://www.aliyundrive.com/s/7CM7L2q4DeY"},
+const aliData = [{name:"名称：治愈系恋人 [2023] 4K60FPS(34集完结)",url:"https://www.aliyundrive.com/s/TqeippaZcac"},
+{name:"名称：【动画】魔兵传奇全集 4K修复画质",url:"https://www.aliyundrive.com/s/aqzecRA1FGB"},
+{name:"名称：超人归来 (2006) 1080P BD 内封中字",url:"https://www.aliyundrive.com/s/7CM7L2q4DeY"},
 {name:"名称：对手",url:"https://www.aliyundrive.com/s/qXQdo1AMZry"},
 {name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至06集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
 {name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/V1SYYoBYj3X"},
