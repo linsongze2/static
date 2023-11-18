@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/V1SYYoBYj3X"},
+const aliData = [{name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至06集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
+{name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/V1SYYoBYj3X"},
 {name:"名称：唐人街探案 蓝光原盘REMUX [内封简、繁中字]",url:"https://www.aliyundrive.com/s/dBcqHU9yPqR"},
 {name:"名称：电锯惊魂10 4K原盘REMUX [HDR] [内封简英双字]",url:"https://www.aliyundrive.com/s/j9YXkfHb4YQ"},
 {name:"名称：极简 ： 在 你 拥有 的 一 切 之下 ， 发现 你 想要 的 生活",url:"https://www.aliyundrive.com/s/cjyXaWRUwVW"},
