@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：兜风 Joy Ride (2023)✨【2160p.HDR】【兼容杜比视界】16.6G",url:"https://www.aliyundrive.com/s/pH5PYB72cKj"},
+const aliData = [{name:"名称：名侦探柯南TV修复版合集贴（更至303）",url:"https://www.aliyundrive.com/s/ujYrBWQo3xa"},
+{name:"名称：兜风 Joy Ride (2023)✨【2160p.HDR】【兼容杜比视界】16.6G",url:"https://www.aliyundrive.com/s/pH5PYB72cKj"},
 {name:"名称：毒战2 [简繁英字幕]",url:"https://www.aliyundrive.com/s/zimpsBYdKak"},
 {name:"名称：赤焰战场2 (2013) 4K BD 内封中字",url:"https://www.aliyundrive.com/s/BFNLP8upZcJ"},
 {name:"名称：劫数难逃 4K高码率 [60帧率版]",url:"https://www.aliyundrive.com/s/gxF4NNXPcMK"},
