@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：完美婚姻的定式 완벽한 결혼의 정석 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/rsYnv29t7yP"},
+const aliData = [{name:"名称：《前沿趋势预测系列（共9册）》一套书带你解读互联网、智能机器等时代新趋势",url:"https://www.aliyundrive.com/s/bTnWzucQhXq"},
+{name:"名称：完美婚姻的定式 완벽한 결혼의 정석 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/rsYnv29t7yP"},
 {name:"名称：大力女子姜南顺 힘쎈여자 강남순 (2023)[更新至13集]",url:"https://www.aliyundrive.com/s/4qskndakiYh"},
 {name:"名称：哆啦A梦：大雄与天空的理想乡 (2023) 1080P 国日双音轨&nbsp; 默认国语 中字硬字幕",url:"https://www.aliyundrive.com/s/MhK5BQj6Wv3"},
 {name:"名称：无人岛的Diva 무인도의 디바 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/2nXevC5tQMs"},
