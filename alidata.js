@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至06集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
+const aliData = [{name:"名称：超人归来 (2006) 1080P BD 内封中字",url:"https://www.aliyundrive.com/s/7CM7L2q4DeY"},
+{name:"名称：对手",url:"https://www.aliyundrive.com/s/qXQdo1AMZry"},
+{name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至06集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
 {name:"名称：剧集更新",url:"https://www.aliyundrive.com/s/V1SYYoBYj3X"},
 {name:"名称：唐人街探案 蓝光原盘REMUX [内封简、繁中字]",url:"https://www.aliyundrive.com/s/dBcqHU9yPqR"},
 {name:"名称：电锯惊魂10 4K原盘REMUX [HDR] [内封简英双字]",url:"https://www.aliyundrive.com/s/j9YXkfHb4YQ"},
