@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：名侦探柯南/名探偵コナン 更至1104集即1162",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
+const aliData = [{name:"名称：治愈系恋人 (2023) 1080/4K HDR 34集完结",url:"https://www.aliyundrive.com/s/FoQgbLoXbJt"},
+{name:"名称：名侦探柯南/名探偵コナン 更至1104集即1162",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
 {name:"名称：《前沿趋势预测系列（共9册）》一套书带你解读互联网、智能机器等时代新趋势",url:"https://www.aliyundrive.com/s/bTnWzucQhXq"},
 {name:"名称：完美婚姻的定式 완벽한 결혼의 정석 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/rsYnv29t7yP"},
 {name:"名称：大力女子姜南顺 힘쎈여자 강남순 (2023)[更新至13集]",url:"https://www.aliyundrive.com/s/4qskndakiYh"},
