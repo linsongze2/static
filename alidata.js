@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：超完美谋杀案(1998) 1080P 内封中字",url:"https://www.aliyundrive.com/s/SKJhx7iBFcc"},
+const aliData = [{name:"名称：千王之王2000 (1999) 4K 60FPS",url:"https://www.aliyundrive.com/s/zqQF56Km418"},
+{name:"名称：超完美谋杀案(1998) 1080P 内封中字",url:"https://www.aliyundrive.com/s/SKJhx7iBFcc"},
 {name:"名称：鬼童院(2001) 4K Remux 外挂中字",url:"https://www.aliyundrive.com/s/QV6PEE4YMSx"},
 {name:"名称：狙击职业杀手(1997) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/PMtzxG3i6cw"},
 {name:"名称：琼斯先生(2019) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/SCK46LZEpnH"},
