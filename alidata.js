@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/S6XAZmdkEXt"},
+const aliData = [{name:"名称：泪竭 루갈 (2020)✨【1080p.SDR】【原轨.高码率】【x265】",url:"https://www.aliyundrive.com/s/rCdmshjnAfL"},
+{name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/S6XAZmdkEXt"},
 {name:"名称：小鲤鱼历险记 (2007) 4K",url:"https://www.aliyundrive.com/s/ZAQP9BrRGKj"},
 {name:"名称：完美婚姻的定式 완벽한 결혼의 정석 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/rsYnv29t7yP"},
 {name:"名称：海贼王/One Piece 更至1084集",url:"https://www.aliyundrive.com/s/XDBCqsEBQRc"},
