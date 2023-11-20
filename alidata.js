@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：货币的教训：汇率与货币系列评论",url:"https://www.aliyundrive.com/s/wTFNSvVBNax"},
+const aliData = [{name:"名称：长月无烬（同名网剧长月烬明原著小说）",url:"https://www.aliyundrive.com/s/y3qimMeAD7y"},
+{name:"名称：货币的教训：汇率与货币系列评论",url:"https://www.aliyundrive.com/s/wTFNSvVBNax"},
 {name:"名称：婚礼大捷 혼례대첩 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
 {name:"名称：蝙蝠侠与罗宾 (1997) 4K BD 内封中字",url:"https://www.aliyundrive.com/s/S1eZmPFR1Tz"},
 {name:"名称：无人岛的Diva 무인도의 디바 (2023) 1080p NF 内封多国语 更E08",url:"https://www.aliyundrive.com/s/4b2Sv4gLkTL"},
