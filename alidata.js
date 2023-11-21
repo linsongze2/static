@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：赌侠 (1990) 4K 60FPS",url:"https://www.aliyundrive.com/s/beNC6FpauJZ"},
+const aliData = [{name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/FYb45ChXQ4g"},
+{name:"名称：赌侠 (1990) 4K 60FPS",url:"https://www.aliyundrive.com/s/beNC6FpauJZ"},
 {name:"名称：蛇之战(2023) 4K60FPS",url:"https://www.aliyundrive.com/s/kJtk6rdBfVy"},
 {name:"名称：似火流年(2023) 4K 硬字幕 更新至14集",url:"https://www.aliyundrive.com/s/Bo6G4CShZ19"},
 {name:"名称：蝙蝠侠前传：侠影之谜 (2005) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/JanjGn2AimL"},
