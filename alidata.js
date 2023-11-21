@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/FYb45ChXQ4g"},
+const aliData = [{name:"名称：修罗武神 (2023) 16集完结 超前点映",url:"https://www.aliyundrive.com/s/7vk2vtEC3WE"},
+{name:"名称：综艺更新",url:"https://www.aliyundrive.com/s/FYb45ChXQ4g"},
 {name:"名称：赌侠 (1990) 4K 60FPS",url:"https://www.aliyundrive.com/s/beNC6FpauJZ"},
 {name:"名称：蛇之战(2023) 4K60FPS",url:"https://www.aliyundrive.com/s/kJtk6rdBfVy"},
 {name:"名称：似火流年(2023) 4K 硬字幕 更新至14集",url:"https://www.aliyundrive.com/s/Bo6G4CShZ19"},
