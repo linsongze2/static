@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：故乡，别来无恙 (2023) 1080/4K HDR 36集完结 超前点映",url:"https://www.aliyundrive.com/s/7z8VZLzwcgK"},
+const aliData = [{name:"名称：黑莓 (2023)✨【2160p.SDR】【原轨.高码率】10.4G",url:"https://www.aliyundrive.com/s/E3R4AA3FtYt"},
+{name:"名称：告密者 Reality (2023)✨【2160p.HDR】【兼容杜比视界】【原轨.高码率】12G",url:"https://www.aliyundrive.com/s/8xA8SHhy9UU"},
+{name:"名称：生成式人工智能：AIGC的逻辑与应用",url:"https://www.aliyundrive.com/s/vCBYSUv3gDa"},
+{name:"名称：故乡，别来无恙 (2023) 1080/4K HDR 36集完结 超前点映",url:"https://www.aliyundrive.com/s/7z8VZLzwcgK"},
 {name:"名称：BJ单身日记 (2001) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/RmNZFQUFjCM"},
 {name:"名称：斗破苍穹·觉醒 (2023) 4K",url:"https://www.aliyundrive.com/s/y5QNviDmQvX"},
 {name:"名称：以爱为营 (2023) 1080/4K HDR 更30 白鹿/王鹤棣",url:"https://www.aliyundrive.com/s/VbvrBgyKoVk"},
