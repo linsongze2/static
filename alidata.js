@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：宁安如梦 4KHDR60FPS 更新28",url:"https://www.aliyundrive.com/s/izqPf1qs2Tx"},
+const aliData = [{name:"名称：魔翡翠 蓝光原盘REMUX [高码英版 官方画质修复] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/wHV6YNF75ub"},
+{name:"名称：宁安如梦 4KHDR60FPS 更新28",url:"https://www.aliyundrive.com/s/izqPf1qs2Tx"},
 {name:"名称：1917 (2019) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/vAZvCTHXgMY"},
 {name:"名称：夺命狙击3破晓 4KHDR60FPS",url:"https://www.aliyundrive.com/s/e1VYQQC81VT"},
 {name:"名称：2001太空漫游 (1968) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/dPuEsmAnbgK"},
