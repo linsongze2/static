@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：似火流年(2023) 4K 硬字幕 更新至15集",url:"https://www.aliyundrive.com/s/Bo6G4CShZ19"},
+const aliData = [{name:"名称：今天也很可爱的狗 오늘도 사랑스럽개 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/n6rCTpWuibr"},
+{name:"名称：似火流年(2023) 4K 硬字幕 更新至15集",url:"https://www.aliyundrive.com/s/Bo6G4CShZ19"},
 {name:"名称：世界尽头的一场谋杀(2023) 4K 内封中字 S1 -E03",url:"https://www.aliyundrive.com/s/fwD4Ajxf83W"},
 {name:"名称：帝王计划：怪兽遗产(2023)4K S01—E03",url:"https://www.aliyundrive.com/s/QzhUx11vGz6"},
 {name:"名称：超能警探 (2020) 4K 中字内嵌字幕",url:"https://www.aliyundrive.com/s/2zap5JHoU5M"},
