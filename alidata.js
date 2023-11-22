@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：白日升月 낮에 뜨는 달 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
+const aliData = [{name:"名称：望道 (2023)✨【2160p.SDR】【原轨.高码率】16G",url:"https://www.aliyundrive.com/s/LpVbgn9xYs2"},
+{name:"名称：催眠 Hypnotic (2023)✨【2160p.SDR】【原轨.高码率】10G",url:"https://www.aliyundrive.com/s/yZdXhwk5zNK"},
+{name:"名称：白日升月 낮에 뜨는 달 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
 {name:"名称：今天也很可爱的狗 오늘도 사랑스럽개 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/n6rCTpWuibr"},
 {name:"名称：似火流年(2023) 4K 硬字幕 更新至15集",url:"https://www.aliyundrive.com/s/Bo6G4CShZ19"},
 {name:"名称：世界尽头的一场谋杀(2023) 4K 内封中字 S1 -E03",url:"https://www.aliyundrive.com/s/fwD4Ajxf83W"},
