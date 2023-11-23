@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：望道 (2023)✨【2160p.SDR】【原轨.高码率】16G",url:"https://www.aliyundrive.com/s/LpVbgn9xYs2"},
+const aliData = [{name:"名称：检察风云 (2023)✨【2160p.SDR】【60fps】【原轨.高码率】20.3G",url:"https://www.aliyundrive.com/s/KyJcrpJqSCe"},
+{name:"名称：望道 (2023)✨【2160p.SDR】【原轨.高码率】16G",url:"https://www.aliyundrive.com/s/LpVbgn9xYs2"},
 {name:"名称：催眠 Hypnotic (2023)✨【2160p.SDR】【原轨.高码率】10G",url:"https://www.aliyundrive.com/s/yZdXhwk5zNK"},
 {name:"名称：白日升月 낮에 뜨는 달 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
 {name:"名称：今天也很可爱的狗 오늘도 사랑스럽개 (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/n6rCTpWuibr"},
