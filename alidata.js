@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：忍者神龟：变种大乱斗 [2023]4K.HDR.FPS60DDP.5.1&amp;4K.HQ.DDP5.1国内流媒体中文字幕、音轨",url:"https://www.aliyundrive.com/s/LDpXShgicPY"},
+const aliData = [{name:"名称：犬夜叉漫画（简体哔漫wide版阿里首发+繁体扫描修复版）+番剧资源整合",url:"https://www.aliyundrive.com/s/CnCZbWQbyDr"},
+{name:"名称：忍者神龟：变种大乱斗 [2023]4K.HDR.FPS60DDP.5.1&amp;4K.HQ.DDP5.1国内流媒体中文字幕、音轨",url:"https://www.aliyundrive.com/s/LDpXShgicPY"},
 {name:"名称：迈克尔·杰克逊.颤栗 (1983) 4K 官方修复",url:"https://www.aliyundrive.com/s/U99wsWpwUKJ"},
 {name:"名称：小飞龙 (1972) 720P 国语",url:"https://www.aliyundrive.com/s/nPWGxAaiovY"},
 {name:"名称：12勇士 (2018) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/wa12ep4ht4k"},
