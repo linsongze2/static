@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：白日升月 낮에 뜨는 달 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
+const aliData = [{name:"名称：007：幽灵党 (2015) 4K REMUX 内封中字",url:"https://www.aliyundrive.com/s/bfMQzqUK88A"},
+{name:"名称：白日升月 낮에 뜨는 달 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
 {name:"名称：93国际列车大劫案：莫斯科行动 (2023) 正式版",url:"https://www.aliyundrive.com/s/DYWDs5dEfd2"},
 {name:"名称：完美世界 4K 更138",url:"https://www.aliyundrive.com/s/VKKWTL6LP2T"},
 {name:"名称：挺住才有出路",url:"https://www.aliyundrive.com/s/dYLSmX3kfVD"},
