@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：夏日重现（夏日时光）-漫画（简繁日）",url:"https://www.aliyundrive.com/s/bC7um2yEFhC"},
+const aliData = [{name:"名称：葬送的芙莉莲 葬送のフリーレン (2023) 更11 豆瓣9.5",url:"https://www.aliyundrive.com/s/7GVrVCgZa1N"},
+{name:"名称：逆天邪神 4K高码 更新12集",url:"https://www.aliyundrive.com/s/n2rZTWmae5X"},
+{name:"名称：夏日重现（夏日时光）-漫画（简繁日）",url:"https://www.aliyundrive.com/s/bC7um2yEFhC"},
 {name:"名称：所有我们看不见的光 All the Light We Cannot See (2023)✨【1080p.SDR】【原轨.高码率】2.6G/集",url:"https://www.aliyundrive.com/s/sYsoyaGrAeU"},
 {name:"名称：情书 原盘 4K REMUX",url:"https://www.aliyundrive.com/s/Vyvaz3Jm7Jj"},
 {name:"名称：乐游原 (2023) 1080/4K 40集完结 超前点映 许凯/景甜",url:"https://www.aliyundrive.com/s/uSopiL3mvYL"},
