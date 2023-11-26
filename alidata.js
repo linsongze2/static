@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：完美婚姻的定式 완벽한 결혼의 정석 (2023)[更新至10集]",url:"https://www.aliyundrive.com/s/rsYnv29t7yP"},
+const aliData = [{name:"名称：僵尸叔叔 (1988) 4K",url:"https://www.aliyundrive.com/s/8FAWD5LxGxk"},
+{name:"名称：完美婚姻的定式 완벽한 결혼의 정석 (2023)[更新至10集]",url:"https://www.aliyundrive.com/s/rsYnv29t7yP"},
 {name:"名称：无人岛的Diva 무인도의 디바 (2023)[更新至10集]",url:"https://www.aliyundrive.com/s/2nXevC5tQMs"},
 {name:"名称：似火流年 (2023) 1080/4K 更21",url:"https://www.aliyundrive.com/s/zrULqTiWKeJ"},
 {name:"名称：石纪元.新石纪-漫画（简繁）",url:"https://www.aliyundrive.com/s/1pDokouM6Mw"},
