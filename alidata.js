@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：国家是怎样炼成的-三分钟通晓世界历史",url:"https://www.aliyundrive.com/s/n9LSM5N54pa"},
+const aliData = [{name:"名称：深度学习革命(一本现在进行时的人工智能发展史)",url:"https://www.aliyundrive.com/s/yz8AwY44tyS"},
+{name:"名称：国家是怎样炼成的-三分钟通晓世界历史",url:"https://www.aliyundrive.com/s/n9LSM5N54pa"},
 {name:"名称：元宇宙商业变革：国内外名企纷纷发力入局",url:"https://www.aliyundrive.com/s/vz41mGoBMqw"},
 {name:"名称：大力女子姜南顺 힘쎈여자 강남순 (2023)[更新至15集]",url:"https://www.aliyundrive.com/s/4qskndakiYh"},
 {name:"名称：七人的逃脱 7인의 탈출 (2023) 1080p 中文字幕 17集完结【悬疑韩剧】",url:"https://www.aliyundrive.com/s/3gTfhZSwAAg"},
