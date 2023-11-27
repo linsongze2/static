@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：婚礼大捷 혼례대첩 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
+const aliData = [{name:"名称：情商：全六册",url:"https://www.aliyundrive.com/s/kRQQNQfYrWA"},
+{name:"名称：婚礼大捷 혼례대첩 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
 {name:"名称：新闻女王 新聞女王 (2023) 4K60FPS 国粤双语 更新13集",url:"https://www.aliyundrive.com/s/oYDEuEmSWax"},
 {name:"名称：跟我说爱我 사랑한다고 말해줘 (2023)[首播第1集]",url:"https://www.aliyundrive.com/s/sC8vXDzQXmD"},
 {name:"名称：猎罪者 (2023) 4K HDR 12集完结",url:"https://www.aliyundrive.com/s/PRECJWQLBNa"},
