@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：猎罪者 4K高码（12集完结）",url:"https://www.aliyundrive.com/s/7G7FNEGgaC3"},
+const aliData = [{name:"名称：Mindhunter 心灵猎人 (2017) 两季全 [刮削]",url:"https://www.aliyundrive.com/s/yGReqSHPcCN"},
+{name:"名称：猎罪者 4K高码（12集完结）",url:"https://www.aliyundrive.com/s/7G7FNEGgaC3"},
 {name:"名称：仙逆 (2023) 4K 更12",url:"https://www.aliyundrive.com/s/eDsJR9KqPiB"},
 {name:"名称：三十六骑 (2023) 更9 持续更新",url:"https://www.aliyundrive.com/s/HQNdDsZq9nU"},
 {name:"名称：猜谜女士 (2023) 4K SDR 中字外挂字幕",url:"https://www.aliyundrive.com/s/QC8YtsetLpu"},
