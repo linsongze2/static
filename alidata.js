@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：鬼吹灯之南海归墟 (2023) 4K 持续更新",url:"https://www.aliyundrive.com/s/k14TfsAxPBz"},
+const aliData = [{name:"名称：辉夜大小姐想让我告白...漫画（简体哔漫版）",url:"https://www.aliyundrive.com/s/eiyPzCn7sLr"},
+{name:"名称：鬼吹灯之南海归墟 (2023) 4K 持续更新",url:"https://www.aliyundrive.com/s/k14TfsAxPBz"},
 {name:"名称：新闻女王 新聞女王 (2023) 1080/4K HDR 更13 持续更新",url:"https://www.aliyundrive.com/s/35sWsQQvWei"},
 {name:"名称：Mindhunter 心灵猎人 (2017) 两季全 [刮削]",url:"https://www.aliyundrive.com/s/yGReqSHPcCN"},
 {name:"名称：猎罪者 4K高码（12集完结）",url:"https://www.aliyundrive.com/s/7G7FNEGgaC3"},
