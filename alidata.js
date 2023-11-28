@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：讲谈社·兴亡的世界史（全九卷）",url:"https://www.aliyundrive.com/s/BDSoaTtpbQ9"},
+const aliData = [{name:"名称：毛泽东选集（毛选：静火+赤旗+草堂三合一版）",url:"https://www.aliyundrive.com/s/FpCSdf2hdig"},
+{name:"名称：讲谈社·兴亡的世界史（全九卷）",url:"https://www.aliyundrive.com/s/BDSoaTtpbQ9"},
 {name:"名称：肖花镇（上官海铃的焦虑）未删减版漫画",url:"https://www.aliyundrive.com/s/SgrAAro581S"},
 {name:"名称：炼气十万年 (2023) 更85",url:"https://www.aliyundrive.com/s/qkSUPxTJ7vm"},
 {name:"名称：吞噬星空 4K 更95",url:"https://www.aliyundrive.com/s/egQrnJcoitK"},
