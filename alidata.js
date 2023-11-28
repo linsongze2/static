@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：海贼王1085 内封字幕",url:"https://www.aliyundrive.com/s/urFRxBijdmW"},
+const aliData = [{name:"名称：新闻女王 新聞女王 (2023) 1080/4K HDR 更14 持续更新",url:"https://www.aliyundrive.com/s/SeX9ywYErXT"},
+{name:"名称：海贼王1085 内封字幕",url:"https://www.aliyundrive.com/s/urFRxBijdmW"},
 {name:"名称：鬼吹灯之南海归墟 (2023) 4K 更4 持续更新",url:"https://www.aliyundrive.com/s/dZoWRZgjbXH"},
 {name:"名称：毛泽东选集（毛选：静火+赤旗+草堂三合一版）",url:"https://www.aliyundrive.com/s/FpCSdf2hdig"},
 {name:"名称：讲谈社·兴亡的世界史（全九卷）",url:"https://www.aliyundrive.com/s/BDSoaTtpbQ9"},
