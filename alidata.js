@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：跟我说爱我 사랑한다고 말해줘 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/sC8vXDzQXmD"},
+const aliData = [{name:"名称：婚礼大捷 혼례대첩 (2023)[更新至09集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
+{name:"名称：跟我说爱我 사랑한다고 말해줘 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/sC8vXDzQXmD"},
 {name:"名称：一念关山 (2023) 首更6 刘诗诗/刘宇宁/何蓝逗",url:"https://www.aliyundrive.com/s/Cavp633SdXp"},
 {name:"名称：地球脉动 Planet Earth (2006) 三季全✨【2160p.HDR】【附国配版】在更E06",url:"https://www.aliyundrive.com/s/RytL4sQpUad"},
 {name:"名称：新闻女王 新聞女王 (2023) 1080/4K HDR 更14 持续更新",url:"https://www.aliyundrive.com/s/SeX9ywYErXT"},
