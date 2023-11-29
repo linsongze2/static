@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：好兆头 Good Omens (2019) 两季全✨【2160p.HDR】5.6/集",url:"https://www.aliyundrive.com/s/ZLVNmLZC5W6"},
+const aliData = [{name:"名称：今天也很可爱的狗 오늘도 사랑스럽개 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/n6rCTpWuibr"},
+{name:"名称：好兆头 Good Omens (2019) 两季全✨【2160p.HDR】5.6/集",url:"https://www.aliyundrive.com/s/ZLVNmLZC5W6"},
 {name:"名称：名侦探柯南：黑铁的鱼影 名探偵コナン 黒鉄の魚影 (2023) REMUX",url:"https://www.aliyundrive.com/s/6t1dC9wWm2s"},
 {name:"名称：夺宝奇兵5：命运转盘 4K原盘REMUX [HDR] [内封简英双字]",url:"https://www.aliyundrive.com/s/uFr6Yv7vem8"},
 {name:"名称：泰坦尼克号 4K原盘REMUX [杜比视界] [国英双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/cy4PX2CsZU5"},
