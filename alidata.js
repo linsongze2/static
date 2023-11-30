@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：猎魔人 (2019) 三季全✨【2160p.HDR】【1080p.SDR】【原轨.高码率】6.8/集",url:"https://www.aliyundrive.com/s/xnjPonGk3uN"},
+const aliData = [{name:"名称：白日升月 낮에 뜨는 달 (2023)[更新至10集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
+{name:"名称：猎魔人 (2019) 三季全✨【2160p.HDR】【1080p.SDR】【原轨.高码率】6.8/集",url:"https://www.aliyundrive.com/s/xnjPonGk3uN"},
 {name:"名称：目中无人 蓝光原盘REMUX [内封简英双字]",url:"https://www.aliyundrive.com/s/3iyQ4ZYpnXv"},
 {name:"名称：白头神探 4K原盘REMUX [杜比视界] [国英双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/cJHWwbg5GzA"},
 {name:"名称：排球少年漫画（简繁日，部分阿里首发）+番剧整合（全四季）",url:"https://www.aliyundrive.com/s/gaSDvsU6dXu"},
