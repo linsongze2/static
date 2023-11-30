@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：中国惊奇先生·极道仙师 (2023) 4K",url:"https://www.aliyundrive.com/s/9mqfvqxonk8"},
+const aliData = [{name:"名称：热辣奇多的诞生 Flamin Hot (2023)",url:"https://www.aliyundrive.com/s/Y6ZBcJhav9T"},
+{name:"名称：中国惊奇先生·极道仙师 (2023) 4K",url:"https://www.aliyundrive.com/s/9mqfvqxonk8"},
 {name:"名称：「加菲猫的幸福生活，大食懒加菲猫(港)」",url:"https://www.aliyundrive.com/s/Y43HJxVhHCx"},
 {name:"名称：似火流年(2023) 4K 硬字幕 更新至24集",url:"https://www.aliyundrive.com/s/Bo6G4CShZ19"},
 {name:"名称：海贼王/One Piece 更至1085集",url:"https://www.aliyundrive.com/s/XDBCqsEBQRc"},
