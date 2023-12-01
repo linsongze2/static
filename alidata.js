@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：自控力经典套装三册",url:"https://www.aliyundrive.com/s/fxvkkCDvSUu"},
+const aliData = [{name:"名称：与恶魔有约 마이데몬 (2023) [更新至03集]",url:"https://www.aliyundrive.com/s/3c6yf1J3G8K"},
+{name:"名称：自控力经典套装三册",url:"https://www.aliyundrive.com/s/fxvkkCDvSUu"},
 {name:"名称：《富爸爸的财富花园：普通人积累财富最值得收藏的传家之书》",url:"https://www.aliyundrive.com/s/7V8dwonuw49"},
 {name:"名称：甜蜜家园2 스위트홈2 (2023)[全8集]",url:"https://www.aliyundrive.com/s/fTFb4uhicDE"},
 {name:"名称：我的男人是丘比特 내 남자는 큐피드 (2023)[首播第1集]",url:"https://www.aliyundrive.com/s/8KV2iG6cosL"},
