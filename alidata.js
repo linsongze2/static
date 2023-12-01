@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：甜蜜家园2 스위트홈2 (2023)[全8集]",url:"https://www.aliyundrive.com/s/fTFb4uhicDE"},
+const aliData = [{name:"名称：自控力经典套装三册",url:"https://www.aliyundrive.com/s/fxvkkCDvSUu"},
+{name:"名称：《富爸爸的财富花园：普通人积累财富最值得收藏的传家之书》",url:"https://www.aliyundrive.com/s/7V8dwonuw49"},
+{name:"名称：甜蜜家园2 스위트홈2 (2023)[全8集]",url:"https://www.aliyundrive.com/s/fTFb4uhicDE"},
 {name:"名称：我的男人是丘比特 내 남자는 큐피드 (2023)[首播第1集]",url:"https://www.aliyundrive.com/s/8KV2iG6cosL"},
 {name:"名称：火星情报局 (2016) 第六季 更新中 1080P 内嵌中字",url:"https://www.aliyundrive.com/s/RUVZSyGxyuQ"},
 {name:"名称：咒术回战 第二季 4K 内封字幕",url:"https://www.aliyundrive.com/s/eSKhKjdj5sn"},
