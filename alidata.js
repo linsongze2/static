@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：碟中谍 (系列)✨【2160p.HDR】【蓝光原盘】【补档】",url:"https://www.aliyundrive.com/s/BUAnnhUzSkv"},
+const aliData = [{name:"名称：咒术回战 第二季 4K 内封字幕",url:"https://www.aliyundrive.com/s/eSKhKjdj5sn"},
+{name:"名称：碟中谍 (系列)✨【2160p.HDR】【蓝光原盘】【补档】",url:"https://www.aliyundrive.com/s/BUAnnhUzSkv"},
 {name:"名称：一念关山 (2023) 1080/4K 更12 刘诗诗/刘宇宁/何蓝逗",url:"https://www.aliyundrive.com/s/nsByJkbsV7W"},
 {name:"名称：志愿军：雄兵出击 (2023) 1080/4K 正式版",url:"https://www.aliyundrive.com/s/9YZ1rH3FvFf"},
 {name:"名称：新闻女王 新聞女王 (2023) 1080/4K HDR 更16 持续更新",url:"https://www.aliyundrive.com/s/S3Lw78Td22y"},
