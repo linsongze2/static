@@ -1,4 +1,7 @@
-const aliData = [{name:"名称：烈女朴氏契约结婚传 열녀박씨 계약결혼뎐 (2023)[更新至04集]",url:"https://www.aliyundrive.com/s/YKgAWdjgC8W"},
+const aliData = [{name:"名称：奥本海默 Oppenheimer (2023)✨【2160p.HDR.IMAX】【1080p.SDR】【蓝光原盘】74G",url:"https://www.aliyundrive.com/s/6H1DP84NLTU"},
+{name:"名称：疾速反击 (2023)✨【2160p.SDR】【原轨.高码率】12G【补档】",url:"https://www.aliyundrive.com/s/SgVJsAekvfJ"},
+{name:"名称：黑暗荣耀 더 글로리 (2022) 两季全✨【2160p.杜比视界】【2160p.HDR】",url:"https://www.aliyundrive.com/s/g1zbHrrz7D1"},
+{name:"名称：烈女朴氏契约结婚传 열녀박씨 계약결혼뎐 (2023)[更新至04集]",url:"https://www.aliyundrive.com/s/YKgAWdjgC8W"},
 {name:"名称：欢迎回到三达里 웰컴투 삼달리 (2023)[首播第1集]",url:"https://www.aliyundrive.com/s/aPSYXC4ccAf"},
 {name:"名称：与恶魔有约 마이데몬 (2023) [更新至04集]",url:"https://www.aliyundrive.com/s/3c6yf1J3G8K"},
 {name:"名称：无人岛的Diva 무인도의 디바 (2023)[更新至11集]",url:"https://www.aliyundrive.com/s/2nXevC5tQMs"},
