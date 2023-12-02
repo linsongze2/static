@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
+const aliData = [{name:"名称：亨利·休格的神奇故事 (2023) 4K WEB-DL DV 内封中字",url:"https://www.aliyundrive.com/s/BK4ohrhc1PM"},
+{name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
 {name:"名称：海妖的呼唤：火之岛生存战 (2023) 全集 1080P WEB-DL 内封中字",url:"https://www.aliyundrive.com/s/nzyVrcqwiGJ"},
 {name:"名称：似火流年(2023) 4K 硬字幕 更新至26集",url:"https://www.aliyundrive.com/s/Bo6G4CShZ19"},
 {name:"名称：守护解放西(2019) 4K 1-3季全 S04-06集 ASS为弹幕文件",url:"https://www.aliyundrive.com/s/Lc9HyLpLW46"},
