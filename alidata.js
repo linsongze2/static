@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：我的男人是丘比特 내 남자는 큐피드 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/8KV2iG6cosL"},
+const aliData = [{name:"名称：名侦探柯南：黑铁的鱼影 名探偵コナン 黒鉄の魚影 (2023) REMUX",url:"https://www.aliyundrive.com/s/g91yqERPrcH"},
+{name:"名称：我的男人是丘比特 내 남자는 큐피드 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/8KV2iG6cosL"},
 {name:"名称：鬼吹灯之南海归墟 (2023) 1080/4K 更8 持续更新",url:"https://www.aliyundrive.com/s/pDpwoKiBf3n"},
 {name:"名称：一念关山 (2023) 1080/4K HDR 更14 刘诗诗/刘宇宁/何蓝逗",url:"https://www.aliyundrive.com/s/25CPv2rxs8w"},
 {name:"名称：鬼吹灯之南海归墟 (2023) 1080/4K 更8 持续更新",url:"https://www.aliyundrive.com/s/pDpwoKiBf3n"},
