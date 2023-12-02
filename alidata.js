@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：旺达幻视 第1季 4K原盘REMUX [HDR] [内封简英双字]",url:"https://www.aliyundrive.com/s/3nvPdehoqmp"},
+const aliData = [{name:"名称：珀尔 4K原盘REMUX [杜比视界] [内封简英双字]",url:"https://www.aliyundrive.com/s/yTbGKY7uaTd"},
+{name:"名称：旺达幻视 第1季 4K原盘REMUX [HDR] [内封简英双字]",url:"https://www.aliyundrive.com/s/3nvPdehoqmp"},
 {name:"名称：名侦探柯南：黑铁的鱼影 名探偵コナン 黒鉄の魚影 (2023) REMUX",url:"https://www.aliyundrive.com/s/g91yqERPrcH"},
 {name:"名称：我的男人是丘比特 내 남자는 큐피드 (2023)[更新至02集]",url:"https://www.aliyundrive.com/s/8KV2iG6cosL"},
 {name:"名称：鬼吹灯之南海归墟 (2023) 1080/4K 更8 持续更新",url:"https://www.aliyundrive.com/s/pDpwoKiBf3n"},
