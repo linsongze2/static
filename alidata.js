@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：亨利·休格的神奇故事 (2023) 4K WEB-DL DV 内封中字",url:"https://www.aliyundrive.com/s/BK4ohrhc1PM"},
+const aliData = [{name:"名称：志愿军：雄兵出击 (2023)✨【2160p.60fps】【1080p.高码率】25.3G",url:"https://www.aliyundrive.com/s/PHvyh7FchEN"},
+{name:"名称：亨利·休格的神奇故事 (2023) 4K WEB-DL DV 内封中字",url:"https://www.aliyundrive.com/s/BK4ohrhc1PM"},
 {name:"名称：种豆得豆 콩콩팥팥 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
 {name:"名称：海妖的呼唤：火之岛生存战 (2023) 全集 1080P WEB-DL 内封中字",url:"https://www.aliyundrive.com/s/nzyVrcqwiGJ"},
 {name:"名称：似火流年(2023) 4K 硬字幕 更新至26集",url:"https://www.aliyundrive.com/s/Bo6G4CShZ19"},
