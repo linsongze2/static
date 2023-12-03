@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：鬼水怪谈 4K原盘REMUX [杜比视界] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/anh9FtzS41M"},
+const aliData = [{name:"名称：经史百家杂钞套装共8册 （ 全本全注全译 ）",url:"https://www.aliyundrive.com/s/JwxRPBQHiUP"},
+{name:"名称：鬼水怪谈 4K原盘REMUX [杜比视界] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/anh9FtzS41M"},
 {name:"名称：坎大哈 4K原盘REMUX [HDR] [内封简英双字]",url:"https://www.aliyundrive.com/s/8yQuYw6Fivd"},
 {name:"名称：一念关山 (2023) 1080/4K HDR 更16 刘诗诗/刘宇宁/何蓝逗",url:"https://www.aliyundrive.com/s/jQCDzFhiCMM"},
 {name:"名称：鬼吹灯之南海归墟 (2023) 1080/4K 更9 持续更新",url:"https://www.aliyundrive.com/s/r5hpBUvnjkE"},
