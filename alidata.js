@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：奥本海默 Oppenheimer (2023)✨【2160p.HDR.IMAX】【1080p.SDR】【蓝光原盘】74G",url:"https://www.aliyundrive.com/s/6H1DP84NLTU"},
+const aliData = [{name:"名称：名侦探柯南/名探偵コナン 更至1105集即1163",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
+{name:"名称：奥本海默 Oppenheimer (2023)✨【2160p.HDR.IMAX】【1080p.SDR】【蓝光原盘】74G",url:"https://www.aliyundrive.com/s/6H1DP84NLTU"},
 {name:"名称：疾速反击 (2023)✨【2160p.SDR】【原轨.高码率】12G【补档】",url:"https://www.aliyundrive.com/s/SgVJsAekvfJ"},
 {name:"名称：黑暗荣耀 더 글로리 (2022) 两季全✨【2160p.杜比视界】【2160p.HDR】",url:"https://www.aliyundrive.com/s/g1zbHrrz7D1"},
 {name:"名称：烈女朴氏契约结婚传 열녀박씨 계약결혼뎐 (2023)[更新至04集]",url:"https://www.aliyundrive.com/s/YKgAWdjgC8W"},
