@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：三傻大闹宝莱坞(2009)REMUX 内封中字",url:"https://www.aliyundrive.com/s/zUmnkrbfhvo"},
+const aliData = [{name:"名称：海贼王",url:"https://www.aliyundrive.com/s/urFRxBijdmW"},
+{name:"名称：三傻大闹宝莱坞(2009)REMUX 内封中字",url:"https://www.aliyundrive.com/s/zUmnkrbfhvo"},
 {name:"名称：双宝斗恶魔(2010) 1080P REMUX 外挂中字",url:"https://www.aliyundrive.com/s/uW86MGeWRHP"},
 {name:"名称：嫌疑人(2013) 1080P REMUX 内封中字",url:"https://www.aliyundrive.com/s/GPzvjxfzL3G"},
 {name:"名称：似火流年(2023) 4K 硬字幕 更新至28集",url:"https://www.aliyundrive.com/s/Bo6G4CShZ19"},
