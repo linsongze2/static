@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：拾荒者统治 (2023) 全集 1080P 内封中字",url:"https://www.aliyundrive.com/s/NVEr174kMmg"},
+const aliData = [{name:"名称：新闻女王 新聞女王 (2023) 1080/4K HDR 更18 持续更新",url:"https://www.aliyundrive.com/s/WEGamET6xez"},
+{name:"名称：拾荒者统治 (2023) 全集 1080P 内封中字",url:"https://www.aliyundrive.com/s/NVEr174kMmg"},
 {name:"名称：鬼吹灯之南海归墟 (2023) 4K臻彩视界&amp;4K杜比视界 更新10集",url:"https://www.aliyundrive.com/s/JbV57QmcrRU"},
 {name:"名称：鬼吹灯之南海归墟 (2023) 1080/4K HDR 更10 持续更新",url:"https://www.aliyundrive.com/s/drG4TWiEHP2"},
 {name:"名称：海贼王",url:"https://www.aliyundrive.com/s/urFRxBijdmW"},
