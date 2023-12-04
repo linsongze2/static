@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：无人岛的Diva (2023) 1080p NF DDP2.0 内封多国语 S01完结【热播韩剧】【刮削】",url:"https://www.aliyundrive.com/s/kF1TAdtHaFg"},
+const aliData = [{name:"名称：婚礼大捷 혼례대첩 (2023)[更新至10集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
+{name:"名称：无人岛的Diva (2023) 1080p NF DDP2.0 内封多国语 S01完结【热播韩剧】【刮削】",url:"https://www.aliyundrive.com/s/kF1TAdtHaFg"},
 {name:"名称：跟我说爱我 사랑한다고 말해줘 (2023)[更新至03集]",url:"https://www.aliyundrive.com/s/sC8vXDzQXmD"},
 {name:"名称：一念关山 (2023) 1080/4K HDR 更18 刘诗诗/刘宇宁/何蓝逗",url:"https://www.aliyundrive.com/s/9DhWDZD6Hnk"},
 {name:"名称：一念关山 4K.HDR.60FPS.DDP5.1 更新18集",url:"https://www.aliyundrive.com/s/BC6REfyYD3q"},
