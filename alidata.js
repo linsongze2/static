@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：跟我说爱我 사랑한다고 말해줘 (2023)[更新至04集]",url:"https://www.aliyundrive.com/s/sC8vXDzQXmD"},
+const aliData = [{name:"名称：婚礼大捷 혼례대첩 (2023)[更新至11集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
+{name:"名称：跟我说爱我 사랑한다고 말해줘 (2023)[更新至04集]",url:"https://www.aliyundrive.com/s/sC8vXDzQXmD"},
 {name:"名称：似火流年(2023) 4K 硬字幕 更新至29集",url:"https://www.aliyundrive.com/s/Bo6G4CShZ19"},
 {name:"名称：想谈一场韩剧般的恋爱 韓国ドラマな恋がしたい (2023)[更新至07集]",url:"https://www.aliyundrive.com/s/p9DR8CSaHxC"},
 {name:"名称：鬼吹灯之南海归墟 (2023) 4K臻彩视界&amp;4K杜比视界 更新11集",url:"https://www.aliyundrive.com/s/16QrkNHgqsn"},
