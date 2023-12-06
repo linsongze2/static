@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：鹿鼎记 蓝光原盘REMUX [高码英版 官方画质修复] [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/3wt81pQrsgr"},
+const aliData = [{name:"名称：给爸爸的信 蓝光原盘REMUX [高码英版 官方画质修复] [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/CL6bN2wu5SM"},
+{name:"名称：鹿鼎记 蓝光原盘REMUX [高码英版 官方画质修复] [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/3wt81pQrsgr"},
 {name:"名称：今天也很可爱的狗 오늘도 사랑스럽개 (2023)[更新至09集]",url:"https://www.aliyundrive.com/s/n6rCTpWuibr"},
 {name:"名称：鹿鼎记2：神龙教 蓝光原盘REMUX [高码英版 官方画质修复] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/tzyXBM9q31K"},
 {name:"名称：地球脉动 Planet Earth (2006) 三季全✨【2160p.HDR】【附国配版】在更E07【补档】",url:"https://www.aliyundrive.com/s/C6hZFikMWaK"},
