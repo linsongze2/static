@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：地球脉动 Planet Earth (2006) 三季全✨【2160p.HDR】【附国配版】在更E07",url:"https://www.aliyundrive.com/s/UBNuU33XJJH"},
+const aliData = [{name:"名称：无人岛的Diva 무인도의 디바 (2023) 1080p NF 内封多国语 12集完结",url:"https://www.aliyundrive.com/s/4b2Sv4gLkTL"},
+{name:"名称：地球脉动 Planet Earth (2006) 三季全✨【2160p.HDR】【附国配版】在更E07",url:"https://www.aliyundrive.com/s/UBNuU33XJJH"},
 {name:"名称：一念关山 (2023)✨【2160p.HDR】【原轨.高码率】4.5G/集 更E18【补档速存】",url:"https://www.aliyundrive.com/s/hLxchNgka88"},
 {name:"名称：婚礼大捷 혼례대첩 (2023)[更新至11集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
 {name:"名称：跟我说爱我 사랑한다고 말해줘 (2023)[更新至04集]",url:"https://www.aliyundrive.com/s/sC8vXDzQXmD"},
