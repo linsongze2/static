@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：白日升月 낮에 뜨는 달 (2023)[更新至11集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
+const aliData = [{name:"名称：世界尽头的一场谋杀(2023) 4K 内封中字 S1 -E05",url:"https://www.aliyundrive.com/s/fwD4Ajxf83W"},
+{name:"名称：白日升月 낮에 뜨는 달 (2023)[更新至11集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
 {name:"名称：逃学威龙3之龙过鸡年 蓝光原盘REMUX [高码英版] [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/SkR9nQon5gK"},
 {name:"名称：头文字D 蓝光原盘REMUX [高码法版] [国粤双语] [内封简、繁中字]",url:"https://www.aliyundrive.com/s/Q8Skk9GYsWD"},
 {name:"名称：给爸爸的信 蓝光原盘REMUX [高码英版 官方画质修复] [国粤双语] [内封简英双字]",url:"https://www.aliyundrive.com/s/CL6bN2wu5SM"},
