@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：沧元图 4K高码 更新26集完结",url:"https://www.aliyundrive.com/s/FFsKpKKrgMF"},
+const aliData = [{name:"名称：白日升月 낮에 뜨는 달 (2023)[更新至12集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
+{name:"名称：沧元图 4K高码 更新26集完结",url:"https://www.aliyundrive.com/s/FFsKpKKrgMF"},
 {name:"名称：海贼王/One Piece 更至1086集",url:"https://www.aliyundrive.com/s/XDBCqsEBQRc"},
 {name:"名称：世界尽头的一场谋杀(2023) 4K 内封中字 S1 -E05",url:"https://www.aliyundrive.com/s/fwD4Ajxf83W"},
 {name:"名称：白日升月 낮에 뜨는 달 (2023)[更新至11集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
