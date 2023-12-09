@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：新闻女王 新聞女王 (2023) 1080/4K HDR 26集完结",url:"https://www.aliyundrive.com/s/inbKFoQUiHP"},
+const aliData = [{name:"名称：与恶魔有约 마이데몬 (2023) [更新至06集]",url:"https://www.aliyundrive.com/s/3c6yf1J3G8K"},
+{name:"名称：新闻女王 新聞女王 (2023) 1080/4K HDR 26集完结",url:"https://www.aliyundrive.com/s/inbKFoQUiHP"},
 {name:"名称：逆天邪神 4K高码 更新14集",url:"https://www.aliyundrive.com/s/C4dL14V95bm"},
 {name:"名称：一念关山 4K.HDR.60FPS.DDP5.1 更新24集",url:"https://www.aliyundrive.com/s/uaqXAzSmtnL"},
 {name:"名称：我的男人是丘比特 내 남자는 큐피드 (2023)[更新至04集]",url:"https://www.aliyundrive.com/s/8KV2iG6cosL"},
