@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：种豆得豆 콩콩팥팥 (2023)[全9集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
+const aliData = [{name:"名称：凡人修仙传 新年番 (2023) 4K 更79",url:"https://www.aliyundrive.com/s/DSXF7VxyyS9"},
+{name:"名称：种豆得豆 콩콩팥팥 (2023)[全9集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
 {name:"名称：运气好的日子 운수 오진 날 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/M9H6PSXNcyY"},
 {name:"名称：逆天邪神 逆天邪神3D (2023) 1080/4K 更14",url:"https://www.aliyundrive.com/s/rCSpQiqV41N"},
 {name:"名称：烈女朴氏契约结婚传 열녀박씨 계약결혼뎐 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/YKgAWdjgC8W"},
