@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：逆天邪神 逆天邪神3D (2023) 1080/4K 更14",url:"https://www.aliyundrive.com/s/rCSpQiqV41N"},
+const aliData = [{name:"名称：运气好的日子 운수 오진 날 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/M9H6PSXNcyY"},
+{name:"名称：逆天邪神 逆天邪神3D (2023) 1080/4K 更14",url:"https://www.aliyundrive.com/s/rCSpQiqV41N"},
 {name:"名称：烈女朴氏契约结婚传 열녀박씨 계약결혼뎐 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/YKgAWdjgC8W"},
 {name:"名称：与恶魔有约 마이데몬 (2023) [更新至05集]",url:"https://www.aliyundrive.com/s/3c6yf1J3G8K"},
 {name:"名称：葬送的芙莉莲 葬送のフリーレン (2023) 更14",url:"https://www.aliyundrive.com/s/Z3WvjTBGUwU"},
