@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：凡人修仙传 新年番 (2023) 4K 更79",url:"https://www.aliyundrive.com/s/DSXF7VxyyS9"},
+const aliData = [{name:"名称：我的男人是丘比特 내 남자는 큐피드 (2023)[更新至04集]",url:"https://www.aliyundrive.com/s/8KV2iG6cosL"},
+{name:"名称：凡人修仙传 新年番 (2023) 4K 更79",url:"https://www.aliyundrive.com/s/DSXF7VxyyS9"},
 {name:"名称：种豆得豆 콩콩팥팥 (2023)[全9集]",url:"https://www.aliyundrive.com/s/hcfdSaDU2tm"},
 {name:"名称：运气好的日子 운수 오진 날 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/M9H6PSXNcyY"},
 {name:"名称：逆天邪神 逆天邪神3D (2023) 1080/4K 更14",url:"https://www.aliyundrive.com/s/rCSpQiqV41N"},
