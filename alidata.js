@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：葬送的芙莉莲 葬送のフリーレン (2023) 更14",url:"https://www.aliyundrive.com/s/Z3WvjTBGUwU"},
+const aliData = [{name:"名称：与恶魔有约 마이데몬 (2023) [更新至05集]",url:"https://www.aliyundrive.com/s/3c6yf1J3G8K"},
+{name:"名称：葬送的芙莉莲 葬送のフリーレン (2023) 更14",url:"https://www.aliyundrive.com/s/Z3WvjTBGUwU"},
 {name:"名称：似火流年(2023) 4K S01全 双版本",url:"https://www.aliyundrive.com/s/Bo6G4CShZ19"},
 {name:"名称：一念关山 (2023)✨【2160p.HDR】【原轨.高码率】4.5G/集 在更E22",url:"https://www.aliyundrive.com/s/shvydzGUse3"},
 {name:"名称：少年时代 소년시대 (2023)[更新至06集]",url:"https://www.aliyundrive.com/s/hZbGce4swaP"},
