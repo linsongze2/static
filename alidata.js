@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：欢迎回到三达里 웰컴투 삼달리 (2023)[更新至03集]",url:"https://www.aliyundrive.com/s/aPSYXC4ccAf"},
+const aliData = [{name:"名称：运气好的日子 운수 오진 날 (2023)[全10集]",url:"https://www.aliyundrive.com/s/M9H6PSXNcyY"},
+{name:"名称：欢迎回到三达里 웰컴투 삼달리 (2023)[更新至03集]",url:"https://www.aliyundrive.com/s/aPSYXC4ccAf"},
 {name:"名称：名侦探柯南/名探偵コナン 更至1106集即1164",url:"https://www.aliyundrive.com/s/M3V5U6UB9xX"},
 {name:"名称：烈女朴氏契约结婚传 열녀박씨 계약결혼뎐 (2023)[更新至06集]",url:"https://www.aliyundrive.com/s/YKgAWdjgC8W"},
 {name:"名称：与恶魔有约 마이데몬 (2023) [更新至06集]",url:"https://www.aliyundrive.com/s/3c6yf1J3G8K"},
