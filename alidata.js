@@ -1,4 +1,6 @@
-const aliData = [{name:"名称：霸主 (2018) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/1iSquk1Z5EM"},
+const aliData = [{name:"名称：跟我说爱我 사랑한다고 말해줘 (2023)[更新至05集]",url:"https://www.aliyundrive.com/s/sC8vXDzQXmD"},
+{name:"名称：婚礼大捷 혼례대첩 (2023)[更新至12集]",url:"https://www.aliyundrive.com/s/8xfkh47DJPd"},
+{name:"名称：霸主 (2018) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/1iSquk1Z5EM"},
 {name:"名称：鸣龙少年 (2023) 1080/4K 更4 张若昀/黄尧",url:"https://www.aliyundrive.com/s/YaqM8oNNzie"},
 {name:"名称：神隐 (2023) 4K杜比 首发4集",url:"https://www.aliyundrive.com/s/tPHfw2T9PE1"},
 {name:"名称：神隐 (2023) 首更4 赵露思/王安宇/颖儿",url:"https://www.aliyundrive.com/s/MFSt3YDD6U3"},
