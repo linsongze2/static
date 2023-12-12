@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：神隐 (2023) 1080/4K 更6 赵露思/王安宇/颖儿",url:"https://www.aliyundrive.com/s/MFSt3YDD6U3"},
+const aliData = [{name:"名称：神隐 (2023) 4K杜比 更新06集",url:"https://www.aliyundrive.com/s/mFyMwsY7eU5"},
+{name:"名称：神隐 (2023) 1080/4K 更6 赵露思/王安宇/颖儿",url:"https://www.aliyundrive.com/s/MFSt3YDD6U3"},
 {name:"名称：八四年夏天 (2018) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/vbDnsa6M3Pj"},
 {name:"名称：疤面煞星 (1983) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/XPsvYw43rB7"},
 {name:"名称：夜幕降临 밤이 되었습니다 (2023)[更新至06集]",url:"https://www.aliyundrive.com/s/9gsh4xrocoM"},
