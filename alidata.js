@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：鸣龙少年 4K60FPS 更新05集",url:"https://www.aliyundrive.com/s/qfH2CP6GrHR"},
+const aliData = [{name:"名称：鸣龙少年 (2023) 1080/4K 更5 张若昀/黄尧",url:"https://www.aliyundrive.com/s/GNeBqVpdR3K"},
+{name:"名称：鸣龙少年 4K60FPS 更新05集",url:"https://www.aliyundrive.com/s/qfH2CP6GrHR"},
 {name:"名称：神隐 (2023) 4K杜比 更新06集",url:"https://www.aliyundrive.com/s/mFyMwsY7eU5"},
 {name:"名称：神隐 (2023) 1080/4K 更6 赵露思/王安宇/颖儿",url:"https://www.aliyundrive.com/s/MFSt3YDD6U3"},
 {name:"名称：八四年夏天 (2018) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/vbDnsa6M3Pj"},
