@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：金色茧房 Bên Trong Vỏ Kén Vàng (2023) 中字",url:"https://www.aliyundrive.com/s/NhwHjhGr46P"},
+const aliData = [{name:"名称：好像也没那么热血沸腾 4KHDR60FPS&amp;4KHQ60FPS&amp;4KDOLBY",url:"https://www.aliyundrive.com/s/D8cXM82tvP8"},
+{name:"名称：金色茧房 Bên Trong Vỏ Kén Vàng (2023) 中字",url:"https://www.aliyundrive.com/s/NhwHjhGr46P"},
 {name:"名称：暗夜之女 (1971) 4K REMUX 外挂中字",url:"https://www.aliyundrive.com/s/MoXV8EES7ta"},
 {name:"名称：想谈一场韩剧般的恋爱 韓国ドラマな恋がしたい (2023)[更新至09集]",url:"https://www.aliyundrive.com/s/p9DR8CSaHxC"},
 {name:"名称：少年歌行 海外仙山篇 [2023] 4K 更新09",url:"https://www.aliyundrive.com/s/zWCsa1Ffowr"},
