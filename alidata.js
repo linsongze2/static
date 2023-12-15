@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：白日升月 낮에 뜨는 달 (2023)[全14集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
+const aliData = [{name:"名称：咒术回战 第二季 呪術廻戦 2 (2023) 1080/4K 持续更新",url:"https://www.aliyundrive.com/s/ckTpBPosrwD"},
+{name:"名称：白日升月 낮에 뜨는 달 (2023)[全14集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
 {name:"名称：鸣龙少年 (2023) 1080/4K 更7 张若昀/黄尧",url:"https://www.aliyundrive.com/s/G1RB9coUpz9"},
 {name:"名称：一念关山 (2023) 1080/4K 更28 刘诗诗/刘宇宁/何蓝逗",url:"https://www.aliyundrive.com/s/6fTNDVZ5f3i"},
 {name:"名称：神隐 (2023) 1080/4K 更10 赵露思/王安宇/颖儿",url:"https://www.aliyundrive.com/s/hAYsjEbARjt"},
