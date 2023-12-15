@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：完美世界 4K 更141",url:"https://www.aliyundrive.com/s/RMPF8MGDzps"},
+const aliData = [{name:"名称：帝王计划：怪兽遗产 Monarch： Legacy of Monsters (2023) 1080/4K 更6",url:"https://www.aliyundrive.com/s/SXppkPmw8LF"},
+{name:"名称：完美世界 4K 更141",url:"https://www.aliyundrive.com/s/RMPF8MGDzps"},
 {name:"名称：百炼成神2 更55",url:"https://www.aliyundrive.com/s/qyL4eEJusx9"},
 {name:"名称：咒术回战 第二季 呪術廻戦 2 (2023) 1080/4K 持续更新",url:"https://www.aliyundrive.com/s/ckTpBPosrwD"},
 {name:"名称：白日升月 낮에 뜨는 달 (2023)[全14集]",url:"https://www.aliyundrive.com/s/eTArL6s7BxB"},
