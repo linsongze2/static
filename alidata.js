@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：斗罗大陆2：绝世唐门 (2023) 4K 更27",url:"https://www.aliyundrive.com/s/DzTudz9L7s8"},
+const aliData = [{name:"名称：凡人修仙传 新年番 (2023) 4K 更80",url:"https://www.aliyundrive.com/s/WZDHDn88VSQ"},
+{name:"名称：斗罗大陆2：绝世唐门 (2023) 4K 更27",url:"https://www.aliyundrive.com/s/DzTudz9L7s8"},
 {name:"名称：地球脉动 第三季 Planet Earth Season 3 (2023) 4K 8集完结 中英字幕",url:"https://www.aliyundrive.com/s/WZZvFWXvdxm"},
 {name:"名称：帝王计划：怪兽遗产(2023)4K HDR S01—E06",url:"https://www.aliyundrive.com/s/QzhUx11vGz6"},
 {name:"名称：咒术回战 第二季 4K 内封字幕",url:"https://www.aliyundrive.com/s/eSKhKjdj5sn"},
