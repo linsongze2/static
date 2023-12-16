@@ -1,4 +1,5 @@
-const aliData = [{name:"名称：与恶魔有约 마이데몬 (2023) [更新至08集]",url:"https://www.aliyundrive.com/s/3c6yf1J3G8K"},
+const aliData = [{name:"名称：烈女朴氏契约结婚传 열녀박씨 계약결혼뎐 (2023)[更新至08集]",url:"https://www.aliyundrive.com/s/YKgAWdjgC8W"},
+{name:"名称：与恶魔有约 마이데몬 (2023) [更新至08集]",url:"https://www.aliyundrive.com/s/3c6yf1J3G8K"},
 {name:"名称：大指挥家: 弦上的真相 마에스트라 (2023)[更新至03集]",url:"https://www.aliyundrive.com/s/jKFUZhWafx4"},
 {name:"名称：死期将至 이재, 곧 죽습니다 (2023)[首播第1-4集]",url:"https://www.aliyundrive.com/s/FFETHy3g5MY"},
 {name:"名称：左耳 (2023) 电视剧版 36集完结+左耳 (2015) 电影版",url:"https://www.aliyundrive.com/s/uZSyqtqfuqC"},
